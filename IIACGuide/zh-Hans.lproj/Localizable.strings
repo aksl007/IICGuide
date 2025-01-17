@@ -1,0 +1,1984 @@
+
+"com.crashlytics.useFirebaseAppId" = "true";
+ 
+"app_name" = "仁川机场";
+
+/* home */
+"home_real_time_info" = "实时机场信息";
+"home_bottom_menu_1" = "菜单按钮";
+"home_bottom_menu_2" = "Home";
+"home_bottom_menu_3" = "我的日程";
+"home_bottom_menu_4" = "收藏";
+
+"home_drag_menu_1" = "航班";
+"home_drag_menu_2" = "实时信息";
+"home_drag_menu_3" = "停车指南";
+"home_drag_menu_4" = "转机指南";
+"home_drag_menu_5" = "公共交通";
+"home_drag_menu_6" = "确认行李";
+"home_drag_menu_7" = "限制物品";
+"home_drag_menu_8" = "欢迎入境";
+"home_drag_menu_9" = "免税店购物";
+"home_drag_menu_10" = "餐厅指南";
+"home_drag_menu_11" = "休息";
+"home_drag_menu_12" = "优惠券";
+"home_drag_title_1" = "乐享机场";
+
+"home_floating_1" = "에어봇";
+
+/* real-time info */
+"real_time_info_title" = "实时信息";
+"real_time_info_category_1" = "可停车现状";
+"real_time_info_category_2" = "出国混乱现状";
+"real_time_info_category_3" = "入国書類";
+"real_time_info_category_4" = "乘客预告";
+
+/* real-time parking */
+"real_time_info_parking_title" = "可用停车位数量";
+"real_time_info_parking_table_header_1" = "区分";
+"real_time_info_parking_table_header_2" = "位置";
+"real_time_info_parking_table_header_3" = "可停放大数";
+"real_time_info_parking_short_term" = "短期停车场";
+"real_time_info_parking_long_term" = "长期停车场";
+"real_time_info_parking_table_div_detail_1_1" = "一楼";
+"real_time_info_parking_table_div_detail_1_2" = "地下1层";
+"real_time_info_parking_table_div_detail_1_3" = "地下2层";
+"real_time_info_parking_table_div_detail_2_1" = "停车塔(P1)";
+"real_time_info_parking_table_div_detail_2_2" = "停车塔(P2)";
+"real_time_info_parking_table_div_detail_2_3" = "P1";
+"real_time_info_parking_table_div_detail_2_4" = "P2";
+"real_time_info_parking_table_div_detail_2_5" = "P3";
+"real_time_info_parking_table_div_detail_2_6" = "P4";
+"real_time_info_parking_table_t2_div_detail_1_1" = "一楼";
+"real_time_info_parking_table_t2_div_detail_1_2" = "二楼";
+"real_time_info_parking_table_t2_div_detail_1_3" = "M楼";
+"real_time_info_parking_table_t2_div_detail_1_4" = "地下1层";
+"real_time_info_parking_table_t2_div_detail_2_1" = "-";
+"real_time_info_parking_table_count_unit" = "辆 可能";
+"real_time_info_parking_table_count_full" = "车位已满";
+"real_time_info_parking_sub_title_1" = "如果你要停车1天或更长, 长期停车场请利用";
+"real_time_info_parking_sub_title_2" = "如果在长期停车场停车,乘坐机场环线公交车,就能轻易到达客运站";
+"real_time_info_parking_sub_title_3" = "短期停车场是轿车专用区域";
+"real_time_info_parking_t2_sub_title_3" = "如果在长期停车场停车,乘坐机场环线公交车,离客运码头约需8分钟";
+"real_time_info_parking_link_1" = "停车费通知";
+"real_time_info_parking_link_2" = "인천공항 예약주차 바로가기";
+
+/* real-time depature congestion */
+"dep_congestion_smooth" = "円滑";
+"dep_congestion_ordinary" = "普通";
+"dep_congestion_crowded" = "混雑";
+"dep_congestion_very_crowded" = "非常に混雑する";
+"dep_congestion_close" = "关闭";
+"dep_congestion_unit" = "";
+"dep_congestion_total" = "";
+
+/* arr congestion */
+"arr_congestion_time" = "时间";
+"arr_congestion_div" = "区分";
+"arr_congestion_area_b" = "B区域";
+"arr_congestion_area_c" = "C区域";
+"arr_congestion_area_d" = "D区域";
+"arr_congestion_area_e" = "E区域";
+"arr_congestion_time_5" = "5分钟后";
+"arr_congestion_time_10" = "10分钟后";
+"arr_congestion_div_kor" = "韩国人";
+"arr_congestion_div_for" = "外国人";
+"arr_congestion_section" = "区域";
+"arr_congestion_from" = "出发地";
+"arr_congestion_flight" = "(航班号)";
+"arr_congestion_sch_time" = "到达预定";
+"arr_congestion_est_time" = "(到达时间)";
+"arr_congestion_gate" = "抵达门";
+"arr_congestion_area_t2_a" = "A区域";
+"arr_congestion_area_t2_b" = "B区域";
+
+/* expected passenger */
+"passenger_category_1" = "出发乘客通知";
+"passenger_category_2" = "抵达乘客的通知";
+"passenger_title" = "预计旅客人数查询";
+"passenger_t1_1_table_header_1" = "时间";
+"passenger_t1_1_table_header_2" = "出境大厅 1, 2";
+"passenger_t1_1_table_header_3" = "出境大厅 3";
+"passenger_t1_1_table_header_4" = "出境大厅 4";
+"passenger_t1_1_table_header_5" = "出境大厅 5, 6";
+"passenger_t1_1_table_header_6" = "合計";
+"passenger_t1_2_table_header_2" = "A, B";
+"passenger_t1_2_table_header_3" = "E, F";
+"passenger_t1_2_table_header_4" = "C";
+"passenger_t1_2_table_header_5" = "D";
+"passenger_t2_1_table_header_2" = "出境大厅 1";
+"passenger_t2_1_table_header_3" = "出境大厅 2";
+"passenger_t2_2_table_header_2" = "西边 (A)";
+"passenger_t2_2_table_header_3" = "东边 (B)";
+"passenger_sub_title_1" = "D+2预告片每天17点更新.";
+"passenger_sub_title_2" = "出境游1、6名乘客将被排除在乘客名单之外";
+"passenger_title_2" = "混乱警报发布标准";
+"passenger_t1_desc_1" = "每小时7000~7,600名集中";
+"passenger_t1_desc_2" = "每小时7,600~8,200人";
+"passenger_t1_desc_3" = "每小时超过7,600名,持续两个小时\n每小时8,200~8,600人";
+"passenger_t1_desc_4" = "每小时超过8,200名,持续两个小时\n每小时超过8,600人";
+"passenger_t2_desc_1" = "每小时3,200~3,500名集中";
+"passenger_t2_desc_2" = "每小时3,500~3,800名";
+"passenger_t2_desc_3" = "每小时超过3,500名,持续两个小时\n时间每小时3,800~4,000人";
+"passenger_t2_desc_4" = "每小时超过3,800名,持续两个小时\n每小时超过4,000人";
+
+/* parking fee info */
+"parking_fee_info_title_1" = "停车费";
+"parking_fee_info_small" = "小型";
+"parking_fee_info_large" = "大型";
+"parking_fee_info_short_term_small_basic" = "基本款30分钟1200韩元";
+"parking_fee_info_short_term_small_add" = "每隔15分钟增加600韩元";
+"parking_fee_info_long_term_small_basic" = "1小时1,000元,一天最多9000韩元";
+"parking_fee_info_long_term_large_basic" = "每30分钟1200韩元,一天最多12,000韩元";
+"parking_fee_info_sub_title_1_1" = "如果你要停车1天或更长, 长期停车场请利用";
+"parking_fee_info_sub_title_1_2" = "如果在长期停车场停车,乘坐机场环线公交车,就能轻易到达客运站";
+"parking_fee_info_sub_title_1_3" = "停车场宽敞,按压停车区域即可确认车辆位置,车辆位置确认器或仁川机场APP等也能确认车辆位置";
+"parking_fee_info_reserve" = "예약주차장";
+"parking_fee_info_reserve_small_basic" = "1시간 1,000원\n1일 최대 9,000원";
+
+"parking_fee_info_title_2" = "停车费结算方法";
+"parking_fee_info_sub_title_2_1" = "停车费结算方法";
+"parking_fee_info_sub_title_2_2" = "利用手机应用程序结算";
+"parking_fee_info_sub_title_2_3" = "利用载人展位进行结算";
+"parking_fee_info_sub_title_2_4" = "利用无人展位进行结算";
+
+"parking_fee_info_title_3" = "요금 감면(20%)";
+"parking_fee_info_sub_title_3" = "저공해 자동차 3종";
+
+"parking_fee_info_title_4" = "费用减免(50%)";
+"parking_fee_info_sub_title_4_1" = "轻型车";
+"parking_fee_info_sub_title_4_2" = "被判定为残疾人、被判定为残疾人的国家有功者、被判定为残疾等级的5·18民主有功人士、被判定为残疾等级的枯叶剂后遗症患者";
+"parking_fee_info_sub_title_4_3" = "残疾人协会-团体车辆";
+"parking_fee_info_sub_title_4_4" = "低公害汽车";
+"parking_fee_info_sub_title_4_5" = "持有多子女优惠卡的户主（父/母）名义的车辆";
+"parking_fee_info_link_1" = "인천국제공항 홈페이지 바로가기";
+
+/*슬라이드 메뉴*/
+"slide_main_menu_my_plan" = "我的日程";
+"slide_main_menu_notice" = "题目";
+"slide_main_menu_setting" = "设定";
+"slide_main_menu_home" = "Home";
+"slide_main_menu_flight_info" = "航班信息";
+"slide_flight_sub_menu_0" = "航班动态";
+"slide_flight_sub_menu_1" = "航班时刻表";
+"slide_main_menu_shop" = "购物 & 餐厅";
+"slide_shop_sub_menu_0" = "购物";
+"slide_shop_sub_menu_1" = "食堂&饮料";
+"slide_shop_sub_menu_2" = "免税/食堂&饮料店地图";
+"slide_shop_sub_menu_3" = "优惠券";
+"slide_main_menu_convenience" = "机场服务";
+"slide_convenience_sub_menu_0" = "休息";
+"slide_convenience_sub_menu_1" = "医疗";
+"slide_convenience_sub_menu_2" = "金融/保险";
+"slide_convenience_sub_menu_3" = "便利设施";
+"slide_main_menu_transport" = "交通 & 停车";
+"slide_transport_sub_menu_0" = "公共交通路";
+"slide_transport_sub_menu_1" = "停车";
+"slide_transport_sub_menu_2" = "终点站移动";
+"slide_transport_sub_menu_3" = "国家路线指导";
+"slide_main_menu_navigation" = "室内地图";
+"slide_main_menu_airport_guide" = "机场指南";
+"slide_airport_guide_sub_menu_0" = "出国";
+"slide_airport_guide_sub_menu_1" = "入境";
+"slide_airport_guide_sub_menu_2" = "中转";
+"slide_airport_guide_sub_menu_3" = "出入国政府机关";
+"slide_airport_guide_sub_menu_4" = "交通弱势群体向导";
+"slide_main_menu_favorite" = "收藏";
+"slide_main_menu_staff" = "工作人员";
+"slide_staff_sub_menu_0" = "入境欢迎";
+"slide_staff_sub_menu_1" = "班车时刻表";
+"slide_staff_sub_menu_2" = "员工巴士预订";
+"slide_staff_sub_menu_3" = "入住者服务机构";
+
+/*출도착정보*/
+"flights_flight_info" = "航班动态";
+"flights_departure_info_title" = "出发";
+"flights_arrival_info_title" = "到达";
+"flights_update" = "更新";
+"flights_list_header_time" = "时间";
+"flights_list_header_new" = "变更";
+"flights_list_header_flight" = "航班信息";
+"flights_list_header_status" = "现状";
+"flights_list_header_dest" = "目的地";
+"flights_list_header_origin" = "起源";
+"flights_list_header_via" = "经由地";
+"flights_list_header_checkin" = "登记处";
+"flights_list_header_gate" = "抵达门";
+"flights_list_header_carousel" = "行李/出口";
+"flights_list_header_exit" = "抵达门";
+
+"flights_no_result" = "所选航班无结果";
+
+"flights_list_all" = "全体";
+"flights_list_t1" = "第1旅客航站";
+"flights_list_t2" = "第2旅客航站";
+
+/* flight detail */
+"flight_detail_reserved" = "Reserved flight number";
+"flight_detail_actual" = "Actual flight number";
+"flight_detail_codeshare_info" = "This is a codeshare flight.\nPlease ensure you head to the correct Terminal.";
+"flight_detail_incheon" = "仁川";
+"flight_detail_flight_time" = "预定飞行时间";
+"flight_detail_elapse_time" = "%@ 小时 %@ 分";
+"flight_detail_counter" = "登记处";
+"flight_detail_walk_time" = "预计徒步时间";
+"flight_detail_walk_time_1" = "分";
+"flight_detail_walk_time_2" = "(出国审查後)";
+"flight_detail_gate" = "抵达门";
+"flight_detail_arrival_gate" = "抵达门";
+"flight_detail_arrival_carousel" = "行李索赔";
+"flight_detail_arrival_exit" = "出口";
+"flight_detail_arrival_baggage" = "正在投放";
+"flight_detail_arrival_baggage_finish" = "投放完成";
+"flight_detail_register_schedule" = "我的日程注册";
+"flight_detail_schedule_msg_1" = "已登记的日程已登记";
+"flight_detail_schedule_msg_2" = "您的注册日历将被删除";
+"flight_detail_share" = "分享";
+"flight_detail_share_msg_1" = "変更 =>";
+"flight_detail_share_msg_2" = ", 荷物番号 :";
+"flight_detail_share_msg_3" = ", 出口番号 :";
+"flight_detail_share_msg_4" = ", 搭乗ゲート番号 :";
+
+/* common */
+"common_yes" = "成功";
+"common_no" = "取消";
+"common_agree" = "同意";
+"common_disagree" = "不同意";
+"common_confirm" = "确认";
+"common_cancel" = "取消";
+"common_close" = "关闭";
+"common_notification" = "提示";
+"common_confirm_finish" = "再按一次'back'键，关闭APP";
+"common_loading" = "加载";
+"common_search" = "搜索";
+"common_ready" = "11/26的可用服务";
+"common_favorite" = "我的日程";
+"common_facility_no_result" = "搜索结果不存在";
+"common_facility_no_result_common" = "";
+"common_facility_no_result_dutyfree" = "";
+"common_bus_no_result" = "";
+"common_station_no_result" = "";
+"common_favorate_section_title" = "收藏夹指南";
+"common_past_flight" = "航班已过期。不能添加到日程里面";
+"common_won_format" = "%1$s韩元";
+"common_won" = "韩元";
+"common_no_more_show" = "再也看不见了";
+"common_number_bracket" = "(%1$d)";
+"common_counter" = "值机柜台";
+"common_baggage_claim_area" = "行李";
+"common_destination" = "目的地";
+"common_arrivals_hall" = "出口";
+"common_retry" = "重试";
+"common_am" = "上午";
+"common_pm" = "下午";
+"common_setting" = "设置";
+"common_searchlist" = "最近的查询";
+"common_phone_call" = "你想打个电话吗?";
+"common_back" = "背部";
+
+/* flight search */
+"flight_search_title" = "航班信息 查找";
+"flight_search_date" = "日期";
+"flight_search_time" = "时间";
+"flight_search_today_departure" = "今天出发情况";
+"flight_search_today_arrival" = "今天到达情况";
+"flight_search_origin" = "离港地";
+"flight_search_origin_content" = "出发地选择";
+"flight_search_destination" = "目的地";
+"flight_search_destination_content" = "选择目的地";
+"flight_search_airlilne" = "航空公司";
+"flight_search_airlilne_content" = "选择航空公司";
+"flight_search_flight_name" = "航班编号";
+"flight_search_flight_name_hint" = "请输入航班号";
+"flight_search_exitdoor" = "出口";
+"flight_search_choice_exitdoor" = "选择到达地出口";
+"flight_search_search" = "查询";
+"flight_search_select_time_error" = "所选时间不正确";
+"flight_search_sun" = "周日";
+"flight_search_mon" = "周一";
+"flight_search_tue" = "周二";
+"flight_search_Wed" = "周三";
+"flight_search_thr" = "周四";
+"flight_search_fri" = "周五";
+"flight_search_sat" = "周六";
+"flight_search_not_select" = "无";
+"flight_search_not_flight" = "所选航班无结果";
+"flight_search_terminal" = "航站";
+"flight_search_terminal_content" = "选择航站";
+
+/* flight enum */
+"flight_enum_1" = "出境";
+"flight_enum_2" = "入境";
+
+/* flight season */
+"flight_season_airline" = "机场名称";
+"flight_season_flight" = "航班号";
+"flight_season_time" = "时间";
+"flight_season_mon" = "月";
+"flight_season_tue" = "火";
+"flight_season_wed" = "水";
+"flight_season_thu" = "木";
+"flight_season_fri" = "金";
+"flight_season_sat" = "土";
+"flight_season_sun" = "日";
+"flight_season_period" = "运行期间";
+
+/* popup */
+"popup_date_picker" = "日期设定";
+"popup_title_update" = "更新提示";
+"popup_major_update" = "有项服务有更新，\n请更新以方便使用\n现在要更新吗?";
+"popup_extra_update" = "为实现稳定的服务,\n请更新最新版本。\n现在要更新吗?";
+"popup_btn_update" = "更新";
+"popup_notice_detail" = "查看详情";
+"popup_not_connect_network" = "服务信息尚未恢复，请重新连接。";
+
+/* setting */
+"setting_version" = "版本信息";
+"setting_lang" = "语言";
+"setting_lang_ko" = "韩国语";
+"setting_lang_en" = "英语";
+"setting_lang_zh" = "中文";
+"setting_lang_ja" = "日本";
+"setting_weather_display" = "温度单位";
+"setting_weather_celsius_temp" = "℃";
+"setting_weather_fahrenheit_temp" = "℉";
+"setting_alter_type" = "类型";
+"setting_passenger" = "旅客";
+"setting_employee" = "员工专用";
+"setting_flight_schedule" = "添加我的行程提醒";
+"setting_beacon" = "位置信息使用条款";
+
+"setting_general_title" = "通用设置";
+"setting_myplan_title" = "我的日程设置";
+"setting_alter_desc_1" = "※ 每天只能注册一次航班。";
+"setting_alter_desc_2" = "※ 您每天可以注册多个航班。";
+
+/* disabled and elderly */
+"disabled_elderly_category_1" = "运输";
+"disabled_elderly_category_2" = "电动手推车服务";
+"disabled_elderly_category_3" = "专用停车场";
+"disabled_elderly_category_4" = "出入境";
+"disabled_elderly_category_5" = "便利设施";
+"disabled_elderly_category_6" = "紧急电话";
+
+/* disabled - transport */
+"disabled_transport_section_title_1" = "去机场";
+"disabled_transport_section_desc_1_1" = "位于出发楼层(3层)的残疾人地区,设有连接服务台的Help Phone线";
+"disabled_transport_section_desc_1_2" = "利用Help Phone的话,可以利用轮椅服务";
+"disabled_transport_section_title_2" = "从机场出去";
+"disabled_transport_section_link_1" = "巴士路线指南";
+"disabled_transport_section_link_2" = "仁川交通公社 残疾人预约出租车";
+"disabled_transport_section_link_3" = "首尔设施公团 残疾人预约出租车";
+"disabled_transport_section_link_call_1" = "032-741-6400";
+"disabled_transport_section_link_call_2" = "1577-0320";
+"disabled_transport_section_link_call_3" = "1588-4388";
+
+/* disabled - Electric cart */
+"disabled_electric_section_title_1" = "电动手推车服务";
+"disabled_electric_section_title_2" = "机场铁道(地下1楼)→第1旅客楼3楼";
+"disabled_electric_section_desc_2" = "机场铁路站(AREX)可以享受到电动车的服务. 从地下1层到3楼,可通过电梯方便地移动到机场的手续柜台";
+"disabled_electric_section_title_3" = "1楼→机场铁道(地下1楼)";
+"disabled_electric_section_desc_3" = "到1楼综合咨询台的话,机场铁路站(AREX)方向给您介绍一下. 从地下1层中央到机场铁路站(AREX)电动车可以接受服务";
+
+/* disabled - parking */
+"disabled_parking_section_title_1" = "专用停车场";
+"disabled_parking_section_desc_1_col_1_1" = "停车场";
+"disabled_parking_section_desc_1_col_1_2" = "残疾人专用";
+"disabled_parking_section_desc_1_col_1_3" = "孕妇专用";
+"disabled_parking_section_desc_1_col_2_1" = "短期";
+"disabled_parking_section_desc_1_col_2_2" = "1楼 A5, B3\n地下1楼 A5, A7, H7, H10";
+"disabled_parking_section_desc_1_col_2_3" = "1楼 A5, B3\n1楼 东边 A7, 西边 H2";
+"disabled_parking_section_desc_1_col_3_1" = "长期";
+"disabled_parking_section_desc_1_col_3_2" = "东边 1, 3, 4, 9\n西边 51, 53, 54, 59";
+"disabled_parking_section_desc_1_col_3_3" = "1楼 东边 1, 西边 51";
+"disabled_parking_section_desc_1_2" = "确认残疾人乘车卡的乘坐者后,停车费的50%折扣";
+"disabled_parking_section_desc_1_3" = "如果联系到残疾人免费运送服务(032-741-3217),就可以方便地移动到长期停车场~终端";
+"disabled_parking_section_t2_desc_col_1_1" = "停车场";
+"disabled_parking_section_t2_desc_col_1_2" = "残疾人专用";
+"disabled_parking_section_t2_desc_col_2_1" = "短期";
+"disabled_parking_section_t2_desc_col_2_2" = "1楼 西边 138, 139 1楼 东边 230, 231\n2楼 西边 149 2楼 东边 240";
+"disabled_parking_section_t2_desc_col_3_1" = "长期";
+"disabled_parking_section_t2_desc_col_3_2" = "B112,B113,B122,C110,C111,C120\nD113,D122,D123,E111,E120,E121";
+
+/* disabled - Amenities */
+"disabled_amenities_section_title_1" = "轮椅电梯";
+"disabled_amenities_section_desc_1" = "第1旅客航站楼-长期停车场";
+"disabled_amenities_section_title_2" = "专用停车场";
+"disabled_amenities_section_desc_2" = "第1旅客航站楼3号12号出口的艇库轿车";
+"disabled_amenities_section_title_3" = "盲文提示图标和声音信号";
+"disabled_amenities_section_desc_3" = "第1航站楼的都在人行横道前面设置了柜台上的提示引导";
+"disabled_amenities_section_title_4" = "盲人用语音诱导机";
+"disabled_amenities_section_desc_4" = "在服务台设置一个能够掌握当前位置的音频诱导机(三楼8号登机口, 1楼 5、10号登机口)";
+"disabled_amenities_section_title_5" = "手语翻译视频电话";
+"disabled_amenities_section_desc_5" = "第1旅客航站楼5号10号 服务台";
+"disabled_amenities_section_title_6" = "专用电话 / Help Phone";
+"disabled_amenities_section_desc_6" = "可与服务台的服务台进行直接连接,并提供服务人员的向导服务 旅客航站楼前面(3层3,7,8,12号) 交通中心地停车场(A 5,H 3区域) 地下1层停车场(A 5-4,A 8-7,H 7-7,H 10-4)";
+"disabled_amenities_section_title_7" = "电梯";
+"disabled_amenities_section_desc_7" = "残疾儿童,老弱病残者,孕妇间移动方便的电梯";
+"disabled_amenities_section_title_8" = "自动扶梯/自动报道";
+"disabled_amenities_section_desc_8" = "可在自动扶梯及自动报道出入境上安装低速驾驶开关,调节运行速度";
+"disabled_amenities_section_title_9" = "婴儿车出租服务";
+"disabled_amenities_section_desc_9_1" = "免费出租座位";
+"disabled_amenities_section_desc_9_1_1" = "- 一般地区 : 综合服务台 旅客航站楼3楼(3,8,11号出口) 旅客航站楼1楼(6,9号)";
+"disabled_amenities_section_desc_9_1_2" = "- 免稅区域 : 3层12,29号线, 登机栋3楼 中央";
+"disabled_amenities_section_title_10" = "轮椅";
+"disabled_amenities_section_desc_10" = "免费出租座位:综合服务台 旅客航站楼3楼(3,7,12,11号出口) 旅客航站楼1楼(3,5,10,12号) 免税区域(3层25,29号线)";
+"disabled_amenities_section_title_11" = "专用卫生间及 饮水处";
+"disabled_amenities_section_desc_11" = "每个洗手间至少设有1间残疾人专用洗手间和专用饮水处 设置宽敞的出入口、内部空间、自动门、紧急报警器、传感器";
+"disabled_amenities_section_title_12" = "残疾人免费升降机";
+"disabled_amenities_section_desc_12" = "长期停车场-旅客客运站 移动时(032-741-3217)";
+"disabled_amenities_t2_section_desc_9_1_1" = "- 一般地区 : 综合服务台 旅客航站楼3楼(2,7号出口) 旅客航站楼1楼(2,5号)";
+"disabled_amenities_t2_section_desc_9_1_2" = "- 免稅区域 : 3层248,253号线";
+
+/* disabled - Emergency */
+"disabled_emergency_section_link_1" = "机场警察";
+"disabled_emergency_section_link_2" = "机场医院";
+"disabled_emergency_section_link_3" = "危险品申报";
+"disabled_emergency_section_link_4" = "火警电话";
+"disabled_emergency_section_link_call_1" = "032-740-5561";
+"disabled_emergency_section_link_call_2" = "032-743-3119";
+"disabled_emergency_section_link_call_3" = "032-741-4736";
+"disabled_emergency_section_link_call_4" = "032-741-2119";
+
+"tax_free_area" = "免税区";
+"public_area" = "一般区域";
+
+/* shopping - shopping */
+"shop_category_1" = "全体";
+"shop_category_2" = "名牌馆";
+"shop_category_3" = "化妆品/香水";
+"shop_category_4" = "时尚 / 饰品";
+"shop_category_5" = "酒類 / 香烟";
+"shop_category_6" = "礼品";
+"shop_category_7" = "电子产品";
+"shop_category_8" = "食品";
+"shop_category_9" = "书店/便利店";
+"shop_category_10" = "韩流商品";
+"shop_category_11" = "24小时开放";
+
+/* shopping - food */
+"food_category_1" = "全体";
+"food_category_2" = "快餐";
+"food_category_3" = "韩餐";
+"food_category_4" = "世界饮食";
+"food_category_5" = "食品区";
+"food_category_6" = "咖啡店/酒吧";
+"food_category_7" = "面包店";
+"food_category_8" = "24小时开放";
+
+/* facility detail */
+"facility_detail_loc" = "卖场位置";
+"facility_detail_item" = "品目";
+"facility_detail_service" = "服务";
+"facility_detail_open" = "营业时间";
+"facility_detail_link_1" = "卖场位置";
+"facility_detail_link_1_1" = "机构位置";
+"facility_detail_link_2" = "使用咨询";
+"facility_detail_link_3" = "收藏";
+
+/* shopping - map */
+"map_category_1" = "B1";
+"map_category_2" = "F1";
+"map_category_3" = "F3(食堂&饮料)";
+"map_category_4" = "F3(免税)";
+"map_category_5" = "F4";
+"map_category_t2_5" = "F4/F5";
+
+/* shopping - coupon */
+"coupon_category_1" = "优惠券";
+"coupon_category_2" = "免税 优惠券";
+"coupon_category_3" = "中转 优惠券";
+"coupon_category_4" = "优惠券框";
+
+"coupon_list_publisher" = "仁川机场卖场";
+"coupon_list_end_date" = "为止 %@";
+
+"coupon_detail_section_title_1" = "优惠及使用方法";
+"coupon_detail_section_desc_1" = "订购前请先告知优惠券使用与否";
+"coupon_detail_section_desc_amount_1" = "购买%@%@以上的商品时，优惠%@%@。";
+"coupon_detail_section_desc_amount_2" = "购买%@%@以上的商品时";
+"coupon_detail_section_desc_amount_3" = "优惠%@%@。";
+"coupon_detail_section_desc_percent_1" = "优惠%@%%时，最多优惠金额为%@%@。";
+"coupon_detail_section_desc_percent_2" = "优惠%@%%时.";
+"coupon_detail_section_desc_percent_3" = "最多优惠金额为%@%@。";
+"coupon_detail_section_title_2" = "有效期";
+"coupon_detail_section_title_3" = "注意事项";
+"coupon_detail_section_desc_3_1" = "在卖场内，为确认本人，可能会要求您出示护照和机票。";
+"coupon_detail_section_desc_3_2" = "其他活动及打折优惠券,不可重复使用相同活动优惠券";
+"coupon_detail_section_desc_3_3" = "使用优惠券无法再使用";
+"coupon_detail_section_desc_3_4" = "本优惠券的外观可能与实物有所不同.";
+"coupon_detail_section_desc_3_5" = "仅限活动场所";
+"coupon_detail_section_title_4" = "活动对象";
+
+/* Convenience - Rest */
+"rest_category_1" = "全体";
+"rest_category_2" = "酒廊";
+"rest_category_3" = "酒店";
+"rest_category_4" = "美容/桑拿浴";
+
+/* Convenience - Medical */
+"medical_category_1" = "药店";
+"medical_category_2" = "医院";
+
+/* Convenience - Finance */
+"finance_category_1" = "退税";
+"finance_category_2" = "換錢所/ATM";
+"finance_category_3" = "银行";
+"finance_category_4" = "游保险";
+
+/* Convenience - Other */
+"other_category_1" = "手机租赁/漫游";
+"other_category_2" = "包装 / 包裹服务";
+"other_category_3" = "租用汽车";
+"other_category_4" = "航空公司";
+"other_category_5" = "旅行社";
+"other_category_6" = "大衣保管";
+"other_category_7" = "24小时开放";
+"other_category_8" = "祈祷房";
+
+/* transport - public */
+"transport_category_1" = "公共汽车";
+"transport_category_2" = "机场铁路";
+"transport_category_3" = "计程车";
+"transport_category_4" = "区间大客";
+"transport_category_5" = "磁悬浮列车";
+
+/* bus */
+"bus_title_1" = "巴士位置指南";
+"bus_link_1" = "首尔方面";
+"bus_link_2" = "京畿方面";
+"bus_link_3" = "仁川方面";
+"bus_link_4" = "深夜巴士";
+"bus_link_5" = "地方方面";
+"bus_link_6" = "巴士预约";
+
+/* bus list */
+"bus_list_stop" = "位置指南";
+"bus_list_interval" = "时间间隔";
+"bus_list_time" = "集";
+
+/* bus detail */
+"bus_detail_title" = "详细巴士路线";
+"bus_detail_region_1" = "首尔";
+"bus_detail_region_2" = "京畿";
+"bus_detail_region_3" = "仁川";
+"bus_detail_region_4" = "深夜";
+"bus_detail_region_5" = "地方";
+"bus_detail_depot" = "位置指南";
+"bus_detail_dest" = "终点行";
+"bus_detail_fare" = "费用";
+"bus_detail_fare_adult" = "成人";
+"bus_detail_fare_child" = "儿童";
+"bus_detail_fare_unit" = "KRW";
+"bus_detail_allocation" = "时间间隔";
+"bus_detail_company" = "公司名称";
+"bus_detail_link_1" = "车站";
+"bus_detail_link_2" = "时刻表";
+"bus_detail_link_3" = "巴士位置指南";
+"bus_detail_link_4" = "相关信访与询";
+
+/* arex */
+"arex_title_1" = "普通列车 : 一辆在12个车站停靠的通勤型列车";
+"arex_title_2" = "直达列车 : 直通首尔站和仁川国际机场站的高级列车";
+"arex_table_1_col_1" = "区分";
+"arex_table_1_col_2" = "普通列车";
+"arex_table_1_col_3" = "直达列车";
+"arex_table_2_col_1" = "所需时间";
+"arex_table_2_col_2" = "58~60分";
+"arex_table_2_col_3" = "43~45分";
+"arex_title_3" = "铁路路线";
+"arex_link_1" = "收费表";
+"arex_link_2" = "时刻表";
+"arex_link_3" = "位置指南";
+"arex_link_4" = "使用咨询";
+"arex_link_4_call_1" = "1599-7788";
+
+/* arex - fare */
+"arex_fare_title_1" = "直达 : 成人 9,000KRW / 儿童 7,000KRW";
+"arex_fare_title_2_t1" = "第1旅客航站 普通列车 收费表";
+"arex_fare_title_2_t2" = "第2旅客航站 普通列车 收费表";
+"arex_fare_table_title_1" = "车站";
+"arex_fare_table_title_2" = "收费表";
+
+"arex_fare_table_t1_station_1" = "仁川国际机场 第2旅客航站";
+"arex_fare_table_t1_station_2" = "机场货物办公楼";
+"arex_fare_table_t1_station_3" = "云西";
+"arex_fare_table_t1_station_4" = "泳宗";
+"arex_fare_table_t1_station_5" = "青罗国际城";
+"arex_fare_table_t1_station_6" = "黔岩";
+"arex_fare_table_t1_station_7" = "桂阳";
+"arex_fare_table_t1_station_8" = "金浦机场";
+"arex_fare_table_t1_station_9" = "麻谷渡口";
+"arex_fare_table_t1_station_10" = "数码媒体城";
+"arex_fare_table_t1_station_11" = "弘大入口";
+"arex_fare_table_t1_station_12" = "孔德";
+"arex_fare_table_t1_station_13" = "首尔站";
+
+"arex_fare_table_t1_fare_1" = "900 KRW";
+"arex_fare_table_t1_fare_2" = "900 KRW";
+"arex_fare_table_t1_fare_3" = "900 KRW";
+"arex_fare_table_t1_fare_4" = "1,000 KRW";
+"arex_fare_table_t1_fare_5" = "2,300 KRW";
+"arex_fare_table_t1_fare_6" = "2,600 KRW";
+"arex_fare_table_t1_fare_7" = "3,250 KRW";
+"arex_fare_table_t1_fare_8" = "3,750 KRW";
+"arex_fare_table_t1_fare_9" = "3,750 KRW";
+"arex_fare_table_t1_fare_10" = "3,950 KRW";
+"arex_fare_table_t1_fare_11" = "4,050 KRW";
+"arex_fare_table_t1_fare_12" = "4,050 KRW";
+"arex_fare_table_t1_fare_13" = "4,150 KRW";
+
+"arex_fare_table_t2_station_1" = "仁川国际机场 第1旅客航站";
+"arex_fare_table_t2_station_2" = "机场货物办公楼";
+"arex_fare_table_t2_station_3" = "云西";
+"arex_fare_table_t2_station_4" = "泳宗";
+"arex_fare_table_t2_station_5" = "青罗国际城";
+"arex_fare_table_t2_station_6" = "黔岩";
+"arex_fare_table_t2_station_7" = "桂阳";
+"arex_fare_table_t2_station_8" = "金浦机场";
+"arex_fare_table_t2_station_9" = "麻谷渡口";
+"arex_fare_table_t2_station_10" = "数码媒体城";
+"arex_fare_table_t2_station_11" = "弘大入口";
+"arex_fare_table_t2_station_12" = "孔德";
+"arex_fare_table_t2_station_13" = "首尔站";
+
+"arex_fare_table_t2_fare_1" = "900 KRW";
+"arex_fare_table_t2_fare_2" = "900 KRW";
+"arex_fare_table_t2_fare_3" = "1,500 KRW";
+"arex_fare_table_t2_fare_4" = "1,600 KRW";
+"arex_fare_table_t2_fare_5" = "2,900 KRW";
+"arex_fare_table_t2_fare_6" = "3,200 KRW";
+"arex_fare_table_t2_fare_7" = "3,850 KRW";
+"arex_fare_table_t2_fare_8" = "4,350 KRW";
+"arex_fare_table_t2_fare_9" = "4,350 KRW";
+"arex_fare_table_t2_fare_10" = "4,550 KRW";
+"arex_fare_table_t2_fare_11" = "4,650 KRW";
+"arex_fare_table_t2_fare_12" = "4,650 KRW";
+"arex_fare_table_t2_fare_13" = "4,750 KRW";
+
+"arex_fare_sub_title_1" = "儿童: 优惠50%";
+"arex_fare_sub_title_2" = "残疾人 · 老人: 免费";
+"arex_fare_sub_title_3" = "青少年(使用青少年交通卡时) : 优惠20%";
+
+/* arex - time */
+"arex_time_title_t1" = "仁川国际机场 第1旅客航站";
+"arex_time_title_t2" = "仁川国际机场 第2旅客航站";
+"arex_time_note_1" = "直达";
+"arex_time_note_2" = "普通";
+
+/* taxi */
+"taxi_title_1" = "出租车等候数";
+"taxi_wait_table_header_1" = "区分";
+"taxi_wait_table_header_2" = "等候数";
+"taxi_wait_table_t1_div_1" = "首尔";
+"taxi_wait_table_t1_div_2" = "仁川";
+"taxi_wait_table_t1_div_3" = "京畿";
+"taxi_wait_table_t1_div_4" = "模范";
+"taxi_wait_table_t1_div_5" = "大型";
+"taxi_wait_table_count" = "辆";
+
+"taxi_wait_table_t2_div_1" = "首尔";
+"taxi_wait_table_t2_div_2" = "仁川";
+"taxi_wait_table_t2_div_3" = "京畿(富川、光明、金浦、高陽)";
+"taxi_wait_table_t2_div_4" = "市外";
+"taxi_wait_table_t2_div_5" = "模范";
+"taxi_wait_table_t2_div_6" = "大型";
+
+"taxi_link_1" = "使用咨询";
+
+/* taxi - info */
+"taxi_info_title_1" = "普通出租车";
+"taxi_info_title_sub_1_1" = "基本费用:首尔·仁川·韩元3800韩元";
+"taxi_info_title_sub_1_2" = "市外 附加费用: 首尔、仁川、高阳、光明、金浦、富川以外地区 - 首尔·韩元 20%、仁川 30% 适用";
+"taxi_info_title_sub_1_3" = "深夜附加:24:00~04:00, 20% 适用";
+"taxi_info_title_sub_1_4" = "高速公路收费站票价由顾客负担";
+
+"taxi_info_title_2" = "模范 / 大型出租车";
+"taxi_info_title_sub_2_1" = "基本费用: 6500韩元";
+"taxi_info_title_sub_2_2" = "发票签发及即时通译服务(义务事项)";
+"taxi_info_title_sub_2_3" = "市外/深夜附加 没有";
+"taxi_info_title_sub_2_4" = "高速公路收费站票价由顾客负担";
+
+"taxi_info_title_3" = "国际间的出租车";
+"taxi_info_title_sub_3_1" = "英语, 中文, 日语";
+"taxi_info_title_sub_3_2" = "从仁川机场到首尔市区按距离比例划分的5条收费体系";
+
+"taxi_info_title_4" = "残疾人预约出租车";
+"taxi_info_title_sub_4" = "使用对象";
+"taxi_info_title_content_4_1" = "- 肢体及脑病变1,2级残疾人";
+"taxi_info_title_content_4_2" = "- 利用轮椅的1、2级重症残疾人";
+"taxi_info_title_content_4_3" = "- 首尔市民外,其他居民及外国人是坐轮椅可以只用";
+
+"taxi_info_link_1" = "国际间的出租车";
+"taxi_info_link_2" = "KOREA TAXI";
+"taxi_info_link_3" = "仁川交通公社 残疾人预约出租车";
+"taxi_info_link_call_3" = "1577-0320";
+"taxi_info_link_4" = "首尔设施公团 残疾人预约出租车";
+"taxi_info_link_call_4" = "1588-4388";
+
+/* transport - parking */
+"parking_category_1" = "可停车现状";
+"parking_category_2" = "停车费付款";
+"parking_category_3" = "代理停车";
+"parking_category_4" = "找我的车";
+"parking_category_5" = "我的汽车注册";
+
+/* parking fee payment */
+"parking_car_info_title_1" = "输入车辆编号";
+"parking_car_info_title_2" = "输入您的车辆数目";
+"parking_car_info_btn" = "车辆查询";
+
+"parking_fee_number_popup_title" = "检查你的车号";
+"parking_fee_number_no_result" = "车辆没有发现\n请看看在另一个终端\n临时停车场停放的车辆\n的位置是无法确认";
+
+"parking_fee_payment_title" = "停车费确认";
+"parking_fee_payment_location" = "停车位置";
+"parking_fee_payment_entry_time" = "停车开始时间";
+"parking_fee_payment_current_time" = "清算时间";
+"parking_fee_payment_parking_time" = "总停车时间";
+"parking_fee_payment_unit" = "KRW";
+"parking_fee_payment_day" = "日";
+"parking_fee_payment_hour" = "时间";
+"parking_fee_payment_min" = "分";
+"parking_fee_payment_btn" = "停车费结算";
+"parking_fee_payment_sub_title_1" = "费用清算";
+"parking_fee_payment_desc_1" = "停车费用结算20分钟后将收取额外费用.";
+"parking_fee_payment_desc_2" = "折扣不适用于免税车辆（残疾人，受益人等）请使用出口载人式展台.";
+"parking_fee_payment_html_desc_1" = "주차요금 정산 후 &lt;font color=#e20613&gt;20분이 경과&lt;/font&gt; 시 추가요금이 발생됩니다.";
+"parking_fee_payment_html_desc_2" = "&lt;font color=#e20613&gt;감면대상차량&lt;/font&gt;(장애인, 유공자 등)은 &lt;font color=#e20613&gt;할인이 불가&lt;/font&gt;하오니 출구 유인 부스를 이용하시기 바랍니다.";
+
+
+"parking_fee_payment_fail_title" = "结算失败";
+"parking_fee_payment_fail_desc_1" = "由于系统出错导致不能结算时，请利用出口处的人工结算。";
+"parking_fee_payment_fail_desc_2" = "由于超过入车天数（99天）导致在移动应用系统不能结算时，请使用出口人工结算处。";
+"parking_fee_payment_fail_desc_3" = "结算已结束的车辆，请在20分钟内出车。";
+"parking_fee_payment_fail_desc_4" = "入车后10分钟以内不产生费用，希望出车。";
+"parking_fee_payment_fail_desc_5" = "停车费用结算后超过20分钟后产生了追加费用。请使用附近的出口人工结算处。";
+"parking_fee_payment_time_out" = "정산시간이 초과되었습니다. 처음부터 다시 이용해주세요.";
+"parking_fee_payment_fail_popup_desc" = "结算未正常进行。";
+
+"parking_fee_payment_finish_01" = "Payment of %@ won for parking fee\nsuccessfully processed.";
+"parking_fee_payment_finish_02" = "Time of payment";
+"parking_fee_payment_finish_03" = "Please come again.";
+
+/* Valet Parking */
+"valet_parking_title" = "代理停车 接收场所";
+"valet_parking_desc_1" = "请确认一下您的车牌号码\n车辆如果你不是你自己,你需要支付额外付款\n如果无法查询车辆,请选择其他客运站";
+"valet_parking_link_1" = "代理停车介绍";
+"valet_parking_link_2" = "代理停车咨询";
+"valet_parking_link_3" = "代理停车预订";
+"valet_parking_t1_call_title" = "係員付き駐車サービス(T1)";
+"valet_parking_t1_call_num" = "032-743-0123";
+"valet_parking_t2_call_title" = "係員付き駐車サービス(T2)";
+"valet_parking_t2_call_num" = "032-743-0751";
+
+/* Valet Parking info t1 */
+"valet_parking_info_title_1" = "当车辆寄存时";
+"valet_parking_info_content_1_1" = "01. 短期停车场停车入库（地下一楼）";
+"valet_parking_info_content_1_2" = "将车停在第一旅客航站楼短期停车场（地下一楼）";
+"valet_parking_info_content_2_1" = "02. 前往办理场所（地下一楼A区域）";
+"valet_parking_info_content_2_2" = "请使用短期停车场入口3车道，前往地下一楼A区域。";
+"valet_parking_info_content_3_1" = "交接车辆并交付收据";
+"valet_parking_info_content_3_2" = "交接车辆并接收手机确认短信。\n*提前预约时可节约办理时间。";
+"valet_parking_info_sub_title_1_1" = "代理停车代理企业确认法";
+"valet_parking_info_desc_1_1" = "代理停车公司<b>Hi Parking</b>公司,而受理人员则穿着绿色制服";
+"valet_parking_info_sub_title_1_2" = "代理停车信息";
+"valet_parking_info_desc_1_2_1" = "营业时间:24小时";
+"valet_parking_info_desc_1_2_2" = "车辆回收: 短期停车场地下3层";
+"valet_parking_info_title_2" = "车辆回收时";
+"valet_parking_info_desc_2" = "前往代理停车代办所查询的车辆交货场所后,支付服务费并领取车辆即可";
+"valet_parking_info_sub_title_2_1" = "代理停车费";
+"valet_parking_info_table_header_1" = "区分";
+"valet_parking_info_table_header_2" = "费";
+"valet_parking_info_table_col_1_1" = "一般,警车";
+"valet_parking_info_table_col_1_2" = "20,000韩元";
+"valet_parking_info_table_col_2_1" = "残疾人,获得国家奖励的人员";
+"valet_parking_info_table_col_2_2" = "10,000韩元";
+"valet_parking_info_desc_2_1" = "- 残疾人";
+"valet_parking_info_sub_title_2_2" = "停车代理服务费是后付,停车费后付";
+"valet_parking_info_sub_title_2_3" = "营业时间:24小时";
+"valet_parking_info_sub_title_2_4" = "除营业时间以外的用户请致电负责营业的户";
+
+/* Valet Parking info t2 */
+"valet_parking_info_t2_content_1_1" = "01. 客运站到达";
+"valet_parking_info_t2_content_1_2" = "客运站出境处,进入车辆专用车道后,将卸下一行及行李";
+"valet_parking_info_t2_content_2_1" = "02. 代理停车接收场所移动";
+"valet_parking_info_t2_content_2_2" = "移动到位于地下停车场地下1层西侧的正式停车代理店";
+"valet_parking_info_t2_content_3_1" = "车辆的收购和接收证领取";
+"valet_parking_info_t2_content_3_2" = "车辆的收购和接收移动证领取";
+"valet_parking_info_t2_sub_title_1_1" = "代理停车代理企业确认法";
+"valet_parking_info_t2_desc_1_1" = "代理停车公司<b>(株)是AJ PARK</b>公司,而受理人员则穿着橙色制服";
+"valet_parking_info_t2_sub_title_1_2" = "代理停车信息";
+"valet_parking_info_t2_desc_1_2_1" = "- 营业时间:24小时";
+"valet_parking_info_t2_desc_1_2_2" = "- 车辆回收: 短期停车场地下1层 东面";
+
+/* parking - car location */
+"car_location_lot" = "停车场";
+"car_location_lane" = "停车区";
+"car_location_parking_time" = "停车开始时间";
+
+/* parking - register car location */
+"register_car_loc_no_result" = "请注册您的停车位置.";
+"register_car_loc_sub_title_1" = "GPS可能无法在室内正常工作.";
+"register_car_loc_sub_title_2" = "请在室外使用.";
+"register_car_loc_sub_title_3" = "最多可以注册5个条目.";
+"register_car_loc_delete" = "你确定要删除停车记录吗?";
+"register_map_save" = "注册地点";
+
+/* moving terminal */
+"moving_terminal_title_1" = "终端跨旅行 如何";
+"moving_terminal_content_1_1" = "下利用航空公司的旅客请移动至%@.";
+"moving_terminal_content_1_2" = "大韓航空公司, 法国航空公司, 荷兰皇家航空公司, 达美航空, China Airlines, Garuda Indonesia, Aeroflot Russian Airlines, Czech Airlines, AERPMEXICO, Alitalia, Xiamen Air";
+"moving_terminal_table_header_1" = "移动手段";
+"moving_terminal_table_header_2" = "位置指南";
+"moving_terminal_table_header_3" = "所需时间";
+"moving_terminal_table_header_4" = "发车间隔";
+"moving_terminal_table_transportation_1" = "区间大客";
+"moving_terminal_table_transportation_2" = "出租车";
+"moving_terminal_table_transportation_3" = "机场铁路";
+"moving_terminal_table_location_1" = "第1旅客航站 3楼8号出口";
+"moving_terminal_table_location_2" = "第1旅客航站 1楼 4C~8C";
+"moving_terminal_table_location_3" = "第1交通中心地下1层";
+"moving_terminal_table_required_1" = "15分";
+"moving_terminal_table_required_2" = "15分";
+"moving_terminal_table_required_3" = "6分";
+"moving_terminal_table_interval_1" = "5分";
+"moving_terminal_table_interval_2" = "随时";
+"moving_terminal_table_interval_3" = "6~20分";
+"moving_terminal_title_2" = "区间大客/出租车移动路径";
+"moving_terminal_link_1" = "区间大客向导";
+"moving_terminal_link_2" = "机场铁路";
+"moving_terminal_link_3" = "出租车";
+"moving_terminal_link_4" = "客户服务中心";
+"moving_terminal_link_4_call" = "1577-2600";
+
+"moving_terminal_t2_content_1_1" = "下利用航空公司的旅客请移动至%@.";
+"moving_terminal_t2_content_1_2" = "除大韩航空,法国航空公司,荷兰皇家航空公司,达美航空,China Airlines,Garuda Indonesia,Aeroflot Russian Airlines,Czech Airlines,AERPMEXICO,Alitalia,Xiamen Air以外的所有航空公司";
+"moving_terminal_table_t2_location_1" = "第2旅客航站 3楼4,5号出口";
+"moving_terminal_table_t2_location_2" = "第2旅客航站 1楼 3D~5C";
+"moving_terminal_table_t2_location_3" = "第2交通中心地下1层";
+
+/* shuttle bus */
+"shuttle_bus_title_1" = "长期停车场车 区间大客";
+"shuttle_bus_table_1_header_1" = "停车站";
+"shuttle_bus_table_1_header_2" = "发车间隔";
+"shuttle_bus_table_1_header_3" = "所需时间";
+"shuttle_bus_table_1_desc_1" = "1层 3C, 13C";
+"shuttle_bus_table_1_desc_2" = "5~8分(白天) / 16分 (夜间)";
+"shuttle_bus_table_1_desc_3" = "8分";
+"shuttle_bus_call_service_desc" = "※ For the time being, normal operation will be suspended and it will be operated as a call service (032-741-6045). ";
+"shuttle_bus_1_link_1_1" = "call service (032-741-6045)";
+"shuttle_bus_1_link_call_1_2" = "032-741-6045";
+"shuttle_bus_1_link_1" = "时刻表";
+"shuttle_bus_1_link_2" = "穿梭巴士站到长期停车场(3C)";
+"shuttle_bus_1_link_3" = "穿梭巴士站到长期停车场(13C)";
+"shuttle_bus_title_2" = "区间大客";
+"shuttle_bus_title_sub_2_1" = "第2旅客航站";
+"shuttle_bus_table_2_1_desc_1" = "3层 8 Gate";
+"shuttle_bus_table_2_1_desc_2" = "7分";
+"shuttle_bus_table_2_1_desc_3" = "15分";
+"shuttle_bus_2_1_link_2" = "穿梭巴士到第二客运站";
+"shuttle_bus_title_sub_2_2" = "AICC / 物流园区车 区间大客";
+"shuttle_bus_table_2_2_desc_1" = "3层 3, 12 Gate";
+"shuttle_bus_table_2_2_desc_2" = "6~15分";
+"shuttle_bus_table_2_2_desc_3" = "35分";
+"shuttle_bus_2_2_link_2" = "AICC / 物流园区车 穿梭巴士站位置(3)";
+"shuttle_bus_2_2_link_3" = "AICC / 物流园区车 穿梭巴士站位置(12)";
+
+"shuttle_bus_table_1_desc_t2_1" = "1层 3B";
+"shuttle_bus_table_1_desc_t2_2" = "5~15分";
+"shuttle_bus_table_1_desc_t2_3" = "15分";
+"shuttle_bus_1_link_t2_2" = "穿梭巴士站到长期停车场";
+"shuttle_bus_title_2_t2_1" = "第1旅客航站";
+"shuttle_bus_table_2_desc_t2_1" = "3层 4,5 Gate";
+"shuttle_bus_table_2_desc_t2_2" = "7分";
+"shuttle_bus_table_2_desc_t2_3" = "15分";
+"shuttle_bus_2_link_t2_2" = "第1旅客航站车 穿梭巴士站位置";
+
+/* Maglev */
+"maglev_content" = "磁浮列车是利用磁的力量,列车驶向线路上方8毫米高度行驶的新交通手段.\n磁悬浮列车只能在第1旅客客运站运营";
+"maglev_title" = "时刻表";
+"maglev_table_header_1" = "目的地";
+"maglev_table_header_2" = "初次车/\n末班车";
+"maglev_table_header_3" = "所需时间";
+"maglev_table_header_4" = "发车间隔";
+"maglev_table_dest_1" = "仁川国际机场 第1旅客航站\n(龙游站行)";
+"maglev_table_dest_2" = "龙游站\n(仁川国际机场 第1旅客航站行)";
+"maglev_table_time_1" = "09:00 /\n18:45";
+"maglev_table_time_2" = "09:00 /\n18:31";
+"maglev_table_required_1" = "单程 12分";
+"maglev_table_interval_1" = "15分";
+"maglev_table_desc_1" = "※ 使用费是免费的";
+"maglev_table_link_1" = "位置指南";
+"maglev_table_link_2" = "使用咨询";
+"maglev_table_link_call_2" = "032-741-8400";
+
+/* airport departure */
+"airport_departure_title_1" = "办登机手续";
+"airport_departure_title_2" = "行李托运";
+"airport_departure_title_3" = "병무 신고";
+"airport_departure_title_4" = "海关申报";
+"airport_departure_title_5" = "海关申报";
+"airport_departure_title_6" = "保安检查";
+"airport_departure_title_7" = "出境审查";
+"airport_departure_title_8" = "穿梭列车";
+
+"departure_checkin_section_title_1" = "登机手续柜台";
+"departure_checkin_section_desc_1" = "利用仁川机场的旅客们请确认各航站楼 内航空公司后前往相应目的地.";
+"departure_checkin_section_title_2" = "自助值机";
+"departure_checkin_section_desc_2_1" = "可以利用自助值机台迅速办理乘机手续";
+"departure_checkin_section_desc_2_2" = "可以使用专用柜台或自动行李装置快速装载行李";
+"departure_checkin_section_desc_2_3" = "详细的指引请咨询相应的航空公司";
+"departure_checkin_section_desc_2_4" = "提供服务的航空公司";
+"departure_checkin_section_desc_2_4_1" = "- 大韩航空 (KE)、韩亚航空 (OZ)、联合航空 (UA)、达美航空 (DL)、国泰航空 (CX)、荷兰航空 (KL)、 加拿大航空公司 (AC)、Jin Air (LJ)、长荣航空公司 (BR)、越南航空公司 (VN)、Air Busan (BX)、AEROMEXICO (AM)、中华航空公司 (CI)";
+"departure_checkin_section_title_3" = "移动式登机手续";
+"departure_checkin_section_desc_3" = "航空公司的移动应用程序允许您从移动环境中办理登机手续.";
+"departure_checkin_section_3_link" = "移动办理入住说明";
+"departure_checkin_section_title_4" = "城市航站楼";
+"departure_checkin_section_desc_4_1" = "到达机场前已在城市航站楼办理完登机手续的乘客可以通过各出境口侧面的专用通道接受安全检查并直接通过出境审查.";
+"departure_checkin_section_desc_4_2" = "在各城市候机厅,可以办理登机手续的航空公司各不相同. 请到各城市机场候机厅查询.";
+"departure_checkin_section_4_link_1" = "首尔站 城市航站楼";
+"departure_checkin_section_4_link_2" = "三成洞 城市航站楼";
+"departure_checkin_section_4_link_3" = "光明站 市区机场客运站";
+
+"departure_checkin_mobile_checkin_sub_title_1" = "移动式登机手续";
+"departure_checkin_mobile_checkin_sub_desc_1" = "航空公司的移动应用程序允许您从移动环境中办理登机手续.";
+"departure_checkin_mobile_checkin_info_1" = "1. 登录";
+"departure_checkin_mobile_checkin_info_2" = "2. 登机手续";
+"departure_checkin_mobile_checkin_info_3" = "3. 座位安排";
+"departure_checkin_mobile_checkin_info_4" = "4. 移动式的登机牌";
+"departure_checkin_mobile_checkin_link_1" = "大韓航空公司  登机手续";
+"departure_checkin_mobile_checkin_link_2" = "韩亚航空公司登机手续";
+"departure_checkin_mobile_checkin_link_3" = "东部快捷 航空公司 登机手续";
+"departure_checkin_mobile_checkin_link_4" = "Jejuair 登机手续";
+"departure_checkin_mobile_checkin_link_5" = "德威 航空公司 登机手续";
+"departure_checkin_mobile_checkin_link_6" = "Jin Air 登机手续";
+
+/* baggage */
+"departure_baggage_section_title_1" = "注意事项";
+"departure_baggage_section_desc_1_1" = "他人请托运行李,必有事故危险,务请务必予以拒绝.";
+"departure_baggage_section_desc_1_2" = "照相机、贵金属类等高价物品和瓷器、玻璃瓶等易碎物品，请尽量随身携带";
+"departure_baggage_section_desc_1_3" = "请在各自的行李上贴上英语标注的姓名、住址、目的地，以免丢失";
+"departure_baggage_section_desc_1_4" = "如有货物中需要报关的物品,请向海关申报";
+"departure_baggage_section_title_2" = "禁止托运的物品";
+"departure_baggage_section_desc_2_1" = "充电宝可以携带登机，对充电宝各航空公司的要求不同";
+"departure_baggage_section_title_3" = "托运行李时 分类方法";
+"departure_baggage_section_desc_3_1" = "随身携带行李";
+"departure_baggage_section_desc_3_1_1" = "- 规格 (A)长+(B)宽+(C)高 = 115cm 以下";
+"departure_baggage_section_desc_3_1_2" = "- 重量 10kg~12kg";
+"departure_baggage_section_desc_3_2" = "托运行李";
+"departure_baggage_section_desc_3_2_1" = "- 规格 (A)长+(B)宽+(C)高 = 158cm 以下";
+"departure_baggage_section_desc_3_2_2" = "- 重量 20~23kg";
+"departure_baggage_section_desc_3_3" = "大件行李（托运行李）";
+"departure_baggage_section_desc_3_3_1" = "- 规格 (A)长 45cm+(B)宽 90cm+(C)高 70cm 以上";
+"departure_baggage_section_desc_3_3_2" = "- 重量 50kg以上";
+"departure_baggage_section_desc_3_3_3" = "- 大件运物需要在登机柜台办理，支付相应的金额后到大件细腻托运柜台托运.";
+"departure_baggage_section_desc_3_4" = "行李的规格会根据航空公司、路线、座位等级有所差异.";
+"departure_baggage_section_title_4" = "行李重新检查指南";
+"departure_baggage_section_desc_4" = "对旅客托运的行李进行安全检查，发现禁止携带至飞机内物品时，需要到行李检查室开封检查.";
+
+/* military */
+"departure_military_section_title_1" = "병무신고대상";
+"departure_military_section_desc_1" = "25세 이상 병역미필 병역의무자(영주권사유 병역연기및 면제자 포함)연령제한 없이 현재 공익근무요원 복무중인 자, 공중보건의사, 징병전담의사, 국제협력의사, 공익법무관, 공익수의사, 국제협력요원, 전문연구요원/산업기능요원으로 편입되어 의무종사기간을 마치지 아니한 자";
+"departure_military_section_title_2" = "병역 의무자 출국 신고 절차";
+"departure_military_section_desc_2" = "병역 의무자가 국외를 여행하고자 할 때는 병무청에 국외여행허가를 받고 출국 당일 법무부 출입국에서 출국심사 시 국외여행허가 증명서를 제출하여야 합니다.";
+"departure_military_section_title_3" = "유의사항";
+"departure_military_section_desc_3_1" = "출국당일「국외여행허가증명서」를 반드시 소지하시길 바랍니다.";
+"departure_military_section_desc_3_2" = "「국외여행허가증명서」미소지 시 출입국재심실인계, 허가사항확인을 위한 유선통화 등으로 출국이 지연될 수 있습니다.";
+"departure_military_section_desc_3_3" = "허가기간과 출국일이 맞지 않거나 미허가상태인 경우 병무신고사무소의 부재로 인해 당일 신규허가 및 기간조정이 불가 또는 지연될 수 있습니다.";
+"departure_military_section_link_1" = "병무민원센터";
+
+/* Quarantine */
+"departure_quarantine_section_title_1" = "动物检疫植";
+"departure_quarantine_section_title_2" = "到达机场前";
+"departure_quarantine_section_desc_2_1" = "确认前往国家的动物检疫条件，准备前往国家所需的所有条件.\n(咨询 : 动物检疫机关或者韩国驻外大使馆)";
+"departure_quarantine_section_desc_2_2" = "准备签发出口动物检疫证明";
+"departure_quarantine_section_desc_2_3" = "必备资料";
+"departure_quarantine_section_desc_2_3_1" = "- 狂犬病预防接种证明\n(宠物不足90天时不适用)";
+"departure_quarantine_section_desc_2_3_2" = "- 健康证\n(建议出境日为准10天内签发";
+"departure_quarantine_section_desc_2_4" = "补充要求资料\n确认旅客的对方国家检疫条件后补充";
+"departure_quarantine_section_desc_2_4_1" = "- 狂犬病抗体结果证明";
+"departure_quarantine_section_desc_2_4_2" = "- 微型芯移植 (嵌入)";
+"departure_quarantine_section_desc_2_4_3" = "- 旅游国家的动物检疫机关签发的提前进口许可证明";
+"departure_quarantine_section_desc_2_4_4" = "- 附件资料 (对方国家检疫格式) 等.";
+"departure_quarantine_section_title_3" = "到达机场后";
+"departure_quarantine_section_desc_3_1" = "出票前申请出口检疫及签发检疫证明";
+"departure_quarantine_section_desc_3_2" = "建议飞机起飞3小时前办理";
+"departure_quarantine_section_desc_3_3" = "提示护照和航班时间 / 宠物陪伴";
+"departure_quarantine_section_desc_3_4" = "缴纳手续费 (1~3万韩元)";
+"departure_quarantine_section_title_4" = "植物检疫";
+"departure_quarantine_section_title_5" = "到达机场前";
+"departure_quarantine_section_desc_5_1" = "需要确认是否能带到前往国家";
+"departure_quarantine_section_desc_5_2" = "只有无病虫害，泥土全部取出的植物才可能携带出国.";
+"departure_quarantine_section_title_6" = "到达机场后";
+"departure_quarantine_section_desc_6_1" = "适用于需要检疫的植物，只限前往国家要求植物检疫证明书的植物";
+"departure_quarantine_section_desc_6_2" = "申请签发植物检疫证明书";
+"departure_quarantine_section_link_1" = "动物出口检疫室";
+"departure_quarantine_section_link_2" = "植物出口检疫室";
+
+/* Customs */
+"departure_custom_section_title_1" = "携带外币";
+"departure_custom_section_desc_1_1" = "在韩居住的韩国公民";
+"departure_custom_section_desc_1_1_1" = "- 在韩居住的韩国公民\n携带超过10,000美元的现金出境时，必须向海关外汇申报台进行申报";
+"departure_custom_section_desc_1_1_2" = "- 移居海外的韩国公民、海外居住的韩国公民、留学生、游客、在韩外国人";
+"departure_custom_section_desc_1_1_3" = "- 携带超过10,000美元的现金时，需要获得外汇交易指定银行行长的确认";
+"departure_custom_section_desc_1_1_4" = "- 物品交易资金及资本交易代价需要各交易中规定的申报或许可.需要外汇银行行长或韩国银行总裁、或海关关长的许可";
+"departure_custom_section_desc_1_2" = "在韩居住的韩国公民";
+"departure_custom_section_desc_1_2_1" = "- 非居住者";
+"departure_custom_section_desc_1_2_2" = "- 最近入境时申报的外汇等可在入境时携带的范围内首次出境时带走";
+"departure_custom_section_desc_1_2_3" = "- 由于许可需要数日，因此在出境数日前必须提前获得许可";
+"departure_custom_section_title_2" = "携带高价值物品（出发后退回物品）";
+"departure_custom_section_desc_2_1" = "具有高价值物品的旅客都必须向海关报告并获得必要的文件以获得税收减免返还";
+"departure_custom_section_desc_2_2" = "携带文化资产的旅客都必须从文化资产评估人员获得必要的文件";
+"departure_custom_section_title_3" = "取回高价值物品（入境后取回)";
+"departure_custom_section_desc_3_1" = "旅客重新访问韩国，携带高价值物品需要提供必要的文件和物品给海关官员";
+"departure_custom_section_desc_3_2" = "乘客离境无价值高的项目报告后，输入需要支付税或存款（120 / 100）.此外，离去过程将被推迟";
+"departure_custom_section_title_4" = "退税手续";
+"departure_custom_section_desc_4_1" = "在免税区购买的物品（由海关总署署长指定）";
+"departure_custom_section_desc_4_2" = "在发车区海关申报台外取（必须购买的产品）";
+"departure_custom_section_desc_4_3" = "退税时可因移民而退税\n※ 从购买物品之日起3月内,出境需交纳相应税额才能退还相应税额.";
+"departure_custom_section_link_1" = "关税信访室";
+
+/* Security Check */
+"departure_security_section_title_1" = "安全检查";
+"departure_security_section_desc_1" = "办理完登机及海关申报手续后移动到临近的出境大厅接受安全检查\n 接送的人员为了飞机的安全不能进入安检区域内，请到出境大厅后离开.";
+"departure_security_section_title_2" = "机内带入物品指南";
+"departure_security_section_desc_2_1" = "禁止携带";
+"departure_security_section_desc_2_1_col_1_1" = "食品类";
+"departure_security_section_desc_2_1_col_1_2" = "辣白菜类";
+"departure_security_section_desc_2_1_col_1_3" = "辣酱、大酱类";
+"departure_security_section_desc_2_1_col_1_4" = "快餐";
+"departure_security_section_desc_2_1_col_2_1" = "武器类";
+"departure_security_section_desc_2_1_col_2_2" = "刀类";
+"departure_security_section_desc_2_1_col_2_3" = "枪支类";
+"departure_security_section_desc_2_1_col_2_4" = "工具类";
+"departure_security_section_desc_2_1_col_3_1" = "爆炸物类";
+"departure_security_section_desc_2_1_col_3_2" = "烟花类";
+"departure_security_section_desc_2_1_col_3_3" = "易燃物质";
+"departure_security_section_desc_2_1_col_3_4" = "打火机";
+"departure_security_section_desc_2_2" = "符合条件可携带";
+"departure_security_section_desc_2_2_col_1_1" = "液体和凝胶类";
+"departure_security_section_desc_2_2_col_1_2" = "饮料、酒类";
+"departure_security_section_desc_2_2_col_1_3" = "化妆品类";
+"departure_security_section_desc_2_2_col_1_4" = "牙膏";
+"departure_security_section_desc_2_3" = "液体和凝胶可携带条件";
+"departure_security_section_desc_2_3_col_1_1" = "所有的液体和凝胶需在100ml以下的容器内保管.\n※ 包括辣白菜和酱类及健康浓缩液 (红参汁)";
+"departure_security_section_desc_2_3_col_2_1" = "需用1L规格的透明密封塑胶袋密封";
+"departure_security_section_desc_2_3_col_3_1" = "需要与其他物品分开检查，可让检查人员看到.";
+"departure_security_section_title_3" = "免税店购买物品携带条件";
+"departure_security_section_desc_3_1" = "使用免税店内提供的透明封口袋或国际标准方式制造的可辨别损坏袋包装时";
+"departure_security_section_desc_3_2" = "直到最终目的地飞机登机前保持未开封状态时";
+"departure_security_section_desc_3_3" = "免税店购买当时收到的发票在可辨别损坏袋内或贴在袋上时与容量无关可以带入 可辨别损坏袋在免税店提供.";
+"departure_security_section_title_4" = "例外对象品目";
+"departure_security_section_desc_4_1" = "飞行中需要使用的婴幼儿食品类，";
+"departure_security_section_desc_4_2" = "有医生处方的所有医药品";
+
+/* Immigration */
+"departure_immigration_section_title_1" = "出境检查需准备的物品";
+"departure_immigration_section_desc_1" = "出境审查是在大韩民国国境上决定国内和国外旅客出境许可与否的国家固有的主权活动.";
+"departure_immigration_section_desc_1_col_1_1" = "护照";
+"departure_immigration_section_desc_1_col_1_2" = "登机牌";
+"departure_immigration_section_title_2" = "自动出境审核台";
+"departure_immigration_section_desc_2_1" = "对象 : 满19岁以上，拥有大韩民国护照的人";
+"departure_immigration_section_desc_2_2" = "满7~18岁以下的国民、基本事项变更的国民、身份证签发后已过30年的国民需要提前办理指纹登记.";
+"departure_immigration_section_desc_2_3" = "使用方法";
+"departure_immigration_section_desc_2_3_1" = "① 护照识别";
+"departure_immigration_section_desc_2_3_2" = "② 确认指纹";
+"departure_immigration_section_desc_2_3_3" = "③ 拍摄照片";
+"departure_immigration_section_title_3" = "旅客出境审核柜台";
+"departure_immigration_section_desc_3" = "对象 一般旅客";
+"departure_immigration_section_title_4" = "专用出境审核柜台";
+"departure_immigration_section_desc_4" = "对象 使用市区机场航站楼的旅客、外交官、使用障碍设施的人、持有经济人卡者等";
+"departure_immigration_section_link_1" = "自动出入境审查登饮料、酒类 记中心";
+"departure_immigration_section_link_2" = "专用出境审核柜台";
+
+/* fast track */
+"departure_fast_track_title" = "快速通道";
+"departure_fast_track_section_title_0" = "专用出入境";
+"departure_fast_track_section_title_1" = "快速通道介绍";
+"departure_fast_track_section_desc_1_1" = "利用对象: 交通弱势群体及出入境优待人士";
+"departure_fast_track_section_desc_1_2" = "同伴可供3个人使用";
+"departure_fast_track_section_title_2" = "专用出境通道使用方法";
+"departure_fast_track_section_desc_2" = "交通弱者若想利用专用出境通道,请在本人使用的航空公司登记柜台确认后,在专用出境通道入口与护照一起提示即可.\n出入境优待对象无需另行安排出入境优待卡,只需在专用出境大厅入口出示出入境优待卡即可.";
+"departure_fast_track_section_title_3" = "专用出境通道利用对象";
+"departure_fast_track_section_desc_3_1" = "交通弱势群体";
+"departure_fast_track_section_desc_3_1_col_1_1" = "分类";
+"departure_fast_track_section_desc_3_1_col_1_2" = "内容";
+"departure_fast_track_section_desc_3_1_col_2_1" = "步行残疾人";
+"departure_fast_track_section_desc_3_1_col_2_2" = "1级~5级";
+"departure_fast_track_section_desc_3_1_col_3_1" = "婴幼儿";
+"departure_fast_track_section_desc_3_1_col_3_2" = "7周岁以下";
+"departure_fast_track_section_desc_3_1_col_4_1" = "高龄人士";
+"departure_fast_track_section_desc_3_1_col_4_2" = "70周岁以上";
+"departure_fast_track_section_desc_3_1_col_5_1" = "孕妇";
+"departure_fast_track_section_desc_3_1_col_5_2" = "怀孕旅客";
+"departure_fast_track_section_desc_3_1_col_6_1" = "航空公司患病乘客";
+"departure_fast_track_section_desc_3_1_col_6_2" = "需要轮椅、担架床、医疗用氧气等的旅客";
+"departure_fast_track_section_desc_3_2" = "出入境优待人士";
+"departure_fast_track_section_desc_3_2_col_1_1" = "分类";
+"departure_fast_track_section_desc_3_2_col_1_2" = "内容";
+"departure_fast_track_section_desc_3_2_col_2_1" = "出入境优待人士";
+"departure_fast_track_section_desc_3_2_col_2_2" = "外国人金融投资者、共同发展优秀企业、家庭亲和认证企业、犯罪受害者支援优秀企业、刑满释放人员雇佣优秀企业、就业创造优秀企业";
+"departure_fast_track_section_desc_3_2_col_3_1" = "携带出国VIP卡的人";
+"departure_fast_track_section_desc_3_2_col_3_2" = "ABTC卡(APEC商务旅行卡)、外国人投资家卡、模范纳税人卡、综合认证优秀企业(AEO)卡、企业人(CIP)卡、独立有功者、国家有功授奖者、5.18民主化运动负伤者、韩国优待访问卡所持者";
+
+/* Shuttle Train */
+"departure_shuttle_section_title_1" = "乘车位置";
+"departure_shuttle_section_desc_1_1" = "搭乘101~132号航班的乘客,请乘坐往返列车移动.";
+"departure_shuttle_section_desc_1_2" = "分配间隔: 5分  所需时间: 1分 30~50秒";
+
+/* airport arrival */
+"airport_arrival_title_1" = "入国書類";
+"airport_arrival_title_2" = "游客检疫";
+"airport_arrival_title_3" = "入境审查";
+"airport_arrival_title_4" = "提前行李";
+"airport_arrival_title_5" = "海关申报";
+"airport_arrival_title_6" = "动植物检疫";
+
+/* Travelling Document */
+"arrival_document_section_title_1" = "入国書類";
+"arrival_document_section_desc_1" = "在机内事先填写乘务员发放的申报表，以便在办理入境手续时更加方便快捷";
+"arrival_document_section_title_2" = "检疫答辩书";
+"arrival_document_section_desc_2" = "从受污染的乘客及船员到达霍乱、黄热病及鼠疫的国家(东南亚、中东、非洲、南美等)";
+"arrival_document_section_title_3" = "旅客携带品申报单";
+"arrival_document_section_desc_3_1" = "所有来自国外的旅客必须准备和提交一份海关申报表";
+"arrival_document_section_desc_3_2" = "在旅行的时候带着家人，需填写报关单";
+
+/* Quarantine */
+"arrival_quarantine_section_title_1" = "检疫审查程序";
+"arrival_quarantine_section_desc_1_1" = "1. 发热监督";
+"arrival_quarantine_section_desc_1_1_1" = "入境的所有人通过检疫台的红外线热感应相机";
+"arrival_quarantine_section_desc_1_2" = "2. 提交健康状态咨询书";
+"arrival_quarantine_section_desc_1_2_1" = "- 填写健康状态问卷后提交至检疫官";
+"arrival_quarantine_section_desc_1_2_2" = "- 有停留及经过检疫传染病污染区时必须提交";
+"arrival_quarantine_section_desc_1_3" = "3. 细菌及病毒检查";
+"arrival_quarantine_section_desc_1_3_1" = "- 入境后如有疑似感染病症状时, 需向疾病管理总部服务叫中心申报";
+"arrival_quarantine_section_desc_1_3_2" = "- 发热监督及健康状态问卷提交过程中对疑似感染病的人进行细菌及病毒(病毒检查结果2天后，采便检查结果4~5天后个别通知) 检查";
+"arrival_quarantine_section_link_1" = "疾病管理总部服务中心 1339";
+"arrival_quarantine_section_link_call_1" = "1339";
+
+/* immigration */
+"arrival_immigration_section_title_1" = "入境审查";
+"arrival_immigration_section_desc_1" = "入境审查大厅是在国境内接受许可的过程. 对于外国人是许可行为对于国民是确认是国民的过程，花费时间较长也敬请谅";
+"arrival_immigration_section_title_2" = "入境审查时注意事项";
+"arrival_immigration_section_desc_2_1" = "国境内的内外国人分开审查是国际社会原则";
+"arrival_immigration_section_desc_2_2" = "外国人(登记外国人除外)要填写入境申请表";
+"arrival_immigration_section_desc_2_3" = "持有团体签证的中国团体游客可以不填写入境申请表.(青少年、数学游人除外)";
+"arrival_immigration_section_desc_2_4" = "登记对象外国人从入境日起90天以内的出入境管理事务所办理外国人登记";
+"arrival_immigration_section_title_3" = "自动入境审核台";
+"arrival_immigration_section_desc_3_1" = "对象 满19岁以上，拥有大韩民国护照的";
+"arrival_immigration_section_desc_3_2" = "满7~18岁以下的国民、基本事项变更的国民、身份证发放后已过30年的国民，需要提前办理指纹登记";
+"arrival_immigration_section_desc_3_3" = "使用方法";
+"arrival_immigration_section_desc_3_3_1" = "① 护照识别";
+"arrival_immigration_section_desc_3_3_2" = "② 确认指纹";
+"arrival_immigration_section_desc_3_3_3" = "③ 拍摄照片";
+"arrival_immigration_section_title_4" = "有人入境审核柜台对象";
+"arrival_immigration_section_desc_4" = "对象 : 一般旅客";
+
+/* baggage */
+"arrival_baggage_section_title_1" = "行李领取台位置";
+"arrival_baggage_section_desc_1" = "入境审核后，通过航班信息显示系统(FIDS) 确认行李领取台编号\n请预防拿错行李";
+"arrival_baggage_section_title_2" = "大型行李";
+"arrival_baggage_section_desc_2" = "大型行李在大型行李收取台领取";
+"arrival_baggage_section_title_3" = "遗失行李柜台";
+"arrival_baggage_section_desc_3_1" = "丢失行李时请咨询位于行李领取台后面的遗失行李咨询柜台";
+"arrival_baggage_section_desc_3_2" = "※ 丢失行李的补偿规定各航空公司不同， 需要向所乘坐的航空公司咨询";
+
+/* custom */
+"arrival_custom_section_title_1" = "通过海关程序";
+"arrival_custom_section_desc_1_1" = "从海外入境的所有旅行者，即使没有申报物品，也必须制定并提交";
+"arrival_custom_section_desc_1_2" = "和家人一起入境的情况下，包括家庭在内，只要填写1张就可以了";
+"arrival_custom_section_desc_1_3" = "有超过免税的物品时， 入境时应将申报事项诚实填写在海关申报单进行申报时可加收关税的 30% (15万韩元内)， 但不进行海关申报或不诚实申报时可加收纳税额的 40%";
+"arrival_custom_section_title_2" = "入境时需要申报的物品";
+"arrival_custom_section_desc_2_1" = "枪炮、刀剑、弓等武器类，实弹及火药类，毒性或放射性物质";
+"arrival_custom_section_desc_2_2" = "免税范围 (US $600以下)超过酒类1瓶，香烟1条，香水60毫升的物品";
+"arrival_custom_section_desc_2_3" = "动物、植物、水果、蔬菜类等农林畜产物";
+"arrival_custom_section_desc_2_4" = "病毒 (非洛滂), 海洛因，可卡因等毒品类及滥用医药品";
+"arrival_custom_section_desc_2_5" = "粘贴伪造商品物品 (假货)";
+"arrival_custom_section_desc_2_6" = "超过US1万美金的外币或韩币 (出境时也申报)";
+"arrival_custom_section_desc_2_7" = "CITES (野生动植物的国际交易相关条约)条约相关产品、加工产品例)象牙、海狗肾、熊胆等";
+"arrival_custom_section_desc_2_8" = "损害国宪、公安、风俗的图书、书籍、电影、音像等";
+"arrival_custom_section_desc_2_9" = "以销售目的带入的物品或公司用品";
+"arrival_custom_section_title_3" = "旅客携带物品免税范围";
+"arrival_custom_section_desc_3_1" = "旅客携带商品免税范围为 US $600";
+"arrival_custom_section_desc_3_2" = "其他免税商品";
+"arrival_custom_section_desc_3_2_col_1_1" = "酒类 1瓶(1升以下, US $400以下商品)";
+"arrival_custom_section_desc_3_2_col_1_2" = "烟 1条(200根)";
+"arrival_custom_section_desc_3_2_col_1_3" = "香水 60mL";
+"arrival_custom_section_desc_3_2_col_1_4" = "※ 但， 对于未成年人(满19岁以下)不适用酒类、香烟免税";
+"arrival_custom_section_desc_3_3" = "农林畜产的免税范围";
+"arrival_custom_section_desc_3_3_1" = "- 人均总量50公斤以内，海外取得价格为10万韩元以内，要通过检疫合格 (但，韩药每人10目以内)";
+"arrival_custom_section_desc_3_3_2" = "- 香油, 芝麻, 蜂蜜, 蕨菜, 沙参各 5kg";
+"arrival_custom_section_desc_3_3_3" = "- 人参(水参, 白参, 红参), 灵芝各 300g";
+"arrival_custom_section_desc_3_3_4" = "- 牛肉10kg";
+"arrival_custom_section_desc_3_3_5" = "- 松子 1kg, 鹿茸 150g";
+"arrival_custom_section_desc_3_3_6" = "- 其他物品各 5kg";
+"arrival_custom_section_desc_3_3_7" = "※ 按单位的容量或重量超过免税标准的话，对全体征税";
+"arrival_custom_section_link_1" = "海关服务";
+
+/* animal quarantine */
+"arrival_animal_quarantine_section_title_1" = "动物检疫";
+"arrival_animal_quarantine_section_title_2" = "与宠物一起入境时";
+"arrival_animal_quarantine_section_desc_2_1" = "向入境大厅内农林畜产检疫总部申报";
+"arrival_animal_quarantine_section_desc_2_2" = "申报书所需资料";
+"arrival_animal_quarantine_section_desc_2_2_1" = "① 出口国动物检疫机关签发的‘动物检疫证明";
+"arrival_animal_quarantine_section_desc_2_2_1_1" = "- 出国时我们总部签发的检疫证明也认可：抗体为有效期内时";
+"arrival_animal_quarantine_section_desc_2_2_2" = "② 微型芯移植 · 嵌入 (只限狗、猫)";
+"arrival_animal_quarantine_section_desc_2_2_3" = "③ 狂犬病抗体结果证明 (只限以下情况)";
+"arrival_animal_quarantine_section_desc_2_2_3_1" = "- 狗、猫90天以上";
+"arrival_animal_quarantine_section_desc_2_2_3_2" = "- 从狂犬病发生国入境时";
+"arrival_animal_quarantine_section_title_3" = "畜产品携带及 带入时";
+"arrival_animal_quarantine_section_desc_3_1" = "向入境大厅内向农林畜产检疫总部申报，确认是否可以进口及带入";
+"arrival_animal_quarantine_section_desc_3_2" = "禁止品目";
+"arrival_animal_quarantine_section_desc_3_2_1" = "- 肉类(牛肉、猪肉、羊肉、鸡肉等)";
+"arrival_animal_quarantine_section_desc_3_2_2" = "- 肉加工品(火腿、香肠、肉脯、酱肉等)";
+"arrival_animal_quarantine_section_title_4" = "畜产相关人员或家畜农场访客";
+"arrival_animal_quarantine_section_desc_4" = "向位于入境大厅的农林畜产检疫总部检疫官申报，接受消毒等防疫措施";
+"arrival_animal_quarantine_section_title_5" = "动物检疫咨询处";
+"arrival_animal_quarantine_section_title_6" = "植物检疫";
+"arrival_animal_quarantine_section_desc_6_1" = "向入境大厅内农林畜产检疫总部申";
+"arrival_animal_quarantine_section_desc_6_2" = "申报时需要准备的资料";
+"arrival_animal_quarantine_section_desc_6_2_1" = "① 出口国植物检疫机关签发的植物检疫证明书";
+"arrival_animal_quarantine_section_desc_6_2_1_1" = "- (限于种子、树苗等可繁殖的植物)";
+"arrival_animal_quarantine_section_title_7" = "禁止携带带入的植物(禁止进口)";
+"arrival_animal_quarantine_section_desc_7_1" = "大部分生果实及果实蔬菜";
+"arrival_animal_quarantine_section_desc_7_2" = "泥、带泥植物、带皮的核桃、宠物昆虫";
+"arrival_animal_quarantine_section_desc_7_3" = "利用稻草、稻糠等制作的加工品";
+"arrival_animal_quarantine_section_title_8" = "有关询问";
+"arrival_animal_quarantine_section_link_1" = "动物家畜申报";
+"arrival_animal_quarantine_section_link_call_1" = "032-740-2660";
+"arrival_animal_quarantine_section_link_2" = "国立仁川机场检疫所主页";
+"arrival_animal_quarantine_section_link_call_2" = "032-740-2077";
+
+/* transfer */
+"transfer_category_1" = "转机的步骤";
+"transfer_category_2" = "换乘途径";
+"transfer_category_3" = "换乘便利设施";
+"transfer_category_4" = "换乘旅行";
+
+/* transfer - process */
+"transfer_process_title_1" = "换乘时间";
+"transfer_process_title_2" = "航空任务";
+"transfer_process_tool_arrow_1" = "终端1 登机口 1 - 59";
+"transfer_process_tool_arrow_2" = "登机楼 登机口 101-132";
+"transfer_process_tool_arrow_3" = "终端2 登机口 230-270";
+
+"transfer_assignment" = "航空任务";
+"transfer_assignment_table_1_1" = "韩亚航空公司";
+"transfer_assignment_table_1_2" = "OZ";
+"transfer_assignment_table_1_3" = "American Airlines";
+"transfer_assignment_table_1_4" = "AA";
+"transfer_assignment_table_2_1" = "加拿大航空公司";
+"transfer_assignment_table_2_2" = "AC";
+"transfer_assignment_table_2_3" = "美国联合航空公司";
+"transfer_assignment_table_2_4" = "UA";
+"transfer_assignment_table_3_1" = "華信航空";
+"transfer_assignment_table_3_2" = "AE";
+"transfer_assignment_table_3_3" = "印度航空";
+"transfer_assignment_table_3_4" = "AI";
+"transfer_assignment_table_4_1" = "FINNAIR";
+"transfer_assignment_table_4_2" = "AY";
+"transfer_assignment_table_4_3" = "立荣航空公司";
+"transfer_assignment_table_4_4" = "B7";
+"transfer_assignment_table_5_1" = "BRITISH AIRWAYS";
+"transfer_assignment_table_5_2" = "BA";
+"transfer_assignment_table_5_3" = "ROYAL BRUNEI AIRL";
+"transfer_assignment_table_5_4" = "BI";
+"transfer_assignment_table_6_1" = "长荣航空公司";
+"transfer_assignment_table_6_2" = "BR";
+"transfer_assignment_table_6_3" = "中国国际航空公司";
+"transfer_assignment_table_6_4" = "CA";
+"transfer_assignment_table_7_1" = "国泰航空公司";
+"transfer_assignment_table_7_2" = "CX";
+"transfer_assignment_table_7_3" = "阿联酋航空";
+"transfer_assignment_table_7_4" = "EK";
+"transfer_assignment_table_8_1" = "ETHIOPIAN AIRLINES";
+"transfer_assignment_table_8_2" = "ET";
+"transfer_assignment_table_8_3" = "ETIHAD AIRWAY";
+"transfer_assignment_table_8_4" = "EY";
+"transfer_assignment_table_9_1" = "TIANJIN AIRLINES";
+"transfer_assignment_table_9_2" = "GS";
+"transfer_assignment_table_9_3" = "HAWAIIAN AIRLINES";
+"transfer_assignment_table_9_4" = "HA";
+"transfer_assignment_table_10_1" = "香港航空";
+"transfer_assignment_table_10_2" = "HX";
+"transfer_assignment_table_10_3" = "乌兹别克斯坦航空公司";
+"transfer_assignment_table_10_4" = "HY";
+"transfer_assignment_table_11_1" = "AURORA AIRLINES";
+"transfer_assignment_table_11_2" = "HZ";
+"transfer_assignment_table_11_3" = "日本航空公司";
+"transfer_assignment_table_11_4" = "JL";
+"transfer_assignment_table_12_1" = "柬埔寨吴哥航空";
+"transfer_assignment_table_12_2" = "K6";
+"transfer_assignment_table_12_3" = "阿斯塔纳航空公司";
+"transfer_assignment_table_12_4" = "KC";
+"transfer_assignment_table_13_1" = "德国汉莎航空";
+"transfer_assignment_table_13_2" = "LH";
+"transfer_assignment_table_13_3" = "LOT ポーランド航空";
+"transfer_assignment_table_13_4" = "LO";
+"transfer_assignment_table_14_1" = "马来西亚航空公司";
+"transfer_assignment_table_14_2" = "MH";
+"transfer_assignment_table_14_3" = "澳門航空";
+"transfer_assignment_table_14_4" = "NX";
+"transfer_assignment_table_15_1" = "蒙古航空公司";
+"transfer_assignment_table_15_2" = "OM";
+"transfer_assignment_table_15_3" = "菲律宾航空公司";
+"transfer_assignment_table_15_4" = "PR";
+"transfer_assignment_table_16_1" = "卡塔尔航空公司";
+"transfer_assignment_table_16_2" = "QR";
+"transfer_assignment_table_16_3" = "LAO AIRLINES";
+"transfer_assignment_table_16_4" = "QV";
+"transfer_assignment_table_17_1" = "YAKUTIA AIRLINES";
+"transfer_assignment_table_17_2" = "R3";
+"transfer_assignment_table_17_3" = "S7航空公司";
+"transfer_assignment_table_17_4" = "S7";
+"transfer_assignment_table_18_1" = "山东航空公司";
+"transfer_assignment_table_18_2" = "SC";
+"transfer_assignment_table_18_3" = "新加坡航空公司";
+"transfer_assignment_table_18_4" = "SQ";
+"transfer_assignment_table_19_1" = "泰国国际航空公司";
+"transfer_assignment_table_19_2" = "TG";
+"transfer_assignment_table_19_3" = "土耳其航空公司";
+"transfer_assignment_table_19_4" = "TK";
+"transfer_assignment_table_20_1" = "SKYWINGS ASIA AIRLINES";
+"transfer_assignment_table_20_2" = "ZA";
+"transfer_assignment_table_20_3" = "深圳航空";
+"transfer_assignment_table_20_4" = "ZH";
+"transfer_assignment_table_21_1" = "PAL EXPRESS";
+"transfer_assignment_table_21_2" = "2P";
+"transfer_assignment_table_21_3" = "四川航空";
+"transfer_assignment_table_21_4" = "3U";
+"transfer_assignment_table_22_1" = "Pan Pacific Air";
+"transfer_assignment_table_22_2" = "8Y";
+
+"transfer_assignment_con_table_1_1" = "中国南方航空公司";
+"transfer_assignment_con_table_1_2" = "CZ";
+"transfer_assignment_con_table_1_3" = "中国东方航空公司";
+"transfer_assignment_con_table_1_4" = "MU";
+"transfer_assignment_con_table_2_1" = "越南航空公司";
+"transfer_assignment_con_table_2_2" = "VN";
+"transfer_assignment_con_table_2_3" = "AirAsia X";
+"transfer_assignment_con_table_2_4" = "D7";
+"transfer_assignment_con_table_3_1" = "上海航空公司";
+"transfer_assignment_con_table_3_2" = "FM";
+"transfer_assignment_con_table_3_3" = "Jin Air";
+"transfer_assignment_con_table_3_4" = "LJ";
+"transfer_assignment_con_table_4_1" = "Peach Aviation";
+"transfer_assignment_con_table_4_2" = "MM";
+"transfer_assignment_con_table_4_3" = "首尔航空";
+"transfer_assignment_con_table_4_4" = "RS";
+"transfer_assignment_con_table_5_1" = "SCOOT TIGERAIR PTE.";
+"transfer_assignment_con_table_5_2" = "TR";
+"transfer_assignment_con_table_5_3" = "德威 航空公司";
+"transfer_assignment_con_table_5_4" = "TW";
+"transfer_assignment_con_table_6_1" = "香港快運航空";
+"transfer_assignment_con_table_6_2" = "UO";
+"transfer_assignment_con_table_6_3" = "VIETJET AIR";
+"transfer_assignment_con_table_6_4" = "VJ";
+"transfer_assignment_con_table_7_1" = "Thai AirAsia X";
+"transfer_assignment_con_table_7_2" = "XJ";
+"transfer_assignment_con_table_7_3" = "东部快捷 航空公司";
+"transfer_assignment_con_table_7_4" = "ZE";
+"transfer_assignment_con_table_8_1" = "宿务太平洋航空公司";
+"transfer_assignment_con_table_8_2" = "5J";
+"transfer_assignment_con_table_8_3" = "Jejuair";
+"transfer_assignment_con_table_8_4" = "7C";
+"transfer_assignment_con_table_9_1" = "春秋航空";
+"transfer_assignment_con_table_9_2" = "9C";
+
+"transfer_assignment_t2_table_1_1" = "大韓航空公司";
+"transfer_assignment_t2_table_1_2" = "KE";
+"transfer_assignment_t2_table_1_3" = "法国航空公司";
+"transfer_assignment_t2_table_1_4" = "AF";
+"transfer_assignment_t2_table_2_1" = "达美航空";
+"transfer_assignment_t2_table_2_2" = "DL";
+"transfer_assignment_t2_table_2_3" = "荷兰皇家航空公司";
+"transfer_assignment_t2_table_2_4" = "KL";
+"transfer_assignment_t2_table_3_1" = "印度尼西亚鹰航空";
+"transfer_assignment_t2_table_3_2" = "GA";
+"transfer_assignment_t2_table_3_3" = "中国厦门航空";
+"transfer_assignment_t2_table_3_4" = "MF";
+"transfer_assignment_t2_table_4_1" = "AEROMEXICO";
+"transfer_assignment_t2_table_4_2" = "AM";
+"transfer_assignment_t2_table_4_3" = "俄罗斯国营航空公司";
+"transfer_assignment_t2_table_4_4" = "SU";
+"transfer_assignment_t2_table_5_1" = "Alitalia";
+"transfer_assignment_t2_table_5_2" = "AZ";
+"transfer_assignment_t2_table_5_3" = "中华航空公司";
+"transfer_assignment_t2_table_5_4" = "CI";
+"transfer_assignment_t2_table_6_1" = "Czech Airlines";
+"transfer_assignment_t2_table_6_2" = "OK";
+
+/* transfer - path */
+"transfer_sub_category_1" = "终端1";
+"transfer_sub_category_2" = "登机楼";
+"transfer_sub_category_3" = "终端2";
+
+"transfer_path_t1_title_1" = "终端1 → 终端1";
+"transfer_path_t1_1_desc_1" = "① 入境口(2楼)";
+"transfer_path_t1_1_desc_2" = "② 转机安检(2楼 → 3楼)";
+"transfer_path_t1_1_desc_3" = "③ 转机服务台(4楼)";
+"transfer_path_t1_1_desc_4" = "④ 出境口(3楼)";
+"transfer_path_t1_title_2" = "终端1 → 登机楼";
+"transfer_path_t1_2_desc_1" = "① 入境口(2楼)";
+"transfer_path_t1_2_desc_2" = "② 转机安检(2楼 → 3楼)";
+"transfer_path_t1_2_desc_3" = "③ 跟随绿色标记(101~270)";
+"transfer_path_t1_2_desc_4" = "④ 列车(或者小火车)蓝色线(地下1楼)";
+"transfer_path_t1_2_desc_5" = "⑤ 转机服务台(3楼)";
+"transfer_path_t1_2_desc_6" = "⑥ 出境口(3楼)";
+"transfer_path_t1_title_3" = "终端1 → 终端2";
+"transfer_path_t1_3_desc_1" = "① 入境口(2楼)";
+"transfer_path_t1_3_desc_2" = "② 转机安检(2楼 → 3楼)";
+"transfer_path_t1_3_desc_3" = "③ 跟随绿色标记(101~270)";
+"transfer_path_t1_3_desc_4" = "④ 列车(或者小火车)蓝色线(地下1楼)";
+"transfer_path_t1_3_desc_5" = "⑤ 跟随绿色标记(230~270)";
+"transfer_path_t1_3_desc_6" = "⑥ 自动转机口(地下1楼)";
+"transfer_path_t1_3_desc_7" = "⑦ 列车(或者小火车)蓝色线(地下1楼)";
+"transfer_path_t1_3_desc_8" = "⑧ 转机服务台(4楼)";
+"transfer_path_t1_3_desc_9" = "⑨ 出境口(3楼)";
+
+"transfer_path_con_title_1" = "登机楼 → 登机楼";
+"transfer_path_con_1_desc_1" = "① 入境口(2楼)";
+"transfer_path_con_1_desc_2" = "② 跟随绿色标记(101~270)";
+"transfer_path_con_1_desc_3" = "③ 转机安检(2楼 → 3楼)";
+"transfer_path_con_1_desc_4" = "④ 转机服务台(4楼)";
+"transfer_path_con_1_desc_5" = "⑤ 出境口(3楼)";
+"transfer_path_con_title_2" = "登机楼 → 终端1";
+"transfer_path_con_2_desc_1" = "① 入境口(2楼)";
+"transfer_path_con_2_desc_2" = "② 跟随绿色标记(1~50)";
+"transfer_path_con_2_desc_3" = "③ 列车(或者小火车)蓝色线(地下1楼)";
+"transfer_path_con_2_desc_4" = "④ 转机安检(2楼)";
+"transfer_path_con_2_desc_5" = "⑤ 转机服务台(4楼)";
+"transfer_path_con_2_desc_6" = "⑥ 出境口(3楼)";
+"transfer_path_con_title_3" = "登机楼 → 终端2";
+"transfer_path_con_3_desc_1" = "① 入境口(2楼)";
+"transfer_path_con_3_desc_2" = "② 跟随绿色标记(101~270)";
+"transfer_path_con_3_desc_3" = "③ 转机安检(2楼 → 3楼)";
+"transfer_path_con_3_desc_4" = "④ 跟随绿色标记(230~270)";
+"transfer_path_con_3_desc_5" = "⑤ 自动转机口 (3楼)";
+"transfer_path_con_3_desc_6" = "⑥ 列车(或者小火车)蓝色线(地下1楼)";
+"transfer_path_con_3_desc_7" = "⑦ 转机服务台(4楼)";
+"transfer_path_con_3_desc_8" = "⑧ 出境口(3楼)";
+
+"transfer_path_t2_title_1" = "终端2 → 终端2";
+"transfer_path_t2_1_desc_1" = "① 入境口(2楼)";
+"transfer_path_t2_1_desc_2" = "② 跟随绿色标记(230~270)";
+"transfer_path_t2_1_desc_3" = "③ 转机服务台(2楼)";
+"transfer_path_t2_1_desc_4" = "④ 自动转机口(2楼)";
+"transfer_path_t2_1_desc_5" = "⑤ 转机安检(2楼 → 3楼)";
+"transfer_path_t2_1_desc_6" = "⑥ 出境口(3楼)";
+"transfer_path_t2_title_2" = "终端2 → 登机楼";
+"transfer_path_t2_2_desc_1" = "① 入境口(2楼)";
+"transfer_path_t2_2_desc_2" = "② 跟随绿色标记(1~132)";
+"transfer_path_t2_2_desc_3" = "③ 自动转机口(2楼)";
+"transfer_path_t2_2_desc_4" = "④ 列车(或者小火车)蓝色线(地下1楼)";
+"transfer_path_t2_2_desc_5" = "⑤ 跟随绿色标记(101~132)";
+"transfer_path_t2_2_desc_6" = "⑥ 自动转机口(地下1楼)";
+"transfer_path_t2_2_desc_7" = "⑦ 转机安检(2楼 → 3楼)";
+"transfer_path_t2_2_desc_8" = "⑧ 转机服务台(3楼)";
+"transfer_path_t2_2_desc_9" = "⑨ 出境口(3楼)";
+"transfer_path_t2_title_3" = "终端2 → 终端1";
+"transfer_path_t2_3_desc_1" = "① 入境口(2楼)";
+"transfer_path_t2_3_desc_2" = "② 跟随绿色标记(1~132)";
+"transfer_path_t2_3_desc_3" = "③ 自动转机口(2楼)";
+"transfer_path_t2_3_desc_4" = "④ 列车(或者小火车)蓝色线(地下1楼)";
+"transfer_path_t2_3_desc_5" = "⑤ 跟随绿色标记(1~50)";
+"transfer_path_t2_3_desc_6" = "⑥ 自动转机口(地下1楼)";
+"transfer_path_t2_3_desc_7" = "⑦ 列车(或者小火车)蓝色线(地下1楼)";
+"transfer_path_t2_3_desc_8" = "⑧ 转机安检(2楼 → 3楼)";
+"transfer_path_t2_3_desc_9" = "⑨ 转机服务台(4楼)";
+"transfer_path_t2_3_desc_10" = "⑩ 出境口(3楼)";
+
+/* transfer tour */
+"transfer_tour_title_1" = "Entertainment";
+"transfer_tour_title_2" = "Modern Life";
+"transfer_tour_title_3" = "Temple";
+"transfer_tour_title_4" = "Industry";
+"transfer_tour_title_5" = "Tradition";
+"transfer_tour_title_6" = "Shopping";
+
+"transfer_tour_1_desc_1" = "Near the Airport, enjoy the casino with a free $70 coupon in Paradise City  lled with more than 2,700 artworks Or Get on your dream car in the Asia’s  rst driving center of BMW which exhibits BMWs, MINIs, Motorrads and BMW’s classical cars.";
+"transfer_tour_1_sub_title_1" = "Paradise City";
+"transfer_tour_1_sub_1_desc_1" = "- (T1) 07:00~09:00 / 13:00~15:00";
+"transfer_tour_1_sub_1_desc_2" = "- (T2) 09:00~11:00 / 15:00~17:00";
+"transfer_tour_1_sub_title_2" = "BMW Driving Center";
+"transfer_tour_1_sub_2_desc_1" = "- (T1) 09:00~11:00 / 12:00~14:00";
+"transfer_tour_1_sub_2_desc_2" = "- (T2) 15:00~17:00";
+
+"transfer_tour_2_desc_1" = "G-Tower is one of the most popular landmarks of Incheon. The obser- vatory on the 33rd  oor boasts magni cent 360-degree panoramic views of Songdo International City. NC Cube Canal Walk has colorful and unique cafés, brand stores and the venues where cultural events and performances are held.";
+"transfer_tour_2_sub_title_1" = "(T1)14:00~16:00";
+"transfer_tour_2_sub_title_2" = "(T2)16:00~18:00";
+
+"transfer_tour_3_desc_1" = "Jeondeungsa Temple is a presti- gious temple that holds a beautiful Main Buddha Hall designated as Treasure No. 178 of Korea. Jogye- sa is the chief temple of the Jogye Order of Korean Buddhism, and the center of Korea’s modern Buddhist movement. The Main Temple boasts splendid ornaments and golden Bud- dha statues.";
+"transfer_tour_3_sub_title_1" = "(T1/T2) 08:00~12:00";
+"transfer_tour_3_sub_title_2" = "(T1/T2) 14:00~18:00";
+
+"transfer_tour_4_desc_1" = "Gwangmyeong Cave is a historic place that preserves the modern- ization of Korea. It transformed the industrial heritage of abandoned gold mine into the culture, arts and healing spaces. The mine was closed down in 1972 but it is estimated that the cave still has a sizable amount of gold deposits.";
+"transfer_tour_4_sub_title_1" = "(T1/T2) 09:00~13:00";
+
+"transfer_tour_5_desc_1" = "Gyeongbokgung Palace, completed in 1395, was the  rst royal palace built by the Joseon Dynasty. It was constructed about 25 years earlier than the Forbidden City in Beijing, China. Insa-dong, a popular neigh- borhood located in Jongno, is home to antique shops, folk art galleries and small shops selling traditional goods.";
+"transfer_tour_5_sub_title_1" = "(T1/T2) 08:00~13:00";
+"transfer_tour_5_sub_title_2" = "(T1/T2) 10:00~15:00";
+
+"transfer_tour_6_desc_1" = "Myeong-dong is one of the most popular shopping districts in Seoul where international tourists can experience Korea’s latest fashion trends and various street foods. Namdaemun Market is the largest traditional market in Korea and the streets are  lled with small shops that sell from clothes to ginseng, and much more at cheap prices.";
+"transfer_tour_6_sub_title_1" = "(T1/T2) 13:00~18:00";
+
+/* favorite */
+"favorite_category_1" = "全体";
+"favorite_category_2" = "购物&餐厅";
+"favorite_category_3" = "服务设施";
+"favorite_category_4" = "公共交通";
+"favorite_no_result_1" = "暂无收藏。";
+"favorite_no_result_2" = "请收藏常用的服务设施即可享受便利服务。";
+
+/* staff - shuttle bus */
+"staff_shuttle_category_1" = "T1 <-> 长期停车场";
+"staff_shuttle_category_2" = "AICC <-> T1 <-> T2";
+"staff_shuttle_category_3" = "货物办公楼 <-> 物流园区";
+"staff_shuttle_category_4" = "T2 <-> 长期停车场";
+
+"shuttle_bus_predic_time" = "分钟后出发";
+"shuttle_bus_time_hour" = "小时";
+"shuttle_bus_time_etc" = "备注";
+"shuttle_bus_time_min" = "分";
+"shuttle_bus_time_weekday" = "平日";
+"shuttle_bus_time_weekend" = "休息日";
+
+/* 직원버스 예약 */
+"staff_bus_category_1" = "노선버스 예매";
+"staff_bus_category_2" = "운행정보";
+"staff_bus_category_3" = "이용안내";
+"staff_bus_category_4" = "고객지원";
+
+"staff_bus_reserve_link_1" = "승차권예매";
+"staff_bus_reserve_link_2" = "예매조회 / 취소 / 변경";
+"staff_bus_reserve_link_3" = "영수증 발행";
+"staff_bus_route_info_link_1" = "노선 / 운행정보";
+"staff_bus_info_link_1" = "승차권예매 안내";
+"staff_bus_info_link_2" = "예매변경 및 취소 안내";
+"staff_bus_info_link_3" = "현금영수증 안내";
+"staff_bus_help_1" = "공지사항";
+"staff_bus_help_2" = "FAQ";
+"staff_bus_help_3" = "고객의 소리";
+
+/* 입주자지원센터 */
+"tsp_section_title_1" = "운영목적";
+"tsp_section_desc_1" = "인천공항 내 입주부터 퇴거까지 원스톱서비스 지원";
+"tsp_section_title_2" = "위치";
+"tsp_section_desc_2" = "제1교통센터 내 지하1층 서편\n제2교통센터 내 지하2층 서편";
+"tsp_section_title_3" = "운영시간";
+"tsp_section_desc_3" = "08:00 ~ 19:00 (토/일/공휴일 휴무)";
+"tsp_section_title_4" = "관련문의(운영시간만 통화가능)";
+"tsp_section_title_5" = "시설물 유지보수 상담(24시간 운영)";
+"tsp_section_title_6" = "건축 유지보수";
+"tsp_section_title_7" = "기계 유지보수";
+"tsp_section_title_8" = "전기 유지보수";
+"tsp_section_title_9" = "통신 유지보수(전지역)";
+"tsp_section_title_10" = "자유무역지원(건축, 기계, 전기)";
+"tsp_section_title_11" = "입주자 전용서비스 신청";
+"tsp_section_link_4_1" = "T1 입주자서비스센터";
+"tsp_section_link_4_2" = "T2 입주자서비스센터";
+"tsp_section_link_4_3" = "공간배정";
+"tsp_section_link_4_4" = "계약진행";
+"tsp_section_link_4_5" = "정기주차권";
+"tsp_section_link_4_6" = "전화 / LAN / TV";
+"tsp_section_link_4_7" = "시설물 설치변경 상담(총괄)";
+"tsp_section_link_call_4_1" = "032-741-3301";
+"tsp_section_link_call_4_2" = "032-741-3535";
+"tsp_section_link_call_4_3" = "032-741-2402";
+"tsp_section_link_call_4_4" = "032-741-2323";
+"tsp_section_link_call_4_5" = "032-741-6021";
+"tsp_section_link_call_4_6" = "032-741-7000";
+"tsp_section_link_call_4_7" = "032-741-3303";
+"tsp_section_link_5_1" = "공항 헬프데스크";
+"tsp_section_link_call_5_1" = "1577-2600";
+"tsp_section_link_6_1" = "제1여객터미널 / 제1교통센터";
+"tsp_section_link_6_2" = "제2여객터미널 / 제2교통센터";
+"tsp_section_link_6_3" = "탑승동";
+"tsp_section_link_6_4" = "정부합동청사";
+"tsp_section_link_call_6_1" = "032-741-7520";
+"tsp_section_link_call_6_2" = "032-744-6705";
+"tsp_section_link_call_6_3" = "032-741-9173";
+"tsp_section_link_call_6_4" = "032-744-7407";
+"tsp_section_link_7_1" = "제1여객터미널";
+"tsp_section_link_7_2" = "제2여객터미널";
+"tsp_section_link_7_3" = "탑승동";
+"tsp_section_link_7_4" = "제1교통센터";
+"tsp_section_link_7_5" = "제2교통센터";
+"tsp_section_link_7_6" = "제1정부합동청사";
+"tsp_section_link_7_7" = "제2정부합동청사";
+"tsp_section_link_call_7_1" = "032-741-7540";
+"tsp_section_link_call_7_2" = "032-744-6850";
+"tsp_section_link_call_7_3" = "032-741-9170";
+"tsp_section_link_call_7_4" = "032-741-7411";
+"tsp_section_link_call_7_5" = "032-744-6728";
+"tsp_section_link_call_7_6" = "032-741-6768";
+"tsp_section_link_call_7_7" = "032-744-5475";
+"tsp_section_link_8_1" = "제1여객터미널";
+"tsp_section_link_8_2" = "제2여객터미널 / 제2교통센터";
+"tsp_section_link_8_3" = "탑승동";
+"tsp_section_link_8_4" = "제1교통센터";
+"tsp_section_link_8_5" = "제1정부합동청사";
+"tsp_section_link_call_8_1" = "032-741-7524";
+"tsp_section_link_call_8_2" = "032-744-7448";
+"tsp_section_link_call_8_3" = "032-741-9168";
+"tsp_section_link_call_8_4" = "032-741-7524";
+"tsp_section_link_call_8_5" = "032-741-7031";
+"tsp_section_link_9_1" = "인터넷";
+"tsp_section_link_9_2" = "전화, CATV";
+"tsp_section_link_call_9_1" = "032-741-0000";
+"tsp_section_link_call_9_2" = "032-741-4707";
+"tsp_section_link_10_1" = "통합";
+"tsp_section_link_call_10_1" = "032-741-1300";
+"tsp_section_link_11_1" = "입주자 전용서비스 신청 포털(회원가입필수)";
+
+/* bluetooth */
+"bluetooth_fail_title" = "Bluetooth";
+"bluetooth_fail_message" = "打开蓝牙以进行位置服务。";
+"beacon_fail_message" = "由于错误无法打开蓝牙。";
+
+/* beacon */
+"beacon_noti_service" = "基于位置的服务使用中。";
+"beacon_noti_sub_service" = "(按通知按钮撤销)";
+"beacon_welcome_t1" = "欢迎光临第1航站楼。";
+"beacon_welcome_t2" = "欢迎光临第2航站楼。";
+"beacon_welcome_zdc_desc" = "'%@' 我的行程”即可享受仁川机场的便利服务";
+"beacon_checkin_zdc_desc" = "一起感受仁川机场为您带来的旅行的悸动吧！";
+"beacon_zzz_t1" = "这里是第1航站楼。";
+"beacon_zzz_t2" = "这里是第2航站楼。";
+"beacon_zzz_flight" = "飞行";
+"beacon_zzz_t1_desc" = "您所乘坐的航班从%@，请确认前往各航站楼的交通方式。";
+"beacon_zzz_t2_desc" = "您所乘坐的航班从第1航站楼出发，请确认前往各航站楼的交通方式。";
+"beacon_zzz_bus_stop" = "巴士站";
+"beacon_zzz_bus_stop_t1" = "第1客运大楼3F\n中央出口8";
+"beacon_zzz_bus_stop_t2" = "在第2客运大楼\n3楼的第4和第5出口之间";
+"beacon_change_color_t1" = "第1航站楼出发";
+"beacon_change_color_t2" = "第2航站楼出发";
+
+"beacon_button_myplan" = "查看我的日程安排";
+"beacon_button_move_terminal" = "在终端之间移动";
+"beacon_button_traffic" = "公共交通路";
+
+"beacon_zdd_change_color_text" = "这里是免税区。";
+"beacon_zdd_title" = "%@";
+"beacon_zdd_desc_1" = "请确认您的登机信息，并按时到达登机口。";
+"beacon_zdd_desc_2" = "免税券可供选购，享受免税购物。<br />请在行程中立即确认。";
+
+"beacon_zab_change_color_text" = "여권, 입국서류";
+"beacon_zab_carousel" = "行李认领";
+"beacon_zab_desc_1" = "请等待入境检查的旅客准备好护照和其他所需证件。";
+"beacon_zab_desc_2" = "请转机的旅客按照转机指示标志前往中转区。";
+
+"beacon_zat_title" = "祝您一路平安！";
+"beacon_zat_desc" = "我们期待着与您再次幸福邂逅。";
+
+/* my plan */
+"myplan_employee_list_header_time" = "时间";
+"myplan_delete_msg" = "我的计划是将其删除。";
+"myplan_no_result_msg_1" = "您没有注册任何活动。";
+"myplan_no_result_msg_2" = "如果您注册了您的出发/到达航班，您可以更方便地使用仁川机场服务。";
+"myplan_select_delete" = "删除已选中";
+"myplan_all_delete" = "全部删除";
+"myplan_close" = "这是一个封闭的事件。";
+"myplan_select_delete_popup_msg" = "确定要删除所选择的航班吗?";
+"myplan_all_delete_popup_msg" = "确定要删除所选择的航班吗?";
+
+"myplan_card_header_dep_date" = "起源 日期&小时";
+"myplan_card_header_arr_date" = "到达 日期&小时";
+"myplan_card_header_carousel" = "行李";
+"myplan_card_header_exit" = "出口";
+
+"myplan_card_close" = "这是一个封闭的事件";
+
+"myplan_passenger_incheon" = "仁川";
+
+"myplan_passenger_via" = "经由";
+"myplan_passenger_dep_weather" = "目的地天气";
+"myplan_passenger_arr_weather" = "到达地天气";
+
+"myplan_passenger_dep_con_title_1" = "出境大厅拥挤度";
+"myplan_passenger_dep_con_desc_1" = "您预定通过%@出境";
+"myplan_passenger_dep_con_desc_2" = "快速通道不提供客流量预测服务。";
+"myplan_passenger_dep_con_desc_3" = "表示离境日期。";
+"myplan_passenger_dep_con_desc_4" = "拥挤预警发布标准";
+"myplan_passenger_dep_con_btn_1" = "查询出境大厅拥挤度";
+
+"myplan_passenger_dep_con_smooth" = "円滑";
+"myplan_passenger_dep_con_ordinary" = "普通";
+"myplan_passenger_dep_con_crowded" = "混雑";
+"myplan_passenger_dep_con_very_crowded" = "非常に混雑する";
+
+"myplan_passenger_parking_notice" = "※ 剩余车位数量以登录时间为准。";
+
+"myplan_passenger_dep_pre_departure_title" = "出境准备";
+"myplan_passenger_dep_pre_departure_desc" = "为了让出境更加快捷舒适。请您提前确认出入境禁止携带物品和申报规定。";
+"myplan_passenger_dep_pre_departure_btn_1" = "禁限物品";
+"myplan_passenger_dep_pre_departure_btn_2" = "确认托运行李";
+"myplan_passenger_dep_pre_departure_btn_3" = "检疫申报";
+"myplan_passenger_dep_pre_departure_btn_4" = "兵役义务者申报";
+
+"myplan_passenger_dep_hall_title" = "出境大厅";
+"myplan_passenger_dep_hall_desc_1" = "%@你到了。\n请在登机手续。";
+"myplan_passenger_dep_hall_desc_2" = "您的值机柜台是";
+"myplan_passenger_dep_hall_desc_3" = " 。";
+"myplan_passenger_dep_hall_desc_4" = "出行前您是否已兑换外币、开通漫游、购买保险";
+"myplan_passenger_dep_hall_btn_1" = "外币兑换";
+"myplan_passenger_dep_hall_btn_2" = "漫游";
+"myplan_passenger_dep_hall_btn_3" = "保险";
+
+"myplan_passenger_dep_5_title" = "请实时查询出发大厅拥挤度。";
+
+"myplan_passenger_dep_6_title" = "安全检查/边防检查";
+"myplan_passenger_dep_6_desc_1" = "出境前需接受安全检查和边防检查。";
+"myplan_passenger_dep_6_btn_1" = "禁限物品";
+"myplan_passenger_dep_6_desc_2" = "请再次确认是否携带了违禁或受限制物品、提前 准备好护照和登机牌。";
+
+"myplan_passenger_dep_7_title_1" = "这里是免税区。";
+"myplan_passenger_dep_7_title_2" = "这里是免税区。";
+"myplan_passenger_dep_7_desc" = "登机前您可免税店购物";
+"myplan_passenger_dep_7_btn_1" = "# 免税店购物以购买免税商品服务设施享受各种服务设施。";
+"myplan_passenger_dep_7_btn_2" = "# 免税商品提货处";
+"myplan_passenger_dep_7_btn_3" = "# 餐厅";
+"myplan_passenger_dep_7_btn_4" = "# 服务设施";
+
+"myplan_passenger_coupon" = "优惠券框";
+
+"myplan_passenger_dep_8_title" = "登机口指引";
+"myplan_passenger_dep_8_desc_1" = "您所乘坐的航班在";
+"myplan_passenger_dep_8_desc_2" = "号登机口登机。";
+"myplan_passenger_dep_8_desc_3" = "预计起飞时间为%@。";
+"myplan_passenger_dep_8_desc_3_con" = "请您在飞机起飞30分钟前乘坐摆渡列车前往登机楼。";
+"myplan_passenger_dep_8_desc_4" = "通常在预计起飞时间前30分钟开始登机请您按时到达登机口。";
+"myplan_passenger_dep_8_desc_4_con" = "通常在预计起飞时间前30~40分钟开始登机请您按时到达登机口。";
+
+"myplan_passenger_dep_9_title" = "通过登机口";
+"myplan_passenger_dep_9_desc" = "祝您旅途愉快！";
+
+"myplan_passenger_register_warning" = "在同一天注册了一个时间表。\n请删除并重新注册。";
+
+"myplan_passenger_arr_1_title" = "抵达门";
+"myplan_passenger_arr_1_desc" = "欢迎。\n仁川国际机场。";
+
+"myplan_passenger_arr_2_title" = "入境准备";
+"myplan_passenger_arr_2_desc_1" = "来自受污染地区或携带动物、畜产品入境的旅客需出具检疫证书。";
+"myplan_passenger_arr_2_btn_1" = "# 动植物检疫";
+"myplan_passenger_arr_2_desc_2" = "入境前需接受入境审查。\n请您准备好护照和入境卡(韩国公民和持有外国人登录证的外国公民无需填写)。";
+"myplan_passenger_arr_2_btn_2" = "# 入境审查";
+"myplan_passenger_arr_2_desc_3" = "所有入境旅客需填写并提交海关申报单。\n旅客可携带入境的免税商品限额为USD $600美元，如果超过免税额度，旅客应主动向海关申报。";
+"myplan_passenger_arr_2_btn_3" = "# 海关检查";
+
+"myplan_passenger_arr_4_desc_1" = "仁川国際空港%@到了";
+"myplan_passenger_arr_4_desc_1_con" = "乘坐穿梭列车第1旅客航站去吧请参加移民考试";
+"myplan_passenger_arr_4_desc_2" = "移民检查后，请转到行李领取处";
+
+"myplan_passenger_arr_5_title" = "行李提取处";
+"myplan_passenger_arr_5_desc_1" = "请您到";
+"myplan_passenger_arr_5_desc_2" = "号转盘提取行李。";
+
+"myplan_passenger_arr_6_title" = "海关检查";
+"myplan_passenger_arr_6_desc" = "所有入境旅客需填写并提交海关申报单。";
+
+"myplan_passenger_arr_7_title" = "抵达点";
+"myplan_passenger_arr_7_desc_1" = "距离您最近的入境大厅为";
+"myplan_passenger_arr_7_desc_2" = "号出口。";
+
+"myplan_passenger_arr_8_title" = "归国";
+"myplan_passenger_arr_8_desc" = "祝您一路平安！";
+"myplan_passenger_arr_8_btn_1" = "机场大巴";
+"myplan_passenger_arr_8_btn_2" = "机场列车";
+"myplan_passenger_arr_8_btn_3" = "停车场";
+
+"push_popup_flight_detail" = "查看详情";
+
+"search_title" = "検索";
+"search_input_hint" = "请输入搜索词";
+"search_button" = "查找";
+"search_keyword_warning" = "综合搜索入(4)以上位置.";
+"search_recent_keyword_title" = "最近的搜索";
+"search_result_title" = "検索 結果";
+"search_no_result" = "搜索结果不存在";
+
+"search_category_10" = "航班信息| 出发";
+"search_category_20" = "航班信息| 到达";
+"search_category_50" = "购物| 第1旅客航站";
+"search_category_60" = "购物| 第2旅客航站";
+"search_category_70" = "餐厅&饮料| 第1旅客航站";
+"search_category_80" = "餐厅&饮料| 第2旅客航站";
+"search_category_90" = "优惠券| 优惠券";
+"search_category_91" = "优惠券| 免税 优惠券";
+"search_category_100" = "优惠券| 中转 优惠券";
+"search_category_110" = "休息| 第1旅客航站";
+"search_category_120" = "休息| 第2旅客航站";
+"search_category_130" = "医疗| 第1旅客航站";
+"search_category_140" = "医疗| 第2旅客航站";
+"search_category_150" = "金融/保险| 第2旅客航站";
+"search_category_160" = "便利设施| 第1旅客航站";
+"search_category_170" = "便利设施| 第2旅客航站";
+"search_category_180" = "金融/保险| 第1旅客航站";
+"search_category_190" = "公共交通路| 公共汽车";
+"search_category_250" = "交通弱势群体向导";
+"search_category_300" = "出国";
+"search_category_310" = "入境";
+"search_category_320" = "出入国政府机关| 第1旅客航站";
+"search_category_330" = "出入国政府机关| 第2旅客航站";
+"search_category_340" = "终点站移动";
+"search_category_380" = "中转";
+"search_category_410" = "公共交通路";
+"search_category_420" = "停车";
+
+/* pre information push */
+"pre_information_push_title" = "出境大厅拥挤度";
+"pre_information_push_title_1" = "出发信息";
+"pre_information_push_prohibit" = "托运行李中的限制物品";
+"pre_information_push_prohibit_1" = "锂电池，\n电子烟，打火机";
+"pre_information_push_desc" = "为了避免机场拥挤带来的不便，请预留出充分的时间到达机场办理登机手续。";
+"pre_information_push_desc_1" = "";
+
+"pre_congestion_good" = "好";
+"pre_congestion_generally" = "通常";
+"pre_congestion_little_congested" = "有點擁擠";
+"pre_congestion_congested" = "擁擠";
+"pre_congestion_very_congested" = "非常擁擠";
+
+/* share popup */
+"popup_share_show_web" = "查看仁川机场的网站";
+"popup_share_show_web_url" = "https://play.google.com/store/apps/details?id=com.ubivelox.icairport";
+"popup_share_show_app" = "查看仁川机场的应用程序";
+"popup_share_content_image_url" = "http://incheonairportguide.airport.kr:11000/images/logo/IncheonAirportLogo.jpg";
+"popup_share_content_web_url" = "https://play.google.com/store/apps/details?id=com.ubivelox.icairport";
+
+"popup_share_bus_title" = "你想查看巴士%@的详细信息?";
+"popup_share_arex_title" = "你确定要查询机场铁路信息?";
+"popup_share_taxi_title" = "你想查询出租车信息吗?";
+"popup_share_maglev_title" = "你想检查磁悬浮列车信息吗?";
+"popup_share_shuttle_bus_title" = "你想查询班车信息吗?";
+
+"popup_share_shopping_title" = "你想检查购物信息吗?";
+"popup_share_food_title" = "你想检查食品和饮料店的信息?";
+"popup_share_coupon_title" = "您想查看您的优惠券信息吗?";
+"popup_share_rest_title" = "你想检查休息时间信息吗?";
+"popup_share_medical_title" = "你想检查医疗机构的信息吗?";
+"popup_share_finance_title" = "你想看到金融/保险店信息?";
+"popup_share_convenience_title" = "你想检查设施信息?";
+
+/* covid-19 */
+"not_operated" = "闭馆";
+
+"prohibited_item" = "限制物品";
+"prohibited_item_desc_1" = "以下信息仅供参考，请向相应航空公司/机构/设施确认准确信息。";
+"prohibited_item_btn_title" = "飞机内禁止输出物品详细查询";
+"prohibited_item_btn_desc" = "交通安全局主页";
+
+"prohibited_item_title_1" = "液体类";
+"prohibited_item_title_1_desc_1" = "液体，喷雾，凝胶等卫生用品，浴室用品或医药品类等";
+"prohibited_item_title_1_desc_1_1" = "客舱";
+"prohibited_item_title_1_desc_1_2" = "(仅限于国际线单个容器量100ml 以下 1人一个 1L 塑料拉链袋 (20.5cm * 20.5cm / 15cm * 25cm) 可以输出)";
+"prohibited_item_title_1_desc_1_3" = "托运行李";
+"prohibited_item_title_1_desc_1_4" = "(仅限于国际线个容量 500ml(0.5kg)以下 1人 2L(2kg)以下可以输出)";
+"prohibited_item_title_1_desc_2" = "包括辣椒酱/泡菜等液体类食物";
+"prohibited_item_title_1_desc_2_1" = "客舱";
+"prohibited_item_title_1_desc_2_2" = "(辣椒酱泡菜等有液体的食物不可带上飞机 但晒干的食物可以带上飞机)";
+"prohibited_item_title_1_desc_2_3" = "托运行李";
+"prohibited_item_title_1_desc_2_4" = "(无容量限制)";
+
+"prohibited_item_title_2" = "有害物品";
+"prohibited_item_title_2_desc_1" = "刀，铸剑类等";
+"prohibited_item_title_2_desc_1_1" = "客舱";
+"prohibited_item_title_2_desc_1_2" = "托运行李";
+"prohibited_item_title_2_desc_1_3" = "(但塑料刀，带有圆刃的黄油刀，包括安全刃的剃须刀，电子剃须刀和机内专用刀(机场所有)可带入客舱)";
+"prohibited_item_title_2_desc_2" = "电击枪，枪支，武术护身用品等";
+"prohibited_item_title_2_desc_2_1" = "客舱";
+"prohibited_item_title_2_desc_2_2" = "托运行李";
+"prohibited_item_title_2_desc_2_3" = "(但在托运行李中带入的情况，向有关航空运送公司出示持枪许可证或进出口许可书等有关手续，并将子弹分离后妥善保管才可带入)\n(枪支配件中瞄准镜可以带入客舱或放入托运行李)";
+"prohibited_item_title_2_desc_3" = "工具类(锤子，扳手等)";
+"prohibited_item_title_2_desc_3_1" = "客舱";
+"prohibited_item_title_2_desc_3_2" = "托运行李";
+
+"prohibited_item_title_3" = "危险物";
+"prohibited_item_title_3_desc_1" = "锂离子电池等";
+"prohibited_item_title_3_desc_1_1" = "客舱";
+"prohibited_item_title_3_desc_1_2" = "- 备用电池 100Wh 以下 : 无限制\n- 备用电池 100Wh ~ 160Wh 以下 : 1人可输出2个以下\n- 备用电池 超过160Wh : 不可输出\n※ 以上标准各航空公司有所不同，需向各航空公司咨询";
+"prohibited_item_title_3_desc_1_3" = "托运行李";
+"prohibited_item_title_3_desc_2" = "易燃液气体，放射物质等";
+"prohibited_item_title_3_desc_2_1" = "客舱";
+"prohibited_item_title_3_desc_2_2" = "托运行李";
+
+"prohibited_item_faq" = "FAQ";
+"prohibited_item_faq_1" = "프라이팬, 냄비, 전기밥솥 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_1_desc" = "프라이팬, 냄비, 전기밥솥은 기내 반입이 가능합니다. 단, 항공사와 도착지에 따라 반입 규정이 상이할 수 있사오니 기내 수하물 허용규격에 대해 이용하시는 항공사에 사전 문의하시기 바랍니다.";
+"prohibited_item_faq_2" = "등산용 스틱을 기내 반입할 수 있나요?";
+"prohibited_item_faq_2_desc" = "등산용 스틱은 기내 반입이 가능하나, 끝이 날카로울 경우 객실 반입에 제한을 받을 수 있으니 위탁수하물(부치는 짐)로 처리하는 것을 권장합니다. 단, 산악용 망치의 경우 객실 반입이 금지되며 위탁수하물로 반입 가능합니다.";
+"prohibited_item_faq_3" = "카메라 삼각대, 셀카봉을 기내 반입할 수 있나요?";
+"prohibited_item_faq_3_desc" = "셀카봉 및 삼각대를 기내 반입 가능하나, 끝이 날카로울 경우 객실 반입에 제한을 받을 수 있으니 위탁수하물(부치는 짐)로 처리하는 것을 권장합니다.";
+"prohibited_item_faq_4" = "살아있는 동 식물, 과일 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_4_desc" = "살아있는 동 식물은 운송 내용을 증명할 수 있는 서류와 운송자의 신원을 확인하며, 항공사 동의 서류가 없을 경우 검색대 통과를 불허합니다. 또한 동물의 경우 X-ray 검색대에 투입하지 않고 우리(cage)에서 꺼낸 후, 동물과 우리(cage)를 정밀 검색(수검색 등)합니다.'멸종위기에 처한 야생 동 식물종의 국제거래에 관한 협약(CITES)'에서 보호하는 동 식물 및 이를 사용하여 만든 제품 및 가공품 역시 반입이 제한됩니다.";
+"prohibited_item_faq_4_call" = "※ 문의처: 인천공항 검역소(032-740-2660)";
+"prohibited_item_faq_4_call_number" = "032-740-2660";
+"prohibited_item_faq_5" = "술을 기내 반입할 수 있나요?";
+"prohibited_item_faq_5_desc" = "알코올성 음료는 도수에 따라 반입이 제한됩니다.\n- 24도(%) 미만: 객실 및 위탁수하물로 반입 가능\n- 24도(%) 이상 70도(%) 미만: 위탁수하물로 1인당 5L까지 반입 가능\n- 70도(%) 이상: 객실 및 위탁수하물 반입이 불가능\n단, 객실 반입하실 경우 액체 분무 겔류 규정에 의하여 용량에 따라 반입이 제한되오니 확인바랍니다.\n* 액체 겔 분무류 규정: 객실 반입할 경우 개별 100ml 이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 1인당 1L 투명 비닐 지퍼백 1개에 한해 반입 가능";
+"prohibited_item_faq_6" = "공구류를 기내 반입할 수 있나요?";
+"prohibited_item_faq_6_desc" = "공구류는 위해물품으로 분류되어 객실 반입이 불가능하며 위탁수하물 반입만 가능합니다.";
+"prohibited_item_faq_7" = "아이스팩, 아이스박스를 기내 반입할 수 있나요?";
+"prohibited_item_faq_7_desc" = "아이스팩의 경우 액체 분무 겔류 규정에 의하여 용량에 따라 반입이 제한되며, 액체를 포함하지 않는 아이스박스는 객실 및 위탁수하물로 반입 가능합니다.\n* 액체 겔 분무류 규정: 객실 반입할 경우 개별 용기당 100ml 이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 1인당 1L 투명비닐지퍼백 1개에 한해 반입 가능, 위탁 수하물(부치는 짐) 용량 제한 없이 반입 가능 합니다. 단, 드라이아이스는 기내 반입을 위하여 항공사의 승인이 필요하오니 이용하시는 항공사에 문의하시기 바랍니다.";
+"prohibited_item_faq_8" = "외화나 값비싼 물건, 다량의 핸드폰을 기내 반입할 수 있나요?";
+"prohibited_item_faq_8_desc" = "출국 시, 1만 불을 초과하는 금액에 대해서 세관에 신고 후 외국환 신고 확인필증을 구비하셔야하며 값비싼 물건(USD 600이상)의 경우 세관신고대에 휴대물품 반출 신고(확인)서를 작성해야 합니다. 다량의 핸드폰 역시 세관의 반출 확인을 받아야 합니다.\n※ 문의처: 인천공항 세관(032-722-4422)";
+"prohibited_item_faq_9" = "칼을 기내 반입할 수 있나요?";
+"prohibited_item_faq_9_desc" = "칼은 위해물품으로 분류되어 날 길이에 상관없이 객실 반입이 불가하며 위탁수하물로 반입이 가능합니다.";
+"prohibited_item_faq_10" = "유독성 물질 등 위험물 반입 시 어디로 문의하면 되나요?";
+"prohibited_item_faq_10_desc" = "인화성, 화학성, 유독성 물질 등은 원칙상 기내 및 위탁수하물 반입이 금지됩니다. 단, '항공위험물 운송기술기준'에서 정한 안전 요건을 충족한 후 산업안전보건법 에 따른 물질안전보건자료를 해당 항공사에게 제시하여 안전한 물질로 판단되는 경우에 한해 위탁수하물로 반입이 가능합니다. 관련 절차는 이용하시는 항공사에 문의하시기 바랍니다.";
+"prohibited_item_faq_11" = "유골을 기내 반입할 수 있나요?";
+"prohibited_item_faq_11_desc" = "X-ray 검색에서 손상 위험이 있는 유골, 유해 등은 증명 서류(화장증명서, 사망확인서 등)를 구비하시고 보안검색요원에게 확인 바랍니다. 반입 가능 여부에 대해서는 이용하시는 항공사에 사전 문의하셔야 합니다.";
+"prohibited_item_faq_12" = "배터리(리튬이온배터리, 니켈카드뮴 등)를 기내 반입할 수 있나요?";
+"prohibited_item_faq_12_desc" = "알칼라인 종류의 배터리에 대해서는 기내 수하물 및 위탁 수하물 처리 가능하나, 리튬배터리인 경우는 용량에 따라 반입이 제한됩니다.\n- 0Wh∼100Wh: 반입 가능하나 항공사별 허용개수 상이함\n- 100Wh∼160Wh: 항공사 승인 하에 객실로 1인당 2개 반입 가능\n- 160Wh 초과: 반입 불가\n* 항공사와 도착지별로 반입 기준이 조금씩 상이하오니 자세한 사항은 항공사로 문의하시기 바랍니다. 전자기기에 장착된 리튬배터리는 160wh 이하일 경우만 운반 가능합니다. 단, 습식배터리(전해액이 들어있는 축전지)는 항공기 탑재함에 있어 항공사의 승인이 필요합니다.";
+"prohibited_item_faq_13" = "컴퓨터나 태블릿 등 전자제품을 기내 반입할 수 있나요?";
+"prohibited_item_faq_13_desc" = "컴퓨터(데스크탑 노트북), 태블릿 등 항공기 안전에 무해한 전자제품은 기내수하물 및 위탁수하물 처리가 가능합니다. 전자제품 소지 후 보안 검색 시에는 사전에 분리하여 바구니에 담아주시면 신속한 보안검색을 받으실 수 있습니다.";
+"prohibited_item_faq_14" = "의약품(알약, 물약, 투석환자, 철심, 주사기 등)을 기내 반입할 수 있나요?";
+"prohibited_item_faq_14_desc" = "주사기, 침류 등 의료용 물품(도구)은 기내 및 위탁수하물 반입이 가능합니다. 100ml를 초과하는 액체 의약품(인슐린 등)을 기내에 반입하시려면 의사 소견서 또는 처방전(국문 또는 영문)을 지참하여야 합니다.\n* 해외 공항 의약품 반입은 이용하시는 항공사에 문의해주시기 바랍니다.\n또한 기내에서 사용하실 만큼의 양만 객실 반입 하실 수 있으며, 여분의 액체 의약품(인슐린 등)은 위탁수하물(부치는 짐)로 보내셔야 하므로 이점 꼭 유의하여 주시기 바랍니다. 처방전 등이 없는 경우에는 액체 및 젤류 반입제한 규정에 따라 100ml 이하(내용물의 잔여량에 관계없이 용기 용량 기준)만 기내반입이 가능합니다. 일부 물품은 보호케이스에 담겨져 있는 경우만 반입이 가능할 수도 있으며, 위험 물품은 반입이 제한될 수 있습니다. 인체에 이식된 전자의료장치, 철심 등은 보안검색 상에 문제가 없으며, 검색요원의 판단에 따라 별도의 장소에서 정밀검색을 실시 할 수 있습니다. 인공 심박기 이식 승객은 심장박동기 착용 소지증을 확인 후 별도의 장소에서 검색을 실시합니다.";
+"prohibited_item_faq_15" = "임산부인데 보안검색대를 꼭 통과해야 하나요?";
+"prohibited_item_faq_15_desc" = "문형금속탐지기는 인체에 해를 미치지 않으나 문형금속탐지기 통과를 원치 않을 경우, 검색요원의 지시에 따라 별도의 장소에서 촉수 검색을 실시할 수 있습니다.";
+"prohibited_item_faq_16" = "전자담배를 기내 반입할 수 있나요?";
+"prohibited_item_faq_16_desc" = "전자담배는 객실 반입만 가능하며 위탁 수하물(부치는 짐)로 반입 불가능합니다. 반입 수량과 관련하여 배터리 반입 규정을 참고하시기 바랍니다.";
+"prohibited_item_faq_17" = "한약, 홍삼 등 건강보조식품 및 음식물 반입 문의";
+"prohibited_item_faq_17_desc" = "한약, 홍삼 등 건강보조식품류를 포함한 음식류는 고체(알약, 가루포함)일 경우 위탁수하물 및 객실수하물로 처리 가능하나 항공사 별로 반입 가능 용량이 상이 하오니 이용하시는 항공사에 문의 부탁드립니다. 다만, 액체 겔류일 경우 100ml 초과 시(내용물 용량에 관계없이 용기 용량 기준) 객실반입 불가하며, 위탁수하물(부치는 짐)로 처리해야 합니다. 특별 식이처방 음식(승객의 건강에 꼭 필요하다는 의사처방전이 있는 음식)은 항공 여행에 적합한 용량만 허용하며, 의사 소견서 및 처방전을 검색요원에게 제시하여 검색요원이 적합하다고 판단이 된 경우만 객실 반입이 허가됩니다.";
+"prohibited_item_faq_18" = "스프레이(가연성 있는 위생용품, 살충제 등)를 기내 반입할 수 있나요?";
+"prohibited_item_faq_18_desc" = "스프레이로 된 개인위생용품은(헤어스프레이, 산소 스프레이, 몸에 뿌리는 해충 기피제 등) 100ml 이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준) 1인당 1L 투명비닐지퍼백 1개에 한해 객실 반입이 가능하며, 위탁수하물(부치는 짐)로는 2kg(2L)범위 내에서 종류당 500ml이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 각 한 개씩 반입 가능합니다. 호신용 스프레이류는 객실 반입이 금지되며 위탁수하물(부치는 짐)에 한하여 인당 100ml이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준) 1개 반입 가능합니다. 인화성 살충제(에프킬라 등)는 객실‧위탁수하물 모두 반입 불가합니다.";
+"prohibited_item_faq_19" = "액체 분무 겔류 형태의 위생용품, 욕실 용품 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_19_desc" = "인천국제공항에서 출발하는 국제선 모든 항공편을 대상으로 액체 분무 겔류에 해당하는 제품에 대하여 용량에 따라 객실 반입을 제한하고 있습니다. 액체 분무 겔류에 해당하는 제품을 기내로 가지고 가시려면 100ml 이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준)로 투명한 지퍼백(20cmX20cm)에 넣어 닫은 상태로 1인당 지퍼백 1개만 기내소지가 가능합니다.\n<기내소지에 유의해야하는 제품의 예>\n- 액체류 : 김치, 술, 생수, 음료수, 쥬스, 향수, 스킨, 로션 등\n- 분무류 : 헤어스프레이, 산소 스프레이, 몸에 뿌리는 해충 기피제 등\n- 겔류: 샴푸, 린스, 치약, 헤어젤, 선크림, 립글로즈, 고추장, 된장 등\n* 고체 형태의 밑반찬의 경우 기내로 가지고 갈 수 있습니다. (예: 오징어채, 마른멸치 등)\n<지퍼백을 준비하지 못했을 경우>\n미리 준비를 하지 못하셨다면, 공항 여객터미널 3층 중앙 편의점이나 공항 내 서점에서 구입이 가능합니다.\n<어린아이가 사용할 우유, 이유식>\n어린아이(만 6세 이하)를 동반한 승객이 휴대한 어린아이의 용품(우유, 물, 주스, 액체 겔 죽 형태의 음식 및 물티슈 등)은 항공여행 중 사용할 분량에 한하여 기내 소지 허용하고 있습니다.";
+"prohibited_item_faq_20" = "보안검색장에서 적발되어 포기한 물품을 되찾을 수 있나요?";
+"prohibited_item_faq_20_desc" = "기내반입 금지물품 관련 규정에 의하여 적발된 물품을 포기하신 경우 해당 물품을 찾는 것이 불가합니다. 이점 꼭 유의하시기 바라며, 출국 시 기내반입 금지물품이 무엇인지 꼭 확인해 보신 후 보안검색을 받으시기 바랍니다. 기내반입 금지물품은 인천공항 홈페이지 및 항공보안 자율신고제도 홈페이지(http://avsec.ts2020.kr) 에서 확인 가능합니다. 보안검색장에서 적발되어 포기하신 물품은 규정된 절차에 따라 복지기관 등에 기증되고 있습니다.";
+
+/* air brs baggage */
+"air_brs_bag_title" = "确认行李";
+"air_brs_bag_desc_1" = "请扫描行李条形码或输入6~10位行李编号。";
+"air_brs_bag_desc_2" = "扫描行李条形码";
+"air_brs_bag_date_title" = "登机日";
+"air_brs_bag_flight_title" = "航班名称";
+"air_brs_bag_barcode_title" = "行李编号";
+"air_brs_bag_seat_title" = "座位号";
+"air_brs_bag_btn" = "查询";
+"air_brs_bag_desc_3" = "输入行李编号、登机日、航班名称，即可查询自己的行李状态。\n※ 如果是转机乘客，请务必输入座位号。\n※ 从仁川国际机场出发时，目前仅可查询大韩航空（KE）、韩亚航空（OZ）、易斯达航空（ZE）、首尔航空（RS）。";
+"air_brs_bag_fail_msg_1" = "请重新确认所输入的信息。";
+"air_brs_bag_fail_msg_2" = "请重新确认登机日信息。";
+"air_brs_bag_fail_msg_3" = "请重新确认航班信息。";
+"air_brs_bag_fail_msg_4" = "请重新确认行李编号。";
+"air_brs_bag_fail_msg_5" = "请重新确认座位号。";
+"air_brs_bag_popup_fail_msg_1" = "请输入航班信息。";
+"air_brs_bag_popup_fail_msg_2" = "请输入行李编号。";
+"air_brs_bag_popup_fail_msg_3" = "请输入座位号。";
+"air_brs_bag_airline_0" = "大韩航空";
+"air_brs_bag_airline_1" = "韩亚航空";
+"air_brs_bag_airline_2" = "易斯达航空";
+"air_brs_bag_airline_3" = "首尔航空";
+
+"air_brs_bag_result_title" = "行李查询结果";
+"air_brs_bag_result_flight" = "航班名称";
+"air_brs_bag_result_barcode" = "行李编号";
+"air_brs_bag_result_status_1" = "完成行李托运";
+"air_brs_bag_result_status_2" = "完成行李装载";
+"air_brs_bag_result_status_3" = "正在进行开箱检查";
+"air_brs_bag_result_status_desc_1" = "请联系相应航空公司。";
+"air_brs_bag_result_status_desc_2" = "无法找到行李信息。\n请重新确认所输入的信息后稍后再试。";
+"air_brs_bag_result_status_desc_3" = "无法找到行李信息。\n请联系相应航空公司。";
+"air_brs_bag_result_status_call" = "咨询电话";
+"air_brs_bag_result_re_search" = "搜索我的行李";
+

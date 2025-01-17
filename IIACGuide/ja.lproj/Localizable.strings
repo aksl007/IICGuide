@@ -1,0 +1,1984 @@
+
+"com.crashlytics.useFirebaseAppId" = "true";
+
+"app_name" = "仁川空港";
+
+/* home */
+"home_real_time_info" = "リアルタイム空港情報ガイド";
+"home_bottom_menu_1" = "メニューボタン";
+"home_bottom_menu_2" = "Home";
+"home_bottom_menu_3" = "マイスケジュール";
+"home_bottom_menu_4" = "お気に入り";
+
+"home_drag_menu_1" = "フライト情報";
+"home_drag_menu_2" = "空港の状況";
+"home_drag_menu_3" = "駐車案内";
+"home_drag_menu_4" = "乗継案内";
+"home_drag_menu_5" = "公共交通";
+"home_drag_menu_6" = "手荷物の確認";
+"home_drag_menu_7" = "禁止品";
+"home_drag_menu_8" = "入国出迎え";
+"home_drag_menu_9" = "免税店";
+"home_drag_menu_10" = "レストラン";
+"home_drag_menu_11" = "休憩";
+"home_drag_menu_12" = "クーポン";
+"home_drag_title_1" = "空港観光";
+
+"home_floating_1" = "에어봇";
+
+/* real-time info */
+"real_time_info_title" = "リアルタイムの情報";
+"real_time_info_category_1" = "駐車可能の現況";
+"real_time_info_category_2" = "出国場に混雑も";
+"real_time_info_category_3" = "入国書類";
+"real_time_info_category_4" = "客様予告";
+
+/* real-time parking */
+"real_time_info_parking_title" = "駐車可能台数";
+"real_time_info_parking_table_header_1" = "区分";
+"real_time_info_parking_table_header_2" = "位置";
+"real_time_info_parking_table_header_3" = "駐車可能台数";
+"real_time_info_parking_short_term" = "短期駐車場";
+"real_time_info_parking_long_term" = "長期駐車場";
+"real_time_info_parking_table_div_detail_1_1" = "1階";
+"real_time_info_parking_table_div_detail_1_2" = "地下1階";
+"real_time_info_parking_table_div_detail_1_3" = "地下2階";
+"real_time_info_parking_table_div_detail_2_1" = "駐車タワー(P1)";
+"real_time_info_parking_table_div_detail_2_2" = "駐車タワー(P2)";
+"real_time_info_parking_table_div_detail_2_3" = "P1";
+"real_time_info_parking_table_div_detail_2_4" = "P2";
+"real_time_info_parking_table_div_detail_2_5" = "P3";
+"real_time_info_parking_table_div_detail_2_6" = "P4";
+"real_time_info_parking_table_t2_div_detail_1_1" = "1階";
+"real_time_info_parking_table_t2_div_detail_1_2" = "2階";
+"real_time_info_parking_table_t2_div_detail_1_3" = "M階";
+"real_time_info_parking_table_t2_div_detail_1_4" = "地下1階";
+"real_time_info_parking_table_t2_div_detail_2_1" = "-";
+"real_time_info_parking_table_count_unit" = "台 可能";
+"real_time_info_parking_table_count_full" = "満車";
+"real_time_info_parking_sub_title_1" = "1日以上長期駐車の場合長期駐車場利用してください";
+"real_time_info_parking_sub_title_2" = "長期駐車場に駐車した場合、空港シャトルバスを利用すると旅客ターミナルまで簡単にいらっしゃることができます";
+"real_time_info_parking_sub_title_3" = "短期の駐車場は乗用車専用区域です";
+"real_time_info_parking_t2_sub_title_3" = "長期駐車場に駐車した場合, 空港シャトルバスを利用すると旅客ターミナルまで約8分所要されます";
+"real_time_info_parking_link_1" = "駐車料金案内";
+"real_time_info_parking_link_2" = "인천공항 예약주차 바로가기";
+
+/* real-time depature congestion */
+"dep_congestion_smooth" = "顺利";
+"dep_congestion_ordinary" = "一般";
+"dep_congestion_crowded" = "拥挤";
+"dep_congestion_very_crowded" = "拥挤不堪的";
+"dep_congestion_close" = "閉じる";
+"dep_congestion_unit" = "";
+"dep_congestion_total" = "";
+
+/* arr congestion */
+"arr_congestion_time" = "時間";
+"arr_congestion_div" = "区分";
+"arr_congestion_area_b" = "B区域";
+"arr_congestion_area_c" = "C区域";
+"arr_congestion_area_d" = "D区域";
+"arr_congestion_area_e" = "E区域";
+"arr_congestion_time_5" = "5分後";
+"arr_congestion_time_10" = "10分後";
+"arr_congestion_div_kor" = "韓国人";
+"arr_congestion_div_for" = "外国人";
+"arr_congestion_section" = "区域";
+"arr_congestion_from" = "出発地";
+"arr_congestion_flight" = "(航空便)";
+"arr_congestion_sch_time" = "到着予定";
+"arr_congestion_est_time" = "(到着時刻)";
+"arr_congestion_gate" = "到着ゲート";
+"arr_congestion_area_t2_a" = "A区域";
+"arr_congestion_area_t2_b" = "B区域";
+
+/* expected passenger */
+"passenger_category_1" = "出発乗客予告";
+"passenger_category_2" = "到着乗客予告";
+"passenger_title" = "予想乗客人員照会";
+"passenger_t1_1_table_header_1" = "時間";
+"passenger_t1_1_table_header_2" = "出国場 1, 2";
+"passenger_t1_1_table_header_3" = "出国場 3";
+"passenger_t1_1_table_header_4" = "出国場 4";
+"passenger_t1_1_table_header_5" = "出国場 5, 6";
+"passenger_t1_1_table_header_6" = "合計";
+"passenger_t1_2_table_header_2" = "A, B";
+"passenger_t1_2_table_header_3" = "E, F";
+"passenger_t1_2_table_header_4" = "C";
+"passenger_t1_2_table_header_5" = "D";
+"passenger_t2_1_table_header_2" = "出国場 1";
+"passenger_t2_1_table_header_3" = "出国場 2";
+"passenger_t2_2_table_header_2" = "西側 (A)";
+"passenger_t2_2_table_header_3" = "東側 (B)";
+"passenger_sub_title_1" = "D+2予告は毎日17時にアップデートされます.";
+"passenger_sub_title_2" = "出国場に1、6はファースト・トラックで乗客予告対象から除外";
+"passenger_title_2" = "混雑警報発令基準";
+"passenger_t1_desc_1" = "時間当たり7,000~7,600人集中時";
+"passenger_t1_desc_2" = "時間当たり7,600~8,200人集中時";
+"passenger_t1_desc_3" = "時間当たり7,600人以上の連続2時間持続の際\n時間当たり8,200~8,600人集中時";
+"passenger_t1_desc_4" = "時間当たり8,200人以上の連続2時間持続の際\n時間当たり8,600人の超過に";
+"passenger_t2_desc_1" = "時間当たり3,200~3,500人集中時";
+"passenger_t2_desc_2" = "時間当たり3,500~3,800人集中時";
+"passenger_t2_desc_3" = "時間当たり3,500人以上の連続2時間持続の際\n時間当たり3,800~4,000人集中時";
+"passenger_t2_desc_4" = "時間当たり3,800人以上の連続2時間持続の際\n時間当たり4,000人の超過に";
+
+/* parking fee info */
+"parking_fee_info_title_1" = "駐車料金";
+"parking_fee_info_small" = "小型";
+"parking_fee_info_large" = "大型";
+"parking_fee_info_short_term_small_basic" = "基本30分1,200ウォン";
+"parking_fee_info_short_term_small_add" = "追加15分ごとに600ウォン";
+"parking_fee_info_long_term_small_basic" = "1時間1,000ウォン、1日、最大9000ウォン";
+"parking_fee_info_long_term_large_basic" = "30分ごとに1,200ウォン、1日、最大12,000ウォン";
+"parking_fee_info_sub_title_1_1" = "1日以上長期駐車の場合長期駐車場利用してください";
+"parking_fee_info_sub_title_1_2" = "長期駐車場に駐車した場合、空港シャトルバスを利用すると旅客ターミナルまで簡単にいらっしゃることができます";
+"parking_fee_info_sub_title_1_3" = "駐車場が広いため駐車した区域を撮っていただければ車両探すのが容易であり、車両の位置確認機や仁川(インチョン)空港APPなどからも車両の位置を確認することができます";
+"parking_fee_info_reserve" = "예약주차장";
+"parking_fee_info_reserve_small_basic" = "1시간 1,000원\n1일 최대 9,000원";
+
+"parking_fee_info_title_2" = "駐車料金チョンサン方法";
+"parking_fee_info_sub_title_2_1" = "事前無人料金精算機を利用した精算";
+"parking_fee_info_sub_title_2_2" = "有人のブースを利用した精算";
+"parking_fee_info_sub_title_2_3" = "有人のブースを利用した精算";
+"parking_fee_info_sub_title_2_4" = "無人のブースを利用した精算";
+
+"parking_fee_info_title_3" = "요금 감면(20%)";
+"parking_fee_info_sub_title_3" = "저공해 자동차 3종";
+
+"parking_fee_info_title_4" = "料金減免(50%)";
+"parking_fee_info_sub_title_4_1" = "軽自動車";
+"parking_fee_info_sub_title_4_2" = "障害者、異なる等級判定を受けた国家有功者、障害者等級判定を受けた5・18民主有功者、障害者等級判定を受けた枯葉剤後遺症患者";
+"parking_fee_info_sub_title_4_3" = "障害者協会の車両又は障害者団体車両";
+"parking_fee_info_sub_title_4_4" = "低公害自動車";
+"parking_fee_info_sub_title_4_5" = "多子女優待カードを所持している世帯主(父/母)名義の車両";
+"parking_fee_info_link_1" = "인천국제공항 홈페이지 바로가기";
+
+/*슬라이드 메뉴*/
+"slide_main_menu_my_plan" = "マイスケジュール";
+"slide_main_menu_notice" = "お知らせ";
+"slide_main_menu_setting" = "設定";
+"slide_main_menu_home" = "Home";
+"slide_main_menu_flight_info" = "航空便 検索";
+"slide_flight_sub_menu_0" = "運航状況";
+"slide_flight_sub_menu_1" = "運航スケジュール";
+"slide_main_menu_shop" = "ショッピング/レストラン";
+"slide_shop_sub_menu_0" = "ショッピング";
+"slide_shop_sub_menu_1" = "レストラン&飲料";
+"slide_shop_sub_menu_2" = "Duty-free/Dining Stores Map";
+"slide_shop_sub_menu_3" = "クーポン";
+"slide_main_menu_convenience" = "空港サービス";
+"slide_convenience_sub_menu_0" = "休憩";
+"slide_convenience_sub_menu_1" = "医療";
+"slide_convenience_sub_menu_2" = "銀行/保険";
+"slide_convenience_sub_menu_3" = "便宜施設";
+"slide_main_menu_transport" = "交通 & 駐車";
+"slide_transport_sub_menu_0" = "公共交通";
+"slide_transport_sub_menu_1" = "駐車";
+"slide_transport_sub_menu_2" = "ターミナル移動";
+"slide_transport_sub_menu_3" = "全国道案内";
+"slide_main_menu_navigation" = "室内指導";
+"slide_main_menu_airport_guide" = "空港案内";
+"slide_airport_guide_sub_menu_0" = "出国";
+"slide_airport_guide_sub_menu_1" = "入国";
+"slide_airport_guide_sub_menu_2" = "乗継";
+"slide_airport_guide_sub_menu_3" = "出入国機関";
+"slide_airport_guide_sub_menu_4" = "バリアフリーガイド";
+"slide_main_menu_favorite" = "お気に入り";
+"slide_main_menu_staff" = "スタッフ";
+"slide_staff_sub_menu_0" = "入国歓迎";
+"slide_staff_sub_menu_1" = "シャトルバスの時刻表";
+"slide_staff_sub_menu_2" = "職員バス予約";
+"slide_staff_sub_menu_3" = "入居者サービス機関";
+
+/*출도착정보*/
+"flights_flight_info" = "運航状況";
+"flights_departure_info_title" = "出発";
+"flights_arrival_info_title" = "到着";
+"flights_update" = "アップデート";
+"flights_list_header_time" = "時刻";
+"flights_list_header_new" = "変更";
+"flights_list_header_flight" = "航空便";
+"flights_list_header_status" = "状態";
+"flights_list_header_dest" = "目的地";
+"flights_list_header_origin" = "出発地";
+"flights_list_header_via" = "経由地";
+"flights_list_header_checkin" = "チェックインカウンター";
+"flights_list_header_gate" = "到着ゲート";
+"flights_list_header_carousel" = "手荷物/出口";
+"flights_list_header_exit" = "到着ゲート";
+
+"flights_no_result" = "運航情報がありません。";
+
+"flights_list_all" = "全体";
+"flights_list_t1" = "第1旅客ターミナル";
+"flights_list_t2" = "第2旅客ターミナル";
+
+/* flight detail */
+"flight_detail_reserved" = "Reserved flight number";
+"flight_detail_actual" = "Actual flight number";
+"flight_detail_codeshare_info" = "This is a codeshare flight.\nPlease ensure you head to the correct Terminal.";
+"flight_detail_incheon" = "仁川";
+"flight_detail_flight_time" = "予定飛行時間";
+"flight_detail_elapse_time" = "%@ 時間 %@ 分";
+"flight_detail_counter" = "チェックインカウンター";
+"flight_detail_walk_time" = "予想徒歩時間";
+"flight_detail_walk_time_1" = "分";
+"flight_detail_walk_time_2" = "(出国審査後)";
+"flight_detail_gate" = "到着ゲート";
+"flight_detail_arrival_gate" = "到着ゲート";
+"flight_detail_arrival_carousel" = "手荷物受取所";
+"flight_detail_arrival_exit" = "出口";
+"flight_detail_arrival_baggage" = "受付中";
+"flight_detail_arrival_baggage_finish" = "受付完了";
+"flight_detail_register_schedule" = "マイスケジュール登録";
+"flight_detail_schedule_msg_1" = "選択した日程を登録しました";
+"flight_detail_schedule_msg_2" = "選択したスケジュールを削除しました";
+"flight_detail_share" = "共有する";
+"flight_detail_share_msg_1" = "变化 =>";
+"flight_detail_share_msg_2" = ", 行李号码 :";
+"flight_detail_share_msg_3" = ", 出口号码 :";
+"flight_detail_share_msg_4" = ", 入口号码 :";
+
+
+/* common */
+"common_yes" = "はい";
+"common_no" = "いいえ";
+"common_agree" = "同意する";
+"common_disagree" = "同意しない";
+"common_confirm" = "確認";
+"common_cancel" = "取消";
+"common_close" = "閉じる";
+"common_notification" = "お知らせ";
+"common_confirm_finish" = "戻るボタンを再度押すと、終了します。";
+"common_loading" = "読み込み中です。";
+"common_search" = "検索";
+"common_ready" = "11/26からサービスする予定です。";
+"common_favorite" = "お気に入り";
+"common_facility_no_result" = "検索結果がありません";
+"common_facility_no_result_common" = "";
+"common_facility_no_result_dutyfree" = "";
+"common_bus_no_result" = "";
+"common_station_no_result" = "";
+"common_favorate_section_title" = "お気に入りのご利用案内";
+"common_past_flight" = "運航が終わった航空便です。\nお気に入りに追加できません。";
+"common_won_format" = "%1$sウォン";
+"common_won" = "ウォン";
+"common_no_more_show" = "再び見ない";
+"common_number_bracket" = "(%1$d)";
+"common_counter" = "カウンター";
+"common_baggage_claim_area" = "手荷物受取台";
+"common_destination" = "目的地";
+"common_arrivals_hall" = "入国場";
+"common_retry" = "再び試し";
+"common_am" = "午前";
+"common_pm" = "午後";
+"common_setting" = "設定";
+"common_searchlist" = "最近の検索";
+"common_phone_call" = "電話をかけたいのですが?";
+"common_back" = "バック";
+
+/* flight search */
+"flight_search_title" = "航空便 検索";
+"flight_search_date" = "日付";
+"flight_search_time" = "時間";
+"flight_search_today_departure" = "今日の出発現況";
+"flight_search_today_arrival" = "今日の到着現況";
+"flight_search_origin" = "出発地";
+"flight_search_origin_content" = "出発地選択";
+"flight_search_destination" = "目的地";
+"flight_search_destination_content" = "到着地選択";
+"flight_search_airlilne" = "航空社";
+"flight_search_airlilne_content" = "航空社選択";
+"flight_search_flight_name" = "便名";
+"flight_search_flight_name_hint" = "便名を入力してください.";
+"flight_search_exitdoor" = "入国場";
+"flight_search_choice_exitdoor" = "入国場選択";
+"flight_search_search" = "検索";
+"flight_search_select_time_error" = "選択した時間が正しくありません。";
+"flight_search_sun" = "(日)";
+"flight_search_mon" = "(月)";
+"flight_search_tue" = "(火)";
+"flight_search_Wed" = "(水)";
+"flight_search_thr" = "(木)";
+"flight_search_fri" = "(金)";
+"flight_search_sat" = "(土)";
+"flight_search_not_select" = "選択しない";
+"flight_search_not_flight" = "検索する航空便の情報がありません。";
+"flight_search_terminal" = "ターミナル";
+"flight_search_terminal_content" = "ターミナル選択";
+
+/* flight enum */
+"flight_enum_1" = "出発";
+"flight_enum_2" = "到着";
+
+/* flight season */
+"flight_season_airline" = "航空会社";
+"flight_season_flight" = "便名";
+"flight_season_time" = "時間";
+"flight_season_mon" = "月";
+"flight_season_tue" = "火";
+"flight_season_wed" = "水";
+"flight_season_thu" = "木";
+"flight_season_fri" = "金";
+"flight_season_sat" = "土";
+"flight_season_sun" = "日";
+"flight_season_period" = "運行期間";
+
+/* popup */
+"popup_date_picker" = "日付設定";
+"popup_title_update" = "アップデートのお知らせ";
+"popup_major_update" = "サービスがアップデートされました。\nアップデート後にサービスがご利用になれます。\n今設置しますか。";
+"popup_extra_update" = "安定的なサービスの利用のため、\n最新バージョンにアップデートしてください。\n今設置しますか。";
+"popup_btn_update" = "アップデート";
+"popup_notice_detail" = "詳細表示";
+"popup_not_connect_network" = "サービス情報の受信に\n失敗しました。\nしばらくしてから再び接続してください。";
+
+/* setting */
+"setting_version" = "バージョン情報";
+"setting_lang" = "言語";
+"setting_lang_ko" = "韓国語";
+"setting_lang_en" = "英語";
+"setting_lang_zh" = "中国語";
+"setting_lang_ja" = "日本語";
+"setting_weather_display" = "温度単位";
+"setting_weather_celsius_temp" = "℃";
+"setting_weather_fahrenheit_temp" = "℉";
+"setting_alter_type" = "タイプ";
+"setting_passenger" = "旅客";
+"setting_employee" = "スタッフ用";
+"setting_flight_schedule" = "スケジュール通知を受信";
+"setting_beacon" = "位置情報のサービス利用のお知らせ";
+
+"setting_general_title" = "一般設定";
+"setting_myplan_title" = "私のスケジュール設定";
+"setting_alter_desc_1" = "※ 1日に登録できるフライトは1つだけです。";
+"setting_alter_desc_2" = "※ 1日に複数のフライトを登録できます。";
+
+/* disabled and elderly */
+"disabled_elderly_category_1" = "交通";
+"disabled_elderly_category_2" = "電動カート";
+"disabled_elderly_category_3" = "専用駐車場";
+"disabled_elderly_category_4" = "出入国";
+"disabled_elderly_category_5" = "便宜施設";
+"disabled_elderly_category_6" = "緊急電話";
+
+/* disabled - transport */
+"disabled_transport_section_title_1" = "空港の中へ行く";
+"disabled_transport_section_desc_1_1" = "出発階(3階)障害人停車場には案内カウンターと直接つながる Help Phoneが設置されています";
+"disabled_transport_section_desc_1_2" = "Help Phoneを利用すると、車椅子サービスをご利用いただけます.";
+"disabled_transport_section_title_2" = "空港から出る";
+"disabled_transport_section_link_1" = "バス路線案内";
+"disabled_transport_section_link_2" = "仁川交通公社 障害者コールタクシー";
+"disabled_transport_section_link_3" = "ソウル施設公団 障害者コールタクシー";
+"disabled_transport_section_link_call_1" = "032-741-6400";
+"disabled_transport_section_link_call_2" = "1577-0320";
+"disabled_transport_section_link_call_3" = "1588-4388";
+
+/* disabled - Electric cart */
+"disabled_electric_section_title_1" = "電動カートサービス";
+"disabled_electric_section_title_2" = "空港鉄道(地下1階)→第1旅客ターミナル3階";
+"disabled_electric_section_desc_2" = "空港駅(AREX)からターミナルの中央まで電気カートを使用することができます.あなたの航空会社のチェックインカウンターに行くには、B1から3階までエレベーターに乗ってください";
+"disabled_electric_section_title_3" = "1階→空港鉄道(地下1階)";
+"disabled_electric_section_desc_3" = "旅客ターミナル1階にある総合案内デスクに来たら空港鉄道駅(AREX)方向をご案内いたします. 地下1階中央から空港鉄道駅(AREX)まで電動カートサービスを受けることができます";
+
+/* disabled - parking */
+"disabled_parking_section_title_1" = "専用駐車場";
+"disabled_parking_section_desc_1_col_1_1" = "駐車場";
+"disabled_parking_section_desc_1_col_1_2" = "障害者専用";
+"disabled_parking_section_desc_1_col_1_3" = "妊婦専用";
+"disabled_parking_section_desc_1_col_2_1" = "短期";
+"disabled_parking_section_desc_1_col_2_2" = "1階 A5, B3\n地下1階 A5, A7, H7, H10";
+"disabled_parking_section_desc_1_col_2_3" = "1階 A5, B3\n1階 東 A7, 西 H2";
+"disabled_parking_section_desc_1_col_3_1" = "長期";
+"disabled_parking_section_desc_1_col_3_2" = "東 1, 3, 4, 9\n西 51, 53, 54, 59";
+"disabled_parking_section_desc_1_col_3_3" = "1階 東 1, 西 51";
+"disabled_parking_section_desc_1_2" = "障害者車両に限って、福祉カード所持者搭乗確認後、駐車料金の50%割引";
+"disabled_parking_section_desc_1_3" = "障害者用フリーリフトサービス(032-741-3217)に連絡をくれれば、ターミナルと長期駐車場の間で便利に移動することができます";
+"disabled_parking_section_t2_desc_col_1_1" = "駐車場";
+"disabled_parking_section_t2_desc_col_1_2" = "障害者専用";
+"disabled_parking_section_t2_desc_col_2_1" = "短期";
+"disabled_parking_section_t2_desc_col_2_2" = "1階 西 138, 139 1階 東 230, 231\n2층 西 149 2층 東 240";
+"disabled_parking_section_t2_desc_col_3_1" = "長期";
+"disabled_parking_section_t2_desc_col_3_2" = "B112,B113,B122,C110,C111,C120\nD113,D122,D123,E111,E120,E121";
+
+/* disabled - Amenities */
+"disabled_amenities_section_title_1" = "車いす昇降路";
+"disabled_amenities_section_desc_1" = "第1旅客ターミナル-長期駐車場";
+"disabled_amenities_section_title_2" = "専用停車場";
+"disabled_amenities_section_desc_2" = "第1旅客ターミナル3度、12番出口乗用車停車区域";
+"disabled_amenities_section_title_3" = "点字誘導ブロックと音響信号機";
+"disabled_amenities_section_desc_3" = "第1旅客ターミナルにあるすべての横断歩道前に設置して案内カウンターへの誘導";
+"disabled_amenities_section_title_4" = "視覚障害者用の音声誘導機";
+"disabled_amenities_section_desc_4" = "案内デスクで現在の位置を把握できる音声誘導機設置(3階改札前8番目、1階5番ゲート)";
+"disabled_amenities_section_title_5" = "手話通訳用画像電話機";
+"disabled_amenities_section_desc_5" = "旅客ターミナル1階5、10度案内デスク";
+"disabled_amenities_section_title_6" = "専用の電話 / Help Phone";
+"disabled_amenities_section_desc_6" = "案内カウンターや直接連結が可能で、要請時、サービス要員の案内提供 旅客ターミナルの前面(3階3、7、8、12番) 交通センター、地上駐車場(A5、H3区域) 地下1階の駐車場(A5-4、A8-7、H7-7、H10-4)";
+"disabled_amenities_section_title_7" = "エレベーター";
+"disabled_amenities_section_desc_7" = "障害人、老弱者、妊婦の上下階間移動の便宜のためのエレベーター";
+"disabled_amenities_section_title_8" = "エスカレーター / 自動歩道";
+"disabled_amenities_section_desc_8" = "エスカレーターおよび自動歩道、出入国に低速運転スイッチを取り付けて運行速度の調節が可能";
+"disabled_amenities_section_title_9" = "ベビーカー貸出サービス";
+"disabled_amenities_section_desc_9_1" = "無料貸し出しを位置";
+"disabled_amenities_section_desc_9_1_1" = "- 一般エリア : 総合案内デスク 旅客ターミナルチュルバルチュン3階(3、8、11番の出入り口) 旅客ターミナルドチャクチュン1階(6、9番出入口)";
+"disabled_amenities_section_desc_9_1_2" = "- 免稅エリア : 3階12、29番ゲート前, コンコ-ス 3階 中央";
+"disabled_amenities_section_title_10" = "車椅子";
+"disabled_amenities_section_desc_10" = "無料貸し出しを位置:総合案内デスク 旅客ターミナルチュルバルチュン3階(3、7、12番の出入り口) 旅客ターミナルドチャクチュン1階(3、5、10、12番出入口) 免税区域(3階25、29番ゲート前)";
+"disabled_amenities_section_title_11" = "専用トイレや飲水台";
+"disabled_amenities_section_desc_11" = "化粧室ごとに少なくとも1室の障害者用のトイレと専用飲水台設置 広い出入口と内部空間、スイッチ自動ドア、非常ベル、センサーを設置";
+"disabled_amenities_section_title_12" = "障害者無料リフトサービス";
+"disabled_amenities_section_desc_12" = "長期駐車場 - ターミナル移動時(032-741-3217)";
+"disabled_amenities_t2_section_desc_9_1_1" = "- 一般エリア : 総合案内デスク 旅客ターミナルチュルバルチュン3階(2, 7番の出入り口) 旅客ターミナルドチャクチュン1階(2, 5番出入口)";
+"disabled_amenities_t2_section_desc_9_1_2" = "- 免稅エリア : 3階248、253番ゲート前";
+
+/* disabled - Emergency */
+"disabled_emergency_section_link_1" = "空港警察";
+"disabled_emergency_section_link_2" = "空港医療センター";
+"disabled_emergency_section_link_3" = "きけんぶつ 申告";
+"disabled_emergency_section_link_4" = "火災の通報";
+"disabled_emergency_section_link_call_1" = "032-740-5561";
+"disabled_emergency_section_link_call_2" = "032-743-3119";
+"disabled_emergency_section_link_call_3" = "032-741-4736";
+"disabled_emergency_section_link_call_4" = "032-741-2119";
+
+"tax_free_area" = "免税エリア";
+"public_area" = "一般エリア";
+
+/* shopping - shopping */
+"shop_category_1" = "全体";
+"shop_category_2" = "名品館";
+"shop_category_3" = "化粧品/香水";
+"shop_category_4" = "ファッション・アクセサリー";
+"shop_category_5" = "酒類 / タバコ";
+"shop_category_6" = "贈り物";
+"shop_category_7" = "電子製品";
+"shop_category_8" = "食品";
+"shop_category_9" = "書店/コンビニ";
+"shop_category_10" = "韓流商品";
+"shop_category_11" = "24時オープン";
+
+/* facility detail */
+"facility_detail_loc" = "売場の位置";
+"facility_detail_item" = "品目";
+"facility_detail_service" = "サービス";
+"facility_detail_open" = "運営時間";
+"facility_detail_link_1" = "売場の位置";
+"facility_detail_link_1_1" = "機関の位置";
+"facility_detail_link_2" = "利用問い合わせ";
+"facility_detail_link_3" = "お気に入り";
+
+/* shopping - food */
+"food_category_1" = "全体";
+"food_category_2" = "ファーストフード";
+"food_category_3" = "韓国料理";
+"food_category_4" = "ワールドフード";
+"food_category_5" = "フードコート";
+"food_category_6" = "カフェバー";
+"food_category_7" = "パン屋";
+"food_category_8" = "24時オープン";
+
+/* shopping - map */
+"map_category_1" = "B1";
+"map_category_2" = "F1";
+"map_category_3" = "F3(レストラン&飲料)";
+"map_category_4" = "F3(免税)";
+"map_category_5" = "F4";
+"map_category_t2_5" = "F4/F5";
+
+/* shopping - coupon */
+"coupon_category_1" = "クーポン";
+"coupon_category_2" = "免税クーポン";
+"coupon_category_3" = "乗り換えクーポン";
+"coupon_category_4" = "クーポン艦";
+
+"coupon_list_publisher" = "仁川空港売り場";
+"coupon_list_end_date" = "%@ まで";
+
+"coupon_detail_section_title_1" = "特典および使用方法";
+"coupon_detail_section_desc_1" = "注文前にクーポン使用を職員におっしゃってください";
+"coupon_detail_section_desc_amount_1" = "%@%@以上の商品をお買い上げの場合、%@%@引きとなります。";
+"coupon_detail_section_desc_amount_2" = "%@%@以上の商品をお買い上げの場合";
+"coupon_detail_section_desc_amount_3" = "%@%@引きとなります。";
+"coupon_detail_section_desc_percent_1" = "%@%%割引される場合、最大割引金額は%@%@です。";
+"coupon_detail_section_desc_percent_2" = "%@%%割引される場合";
+"coupon_detail_section_desc_percent_3" = "最大割引金額は%@%@です。";
+"coupon_detail_section_title_2" = "有効期間";
+"coupon_detail_section_title_3" = "留意事項";
+"coupon_detail_section_desc_3_1" = "店舗にて、ご本人確認のためパスポートと航空券の提示を求められることがございます。";
+"coupon_detail_section_desc_3_2" = "他のイベントや割引クーポン、同一イベントのクーポンと重複して使用不可";
+"coupon_detail_section_desc_3_3" = "使用したクーポンは再使用が不可能です";
+"coupon_detail_section_desc_3_4" = "本クーポンのイメージは、実物と異なることができます";
+"coupon_detail_section_desc_3_5" = "イベント売場に限る";
+"coupon_detail_section_title_4" = "行使対象";
+
+/* Convenience - Rest */
+"rest_category_1" = "全体";
+"rest_category_2" = "ラウンジ";
+"rest_category_3" = "ホテル";
+"rest_category_4" = "美容/スパ";
+
+/* Convenience - Medical */
+"medical_category_1" = "薬局";
+"medical_category_2" = "病院";
+
+/* Convenience - Finance */
+"finance_category_1" = "付加価値税還付";
+"finance_category_2" = "両替所/ATM";
+"finance_category_3" = "銀行";
+"finance_category_4" = "旅行保険";
+
+/* Convenience - Other */
+"other_category_1" = "携帯のレンタル/ローミング";
+"other_category_2" = "荷造り・小包サービス";
+"other_category_3" = "レンタカー";
+"other_category_4" = "航空会社";
+"other_category_5" = "旅行会社";
+"other_category_6" = "コート保管";
+"other_category_7" = "24時オープン";
+"other_category_8" = "祈祷室";
+
+/* transport - public */
+"transport_category_1" = "バス";
+"transport_category_2" = "空港鉄道";
+"transport_category_3" = "タクシー";
+"transport_category_4" = "シャトルバス";
+"transport_category_5" = "磁気浮上列車";
+
+/* bus */
+"bus_title_1" = "バス乗車場の位置";
+"bus_link_1" = "ソウル方面";
+"bus_link_2" = "キョンギド方面";
+"bus_link_3" = "仁川方面";
+"bus_link_4" = "深夜バス";
+"bus_link_5" = "地方方面";
+"bus_link_6" = "バス予約";
+
+/* bus list */
+"bus_list_stop" = "バス乗車場の位置";
+"bus_list_interval" = "配車間隔";
+"bus_list_time" = "回";
+
+/* bus detail */
+"bus_detail_title" = "バス路線詳細";
+"bus_detail_region_1" = "ソウル";
+"bus_detail_region_2" = "キョンギド";
+"bus_detail_region_3" = "仁川";
+"bus_detail_region_4" = "深夜";
+"bus_detail_region_5" = "地方";
+"bus_detail_depot" = "乗車場";
+"bus_detail_dest" = "終点行";
+"bus_detail_fare" = "料金";
+"bus_detail_fare_adult" = "成人";
+"bus_detail_fare_child" = "児童";
+"bus_detail_fare_unit" = "KRW";
+"bus_detail_allocation" = "配車間隔";
+"bus_detail_company" = "会社名";
+"bus_detail_link_1" = "停留場";
+"bus_detail_link_2" = "時刻表";
+"bus_detail_link_3" = "バス乗車場の位置";
+"bus_detail_link_4" = "関連請願及びお問い合わせ";
+
+/* arex */
+"arex_title_1" = "一般列車 : 空港鉄道12の駅にすべて停車した通勤型の列車";
+"arex_title_2" = "直通列車 : ソウル駅や仁川(インチョン)国際空港駅をノンストップ運行する高級列車";
+"arex_table_1_col_1" = "区分";
+"arex_table_1_col_2" = "一般列車";
+"arex_table_1_col_3" = "直通列車";
+"arex_table_2_col_1" = "所要時間";
+"arex_table_2_col_2" = "58~60分";
+"arex_table_2_col_3" = "43~45分";
+"arex_title_3" = "鉄道路線";
+"arex_link_1" = "運賃表";
+"arex_link_2" = "時刻表";
+"arex_link_3" = "位置案内";
+"arex_link_4" = "利用問い合わせ";
+"arex_link_4_call_1" = "1599-7788";
+
+/* arex - fare */
+"arex_fare_title_1" = "直通列車 : 大人 9,000KRW / 子供 7,000KRW";
+"arex_fare_title_2_t1" = "第1旅客ターミナル 一般列車 運賃表";
+"arex_fare_title_2_t2" = "第2旅客ターミナル 一般列車 運賃表";
+"arex_fare_table_title_1" = "停留場";
+"arex_fare_table_title_2" = "運賃表";
+
+"arex_fare_table_t1_station_1" = "仁川国際空港駅 第2旅客ターミナル";
+"arex_fare_table_t1_station_2" = "空港貨物ターミナル";
+"arex_fare_table_t1_station_3" = "雲西";
+"arex_fare_table_t1_station_4" = "泳宗";
+"arex_fare_table_t1_station_5" = "靑羅国際都市";
+"arex_fare_table_t1_station_6" = "黔岩";
+"arex_fare_table_t1_station_7" = "桂陽";
+"arex_fare_table_t1_station_8" = "金浦空港";
+"arex_fare_table_t1_station_9" = "マゴンナル";
+"arex_fare_table_t1_station_10" = "デジタルメディアシティ";
+"arex_fare_table_t1_station_11" = "弘大入口";
+"arex_fare_table_t1_station_12" = "孔徳";
+"arex_fare_table_t1_station_13" = "ソウル駅";
+
+"arex_fare_table_t1_fare_1" = "900 KRW";
+"arex_fare_table_t1_fare_2" = "900 KRW";
+"arex_fare_table_t1_fare_3" = "900 KRW";
+"arex_fare_table_t1_fare_4" = "1,000 KRW";
+"arex_fare_table_t1_fare_5" = "2,300 KRW";
+"arex_fare_table_t1_fare_6" = "2,600 KRW";
+"arex_fare_table_t1_fare_7" = "3,250 KRW";
+"arex_fare_table_t1_fare_8" = "3,750 KRW";
+"arex_fare_table_t1_fare_9" = "3,750 KRW";
+"arex_fare_table_t1_fare_10" = "3,950 KRW";
+"arex_fare_table_t1_fare_11" = "4,050 KRW";
+"arex_fare_table_t1_fare_12" = "4,050 KRW";
+"arex_fare_table_t1_fare_13" = "4,150 KRW";
+
+"arex_fare_table_t2_station_1" = "仁川国際空港駅 第1旅客ターミナル";
+"arex_fare_table_t2_station_2" = "空港貨物ターミナル";
+"arex_fare_table_t2_station_3" = "雲西";
+"arex_fare_table_t2_station_4" = "泳宗";
+"arex_fare_table_t2_station_5" = "靑羅国際都市";
+"arex_fare_table_t2_station_6" = "黔岩";
+"arex_fare_table_t2_station_7" = "桂陽";
+"arex_fare_table_t2_station_8" = "金浦空港";
+"arex_fare_table_t2_station_9" = "マゴンナル";
+"arex_fare_table_t2_station_10" = "デジタルメディアシティ";
+"arex_fare_table_t2_station_11" = "弘大入口";
+"arex_fare_table_t2_station_12" = "孔徳";
+"arex_fare_table_t2_station_13" = "ソウル駅";
+
+"arex_fare_table_t2_fare_1" = "900 KRW";
+"arex_fare_table_t2_fare_2" = "900 KRW";
+"arex_fare_table_t2_fare_3" = "1,500 KRW";
+"arex_fare_table_t2_fare_4" = "1,600 KRW";
+"arex_fare_table_t2_fare_5" = "2,900 KRW";
+"arex_fare_table_t2_fare_6" = "3,200 KRW";
+"arex_fare_table_t2_fare_7" = "3,850 KRW";
+"arex_fare_table_t2_fare_8" = "4,350 KRW";
+"arex_fare_table_t2_fare_9" = "4,350 KRW";
+"arex_fare_table_t2_fare_10" = "4,550 KRW";
+"arex_fare_table_t2_fare_11" = "4,650 KRW";
+"arex_fare_table_t2_fare_12" = "4,650 KRW";
+"arex_fare_table_t2_fare_13" = "4,750 KRW";
+
+"arex_fare_sub_title_1" = "子供: 5割引運賃";
+"arex_fare_sub_title_2" = "身体障害者 · 老人:  無料";
+"arex_fare_sub_title_3" = "靑少年（靑少年の交通カード使用）: 2割引運賃";
+
+/* arex - time */
+"arex_time_title_t1" = "仁川国際空港駅 第1旅客ターミナル";
+"arex_time_title_t2" = "仁川国際空港駅 第2旅客ターミナル";
+"arex_time_note_1" = "直通";
+"arex_time_note_2" = "一般";
+
+/* taxi */
+"taxi_title_1" = "タクシー待機の数";
+"taxi_wait_table_header_1" = "区分";
+"taxi_wait_table_header_2" = "待機の数";
+"taxi_wait_table_t1_div_1" = "ソウル";
+"taxi_wait_table_t1_div_2" = "仁川";
+"taxi_wait_table_t1_div_3" = "キョンギド";
+"taxi_wait_table_t1_div_4" = "模範";
+"taxi_wait_table_t1_div_5" = "大型";
+"taxi_wait_table_count" = "台";
+
+"taxi_wait_table_t2_div_1" = "ソウル";
+"taxi_wait_table_t2_div_2" = "仁川";
+"taxi_wait_table_t2_div_3" = "京畿(富川、光明、金浦、高陽)";
+"taxi_wait_table_t2_div_4" = "市外";
+"taxi_wait_table_t2_div_5" = "模範";
+"taxi_wait_table_t2_div_6" = "大型";
+
+"taxi_link_1" = "利用問い合わせ";
+
+/* taxi - info */
+"taxi_info_title_1" = "一般タクシー";
+"taxi_info_title_sub_1_1" = "基本料金:ソウル·仁川·京畿 3800ウォン";
+"taxi_info_title_sub_1_2" = "市外割り増し:ソウル、仁川、高陽、光明、金浦、富川以外の地域 - ソウル·京畿 20%、仁川 30%適用";
+"taxi_info_title_sub_1_3" = "深夜割増し:24:00~04:00、20%適用";
+"taxi_info_title_sub_1_4" = "高速道路通行料金の顧客負担";
+
+"taxi_info_title_2" = "模範 / 大型タクシー";
+"taxi_info_title_sub_2_1" = "基本料金: 6500ウォン";
+"taxi_info_title_sub_2_2" = "領収証発給、及び同時通訳サービス(義務事項)";
+"taxi_info_title_sub_2_3" = "市外割り増し/深夜の割増 無";
+"taxi_info_title_sub_2_4" = "高速道路通行料金の顧客負担";
+
+"taxi_info_title_3" = "インターナショナル・タクシー";
+"taxi_info_title_sub_3_1" = "英語、中国語、日本語";
+"taxi_info_title_sub_3_2" = "仁川空港で、ソウル市内までの距離比例に応じて5つの区間に分かれた料金体系";
+
+"taxi_info_title_4" = "障害者コールタクシー";
+"taxi_info_title_sub_4" = "利用対象";
+"taxi_info_title_content_4_1" = "- 遅滞や脳病変 1、2級障害者である";
+"taxi_info_title_content_4_2" = "- 車椅子利用する1、2級の重症障害者";
+"taxi_info_title_content_4_3" = "- ソウル市民のほか、他の道民ならびに外国人は車椅子使用のみが利用可能です";
+
+"taxi_info_link_1" = "インターナショナル・タクシー";
+"taxi_info_link_2" = "KOREA TAXI";
+"taxi_info_link_3" = "仁川交通公社 障害者コールタクシー";
+"taxi_info_link_call_3" = "1577-0320";
+"taxi_info_link_4" = "ソウル施設公団 障害者コールタクシー";
+"taxi_info_link_call_4" = "1588-4388";
+
+/* transport - parking */
+"parking_category_1" = "駐車可能の現況";
+"parking_category_2" = "駐車料金の支払い";
+"parking_category_3" = "駐車代行";
+"parking_category_4" = "私の自動車探し";
+"parking_category_5" = "私の車の位置登録";
+
+/* parking fee payment */
+"parking_car_info_title_1" = "車両番号入力";
+"parking_car_info_title_2" = "車両番号4桁を入力してください";
+"parking_car_info_btn" = "車両照会";
+
+"parking_fee_number_popup_title" = "車両番号の確認";
+"parking_fee_number_no_result" = "車両番号が見つかりません\n他のターミナルで確認してみてください\n臨時駐車場に駐車した車両の\n位置は確認できません";
+
+"parking_fee_payment_title" = "駐車料確認";
+"parking_fee_payment_location" = "駐車位置";
+"parking_fee_payment_entry_time" = "駐車の開始時間";
+"parking_fee_payment_current_time" = "精算時間";
+"parking_fee_payment_parking_time" = "総駐車時間";
+"parking_fee_payment_unit" = "KRW";
+"parking_fee_payment_day" = "日";
+"parking_fee_payment_hour" = "時間";
+"parking_fee_payment_min" = "分";
+"parking_fee_payment_btn" = "駐車料金の決済";
+"parking_fee_payment_sub_title_1" = "料金精算";
+"parking_fee_payment_desc_1" = "駐車料金精算後20分経過時に追加料金が発生します.";
+"parking_fee_payment_desc_2" = "減免対象車両（障害者、有功者など）は、割引ができませんので、出口有人ブースをご利用ください.";
+"parking_fee_payment_html_desc_1" = "주차요금 정산 후 &lt;font color=#e20613&gt;20분이 경과&lt;/font&gt; 시 추가요금이 발생됩니다.";
+"parking_fee_payment_html_desc_2" = "&lt;font color=#e20613&gt;감면대상차량&lt;/font&gt;(장애인, 유공자 등)은 &lt;font color=#e20613&gt;할인이 불가&lt;/font&gt;하오니 출구 유인 부스를 이용하시기 바랍니다.";
+
+
+"parking_fee_payment_fail_title" = "決済失敗";
+"parking_fee_payment_fail_desc_1" = "システムエラーのため、決済できません。有人精算所をご利用ください。";
+"parking_fee_payment_fail_desc_2" = "入車日数(99日)超過のため、モバイルアプリでは決済できません。有人精算所をご利用ください。";
+"parking_fee_payment_fail_desc_3" = "決済が完了しました。20分以内に退場してください。";
+"parking_fee_payment_fail_desc_4" = "入場後10分までは料金は発生しませんので、退場してください。";
+"parking_fee_payment_fail_desc_5" = "駐車場料金の精算後20分を経過したため、追加料金が発生しました。お近くの有人精算所をご利用ください。";
+"parking_fee_payment_time_out" = "정산시간이 초과되었습니다. 처음부터 다시 이용해주세요.";
+"parking_fee_payment_fail_popup_desc" = "決済が正常に完了しませんでした。";
+
+"parking_fee_payment_finish_01" = "Payment of %@ won for parking fee\nsuccessfully processed.";
+"parking_fee_payment_finish_02" = "Time of payment";
+"parking_fee_payment_finish_03" = "Please come again.";
+
+/* Valet Parking */
+"valet_parking_title" = "公式駐車代行の受理帳";
+"valet_parking_desc_1" = "車両番号を確認してください\n決済した車両が本人の車両がない場合、追加決済をしなければなりません\n車両状況の照会ができないとき他のターミナルを選択下さい";
+"valet_parking_link_1" = "駐車代行の利用案内";
+"valet_parking_link_2" = "駐車代行の問い合わせ";
+"valet_parking_link_3" = "駐車代行の予約";
+"valet_parking_t1_call_title" = "代客服务(T1)";
+"valet_parking_t1_call_num" = "032-743-0123";
+"valet_parking_t2_call_title" = "代客服务(T2)";
+"valet_parking_t2_call_num" = "032-743-0751";
+
+/* Valet Parking info t1 */
+"valet_parking_info_title_1" = "車両を任せる場合";
+"valet_parking_info_content_1_1" = "01. 短期駐車場に入庫(地下1階)";
+"valet_parking_info_content_1_2" = "第1旅客ターミナル短期駐車場(地下1階)に入庫します。";
+"valet_parking_info_content_2_1" = "02. 受付場所に移動(地下1階 A区域)";
+"valet_parking_info_content_2_2" = "短期駐車場入口の第3車路から 地下1階A区域に移動してください。";
+"valet_parking_info_content_3_1" = "車両引渡し及び受付証の交付";
+"valet_parking_info_content_3_2" = "車両を引渡し、モバイル確認SMSを受信します。\n*事前予約いただくとスムーズに受付できます。";
+"valet_parking_info_sub_title_1_1" = "公式駐車代行業者確認法";
+"valet_parking_info_desc_1_1" = "駐車代行のオフィシャル企業は<b>Hi Parking(株)</b>であり、受付要員は緑色の制服を着用しています";
+"valet_parking_info_sub_title_1_2" = "駐車代行の情報";
+"valet_parking_info_desc_1_2_1" = "営業時間:24時間";
+"valet_parking_info_desc_1_2_2" = "車両引渡場: 短期駐車場 地下3階";
+"valet_parking_info_title_2" = "車両を訪れる場合";
+"valet_parking_info_desc_2" = "駐車代行受付証に案内されたは場所に移動し、サービス料金を支払って車両を引き渡してもらわれたらいいです";
+"valet_parking_info_sub_title_2_1" = "駐車代行料金";
+"valet_parking_info_table_header_1" = "区分";
+"valet_parking_info_table_header_2" = "料金";
+"valet_parking_info_table_col_1_1" = "一般,軽自動車";
+"valet_parking_info_table_col_1_2" = "20,000ウォン";
+"valet_parking_info_table_col_2_1" = "障害者,傷痍判定を受けた国家有功者";
+"valet_parking_info_table_col_2_2" = "10,000ウォン";
+"valet_parking_info_desc_2_1" = "- 障害者";
+"valet_parking_info_sub_title_2_2" = "駐車代行のサービス料金は後払いであり、駐車料は後払い精算します";
+"valet_parking_info_sub_title_2_3" = "営業時間:24時間";
+"valet_parking_info_sub_title_2_4" = "営業時間以外の利用客は担当会社にご連絡お願い申し上げます";
+
+/* Valet Parking info t2 */
+"valet_parking_info_t2_content_1_1" = "01. 旅客ターミナル到着";
+"valet_parking_info_t2_content_1_2" = "旅客ターミナル、出国場に乗用車専用道路に進入後、一行や荷物を下ろします";
+"valet_parking_info_t2_content_2_1" = "02. 短期駐車場の地下1階西に位置した公式駐車代行の受理帳に移動します";
+"valet_parking_info_t2_content_2_2" = "第1 旅客ターミナル 3階(出国階) 乗用車専用道路にて ‘車道の青い車線’ または ‘道路標示版’に沿って移動します";
+"valet_parking_info_t2_content_3_1" = "車両の引き継ぎ及び接受証受領";
+"valet_parking_info_t2_content_3_2" = "車両の引き継ぎ及び接受証受領.";
+"valet_parking_info_t2_sub_title_1_1" = "公式駐車代行業者確認法";
+"valet_parking_info_t2_desc_1_1" = "駐車代行のオフィシャル企業は<b>(株)AJパーク</b>であり、受付要員はオレンジ色のユニフォームを着用しています";
+"valet_parking_info_t2_sub_title_1_2" = "駐車代行の情報";
+"valet_parking_info_t2_desc_1_2_1" = "- 営業時間:24時間";
+"valet_parking_info_t2_desc_1_2_2" = "- 車両引渡場: 短期駐車場 地下1階";
+
+/* parking - car location */
+"car_location_lot" = "駐車場";
+"car_location_lane" = "駐車区域";
+"car_location_parking_time" = "駐車の開始時間";
+
+/* parking - register car location */
+"register_car_loc_no_result" = "駐車場の場所を登録してください.";
+"register_car_loc_sub_title_1" = "室内ではGPSが正常に動作しない可能性があります.";
+"register_car_loc_sub_title_2" = "屋外で使ってください.";
+"register_car_loc_sub_title_3" = "最大5個まで登録することができます.";
+"register_car_loc_delete" = "駐車場の記録を削除しますか?";
+"register_map_save" = "位置登録";
+
+/* moving terminal */
+"moving_terminal_title_1" = "ターミナル間 移動 方法";
+"moving_terminal_content_1_1" = "下の航空会社を利用する旅行客は%@に移動してください";
+"moving_terminal_content_1_2" = "大韓航空,エールフランス航空, KLMオランダ航空, デルタ航空, China Airlines, Garuda Indonesia, Aeroflot Russian Airlines, Czech Airlines, AERPMEXICO, Alitalia, Xiamen Air";
+"moving_terminal_table_header_1" = "移動手段";
+"moving_terminal_table_header_2" = "位置案内";
+"moving_terminal_table_header_3" = "所要時間";
+"moving_terminal_table_header_4" = "配車間隔";
+"moving_terminal_table_transportation_1" = "シャトルバス";
+"moving_terminal_table_transportation_2" = "タクシー";
+"moving_terminal_table_transportation_3" = "空港鉄道";
+"moving_terminal_table_location_1" = "第1旅客ターミナル 3階8番出口";
+"moving_terminal_table_location_2" = "第1旅客ターミナル 1階 4C~8C";
+"moving_terminal_table_location_3" = "第1交通センター地下1階";
+"moving_terminal_table_required_1" = "15分";
+"moving_terminal_table_required_2" = "15分";
+"moving_terminal_table_required_3" = "6分";
+"moving_terminal_table_interval_1" = "5分";
+"moving_terminal_table_interval_2" = "常時";
+"moving_terminal_table_interval_3" = "6~20分";
+"moving_terminal_title_2" = "シャトルバス/タクシー移動経路";
+"moving_terminal_link_1" = "シャトルバス案内";
+"moving_terminal_link_2" = "空港鉄道案内";
+"moving_terminal_link_3" = "タクシー案内";
+"moving_terminal_link_4" = "顧客サービスセンター";
+"moving_terminal_link_4_call" = "1577-2600";
+
+"moving_terminal_t2_content_1_1" = "下の航空会社を利用する旅行客は%@に移動してください";
+"moving_terminal_t2_content_1_2" = "大韓航空、エールフランス航空、KLM、デルタ航空, China Airlines, Garuda Indonesia, Aeroflot Russian Airlines, Czech Airlines, AERPMEXICO, Alitalia, Xiamen Airを除いたすべての航空会社";
+"moving_terminal_table_t2_location_1" = "第2旅客ターミナル 3階4,5番出口";
+"moving_terminal_table_t2_location_2" = "第2旅客ターミナル 1階 3D~5C";
+"moving_terminal_table_t2_location_3" = "第2交通センター地下1階";
+
+/* shuttle bus */
+"shuttle_bus_title_1" = "長距離駐車場行 シャトルバス";
+"shuttle_bus_table_1_header_1" = "停車場";
+"shuttle_bus_table_1_header_2" = "配車間隔";
+"shuttle_bus_table_1_header_3" = "所要時間";
+"shuttle_bus_table_1_desc_1" = "1階 3C, 13C";
+"shuttle_bus_table_1_desc_2" = "5~8分(週間) / 16分 (夜間)";
+"shuttle_bus_table_1_desc_3" = "8分";
+"shuttle_bus_call_service_desc" = "※ For the time being, normal operation will be suspended and it will be operated as a call service (032-741-6045). ";
+"shuttle_bus_1_link_1_1" = "call service (032-741-6045)";
+"shuttle_bus_1_link_call_1_2" = "032-741-6045";
+"shuttle_bus_1_link_1" = "時刻表";
+"shuttle_bus_1_link_2" = "長期駐車場へのシャトルバス停留所(3C)";
+"shuttle_bus_1_link_3" = "長期駐車場へのシャトルバス停留所(13C)";
+"shuttle_bus_title_2" = "シャトルバス";
+"shuttle_bus_title_sub_2_1" = "第2旅客ターミナル";
+"shuttle_bus_table_2_1_desc_1" = "3階 8 Gate";
+"shuttle_bus_table_2_1_desc_2" = "7分";
+"shuttle_bus_table_2_1_desc_3" = "15分";
+"shuttle_bus_2_1_link_2" = "第2旅客ターミナルへのシャトルバス";
+"shuttle_bus_title_sub_2_2" = "AICC / 物流団知行 シャトルバス";
+"shuttle_bus_table_2_2_desc_1" = "3階 3, 12 Gate";
+"shuttle_bus_table_2_2_desc_2" = "6~15分";
+"shuttle_bus_table_2_2_desc_3" = "35分";
+"shuttle_bus_2_2_link_2" = "AICC / 物流団知行 シャトルバスのりば(3)";
+"shuttle_bus_2_2_link_3" = "AICC / 物流団知行 シャトルバスのりば(12)";
+
+"shuttle_bus_table_1_desc_t2_1" = "1階 3B";
+"shuttle_bus_table_1_desc_t2_2" = "5~15分";
+"shuttle_bus_table_1_desc_t2_3" = "15分";
+"shuttle_bus_1_link_t2_2" = "長期駐車場へのシャトルバス停留所";
+"shuttle_bus_title_2_t2_1" = "第1旅客ターミナル";
+"shuttle_bus_table_2_desc_t2_1" = "3階 4,5 Gate";
+"shuttle_bus_table_2_desc_t2_2" = "7分";
+"shuttle_bus_table_2_desc_t2_3" = "15分";
+"shuttle_bus_2_link_t2_2" = "第1旅客ターミナル行 シャトルバスのりば";
+
+/* Maglev */
+"maglev_content" = "電磁石の力で列車が線路上を8mmの高さですくって移動する新交通手段磁気浮上列車は、\n第1旅客ターミナルだけで運営しています";
+"maglev_title" = "時刻表";
+"maglev_table_header_1" = "目的地";
+"maglev_table_header_2" = "始発 /\n終車";
+"maglev_table_header_3" = "所要時間";
+"maglev_table_header_4" = "配車間隔";
+"maglev_table_dest_1" = "仁川国際空港駅 第1旅客ターミナル\n(龍遊駅行き)";
+"maglev_table_dest_2" = "龍遊駅\n(仁川国際空港駅 第1旅客ターミナル行き)";
+"maglev_table_time_1" = "09:00 /\n18:45";
+"maglev_table_time_2" = "09:00 /\n18:31";
+"maglev_table_required_1" = "片道 12分";
+"maglev_table_interval_1" = "15分";
+"maglev_table_desc_1" = "※ 利用料金は無料です";
+"maglev_table_link_1" = "位置案内";
+"maglev_table_link_2" = "利用問い合わせ";
+"maglev_table_link_call_2" = "032-741-8400";
+
+/* airport departure */
+"airport_departure_title_1" = "搭乗手続き";
+"airport_departure_title_2" = "手荷物お預け";
+"airport_departure_title_3" = "병무 신고";
+"airport_departure_title_4" = "検疫申告";
+"airport_departure_title_5" = "出国税関申告";
+"airport_departure_title_6" = "保安検査";
+"airport_departure_title_7" = "出国審査";
+"airport_departure_title_8" = "シャトルトレイン";
+
+"departure_checkin_section_title_1" = "チェックインカウンターの";
+"departure_checkin_section_desc_1" = "仁川空港をご利用の旅客様は、ターミナル別に割り当てられている航空会社をご確認の上、その目的地に移動してください.";
+"departure_checkin_section_title_2" = "セルフチェックイン";
+"departure_checkin_section_desc_2_1" = "一般のチェックインカウンターに比べ、より早い搭乗手続きができます";
+"departure_checkin_section_desc_2_2" = "手荷物は、航空会社カウンター(セルフチェックイン専用)または自動手荷物委託(セルプベクドロップ)機器を利用して、早い委託することができます";
+"departure_checkin_section_desc_2_3" = "詳細な案内は、該当する航空会社に問い合わせてください.";
+"departure_checkin_section_desc_2_4" = "サービス提供の航空会社";
+"departure_checkin_section_desc_2_4_1" = "- 大韓航空(KE)、アシアナ航空(OZ)、ユナイテッド航空(UA)、デルタ航空(DL)、キャセイパシフィック航空(CX)、オランダ航空(KL)、エア・カナダ(AC)、ジンエアー(LJ)、エバー航空(BR)、ベトナム国営航空(VN)、Air Busan(BX)、Aeromexico(AM)、チャイナエアライン(CI)";
+"departure_checkin_section_title_3" = "モバイルチェックイン";
+"departure_checkin_section_desc_3" = "航空会社のモバイルアプリを利用すれば、モバイル環境で、搭乗手続きをこの可能です.";
+"departure_checkin_section_3_link" = "モバイルチェックインご利用案内";
+"departure_checkin_section_title_4" = "都心空港ターミナル";
+"departure_checkin_section_desc_4_1" = "都心空港ターミナルで搭乗手続きを済ませた方は、仁川空港の出国ロビー横の専用ゲートからすぐにセキュリティチェックを受け、出国審査を通過することができます.";
+"departure_checkin_section_desc_4_2" = "都心空港ターミナルごとに搭乗手続きが可能な航空会社がお互いに違うから、当該ターミナルにお問い合わせ下さい.";
+"departure_checkin_section_4_link_1" = "ソウル駅 都心空港ターミナル";
+"departure_checkin_section_4_link_2" = "三成洞 都心空港ターミナル";
+"departure_checkin_section_4_link_3" = "クァンミョン駅都心空港ターミナル";
+
+"departure_checkin_mobile_checkin_sub_title_1" = "モバイルチェックイン";
+"departure_checkin_mobile_checkin_sub_desc_1" = "航空会社のモバイルアプリを利用すれば、モバイル環境で、搭乗手続きをこの可能です.";
+"departure_checkin_mobile_checkin_info_1" = "1. ログイン";
+"departure_checkin_mobile_checkin_info_2" = "2. チェックイン";
+"departure_checkin_mobile_checkin_info_3" = "3. 座席配分";
+"departure_checkin_mobile_checkin_info_4" = "4. モバイル搭乗券発給";
+"departure_checkin_mobile_checkin_link_1" = "大韓航空チェックイン";
+"departure_checkin_mobile_checkin_link_2" = "アシアナ航空チェックイン";
+"departure_checkin_mobile_checkin_link_3" = "イースター航空 チェックイン";
+"departure_checkin_mobile_checkin_link_4" = "済州航空 チェックイン";
+"departure_checkin_mobile_checkin_link_5" = "ティ\" -ウェイ 航空 チェックイン";
+"departure_checkin_mobile_checkin_link_6" = "ジンエアー チェックイン";
+
+/* baggage */
+"departure_baggage_section_title_1" = "注意事項";
+"departure_baggage_section_desc_1_1" = "他人の荷物を預けたら事故につながりかねず、必ず断ってください.";
+"departure_baggage_section_desc_1_2" = "カメラ・貴金属類などの高価品、及び陶磁器やガラス瓶などの壊れやすい物は、なるべく直接機内にお持込みください";
+"departure_baggage_section_desc_1_3" = "手荷物の紛失に備えてかばんに所有者の名前、住所地、目的地を英文で作成して付けられておいてください.";
+"departure_baggage_section_desc_1_4" = "委託手荷物のうちに税関申告が必要な場合は、税関申告カウンターに申告しなければなりません";
+"departure_baggage_section_title_2" = "受託手荷物 禁止品物";
+"departure_baggage_section_desc_2_1" = "予備バッテリーは、機内手荷物に持ち込み可能で、持ち込みの基準は航空会社によって異なります.";
+"departure_baggage_section_title_3" = "手荷物預 かり分類方法";
+"departure_baggage_section_desc_3_1" = "機内手荷物(持ち込み手荷物)";
+"departure_baggage_section_desc_3_1_1" = "- 規格 (A)横＋(B)縦＋(C)幅＝ 115Cm 以下";
+"departure_baggage_section_desc_3_1_2" = "- 重量 10Kg~12Kg";
+"departure_baggage_section_desc_3_2" = "受託手荷物(手荷物預かり)";
+"departure_baggage_section_desc_3_2_1" = "- 規格 (A)横＋(B)縦＋(C)幅＝ 158Cm 以下";
+"departure_baggage_section_desc_3_2_2" = "- 重量 20~23Kg";
+"departure_baggage_section_desc_3_3" = "大型手荷物(手荷物預かり)";
+"departure_baggage_section_desc_3_3_1" = "- 規格 (A)横 45Cm＋(B)縦90Cm＋(C)幅70Cm 以上";
+"departure_baggage_section_desc_3_3_2" = "- 重量 50Kg以上";
+"departure_baggage_section_desc_3_3_3" = "- 大型手荷物は、航空会社チェックインカウンターで 料金を支払ってから、カウンター裏の大型手荷物カ ウンターで託送する.";
+"departure_baggage_section_desc_3_4" = "手荷物規格は、航空会社別・路線別・座席別によって異なります.";
+"departure_baggage_section_title_4" = "手荷物 再検査";
+"departure_baggage_section_desc_4" = "旅客から預けられた手荷物に対して、セキュリティチェックを行い、機内持ち込み禁止品物が発見された場合には、手荷物検査室で 開封検査を行います.";
+
+/* military */
+"departure_military_section_title_1" = "병무신고대상";
+"departure_military_section_desc_1" = "25세 이상 병역미필 병역의무자(영주권사유 병역연기및 면제자 포함)연령제한 없이 현재 공익근무요원 복무중인 자, 공중보건의사, 징병전담의사, 국제협력의사, 공익법무관, 공익수의사, 국제협력요원, 전문연구요원/산업기능요원으로 편입되어 의무종사기간을 마치지 아니한 자";
+"departure_military_section_title_2" = "병역 의무자 출국 신고 절차";
+"departure_military_section_desc_2" = "병역 의무자가 국외를 여행하고자 할 때는 병무청에 국외여행허가를 받고 출국 당일 법무부 출입국에서 출국심사 시 국외여행허가 증명서를 제출하여야 합니다.";
+"departure_military_section_title_3" = "유의사항";
+"departure_military_section_desc_3_1" = "출국당일「국외여행허가증명서」를 반드시 소지하시길 바랍니다.";
+"departure_military_section_desc_3_2" = "「국외여행허가증명서」미소지 시 출입국재심실인계, 허가사항확인을 위한 유선통화 등으로 출국이 지연될 수 있습니다.";
+"departure_military_section_desc_3_3" = "허가기간과 출국일이 맞지 않거나 미허가상태인 경우 병무신고사무소의 부재로 인해 당일 신규허가 및 기간조정이 불가 또는 지연될 수 있습니다.";
+"departure_military_section_link_1" = "병무민원센터";
+
+/* Quarantine */
+"departure_quarantine_section_title_1" = "動物検疫";
+"departure_quarantine_section_title_2" = "空港到着前";
+"departure_quarantine_section_desc_2_1" = "入国予定国家の動物検疫条件を確認して、該当国から要求されたすべての条件を準備してください.\n(お問い合わせ：動物検疫機関及び韓国駐在大使館)";
+"departure_quarantine_section_desc_2_2" = "輸出動物検疫証明書発行準備";
+"departure_quarantine_section_desc_2_3" = "必須具備書類";
+"departure_quarantine_section_desc_2_3_1" = "- 狂犬病予防接種証明書\n(ペットが９０日未満の場合、該当無し)";
+"departure_quarantine_section_desc_2_3_2" = "- 健康証明書\n(出国日基準１０日以内に発行することを推奨)";
+"departure_quarantine_section_desc_2_4" = "追加要求書類\n旅行者の該当国検疫要件確認必要";
+"departure_quarantine_section_desc_2_4_1" = "- 狂犬病抗体結果証明書";
+"departure_quarantine_section_desc_2_4_2" = "- マイクロチップ移植(付着)";
+"departure_quarantine_section_desc_2_4_3" = "- 旅行国の 動物検疫機関が発行した事前輸入許可証明書";
+"departure_quarantine_section_desc_2_4_4" = "- 付属書類(該当国検疫書式)等";
+"departure_quarantine_section_title_3" = "空港到着後";
+"departure_quarantine_section_desc_3_1" = "搭乗券発券前、輸出動物検疫証明書発行申請";
+"departure_quarantine_section_desc_3_2" = "飛行機出発の３時間前に付くことを推奨";
+"departure_quarantine_section_desc_3_3" = "パスポートや航空スケジュール提示ペット同伴";
+"departure_quarantine_section_desc_3_4" = "手数料(１～３万ウォン)支払い";
+"departure_quarantine_section_title_4" = "植物検疫";
+"departure_quarantine_section_title_5" = "空港到着前";
+"departure_quarantine_section_desc_5_1" = "旅行国家に持って行ける植物なのか確認必要";
+"departure_quarantine_section_desc_5_2" = "病害虫がなく、土を全部除去した植物のみ海外搬出ができます.";
+"departure_quarantine_section_title_6" = "空港到着後";
+"departure_quarantine_section_desc_6_1" = "輸出検疫対象植物に該当し、旅行国から植物検疫証明書を要求される植物に限られる.";
+"departure_quarantine_section_desc_6_2" = "植物検疫証明書発行申請";
+"departure_quarantine_section_link_1" = "動物輸出検疫室";
+"departure_quarantine_section_link_2" = "植物輸出検疫室";
+
+/* Customs */
+"departure_custom_section_title_1" = "外貨の搬出";
+"departure_custom_section_desc_1_1" = "国民居住人";
+"departure_custom_section_desc_1_1_1" = "- 国民居住人一般海外旅行の経費として米貨 1万ドル以上を携帯搬出の際 →税関へ申告";
+"departure_custom_section_desc_1_1_2" = "- 海外移住者、滞在者、留学生、旅行業者、外国人居住者が国内勤労所得を携帯";
+"departure_custom_section_desc_1_1_3" = "- 旅行経費 1万ドル以上 → 指定取り引き外国為替銀行長の確認";
+"departure_custom_section_desc_1_1_4" = "- 物品取り引き代金、資本取り引き代価 → 各種取り引きによって定まった申告や許可が必要";
+"departure_custom_section_desc_1_2" = "非居住者";
+"departure_custom_section_desc_1_2_1" = "- 外国為替銀行長または韓国銀行総裁または税関長の許可が必要";
+"departure_custom_section_desc_1_2_2" = "- 入国の際に申告された外国為替などは、出国の際に搬出可能";
+"departure_custom_section_desc_1_2_3" = "- 許可までには何日間かかかりますので出国前に予めご申告ください";
+"departure_custom_section_title_2" = "出国後再び持ち込まれる貴重品、高価品の搬出";
+"departure_custom_section_desc_2_1" = "旅行の際に使用し再び持ち帰る予定の貴重品や高価品は、出国前に税関申告を行い「携帯物品搬出申告確認書」を受け取っておけば、再入国の際に免税の適用を受けることができます";
+"departure_custom_section_desc_2_2" = "文化財搬出時は文化財鑑定官の\"非文化財確認書\"を発行すれば搬出が可能です";
+"departure_custom_section_title_3" = "入国後再び持ち出される貴重品や高価品の再搬出";
+"departure_custom_section_desc_3_1" = "入国の際に高価品や貴重品などの携帯搬入物品を税関に申告された方は、出国のために該当物品を再び持ち出される際、税関で発行を受けた出国時に持ち出すという条件付きの「確認書」と現品を税関に提示してください";
+"departure_custom_section_desc_3_2" = "申告した物品を持たずに出国しようとすると、出国手続に時間を要するおそれがありますので必ずお持ちください.物品を紛失されたり携帯せずに出国なさろうとする場合は、当該税金を支払うか、税額の120/100に相当する担保金を納めれば出国可能となります";
+"departure_custom_section_title_4" = "付加価値税/特別消費税還付確認の手続（外国人対象）";
+"departure_custom_section_desc_4_1" = "管轄税務署長指定の免税店で物品購入";
+"departure_custom_section_desc_4_2" = "出国審査場の税関で 購入物品を提示";
+"departure_custom_section_desc_4_3" = "出国審査完了後、付加価値税還付カウンターで還付\n※ 注意事項：物品購入日から3ヶ月以内に国外持出しする場合に限り、当該税額の還付を受けることができます";
+"departure_custom_section_link_1" = "関税の相談室";
+
+/* Security Check */
+"departure_security_section_title_1" = "セキュリティチェック";
+"departure_security_section_desc_1" = "搭乗手続きや税関申告を完了した後、近くの出国口へ移動して、必ずセキュリティチェックを受けてください.\n 見送り客は、航空機の安全運航のためにセキュリティチェックエリアに入場することはできません.出国ロビーで見送りを済ませてください.";
+"departure_security_section_title_2" = "機内持込制限品案内";
+"departure_security_section_desc_2_1" = "持込禁止";
+"departure_security_section_desc_2_1_col_1_1" = "食品類";
+"departure_security_section_desc_2_1_col_1_2" = "キムチ類";
+"departure_security_section_desc_2_1_col_1_3" = "コチュジャン・味噌類";
+"departure_security_section_desc_2_1_col_1_4" = "インスタント食品";
+"departure_security_section_desc_2_1_col_2_1" = "武器類";
+"departure_security_section_desc_2_1_col_2_2" = "ナイフ類";
+"departure_security_section_desc_2_1_col_2_3" = "銃器類";
+"departure_security_section_desc_2_1_col_2_4" = "工具類";
+"departure_security_section_desc_2_1_col_3_1" = "爆発物類";
+"departure_security_section_desc_2_1_col_3_2" = "爆竹類";
+"departure_security_section_desc_2_1_col_3_3" = "引火性物質";
+"departure_security_section_desc_2_1_col_3_4" = "ライター";
+"departure_security_section_desc_2_2" = "条件付き持ち込み可能";
+"departure_security_section_desc_2_2_col_1_1" = "液体やジェル類";
+"departure_security_section_desc_2_2_col_1_2" = "飲み物酒類";
+"departure_security_section_desc_2_2_col_1_3" = "化粧品類";
+"departure_security_section_desc_2_2_col_1_4" = "歯磨き粉";
+"departure_security_section_desc_2_3" = "液体、ジェル類持込条件";
+"departure_security_section_desc_2_3_col_1_1" = "液体、ジェル類は100ml以下の容器に入れる.\n※ キムチ、味噌類や健康濃縮液(紅参汁)を含む.";
+"departure_security_section_desc_2_3_col_2_1" = "１リットル以下のジッパー付き透明プラスチック製袋に入れ封じ込める.";
+"departure_security_section_desc_2_3_col_3_1" = "検索係員が見えるように他の荷物と取り分ける.";
+"departure_security_section_title_3" = "免税店購入品持ち込み条件";
+"departure_security_section_desc_3_1" = "免税店で提供する透明封印袋や不正開封防止袋(STEBs)に封入する場合";
+"departure_security_section_desc_3_2" = "最終目的地行き航空機搭乗前まで、開封しないまま保つ場合";
+"departure_security_section_desc_3_3" = "免税品購入当時交付するレシートが不正開封防止袋(STEBs)の中に同封 または付着された場合に限って、容量にかかわらず持ち込み可能";
+"departure_security_section_title_4" = "例外対象品目";
+"departure_security_section_desc_4_1" = "飛行中利用する乳児飲食類、";
+"departure_security_section_desc_4_2" = "医者の処方箋があるすべての医薬品.";
+
+/* Immigration */
+"departure_immigration_section_title_1" = "出国審査準備物";
+"departure_immigration_section_desc_1" = "出国審査は、韓国国境で内外国人の出国許可を決定する国家の固有な主権行使です.";
+"departure_immigration_section_desc_1_col_1_1" = "パスポート";
+"departure_immigration_section_desc_1_col_1_2" = "搭乗券";
+"departure_immigration_section_title_2" = "自動出国審査台";
+"departure_immigration_section_desc_2_1" = "対象 : １９歳以上の韓国パスポート所持者";
+"departure_immigration_section_desc_2_2" = "７歳～１８歳以下の国民、人的事項が変更された国民、住民登録発給後３０年が経った国民は、指紋事前登録は必要になります.";
+"departure_immigration_section_desc_2_3" = "利用方法";
+"departure_immigration_section_desc_2_3_1" = "① 旅券認識";
+"departure_immigration_section_desc_2_3_2" = "② 指紋確認";
+"departure_immigration_section_desc_2_3_3" = "③ 写真撮影";
+"departure_immigration_section_title_3" = "有人出国審査台";
+"departure_immigration_section_desc_3" = "対象　一般旅客";
+"departure_immigration_section_title_4" = "専用出国審査台";
+"departure_immigration_section_desc_4" = "対象　都心空港ターミナル利用客、外交官、障害者、車い す利用者、経済人カード 所持者等";
+"departure_immigration_section_link_1" = "自動出国審査 登録センター";
+"departure_immigration_section_link_2" = "専用出国審査台";
+
+/* fast track */
+"departure_fast_track_title" = "ファストトラック";
+"departure_fast_track_section_title_0" = "専用出入国";
+"departure_fast_track_section_title_1" = "ファストトラックの概要";
+"departure_fast_track_section_desc_1_1" = "ご利用対象: お体の不自由なお客様及び出入国優待者";
+"departure_fast_track_section_desc_1_2" = "同行3人まで一緒に利用可能";
+"departure_fast_track_section_title_2" = "ファストトラックのご利用方法";
+"departure_fast_track_section_desc_2" = "仁川国際空港でファストトラックをご利用になる場合は、お体の不自由なお客様が直接ご利用の航空会社チェックインカウンターにて「ファストトラックパス」をお受け取りになってから、専用出発ロビーでパスポートと一緒にご提示ください.\n出入国VIPのお客様の場合は、パスは必要ありません.出入国VIPカードを専用出発ロビーにてご提示ください";
+"departure_fast_track_section_title_3" = "ファースト・トラック 利用対象";
+"departure_fast_track_section_desc_3_1" = "お体の不自由なお客様";
+"departure_fast_track_section_desc_3_1_col_1_1" = "区分";
+"departure_fast_track_section_desc_3_1_col_1_2" = "内容";
+"departure_fast_track_section_desc_3_1_col_2_1" = "歩行の不自由なお客様";
+"departure_fast_track_section_desc_3_1_col_2_2" = "1級～5級";
+"departure_fast_track_section_desc_3_1_col_3_1" = "乳幼児";
+"departure_fast_track_section_desc_3_1_col_3_2" = "満7歳未満";
+"departure_fast_track_section_desc_3_1_col_4_1" = "高齢者";
+"departure_fast_track_section_desc_3_1_col_4_2" = "満70歳以上";
+"departure_fast_track_section_desc_3_1_col_5_1" = "妊産婦";
+"departure_fast_track_section_desc_3_1_col_5_2" = "妊娠中の方";
+"departure_fast_track_section_desc_3_1_col_6_1" = "お体の悪い航空会社乗客";
+"departure_fast_track_section_desc_3_1_col_6_2" = "車椅子、ストレッチャー、医療用酸素などが必要なお客様";
+"departure_fast_track_section_desc_3_2" = "出入国VIP";
+"departure_fast_track_section_desc_3_2_col_1_1" = "区分";
+"departure_fast_track_section_desc_3_2_col_1_2" = "内容";
+"departure_fast_track_section_desc_3_2_col_2_1" = "出入国VIP";
+"departure_fast_track_section_desc_3_2_col_2_2" = "外国人金融投資家、優良パートナー企業、女性家庭部認証（家族親和認証）企業、犯罪被害者支援優秀企業、出所者雇用優秀企業、雇用創出優秀企業";
+"departure_fast_track_section_desc_3_2_col_3_1" = "出国VIPカード所有者";
+"departure_fast_track_section_desc_3_2_col_3_2" = "ABTCカード(APECビジネストラベルカード)、外国人投資家カード、模範納税者カード、総合認証優秀企業(AEO)カード、企業人(CIP)カード、独立有功者、 国家遺功者, 5.18民主化運動の負傷者、韓国訪問優待カード所有者";
+
+/* Shuttle Train */
+"departure_shuttle_section_title_1" = "搭乗位置";
+"departure_shuttle_section_desc_1_1" = "搭乗口101~132回はシャトルトレインを乗って搭乗ビルに移動してください.";
+"departure_shuttle_section_desc_1_2" = "配車間隔: 5分 所要時間: 1分 30~50秒";
+
+/* airport arrival */
+"airport_arrival_title_1" = "入国書類";
+"airport_arrival_title_2" = "旅行者検疫";
+"airport_arrival_title_3" = "入国審査";
+"airport_arrival_title_4" = "手荷物受取り";
+"airport_arrival_title_5" = "税関申告";
+"airport_arrival_title_6" = "動植物検疫";
+
+/* Travelling Document */
+"arrival_document_section_title_1" = "入国書類";
+"arrival_document_section_desc_1" = "機内で乗務員が発行した申告書を事前に記入することによって、入国手続きをする時はもっと便利になる";
+"arrival_document_section_title_2" = "検疫質問書";
+"arrival_document_section_desc_2" = "コレラ、黄熱病、ペスト汚染地域(東南アジア、中東、アフリカ、南アメリカなど)で入国する乗客、乗務員";
+"arrival_document_section_title_3" = "旅行者携帯品申告書";
+"arrival_document_section_desc_3_1" = "海外から韓国に入国される全ての旅行者には、税関に「旅行者携帯品申告書」を提出していただきます";
+"arrival_document_section_desc_3_2" = "ご家族で入国される場合、家族で1枚作成していただきます";
+
+/* Quarantine */
+"arrival_quarantine_section_title_1" = "検疫審査プロセス";
+"arrival_quarantine_section_desc_1_1" = "1. 発熱監視";
+"arrival_quarantine_section_desc_1_1_1" = "入国する人は検疫台の赤外線熱監視カメラを通します";
+"arrival_quarantine_section_desc_1_2" = "2. 健康状態質問票提出";
+"arrival_quarantine_section_desc_1_2_1" = "- 健康状態質問票を作成して、必ず検疫官に提出してください";
+"arrival_quarantine_section_desc_1_2_2" = "- 検疫感染病汚染地域を滞留や経由した場合には必ず提出します";
+"arrival_quarantine_section_desc_1_3" = "3. 細菌ウイルス検査";
+"arrival_quarantine_section_desc_1_3_1" = "- 入国後感染病が疑われる症状がある場合には、疾病管理本部コールセンターに必ず申告してください";
+"arrival_quarantine_section_desc_1_3_2" = "- 発熱監視や健康状態質問票を提出する過程で、感染病が疑われる人は細菌やウイルス検査を施行(ウイルス検査結果は２日後、検便検査結果は４～５日後個別通報)します";
+"arrival_quarantine_section_link_1" = "疾病管理本部コールセンター";
+"arrival_quarantine_section_link_call_1" = "1339";
+
+/* immigration */
+"arrival_immigration_section_title_1" = "入国審査";
+"arrival_immigration_section_desc_1" = "入国審査は国境で許可を得る過程です.韓国国民であることを確認する過程であるので多少時間がかかりますのでご了承下さい";
+"arrival_immigration_section_title_2" = "入国審査時";
+"arrival_immigration_section_desc_2_1" = "国境での内外国人分離審査は国際世界の原則です";
+"arrival_immigration_section_desc_2_2" = "外国人（登録外国人を除く）は、入国申告書を作成しなければならず、登録対象の外国人は";
+"arrival_immigration_section_desc_2_3" = "団体査証を所持している中国の団体のお客様は、入国申告書を作成しなくても大丈夫です.（青少年修学旅行客を除く）";
+"arrival_immigration_section_desc_2_4" = "入国日から90日以内に管轄の出入国管理事務所に外国人登録をしなければなりません";
+"arrival_immigration_section_title_3" = "自動入国審査台";
+"arrival_immigration_section_desc_3_1" = "対象１９歳以上の韓国パスポート所持者";
+"arrival_immigration_section_desc_3_2" = "７歳～１８歳以下国民、人的事項が変更された国民、住民登録発給後３０年が経った国民は紋事前登録は必要になりま";
+"arrival_immigration_section_desc_3_3" = "利用方法";
+"arrival_immigration_section_desc_3_3_1" = "① 旅券認識";
+"arrival_immigration_section_desc_3_3_2" = "② 指紋確認";
+"arrival_immigration_section_desc_3_3_3" = "③ 写真撮影";
+"arrival_immigration_section_title_4" = "有人入国審査";
+"arrival_immigration_section_desc_4" = "対象 : 一般旅客";
+
+/* baggage */
+"arrival_baggage_section_title_1" = "ターンテーブル位置";
+"arrival_baggage_section_desc_1" = "入国審査後、電光掲示板(FIDS)を通じてターンテーブル番号を確認できます\n手荷物を間違いないように注意して、手荷物をお受け取りください";
+"arrival_baggage_section_title_2" = "大型手荷物";
+"arrival_baggage_section_desc_2" = "大型手荷物は、大型手荷物の受取所で受け取ることができます";
+"arrival_baggage_section_title_3" = "遺失物手荷物カウンター";
+"arrival_baggage_section_desc_3_1" = "手荷物を落とした場合ターンテーブル裏側に位置された遺失物手荷物案内カウンターにお問合せくださ";
+"arrival_baggage_section_desc_3_2" = "※ 落とした手荷物の補償規定は航空会社によって異なりますので、ご利用の際に航空会社側にお問い合わせください";
+
+/* custom */
+"arrival_custom_section_title_1" = "税関通過手続き";
+"arrival_custom_section_desc_1_1" = "海外から韓国に入国するすべての旅行者は、申告物品がない場合でも、必ず作成して提出しなければなりません";
+"arrival_custom_section_desc_1_2" = "家族と一緒に入国される場合には、家族を含めて1枚だけ作成してください";
+"arrival_custom_section_desc_1_3" = "免税範囲を超えている場合入国時申告事項を、入国申告書にまじめに記載して申告したら、関税の30％が減免(15万　ウォン限度)されるが、税関申告をしなかったり、不実に申告したら納付税額の40％が加算税と賦課されます";
+"arrival_custom_section_title_2" = "入国時申告必要品物";
+"arrival_custom_section_desc_2_1" = "銃砲、刀剣、石弓など武器類、実弾や火薬類、有毒性または 放射線物質";
+"arrival_custom_section_desc_2_2" = "免税範囲 (US $600 以下) 酒類1瓶、タバコ1カートン 香水60ml超過品物";
+"arrival_custom_section_desc_2_3" = "動物、植物、果物、野菜類など農林畜産物";
+"arrival_custom_section_desc_2_4" = "メタンフェタミン(ヒロポン)ヘロイン、コカイン等麻薬類や誤濫用医薬品";
+"arrival_custom_section_desc_2_5" = "擬製商品(偽物)付着品物";
+"arrival_custom_section_desc_2_6" = "US 1万 ドルを超える外貨またはウォン貨";
+"arrival_custom_section_desc_2_7" = "CITES(野生動植物の国際取引に関する協約)協約関連製品、加工品(例：象牙、海狗腎、熊の胆など)";
+"arrival_custom_section_desc_2_8" = "国憲、公安、風俗を乱す図書、書籍、映画、レコードなど";
+"arrival_custom_section_desc_2_9" = "販売の目的で搬入する品物または会社用品";
+"arrival_custom_section_title_3" = "旅行者携帯品免税範囲";
+"arrival_custom_section_desc_3_1" = "旅行者携帯品の免税範囲はUS$600です";
+"arrival_custom_section_desc_3_2" = "別途免税商品";
+"arrival_custom_section_desc_3_2_col_1_1" = "酒類 1瓶(1L 以下、US$400 以下)";
+"arrival_custom_section_desc_3_2_col_1_2" = "タバコ1カートン(200本)";
+"arrival_custom_section_desc_3_2_col_1_3" = "香水 60mL";
+"arrival_custom_section_desc_3_2_col_1_4" = "※ 但し、未成年者(19歳未満)には酒類、タバコ免税が除外されます";
+"arrival_custom_section_desc_3_3" = "農林畜産物（漢方薬）の免税範囲";
+"arrival_custom_section_desc_3_3_1" = "- 1人当たりの総量が50Kg以内、海外取得価格が10万ウォン以内であり、検疫に合格しなければならない（ただし、漢方薬は1人当たり10品目以";
+"arrival_custom_section_desc_3_3_2" = "- ごま油、ゴマ、蜂蜜、ワラビ、ツルニンジン 各5Kg";
+"arrival_custom_section_desc_3_3_3" = "- 高麗人参（高麗人参、白参、紅参）、メシマコブ 各 300g";
+"arrival_custom_section_desc_3_3_4" = "- 牛肉 10kg";
+"arrival_custom_section_desc_3_3_5" = "- 松の実 1kg, 鹿茸 150g";
+"arrival_custom_section_desc_3_3_6" = "- その他の品目ごとに 5kg";
+"arrival_custom_section_desc_3_3_7" = "※ 単位容量または重量が免税基準を超えている場合は、全体に対して課税します";
+"arrival_custom_section_link_1" = "関税民願室";
+
+/* animal quarantine */
+"arrival_animal_quarantine_section_title_1" = "動物検疫";
+"arrival_animal_quarantine_section_title_2" = "ペット連れで入国時";
+"arrival_animal_quarantine_section_desc_2_1" = "入国場内農林畜産検疫本部に申告";
+"arrival_animal_quarantine_section_desc_2_2" = "申告時具備必要書類";
+"arrival_animal_quarantine_section_desc_2_2_1" = "① 輸出国動物検疫機関が発行した動物検疫証明書";
+"arrival_animal_quarantine_section_desc_2_2_1_1" = "- 抗体が有効期間以内である場合、出国時に当本部が発行した証明書も認定される";
+"arrival_animal_quarantine_section_desc_2_2_2" = "② マイクロチップ移植・付着(犬、猫に限り)";
+"arrival_animal_quarantine_section_desc_2_2_3" = "③ 狂犬病抗体結果証明書";
+"arrival_animal_quarantine_section_desc_2_2_3_1" = "- 犬、猫は90日齢　以上";
+"arrival_animal_quarantine_section_desc_2_2_3_2" = "- 狂犬病発生国から、入国する場合のみ";
+"arrival_animal_quarantine_section_title_3" = "畜産物携帯や搬入時";
+"arrival_animal_quarantine_section_desc_3_1" = "入国場内農林畜産検疫本部に申告し、輸入や搬入可能可否を確認する";
+"arrival_animal_quarantine_section_desc_3_2" = "禁止品目";
+"arrival_animal_quarantine_section_desc_3_2_1" = "- 肉類(牛肉、豚肉、マトン、鶏肉など)";
+"arrival_animal_quarantine_section_desc_3_2_2" = "- 肉加工品(ハム、ソーセージ、ジャーキー、牛肉の醤油煮など)";
+"arrival_animal_quarantine_section_title_4" = "畜産関係者または家畜農場を訪問した時";
+"arrival_animal_quarantine_section_desc_4" = "入国フロアにある内農林畜産検疫本部に申告し、消毒などの防疫措置をする";
+"arrival_animal_quarantine_section_title_5" = "関連のお問い合わせ";
+"arrival_animal_quarantine_section_title_6" = "植物検疫";
+"arrival_animal_quarantine_section_desc_6_1" = "入国場内農林畜産検疫本部に申告";
+"arrival_animal_quarantine_section_desc_6_2" = "申告時具備必要書類";
+"arrival_animal_quarantine_section_desc_6_2_1" = "① 輸出国植物検疫機関が発行した植物検疫証明";
+"arrival_animal_quarantine_section_desc_6_2_1_1" = "- (種子、苗木などの繁殖用植物のみ)";
+"arrival_animal_quarantine_section_title_7" = "携帯搬入が禁止された植物(輸入禁止)";
+"arrival_animal_quarantine_section_desc_7_1" = "大体の生果実や草果物";
+"arrival_animal_quarantine_section_desc_7_2" = "土、土付着植物、殻のあるクルミ、愛玩昆虫";
+"arrival_animal_quarantine_section_desc_7_3" = "稲わら、籾殻などで作った加工品など";
+"arrival_animal_quarantine_section_title_8" = "関連のお問い合わせ";
+"arrival_animal_quarantine_section_link_1" = "携帯動物の入国検疫";
+"arrival_animal_quarantine_section_link_call_1" = "032-740-2660";
+"arrival_animal_quarantine_section_link_2" = "国立仁川空港検疫所 ホームページ";
+"arrival_animal_quarantine_section_link_call_2" = "032-740-2077";
+
+/* transfer */
+"transfer_category_1" = "乗り継ぎ手順";
+"transfer_category_2" = "移動経路";
+"transfer_category_3" = "乗り換え設備";
+"transfer_category_4" = "乗り換えツアー";
+
+/* transfer - process */
+"transfer_process_title_1" = "乗り換え時間";
+"transfer_process_title_2" = "航空従事者の譲渡";
+"transfer_process_tool_arrow_1" = "ターミナル 1 搭乗口  1 - 59";
+"transfer_process_tool_arrow_2" = "コンコース 搭乗口 101-132";
+"transfer_process_tool_arrow_3" = "ターミナル 2 搭乗口 230-270";
+
+"transfer_assignment" = "航空従事者の譲渡";
+"transfer_assignment_table_1_1" = "アシアナ航空";
+"transfer_assignment_table_1_2" = "OZ";
+"transfer_assignment_table_1_3" = "American Airlines";
+"transfer_assignment_table_1_4" = "AA";
+"transfer_assignment_table_2_1" = "エア・カナダ";
+"transfer_assignment_table_2_2" = "AC";
+"transfer_assignment_table_2_3" = "ユナイテッド航空";
+"transfer_assignment_table_2_4" = "UA";
+"transfer_assignment_table_3_1" = "マンダリン航空";
+"transfer_assignment_table_3_2" = "AE";
+"transfer_assignment_table_3_3" = "エア インディア";
+"transfer_assignment_table_3_4" = "AI";
+"transfer_assignment_table_4_1" = "フィンランド航空";
+"transfer_assignment_table_4_2" = "AY";
+"transfer_assignment_table_4_3" = "ユニ航空";
+"transfer_assignment_table_4_4" = "B7";
+"transfer_assignment_table_5_1" = "British Airways";
+"transfer_assignment_table_5_2" = "BA";
+"transfer_assignment_table_5_3" = "ROYAL BRUNEI AIRL";
+"transfer_assignment_table_5_4" = "BI";
+"transfer_assignment_table_6_1" = "エバー航空";
+"transfer_assignment_table_6_2" = "BR";
+"transfer_assignment_table_6_3" = "中国国際航空";
+"transfer_assignment_table_6_4" = "CA";
+"transfer_assignment_table_7_1" = "キャセイパシフィック航空";
+"transfer_assignment_table_7_2" = "CX";
+"transfer_assignment_table_7_3" = "エミレーツ航空";
+"transfer_assignment_table_7_4" = "EK";
+"transfer_assignment_table_8_1" = "Ethiopian Airlines";
+"transfer_assignment_table_8_2" = "ET";
+"transfer_assignment_table_8_3" = "エティハド航空";
+"transfer_assignment_table_8_4" = "EY";
+"transfer_assignment_table_9_1" = "TIANJIN AIRLINES";
+"transfer_assignment_table_9_2" = "GS";
+"transfer_assignment_table_9_3" = "ハワイアン航空";
+"transfer_assignment_table_9_4" = "HA";
+"transfer_assignment_table_10_1" = "香港航空";
+"transfer_assignment_table_10_2" = "HX";
+"transfer_assignment_table_10_3" = "ウズベキスタン航空";
+"transfer_assignment_table_10_4" = "HY";
+"transfer_assignment_table_11_1" = "Aurora Airlines";
+"transfer_assignment_table_11_2" = "HZ";
+"transfer_assignment_table_11_3" = "日本航空";
+"transfer_assignment_table_11_4" = "JL";
+"transfer_assignment_table_12_1" = "カンボジアアンコ ル航空";
+"transfer_assignment_table_12_2" = "K6";
+"transfer_assignment_table_12_3" = "エア・アスタナ";
+"transfer_assignment_table_12_4" = "KC";
+"transfer_assignment_table_13_1" = "ルフトハンザ航空";
+"transfer_assignment_table_13_2" = "LH";
+"transfer_assignment_table_13_3" = "波兰航空公司";
+"transfer_assignment_table_13_4" = "LO";
+"transfer_assignment_table_14_1" = "マレーシア航空";
+"transfer_assignment_table_14_2" = "MH";
+"transfer_assignment_table_14_3" = "マカオ航空";
+"transfer_assignment_table_14_4" = "NX";
+"transfer_assignment_table_15_1" = "モンゴル航空";
+"transfer_assignment_table_15_2" = "OM";
+"transfer_assignment_table_15_3" = "フィリピン航空";
+"transfer_assignment_table_15_4" = "PR";
+"transfer_assignment_table_16_1" = "カタール航空";
+"transfer_assignment_table_16_2" = "QR";
+"transfer_assignment_table_16_3" = "LAO Airlines";
+"transfer_assignment_table_16_4" = "QV";
+"transfer_assignment_table_17_1" = "ヤクティア航空";
+"transfer_assignment_table_17_2" = "R3";
+"transfer_assignment_table_17_3" = "S7航空";
+"transfer_assignment_table_17_4" = "S7";
+"transfer_assignment_table_18_1" = "山東航空";
+"transfer_assignment_table_18_2" = "SC";
+"transfer_assignment_table_18_3" = "シンガポール航空";
+"transfer_assignment_table_18_4" = "SQ";
+"transfer_assignment_table_19_1" = "タイ国際航空";
+"transfer_assignment_table_19_2" = "TG";
+"transfer_assignment_table_19_3" = "トルコ航空";
+"transfer_assignment_table_19_4" = "TK";
+"transfer_assignment_table_20_1" = "Sky Angkor Air";
+"transfer_assignment_table_20_2" = "ZA";
+"transfer_assignment_table_20_3" = "深圳航空";
+"transfer_assignment_table_20_4" = "ZH";
+"transfer_assignment_table_21_1" = "PAL EXPRESS";
+"transfer_assignment_table_21_2" = "2P";
+"transfer_assignment_table_21_3" = "四川航空";
+"transfer_assignment_table_21_4" = "3U";
+"transfer_assignment_table_22_1" = "Pan Pacific Air";
+"transfer_assignment_table_22_2" = "8Y";
+
+"transfer_assignment_con_table_1_1" = "中国南方航空";
+"transfer_assignment_con_table_1_2" = "CZ";
+"transfer_assignment_con_table_1_3" = "中国東方航空";
+"transfer_assignment_con_table_1_4" = "MU";
+"transfer_assignment_con_table_2_1" = "ベトナム国営航空";
+"transfer_assignment_con_table_2_2" = "VN";
+"transfer_assignment_con_table_2_3" = "エアアジアX";
+"transfer_assignment_con_table_2_4" = "D7";
+"transfer_assignment_con_table_3_1" = "上海航空";
+"transfer_assignment_con_table_3_2" = "FM";
+"transfer_assignment_con_table_3_3" = "ジンエアー";
+"transfer_assignment_con_table_3_4" = "LJ";
+"transfer_assignment_con_table_4_1" = "Peach Aviation";
+"transfer_assignment_con_table_4_2" = "MM";
+"transfer_assignment_con_table_4_3" = "エアソウル";
+"transfer_assignment_con_table_4_4" = "RS";
+"transfer_assignment_con_table_5_1" = "SCOOT TIGERAIR PTE.";
+"transfer_assignment_con_table_5_2" = "TR";
+"transfer_assignment_con_table_5_3" = "ティ\" -ウェイ 航空";
+"transfer_assignment_con_table_5_4" = "TW";
+"transfer_assignment_con_table_6_1" = "HONG KONG EXPRESS AIRWAYS";
+"transfer_assignment_con_table_6_2" = "UO";
+"transfer_assignment_con_table_6_3" = "VIETJET AIR";
+"transfer_assignment_con_table_6_4" = "VJ";
+"transfer_assignment_con_table_7_1" = "Thai AirAsia X";
+"transfer_assignment_con_table_7_2" = "XJ";
+"transfer_assignment_con_table_7_3" = "イースター航空";
+"transfer_assignment_con_table_7_4" = "ZE";
+"transfer_assignment_con_table_8_1" = "セブパシフィック航空";
+"transfer_assignment_con_table_8_2" = "5J";
+"transfer_assignment_con_table_8_3" = "済州航空";
+"transfer_assignment_con_table_8_4" = "7C";
+"transfer_assignment_con_table_9_1" = "春秋航空";
+"transfer_assignment_con_table_9_2" = "9C";
+
+"transfer_assignment_t2_table_1_1" = "大韓航空";
+"transfer_assignment_t2_table_1_2" = "KE";
+"transfer_assignment_t2_table_1_3" = "エールフランス航空";
+"transfer_assignment_t2_table_1_4" = "AF";
+"transfer_assignment_t2_table_2_1" = "デルタ航空";
+"transfer_assignment_t2_table_2_2" = "DL";
+"transfer_assignment_t2_table_2_3" = "KLMオランダ航空";
+"transfer_assignment_t2_table_2_4" = "KL";
+"transfer_assignment_t2_table_3_1" = "ガルーダインドネシア航空";
+"transfer_assignment_t2_table_3_2" = "GA";
+"transfer_assignment_t2_table_3_3" = "中国厦門航空";
+"transfer_assignment_t2_table_3_4" = "MF";
+"transfer_assignment_t2_table_4_1" = "Aeromexico";
+"transfer_assignment_t2_table_4_2" = "AM";
+"transfer_assignment_t2_table_4_3" = "アエロフロート航空";
+"transfer_assignment_t2_table_4_4" = "SU";
+"transfer_assignment_t2_table_5_1" = "Alitalia";
+"transfer_assignment_t2_table_5_2" = "AZ";
+"transfer_assignment_t2_table_5_3" = "チャイナエアライン";
+"transfer_assignment_t2_table_5_4" = "CI";
+"transfer_assignment_t2_table_6_1" = "Czech Airlines";
+"transfer_assignment_t2_table_6_2" = "OK";
+
+/* transfer - path */
+"transfer_sub_category_1" = "ターミナル1";
+"transfer_sub_category_2" = "搭乗棟";
+"transfer_sub_category_3" = "ターミナル2";
+
+"transfer_path_t1_title_1" = "ターミナル1 → ターミナル1";
+"transfer_path_t1_1_desc_1" = "① 到着ゲート(2階)";
+"transfer_path_t1_1_desc_2" = "② 乗り継ぎセキュリティ検索(2階 → 3階)";
+"transfer_path_t1_1_desc_3" = "③ 乗り継ぎデスク(4階)";
+"transfer_path_t1_1_desc_4" = "④ 出発ゲート(3階)";
+"transfer_path_t1_title_2" = "ターミナル1 → 搭乗棟";
+"transfer_path_t1_2_desc_1" = "① 到着ゲート(2階)";
+"transfer_path_t1_2_desc_2" = "② 乗り継ぎセキュリティ検索(2階 → 3階)";
+"transfer_path_t1_2_desc_3" = "③ グリーンサイネージに沿って進む(101~270)";
+"transfer_path_t1_2_desc_4" = "④ シャトルトレイン(ブルーライン)(地下1階)";
+"transfer_path_t1_2_desc_5" = "⑤ 乗り継ぎデスク(3階)";
+"transfer_path_t1_2_desc_6" = "⑥ 出発ゲート(3階)";
+"transfer_path_t1_title_3" = "ターミナル1 → ターミナル2";
+"transfer_path_t1_3_desc_1" = "① 到着ゲート(2階)";
+"transfer_path_t1_3_desc_2" = "② 乗り継ぎセキュリティ検索(2階 → 3階)";
+"transfer_path_t1_3_desc_3" = "③ グリーンサイネージに沿って進む(101~270)";
+"transfer_path_t1_3_desc_4" = "④ シャトルトレイン(ブルーライン)(地下1階)";
+"transfer_path_t1_3_desc_5" = "⑤ グリーンサイネージに沿って進む(230~270)";
+"transfer_path_t1_3_desc_6" = "⑥ 自動乗り継ぎゲート(地下1階)";
+"transfer_path_t1_3_desc_7" = "⑦ シャトルトレイン(オレンジライン)(地下1階)";
+"transfer_path_t1_3_desc_8" = "⑧ 乗り継ぎデスク(4階)";
+"transfer_path_t1_3_desc_9" = "⑨ 出発ゲート(3階)";
+
+"transfer_path_con_title_1" = "搭乗棟 → 搭乗棟";
+"transfer_path_con_1_desc_1" = "① 到着ゲート(2階)";
+"transfer_path_con_1_desc_2" = "② グリーンサイネージに沿って進む(101~270)";
+"transfer_path_con_1_desc_3" = "③ 乗り継ぎセキュリティ検索(2階 → 3階)";
+"transfer_path_con_1_desc_4" = "④ 乗り継ぎデスク(4階)";
+"transfer_path_con_1_desc_5" = "⑤ 出発ゲート(3階)";
+"transfer_path_con_title_2" = "搭乗棟 → ターミナル1";
+"transfer_path_con_2_desc_1" = "① 到着ゲート(2階)";
+"transfer_path_con_2_desc_2" = "② グリーンサイネージに沿って進む (1~50)";
+"transfer_path_con_2_desc_3" = "③ シャトルトレイン(ブルーライン)(地下1階)";
+"transfer_path_con_2_desc_4" = "④ 乗り継ぎセキュリティ検索(2階)";
+"transfer_path_con_2_desc_5" = "⑤ 乗り継ぎデスク(4階)";
+"transfer_path_con_2_desc_6" = "⑥ 出発ゲート(3階)";
+"transfer_path_con_title_3" = "搭乗棟 → ターミナル2";
+"transfer_path_con_3_desc_1" = "① 到着ゲート(2階)";
+"transfer_path_con_3_desc_2" = "② グリーンサイネージに沿って進む(101~270)";
+"transfer_path_con_3_desc_3" = "③ 乗り継ぎセキュリティ検索(2階 → 3階)";
+"transfer_path_con_3_desc_4" = "④ グリーンサイネージに沿って進む(230~270)";
+"transfer_path_con_3_desc_5" = "⑤ 自動乗り継ぎゲート(3階)";
+"transfer_path_con_3_desc_6" = "⑥ シャトルトレイン(オレンジライン)(地下1階)";
+"transfer_path_con_3_desc_7" = "⑦ 乗り継ぎデスク(4階)";
+"transfer_path_con_3_desc_8" = "⑧ 出発ゲート(3階)";
+
+"transfer_path_t2_title_1" = "ターミナル2 → ターミナル2";
+"transfer_path_t2_1_desc_1" = "① 到着ゲート(2階)";
+"transfer_path_t2_1_desc_2" = "② グリーンサイネージに沿って進む(230~270)";
+"transfer_path_t2_1_desc_3" = "③ 乗り継ぎデスク(2階)";
+"transfer_path_t2_1_desc_4" = "④ 自動乗り継ぎゲート(2階)";
+"transfer_path_t2_1_desc_5" = "⑤ 乗り継ぎセキュリティ検索(2階 → 3階)";
+"transfer_path_t2_1_desc_6" = "⑥ 出発ゲート(3階)";
+"transfer_path_t2_title_2" = "ターミナル2 → 搭乗棟";
+"transfer_path_t2_2_desc_1" = "① 到着ゲート(2階)";
+"transfer_path_t2_2_desc_2" = "② グリーンサイネージに沿って進む (1~132)";
+"transfer_path_t2_2_desc_3" = "③ 自動乗り継ぎゲート(2階)";
+"transfer_path_t2_2_desc_4" = "④ シャトルトレイン(オレンジライン)(地下1階)";
+"transfer_path_t2_2_desc_5" = "⑤ グリーンサイネージに沿って進む (101~132)";
+"transfer_path_t2_2_desc_6" = "⑥ 自動乗り継ぎゲート(地下1階)";
+"transfer_path_t2_2_desc_7" = "⑦ 乗り継ぎセキュリティ検索(2階 → 3階)";
+"transfer_path_t2_2_desc_8" = "⑧ 乗り継ぎデスク(3階)";
+"transfer_path_t2_2_desc_9" = "⑨ 出発ゲート(3階)";
+"transfer_path_t2_title_3" = "ターミナル2 → ターミナル1";
+"transfer_path_t2_3_desc_1" = "① 到着ゲート(2階)";
+"transfer_path_t2_3_desc_2" = "② グリーンサイネージに沿って進む (1~132)";
+"transfer_path_t2_3_desc_3" = "③ 自動乗り継ぎゲート(2階)";
+"transfer_path_t2_3_desc_4" = "④ シャトルトレイン(オレンジライン)(地下1階)";
+"transfer_path_t2_3_desc_5" = "⑤ グリーンサイネージに沿って進む (1~50)";
+"transfer_path_t2_3_desc_6" = "⑥ 自動乗り継ぎゲート(地下1階)";
+"transfer_path_t2_3_desc_7" = "⑦ シャトルトレイン(ブルーライン)(地下1階)";
+"transfer_path_t2_3_desc_8" = "⑧ 乗り継ぎセキュリティ検索(2階 → 3階)";
+"transfer_path_t2_3_desc_9" = "⑨ 乗り継ぎデスク(4階)";
+"transfer_path_t2_3_desc_10" = "⑩ 出発ゲート(3階)";
+
+/* transfer tour */
+"transfer_tour_title_1" = "Entertainment";
+"transfer_tour_title_2" = "Modern Life";
+"transfer_tour_title_3" = "Temple";
+"transfer_tour_title_4" = "Industry";
+"transfer_tour_title_5" = "Tradition";
+"transfer_tour_title_6" = "Shopping";
+
+"transfer_tour_1_desc_1" = "Near the Airport, enjoy the casino with a free $70 coupon in Paradise City  lled with more than 2,700 artworks Or Get on your dream car in the Asia’s  rst driving center of BMW which exhibits BMWs, MINIs, Motorrads and BMW’s classical cars.";
+"transfer_tour_1_sub_title_1" = "Paradise City";
+"transfer_tour_1_sub_1_desc_1" = "- (T1) 07:00~09:00 / 13:00~15:00";
+"transfer_tour_1_sub_1_desc_2" = "- (T2) 09:00~11:00 / 15:00~17:00";
+"transfer_tour_1_sub_title_2" = "BMW Driving Center";
+"transfer_tour_1_sub_2_desc_1" = "- (T1) 09:00~11:00 / 12:00~14:00";
+"transfer_tour_1_sub_2_desc_2" = "- (T2) 15:00~17:00";
+
+"transfer_tour_2_desc_1" = "G-Tower is one of the most popular landmarks of Incheon. The obser- vatory on the 33rd  oor boasts magni cent 360-degree panoramic views of Songdo International City. NC Cube Canal Walk has colorful and unique cafés, brand stores and the venues where cultural events and performances are held.";
+"transfer_tour_2_sub_title_1" = "(T1)14:00~16:00";
+"transfer_tour_2_sub_title_2" = "(T2)16:00~18:00";
+
+"transfer_tour_3_desc_1" = "Jeondeungsa Temple is a presti- gious temple that holds a beautiful Main Buddha Hall designated as Treasure No. 178 of Korea. Jogye- sa is the chief temple of the Jogye Order of Korean Buddhism, and the center of Korea’s modern Buddhist movement. The Main Temple boasts splendid ornaments and golden Bud- dha statues.";
+"transfer_tour_3_sub_title_1" = "(T1/T2) 08:00~12:00";
+"transfer_tour_3_sub_title_2" = "(T1/T2) 14:00~18:00";
+
+"transfer_tour_4_desc_1" = "Gwangmyeong Cave is a historic place that preserves the modern- ization of Korea. It transformed the industrial heritage of abandoned gold mine into the culture, arts and healing spaces. The mine was closed down in 1972 but it is estimated that the cave still has a sizable amount of gold deposits.";
+"transfer_tour_4_sub_title_1" = "(T1/T2) 09:00~13:00";
+
+"transfer_tour_5_desc_1" = "Gyeongbokgung Palace, completed in 1395, was the  rst royal palace built by the Joseon Dynasty. It was constructed about 25 years earlier than the Forbidden City in Beijing, China. Insa-dong, a popular neigh- borhood located in Jongno, is home to antique shops, folk art galleries and small shops selling traditional goods.";
+"transfer_tour_5_sub_title_1" = "(T1/T2) 08:00~13:00";
+"transfer_tour_5_sub_title_2" = "(T1/T2) 10:00~15:00";
+
+"transfer_tour_6_desc_1" = "Myeong-dong is one of the most popular shopping districts in Seoul where international tourists can experience Korea’s latest fashion trends and various street foods. Namdaemun Market is the largest traditional market in Korea and the streets are  lled with small shops that sell from clothes to ginseng, and much more at cheap prices.";
+"transfer_tour_6_sub_title_1" = "(T1/T2) 13:00~18:00";
+
+/* favorite */
+"favorite_category_1" = "全体";
+"favorite_category_2" = "ショッピング&ダイニング";
+"favorite_category_3" = "サービス施設";
+"favorite_category_4" = "交通アクセス";
+"favorite_no_result_1" = "登録されたお気に入りがありません。";
+"favorite_no_result_2" = "よくご利用される施設の情報を、お気に入りに登録すると便利です。";
+
+/* staff - shuttle bus */
+"staff_shuttle_category_1" = "T1 <-> 長距離駐車場";
+"staff_shuttle_category_2" = "AICC <-> T1 <-> T2";
+"staff_shuttle_category_3" = "貨物ターミナル <-> 物流団知";
+"staff_shuttle_category_4" = "T2 <-> 長距離駐車場";
+
+"shuttle_bus_predic_time" = "分後出発";
+"shuttle_bus_time_hour" = "時間";
+"shuttle_bus_time_etc" = "備考";
+"shuttle_bus_time_min" = "分";
+"shuttle_bus_time_weekday" = "平日";
+"shuttle_bus_time_weekend" = "休日";
+
+/* 직원버스 예약 */
+"staff_bus_category_1" = "노선버스 예매";
+"staff_bus_category_2" = "운행정보";
+"staff_bus_category_3" = "이용안내";
+"staff_bus_category_4" = "고객지원";
+
+"staff_bus_reserve_link_1" = "승차권예매";
+"staff_bus_reserve_link_2" = "예매조회 / 취소 / 변경";
+"staff_bus_reserve_link_3" = "영수증 발행";
+"staff_bus_route_info_link_1" = "노선 / 운행정보";
+"staff_bus_info_link_1" = "승차권예매 안내";
+"staff_bus_info_link_2" = "예매변경 및 취소 안내";
+"staff_bus_info_link_3" = "현금영수증 안내";
+"staff_bus_help_1" = "공지사항";
+"staff_bus_help_2" = "FAQ";
+"staff_bus_help_3" = "고객의 소리";
+
+/* 입주자지원센터 */
+"tsp_section_title_1" = "운영목적";
+"tsp_section_desc_1" = "인천공항 내 입주부터 퇴거까지 원스톱서비스 지원";
+"tsp_section_title_2" = "위치";
+"tsp_section_desc_2" = "제1교통센터 내 지하1층 서편\n제2교통센터 내 지하2층 서편";
+"tsp_section_title_3" = "운영시간";
+"tsp_section_desc_3" = "08:00 ~ 19:00 (토/일/공휴일 휴무)";
+"tsp_section_title_4" = "관련문의(운영시간만 통화가능)";
+"tsp_section_title_5" = "시설물 유지보수 상담(24시간 운영)";
+"tsp_section_title_6" = "건축 유지보수";
+"tsp_section_title_7" = "기계 유지보수";
+"tsp_section_title_8" = "전기 유지보수";
+"tsp_section_title_9" = "통신 유지보수(전지역)";
+"tsp_section_title_10" = "자유무역지원(건축, 기계, 전기)";
+"tsp_section_title_11" = "입주자 전용서비스 신청";
+"tsp_section_link_4_1" = "T1 입주자서비스센터";
+"tsp_section_link_4_2" = "T2 입주자서비스센터";
+"tsp_section_link_4_3" = "공간배정";
+"tsp_section_link_4_4" = "계약진행";
+"tsp_section_link_4_5" = "정기주차권";
+"tsp_section_link_4_6" = "전화 / LAN / TV";
+"tsp_section_link_4_7" = "시설물 설치변경 상담(총괄)";
+"tsp_section_link_call_4_1" = "032-741-3301";
+"tsp_section_link_call_4_2" = "032-741-3535";
+"tsp_section_link_call_4_3" = "032-741-2402";
+"tsp_section_link_call_4_4" = "032-741-2323";
+"tsp_section_link_call_4_5" = "032-741-6021";
+"tsp_section_link_call_4_6" = "032-741-7000";
+"tsp_section_link_call_4_7" = "032-741-3303";
+"tsp_section_link_5_1" = "공항 헬프데스크";
+"tsp_section_link_call_5_1" = "1577-2600";
+"tsp_section_link_6_1" = "제1여객터미널 / 제1교통센터";
+"tsp_section_link_6_2" = "제2여객터미널 / 제2교통센터";
+"tsp_section_link_6_3" = "탑승동";
+"tsp_section_link_6_4" = "정부합동청사";
+"tsp_section_link_call_6_1" = "032-741-7520";
+"tsp_section_link_call_6_2" = "032-744-6705";
+"tsp_section_link_call_6_3" = "032-741-9173";
+"tsp_section_link_call_6_4" = "032-744-7407";
+"tsp_section_link_7_1" = "제1여객터미널";
+"tsp_section_link_7_2" = "제2여객터미널";
+"tsp_section_link_7_3" = "탑승동";
+"tsp_section_link_7_4" = "제1교통센터";
+"tsp_section_link_7_5" = "제2교통센터";
+"tsp_section_link_7_6" = "제1정부합동청사";
+"tsp_section_link_7_7" = "제2정부합동청사";
+"tsp_section_link_call_7_1" = "032-741-7540";
+"tsp_section_link_call_7_2" = "032-744-6850";
+"tsp_section_link_call_7_3" = "032-741-9170";
+"tsp_section_link_call_7_4" = "032-741-7411";
+"tsp_section_link_call_7_5" = "032-744-6728";
+"tsp_section_link_call_7_6" = "032-741-6768";
+"tsp_section_link_call_7_7" = "032-744-5475";
+"tsp_section_link_8_1" = "제1여객터미널";
+"tsp_section_link_8_2" = "제2여객터미널 / 제2교통센터";
+"tsp_section_link_8_3" = "탑승동";
+"tsp_section_link_8_4" = "제1교통센터";
+"tsp_section_link_8_5" = "제1정부합동청사";
+"tsp_section_link_call_8_1" = "032-741-7524";
+"tsp_section_link_call_8_2" = "032-744-7448";
+"tsp_section_link_call_8_3" = "032-741-9168";
+"tsp_section_link_call_8_4" = "032-741-7524";
+"tsp_section_link_call_8_5" = "032-741-7031";
+"tsp_section_link_9_1" = "인터넷";
+"tsp_section_link_9_2" = "전화, CATV";
+"tsp_section_link_call_9_1" = "032-741-0000";
+"tsp_section_link_call_9_2" = "032-741-4707";
+"tsp_section_link_10_1" = "통합";
+"tsp_section_link_call_10_1" = "032-741-1300";
+"tsp_section_link_11_1" = "입주자 전용서비스 신청 포털(회원가입필수)";
+
+/* bluetooth */
+"bluetooth_fail_title" = "Bluetooth";
+"bluetooth_fail_message" = "位置情報サービスのために\nBluetoothをオンにします。";
+"beacon_fail_message" = "エラーのためBluetoothをオンにできません。";
+
+/* beacon */
+"beacon_noti_service" = "位置情報ベースのサービスを使用しています。";
+"beacon_noti_sub_service" = "(キャンセルするには通知ボタンを押す）";
+"beacon_welcome_t1" = "第1旅客タ\nーミナルにようこうそ.";
+"beacon_welcome_t2" = "第2旅客タ\nーミナルにようこうそ.";
+"beacon_welcome_zdc_desc" = "'%@' を登録すると、\n仁川国際空港の便利なサービスがご利用いただけます。";
+"beacon_checkin_zdc_desc" = "旅行のときめきを仁川国際空港と共に。";
+"beacon_zzz_t1" = "ここは第1旅客ターミナルです";
+"beacon_zzz_t2" = "ここは第2旅客ターミナルです";
+"beacon_zzz_flight" = "フライト";
+"beacon_zzz_t1_desc" = "お客様のフライトは%@でご利用できます。ターミナルの移動方法を参考してターミナルに起こしください。";
+"beacon_zzz_t2_desc" = "お客様のフライトは第1旅客ターミナルでご利用できます。ターミナルの移動方法を参考してターミナルに起こしください。";
+"beacon_zzz_bus_stop" = "乗り場";
+"beacon_zzz_bus_stop_t1" = "第1旅客ターミナル3階\n中央8番出口";
+"beacon_zzz_bus_stop_t2" = "第2旅客ターミナル3階\n中央4,5番出口の間";
+"beacon_change_color_t1" = "第1旅客タ";
+"beacon_change_color_t2" = "第2旅客タ";
+
+"beacon_button_myplan" = "カレンダーの表示";
+"beacon_button_move_terminal" = "ターミナル間の移動";
+"beacon_button_traffic" = "公共交通";
+
+"beacon_zdd_change_color_text" = "ここは免税エリアです。";
+"beacon_zdd_title" = "%@";
+"beacon_zdd_desc_1" = "お客様の搭乗情報を確認し、\n搭乗時間に合わせて搭乗口へお越しください。";
+"beacon_zdd_desc_2" = "免税クーポンが利用可能ですので、免税ショッピングをお楽しみください。\nスケジュールですぐ確認してください。";
+
+"beacon_zab_change_color_text" = "여권, 입국서류";
+"beacon_zab_carousel" = "手荷物受取所の";
+"beacon_zab_desc_1" = "入国審査を受ける方は、パスポート、入国書類をご用意ください。";
+"beacon_zab_desc_2" = "乗り継ぎの方は、乗り継ぎの案内に従って\n乗り継ぎエリアへお進みください。";
+
+"beacon_zat_title" = "お気をつけてお帰りください";
+"beacon_zat_desc" = "また新しい幸せでお会いできる日を心待ちにしております。";
+
+/* my plan */
+"myplan_employee_list_header_time" = "時間";
+"myplan_delete_msg" = "私のスケジュールは削除された。";
+"myplan_no_result_msg_1" = "登録された私のスケジュールがありません。";
+"myplan_no_result_msg_2" = "出発/到着航空便を登録するとより便利な仁川空港のサービスを利用することができます。";
+"myplan_select_delete" = "選択削除";
+"myplan_all_delete" = "全て削除";
+"myplan_close" = "終了したカレンダーです。";
+"myplan_select_delete_popup_msg" = "選択した運航便を'マイスケジュール'メニューから削除しますか";
+"myplan_all_delete_popup_msg" = "選択した運航便を'マイスケジュール'メニューから削除しますか";
+
+"myplan_card_header_dep_date" = "出発 日期&時間";
+"myplan_card_header_arr_date" = "到着 日期&時間";
+"myplan_card_header_carousel" = "手荷物";
+"myplan_card_header_exit" = "出口";
+
+"myplan_card_close" = "終了したカレンダーです";
+
+"myplan_passenger_incheon" = "仁川";
+
+"myplan_passenger_via" = "経由";
+"myplan_passenger_dep_weather" = "起源の天気";
+"myplan_passenger_arr_weather" = "目的地の天気";
+
+"myplan_passenger_dep_con_title_1" = "空港の予想混雑状況";
+"myplan_passenger_dep_con_desc_1" = "ご客様は %@を利用して出国する予定です。";
+"myplan_passenger_dep_con_desc_2" = "出国優先審査(ファストトラック)は乗客予告に含まれていません。";
+"myplan_passenger_dep_con_desc_3" = "出発日に基づいて示されます。";
+"myplan_passenger_dep_con_desc_4" = "混雑警報の発令基準";
+"myplan_passenger_dep_con_btn_1" = "空港の予想混雑度を見る";
+
+"myplan_passenger_dep_con_smooth" = "顺利";
+"myplan_passenger_dep_con_ordinary" = "一般";
+"myplan_passenger_dep_con_crowded" = "拥挤";
+"myplan_passenger_dep_con_very_crowded" = "拥挤不堪的";
+
+"myplan_passenger_parking_notice" = "※ 駐車場の状況はアクセスの時間を基準で表示しています。";
+
+"myplan_passenger_dep_pre_departure_title" = "ご旅行の準備";
+"myplan_passenger_dep_pre_departure_desc" = "迅速で快適な出国のため、制限のある手荷物の確認及び申告などを事前に確認することができます。";
+"myplan_passenger_dep_pre_departure_btn_1" = "制限のある手荷物";
+"myplan_passenger_dep_pre_departure_btn_2" = "手荷物の確認";
+"myplan_passenger_dep_pre_departure_btn_3" = "検疫申告";
+"myplan_passenger_dep_pre_departure_btn_4" = "兵務申告";
+
+"myplan_passenger_dep_hall_title" = "出国場";
+"myplan_passenger_dep_hall_desc_1" = "%@に到着しました。\n搭乗手続きをご準備をお願い致します。";
+"myplan_passenger_dep_hall_desc_2" = "お客様のチェックインカウンターは";
+"myplan_passenger_dep_hall_desc_3" = " です。";
+"myplan_passenger_dep_hall_desc_4" = "旅行に必要な 両替、ローミング、旅行保険の準備はお済みですか？";
+"myplan_passenger_dep_hall_btn_1" = "両替";
+"myplan_passenger_dep_hall_btn_2" = "ローミング";
+"myplan_passenger_dep_hall_btn_3" = "保険";
+
+"myplan_passenger_dep_5_title" = "出発ロビーの混雑度をリアルタイムでご確認ください。";
+
+"myplan_passenger_dep_6_title" = "セキュリティ/出国審査";
+"myplan_passenger_dep_6_desc_1" = "出国のため保安検査（セキュリティチェック）と出国審査を実施します。";
+"myplan_passenger_dep_6_btn_1" = "制限のある手荷物";
+"myplan_passenger_dep_6_desc_2" = "制限品があるか予め確認し、パスポートと搭乗券をご用意ください。";
+
+"myplan_passenger_dep_7_title_1" = "ここは免税エリアです。";
+"myplan_passenger_dep_7_title_2" = "免税エリア";
+"myplan_passenger_dep_7_desc" = "旅行のための免税ショッピングと様々なサービス施設がご利用いただけます。";
+"myplan_passenger_dep_7_btn_1" = "# 免税ショッピング";
+"myplan_passenger_dep_7_btn_2" = "# 免税店引渡し";
+"myplan_passenger_dep_7_btn_3" = "# ダイニング";
+"myplan_passenger_dep_7_btn_4" = "# サービス施設";
+
+"myplan_passenger_coupon" = "クーポン艦";
+
+"myplan_passenger_dep_8_title" = "搭乗口の案内";
+"myplan_passenger_dep_8_desc_1" = "お客様のご利用便の搭乗口は";
+"myplan_passenger_dep_8_desc_2" = "番ゲートです。";
+"myplan_passenger_dep_8_desc_3" = "出発の予定時刻は%@です。";
+"myplan_passenger_dep_8_desc_3_con" = "出発時刻の30分前までシャトルトレインに乗って搭乗棟までお越しください。";
+"myplan_passenger_dep_8_desc_4" = "出発の予定時刻の30分前から搭乗が始まるので時間に合わせて搭乗口までお越しください。";
+"myplan_passenger_dep_8_desc_4_con" = "出発の予定時刻の30~40分前から搭乗が始まるので時間に合わせて搭乗口までお越しください。";
+
+"myplan_passenger_dep_9_title" = "搭乗ゲートの通過";
+"myplan_passenger_dep_9_desc" = "楽しくて快適な旅になりますように。";
+
+"myplan_passenger_register_warning" = "同日にスケジュールが登録されています。\n削除して再登録してください。";
+
+"myplan_passenger_arr_1_title" = "到着ゲート";
+"myplan_passenger_arr_1_desc" = "ようこそ。\n仁川国際空港です。";
+
+"myplan_passenger_arr_2_title" = "到着の手続き";
+"myplan_passenger_arr_2_desc_1" = "出発国や地域によって、動物・畜産物を持ち込まれる場合は、検疫証明書を提出してください。";
+"myplan_passenger_arr_2_btn_1" = "# 動物・植物検疫";
+"myplan_passenger_arr_2_desc_2" = "入国審査を受けることになります。\nパスポートと入国カード(内国人、登録外国人を除く)を行ってください。";
+"myplan_passenger_arr_2_btn_2" = "# 入国審査";
+"myplan_passenger_arr_2_desc_3" = "入国する全ての人は税関申告書を作成、 提出します。\n携帯品の免税範囲はUSD $600であるため、超過は自主申告してください。";
+"myplan_passenger_arr_2_btn_3" = "# 税関検査";
+
+"myplan_passenger_arr_4_desc_1" = "仁川国際空港%@に到着します。";
+"myplan_passenger_arr_4_desc_1_con" = "シャトルとラインに乗って第1旅客ターミナルへお越して入国審査を受けてください。";
+"myplan_passenger_arr_4_desc_2" = "入国審査後、手荷物受取所のとおり移動してください。";
+
+"myplan_passenger_arr_5_title" = "手荷物の受取所";
+"myplan_passenger_arr_5_desc_1" = "ご客様の手荷物は";
+"myplan_passenger_arr_5_desc_2" = "番受取場で受け取ることがいただけます。";
+
+"myplan_passenger_arr_6_title" = "税関申告";
+"myplan_passenger_arr_6_desc" = "税関申告書を作成し、税関に提出します。";
+
+"myplan_passenger_arr_7_title" = "到着ロビーに移動";
+"myplan_passenger_arr_7_desc_1" = "お客様の現在位置から一番近い";
+"myplan_passenger_arr_7_desc_2" = "出口を利用して到着ロビーに移動してください。";
+
+"myplan_passenger_arr_8_title" = "帰宅";
+"myplan_passenger_arr_8_desc" = "交通手段を確認してお気をつけてお帰りください。";
+"myplan_passenger_arr_8_btn_1" = "空港バス";
+"myplan_passenger_arr_8_btn_2" = "空港トレイン";
+"myplan_passenger_arr_8_btn_3" = "駐車場";
+
+"push_popup_flight_detail" = "詳細表示";
+
+"search_title" = "搜索";
+"search_input_hint" = "統合検索は(4)席以上入力してください";
+"search_button" = "検索";
+"search_keyword_warning" = "検索語を入力してください";
+"search_recent_keyword_title" = "最近の検索";
+"search_result_title" = "搜索 结果";
+"search_no_result" = "検索結果がありません";
+
+"search_category_10" = "航空便| 出発";
+"search_category_20" = "航空便| 到着";
+"search_category_50" = "ショッピング| 第1旅客ターミナル";
+"search_category_60" = "ショッピング| 第2旅客ターミナル";
+"search_category_70" = "レストラン&飲料| 第1旅客ターミナル";
+"search_category_80" = "レストラン&飲料| 第2旅客ターミナル";
+"search_category_90" = "クーポン| クーポン";
+"search_category_91" = "クーポン| 免税クーポン";
+"search_category_100" = "クーポン| 乗継 クーポン";
+"search_category_110" = "休憩| 第1旅客ターミナル";
+"search_category_120" = "休憩| 第2旅客ターミナル";
+"search_category_130" = "医療| 第1旅客ターミナル";
+"search_category_140" = "医療| 第2旅客ターミナル";
+"search_category_150" = "銀行/保険| 第2旅客ターミナル";
+"search_category_160" = "便宜施設| 第1旅客ターミナル";
+"search_category_170" = "便宜施設| 第2旅客ターミナル";
+"search_category_180" = "銀行/保険| 第1旅客ターミナル";
+"search_category_190" = "公共交通| バス";
+"search_category_250" = "バリアフリーガイド";
+"search_category_300" = "出国";
+"search_category_310" = "入国";
+"search_category_320" = "出入国機関| 第1旅客ターミナル";
+"search_category_330" = "出入国機関| 第2旅客ターミナル";
+"search_category_340" = "ターミナル移動";
+"search_category_380" = "乗継";
+"search_category_410" = "公共交通";
+"search_category_420" = "駐車";
+
+/* pre information push */
+"pre_information_push_title" = "空港の予想混雑状況";
+"pre_information_push_title_1" = "出発情報";
+"pre_information_push_prohibit" = "受託手荷物の制限物品";
+"pre_information_push_prohibit_1" = "リチウム電池、\n電子タバコ、ライター";
+"pre_information_push_desc" = "空港が混雑することを考慮し、搭乗時間より余裕を持って到着されることをお勧めしています。";
+"pre_information_push_desc_1" = "";
+
+"pre_congestion_good" = "良い";
+"pre_congestion_generally" = "一般的に";
+"pre_congestion_little_congested" = "少し混雑している";
+"pre_congestion_congested" = "混雑している";
+"pre_congestion_very_congested" = "非常に混雑している";
+
+/* share popup */
+"popup_share_show_web" = "仁川空港のウェブサイトに表示";
+"popup_share_show_web_url" = "https://play.google.com/store/apps/details?id=com.ubivelox.icairport";
+"popup_share_show_app" = "仁川空港アプリで表示";
+"popup_share_content_image_url" = "http://incheonairportguide.airport.kr:11000/images/logo/IncheonAirportLogo.jpg";
+"popup_share_content_web_url" = "https://play.google.com/store/apps/details?id=com.ubivelox.icairport";
+
+"popup_share_bus_title" = "%@バスの詳細を確認しますか?";
+"popup_share_arex_title" = "空港鉄道の情報を確認しますか?";
+"popup_share_taxi_title" = "タクシー情報を確認しますか?";
+"popup_share_maglev_title" = "磁気浮上列車情報を確認しますか?";
+"popup_share_shuttle_bus_title" = "シャトルバスの情報を確認しますか?";
+
+"popup_share_shopping_title" = "ショッピング店情報を確認しますか?";
+"popup_share_food_title" = "飲食店情報を確認しますか?";
+"popup_share_coupon_title" = "クーポン情報を確認しますか?";
+"popup_share_rest_title" = "休憩時間情報を確認しますか?";
+"popup_share_medical_title" = "医療機関の情報を確認しますか?";
+"popup_share_finance_title" = "金融/保険の店舗情報を確認しますか?";
+"popup_share_convenience_title" = "設備情報を確認しますか?";
+
+/* covid-19 */
+"not_operated" = "休業";
+
+"prohibited_item" = "制限物品";
+"prohibited_item_desc_1" = "以下の情報 は参考であり、正確な情報は各航空会社/機関/施設にご確認ください。";
+"prohibited_item_btn_title" = "機内持ち込み禁止物品の詳細検索 交通安全公団";
+"prohibited_item_btn_desc" = "ホームページ　ショートカット";
+
+"prohibited_item_title_1" = "液体類";
+"prohibited_item_title_1_desc_1" = "液体、スプレー、ジェルタイプの衛生品、バスルームアメニティまたは医薬品類など";
+"prohibited_item_title_1_desc_1_1" = "客室";
+"prohibited_item_title_1_desc_1_2" = "(ただし、国際線に限り個別の容器が100㎖以下で 1人当たり1ℓジッパー付き透明ビニール製袋 (20.5cm * 20.5cm / 15cm * 25cm) 1つに限り持ち込み可）";
+"prohibited_item_title_1_desc_1_3" = "受託手荷物";
+"prohibited_item_title_1_desc_1_4" = "（ただし、国際線に限り個別の容器が500㎖（0.5kg）以下で、1人当たり2ℓ（2kg）以下まで可能）";
+"prohibited_item_title_1_desc_2" = "コチュジャン・キムチなど液体食品を含む食品";
+"prohibited_item_title_1_desc_2_1" = "客室";
+"prohibited_item_title_1_desc_2_2" = "（コチュジャン、キムチなどの液体がある食べ物は機内に持ち込み禁止。ただし、乾燥おかずは機内持ち込み可能）";
+"prohibited_item_title_1_desc_2_3" = "受託手荷物";
+"prohibited_item_title_1_desc_2_4" = "（容量制限なしで可能）";
+
+"prohibited_item_title_2" = "危害物品";
+"prohibited_item_title_2_desc_1" = "槍・刀剣類など";
+"prohibited_item_title_2_desc_1_1" = "客室";
+"prohibited_item_title_2_desc_1_2" = "受託手荷物";
+"prohibited_item_title_2_desc_1_3" = "（ただし、プラスチックナイフ、円形刃のバターナイフ、安全刃がついているカミソリ、安全カミソリ、電気カミソリ及び機内食専用のナイフ（航空会社所有）は、機内持ち込み可能）";
+"prohibited_item_title_2_desc_2" = "電子パドル、銃、武道護身用品など";
+"prohibited_item_title_2_desc_2_1" = "客室";
+"prohibited_item_title_2_desc_2_2" = "受託手荷物";
+"prohibited_item_title_2_desc_2_3" = "（ただし、受託手荷物として持ち込むときはその航空運送事業者に銃所持許可証や輸出入許可書などの関連書類を確認し銃弾を分離した後、しっかりとケースに入れた場合にのみ可能） （銃火器の部品の照準鏡は、客室と受託手荷物持ち込み可能) ";
+"prohibited_item_title_2_desc_3" = "工具類（ハンマー、レンチなど）";
+"prohibited_item_title_2_desc_3_1" = "客室";
+"prohibited_item_title_2_desc_3_2" = "受託手荷物";
+
+"prohibited_item_title_3" = "危険物";
+"prohibited_item_title_3_desc_1" = "リチウムイオン電池など";
+"prohibited_item_title_3_desc_1_1" = "客室";
+"prohibited_item_title_3_desc_1_2" = "- リチウムイオン電池など : 制限なしで可能\n- 余分電池100Wh超過〜160Wh以下 : お1人様2個以内可能\n- 余分電池160Wh超過 : 搬入不可 /n※ 上記の基準は大韓航空の基準であるため他の航空会社を利用する場合、航空会社にお問い合わせが必要";
+"prohibited_item_title_3_desc_1_3" = "受託手荷物";
+"prohibited_item_title_3_desc_2" = "引火性ガス液体、放射性物質など";
+"prohibited_item_title_3_desc_2_1" = "客室";
+"prohibited_item_title_3_desc_2_2" = "受託手荷物";
+
+"prohibited_item_faq" = "FAQ";
+"prohibited_item_faq_1" = "프라이팬, 냄비, 전기밥솥 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_1_desc" = "프라이팬, 냄비, 전기밥솥은 기내 반입이 가능합니다. 단, 항공사와 도착지에 따라 반입 규정이 상이할 수 있사오니 기내 수하물 허용규격에 대해 이용하시는 항공사에 사전 문의하시기 바랍니다.";
+"prohibited_item_faq_2" = "등산용 스틱을 기내 반입할 수 있나요?";
+"prohibited_item_faq_2_desc" = "등산용 스틱은 기내 반입이 가능하나, 끝이 날카로울 경우 객실 반입에 제한을 받을 수 있으니 위탁수하물(부치는 짐)로 처리하는 것을 권장합니다. 단, 산악용 망치의 경우 객실 반입이 금지되며 위탁수하물로 반입 가능합니다.";
+"prohibited_item_faq_3" = "카메라 삼각대, 셀카봉을 기내 반입할 수 있나요?";
+"prohibited_item_faq_3_desc" = "셀카봉 및 삼각대를 기내 반입 가능하나, 끝이 날카로울 경우 객실 반입에 제한을 받을 수 있으니 위탁수하물(부치는 짐)로 처리하는 것을 권장합니다.";
+"prohibited_item_faq_4" = "살아있는 동 식물, 과일 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_4_desc" = "살아있는 동 식물은 운송 내용을 증명할 수 있는 서류와 운송자의 신원을 확인하며, 항공사 동의 서류가 없을 경우 검색대 통과를 불허합니다. 또한 동물의 경우 X-ray 검색대에 투입하지 않고 우리(cage)에서 꺼낸 후, 동물과 우리(cage)를 정밀 검색(수검색 등)합니다.'멸종위기에 처한 야생 동 식물종의 국제거래에 관한 협약(CITES)'에서 보호하는 동 식물 및 이를 사용하여 만든 제품 및 가공품 역시 반입이 제한됩니다.";
+"prohibited_item_faq_4_call" = "※ 문의처: 인천공항 검역소(032-740-2660)";
+"prohibited_item_faq_4_call_number" = "032-740-2660";
+"prohibited_item_faq_5" = "술을 기내 반입할 수 있나요?";
+"prohibited_item_faq_5_desc" = "알코올성 음료는 도수에 따라 반입이 제한됩니다.\n- 24도(%) 미만: 객실 및 위탁수하물로 반입 가능\n- 24도(%) 이상 70도(%) 미만: 위탁수하물로 1인당 5L까지 반입 가능\n- 70도(%) 이상: 객실 및 위탁수하물 반입이 불가능\n단, 객실 반입하실 경우 액체 분무 겔류 규정에 의하여 용량에 따라 반입이 제한되오니 확인바랍니다.\n* 액체 겔 분무류 규정: 객실 반입할 경우 개별 100ml 이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 1인당 1L 투명 비닐 지퍼백 1개에 한해 반입 가능";
+"prohibited_item_faq_6" = "공구류를 기내 반입할 수 있나요?";
+"prohibited_item_faq_6_desc" = "공구류는 위해물품으로 분류되어 객실 반입이 불가능하며 위탁수하물 반입만 가능합니다.";
+"prohibited_item_faq_7" = "아이스팩, 아이스박스를 기내 반입할 수 있나요?";
+"prohibited_item_faq_7_desc" = "아이스팩의 경우 액체 분무 겔류 규정에 의하여 용량에 따라 반입이 제한되며, 액체를 포함하지 않는 아이스박스는 객실 및 위탁수하물로 반입 가능합니다.\n※ 액체 겔 분무류 규정: 객실 반입할 경우 개별 용기당 100ml 이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 1인당 1L 투명비닐지퍼백 1개에 한해 반입 가능, 위탁 수하물(부치는 짐) 용량 제한 없이 반입 가능 합니다. 단, 드라이아이스는 기내 반입을 위하여 항공사의 승인이 필요하오니 이용하시는 항공사에 문의하시기 바랍니다.";
+"prohibited_item_faq_8" = "외화나 값비싼 물건, 다량의 핸드폰을 기내 반입할 수 있나요?";
+"prohibited_item_faq_8_desc" = "출국 시, 1만 불을 초과하는 금액에 대해서 세관에 신고 후 외국환 신고 확인필증을 구비하셔야하며 값비싼 물건(USD 600이상)의 경우 세관신고대에 휴대물품 반출 신고(확인)서를 작성해야 합니다. 다량의 핸드폰 역시 세관의 반출 확인을 받아야 합니다.\n※ 문의처: 인천공항 세관(032-722-4422)";
+"prohibited_item_faq_9" = "칼을 기내 반입할 수 있나요?";
+"prohibited_item_faq_9_desc" = "칼은 위해물품으로 분류되어 날 길이에 상관없이 객실 반입이 불가하며 위탁수하물로 반입이 가능합니다.";
+"prohibited_item_faq_10" = "유독성 물질 등 위험물 반입 시 어디로 문의하면 되나요?";
+"prohibited_item_faq_10_desc" = "인화성, 화학성, 유독성 물질 등은 원칙상 기내 및 위탁수하물 반입이 금지됩니다. 단, '항공위험물 운송기술기준'에서 정한 안전 요건을 충족한 후 산업안전보건법 에 따른 물질안전보건자료를 해당 항공사에게 제시하여 안전한 물질로 판단되는 경우에 한해 위탁수하물로 반입이 가능합니다. 관련 절차는 이용하시는 항공사에 문의하시기 바랍니다.";
+"prohibited_item_faq_11" = "유골을 기내 반입할 수 있나요?";
+"prohibited_item_faq_11_desc" = "X-ray 검색에서 손상 위험이 있는 유골, 유해 등은 증명 서류(화장증명서, 사망확인서 등)를 구비하시고 보안검색요원에게 확인 바랍니다. 반입 가능 여부에 대해서는 이용하시는 항공사에 사전 문의하셔야 합니다.";
+"prohibited_item_faq_12" = "배터리(리튬이온배터리, 니켈카드뮴 등)를 기내 반입할 수 있나요?";
+"prohibited_item_faq_12_desc" = "알칼라인 종류의 배터리에 대해서는 기내 수하물 및 위탁 수하물 처리 가능하나, 리튬배터리인 경우는 용량에 따라 반입이 제한됩니다.\n- 0Wh∼100Wh: 반입 가능하나 항공사별 허용개수 상이함\n- 100Wh∼160Wh: 항공사 승인 하에 객실로 1인당 2개 반입 가능\n- 160Wh 초과: 반입 불가\n※ 항공사와 도착지별로 반입 기준이 조금씩 상이하오니 자세한 사항은 항공사로 문의하시기 바랍니다. 전자기기에 장착된 리튬배터리는 160wh 이하일 경우만 운반 가능합니다. 단, 습식배터리(전해액이 들어있는 축전지)는 항공기 탑재함에 있어 항공사의 승인이 필요합니다.";
+"prohibited_item_faq_13" = "컴퓨터나 태블릿 등 전자제품을 기내 반입할 수 있나요?";
+"prohibited_item_faq_13_desc" = "컴퓨터(데스크탑 노트북), 태블릿 등 항공기 안전에 무해한 전자제품은 기내수하물 및 위탁수하물 처리가 가능합니다. 전자제품 소지 후 보안 검색 시에는 사전에 분리하여 바구니에 담아주시면 신속한 보안검색을 받으실 수 있습니다.";
+"prohibited_item_faq_14" = "의약품(알약, 물약, 투석환자, 철심, 주사기 등)을 기내 반입할 수 있나요?";
+"prohibited_item_faq_14_desc" = "주사기, 침류 등 의료용 물품(도구)은 기내 및 위탁수하물 반입이 가능합니다. 100ml를 초과하는 액체 의약품(인슐린 등)을 기내에 반입하시려면 의사 소견서 또는 처방전(국문 또는 영문)을 지참하여야 합니다.\n※ 해외 공항 의약품 반입은 이용하시는 항공사에 문의해주시기 바랍니다.\n또한 기내에서 사용하실 만큼의 양만 객실 반입 하실 수 있으며, 여분의 액체 의약품(인슐린 등)은 위탁수하물(부치는 짐)로 보내셔야 하므로 이점 꼭 유의하여 주시기 바랍니다. 처방전 등이 없는 경우에는 액체 및 젤류 반입제한 규정에 따라 100ml 이하(내용물의 잔여량에 관계없이 용기 용량 기준)만 기내반입이 가능합니다. 일부 물품은 보호케이스에 담겨져 있는 경우만 반입이 가능할 수도 있으며, 위험 물품은 반입이 제한될 수 있습니다. 인체에 이식된 전자의료장치, 철심 등은 보안검색 상에 문제가 없으며, 검색요원의 판단에 따라 별도의 장소에서 정밀검색을 실시 할 수 있습니다. 인공 심박기 이식 승객은 심장박동기 착용 소지증을 확인 후 별도의 장소에서 검색을 실시합니다.";
+"prohibited_item_faq_15" = "임산부인데 보안검색대를 꼭 통과해야 하나요?";
+"prohibited_item_faq_15_desc" = "문형금속탐지기는 인체에 해를 미치지 않으나 문형금속탐지기 통과를 원치 않을 경우, 검색요원의 지시에 따라 별도의 장소에서 촉수 검색을 실시할 수 있습니다.";
+"prohibited_item_faq_16" = "전자담배를 기내 반입할 수 있나요?";
+"prohibited_item_faq_16_desc" = "전자담배는 객실 반입만 가능하며 위탁 수하물(부치는 짐)로 반입 불가능합니다. 반입 수량과 관련하여 배터리 반입 규정을 참고하시기 바랍니다.";
+"prohibited_item_faq_17" = "한약, 홍삼 등 건강보조식품 및 음식물 반입 문의";
+"prohibited_item_faq_17_desc" = "한약, 홍삼 등 건강보조식품류를 포함한 음식류는 고체(알약, 가루포함)일 경우 위탁수하물 및 객실수하물로 처리 가능하나 항공사 별로 반입 가능 용량이 상이 하오니 이용하시는 항공사에 문의 부탁드립니다. 다만, 액체 겔류일 경우 100ml 초과 시(내용물 용량에 관계없이 용기 용량 기준) 객실반입 불가하며, 위탁수하물(부치는 짐)로 처리해야 합니다. 특별 식이처방 음식(승객의 건강에 꼭 필요하다는 의사처방전이 있는 음식)은 항공 여행에 적합한 용량만 허용하며, 의사 소견서 및 처방전을 검색요원에게 제시하여 검색요원이 적합하다고 판단이 된 경우만 객실 반입이 허가됩니다.";
+"prohibited_item_faq_18" = "스프레이(가연성 있는 위생용품, 살충제 등)를 기내 반입할 수 있나요?";
+"prohibited_item_faq_18_desc" = "스프레이로 된 개인위생용품은(헤어스프레이, 산소 스프레이, 몸에 뿌리는 해충 기피제 등) 100ml 이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준) 1인당 1L 투명비닐지퍼백 1개에 한해 객실 반입이 가능하며, 위탁수하물(부치는 짐)로는 2kg(2L)범위 내에서 종류당 500ml이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 각 한 개씩 반입 가능합니다. 호신용 스프레이류는 객실 반입이 금지되며 위탁수하물(부치는 짐)에 한하여 인당 100ml이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준) 1개 반입 가능합니다. 인화성 살충제(에프킬라 등)는 객실‧위탁수하물 모두 반입 불가합니다.";
+"prohibited_item_faq_19" = "액체 분무 겔류 형태의 위생용품, 욕실 용품 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_19_desc" = "인천국제공항에서 출발하는 국제선 모든 항공편을 대상으로 액체 분무 겔류에 해당하는 제품에 대하여 용량에 따라 객실 반입을 제한하고 있습니다. 액체 분무 겔류에 해당하는 제품을 기내로 가지고 가시려면 100ml 이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준)로 투명한 지퍼백(20cmX20cm)에 넣어 닫은 상태로 1인당 지퍼백 1개만 기내소지가 가능합니다.\n<기내소지에 유의해야하는 제품의 예>\n- 액체류 : 김치, 술, 생수, 음료수, 쥬스, 향수, 스킨, 로션 등\n- 분무류 : 헤어스프레이, 산소 스프레이, 몸에 뿌리는 해충 기피제 등\n- 겔류: 샴푸, 린스, 치약, 헤어젤, 선크림, 립글로즈, 고추장, 된장 등\n* 고체 형태의 밑반찬의 경우 기내로 가지고 갈 수 있습니다. (예: 오징어채, 마른멸치 등)\n<지퍼백을 준비하지 못했을 경우>\n미리 준비를 하지 못하셨다면, 공항 여객터미널 3층 중앙 편의점이나 공항 내 서점에서 구입이 가능합니다.\n<어린아이가 사용할 우유, 이유식>\n어린아이(만 6세 이하)를 동반한 승객이 휴대한 어린아이의 용품(우유, 물, 주스, 액체 겔 죽 형태의 음식 및 물티슈 등)은 항공여행 중 사용할 분량에 한하여 기내 소지 허용하고 있습니다.";
+"prohibited_item_faq_20" = "보안검색장에서 적발되어 포기한 물품을 되찾을 수 있나요?";
+"prohibited_item_faq_20_desc" = "기내반입 금지물품 관련 규정에 의하여 적발된 물품을 포기하신 경우 해당 물품을 찾는 것이 불가합니다. 이점 꼭 유의하시기 바라며, 출국 시 기내반입 금지물품이 무엇인지 꼭 확인해 보신 후 보안검색을 받으시기 바랍니다. 기내반입 금지물품은 인천공항 홈페이지 및 항공보안 자율신고제도 홈페이지(http://avsec.ts2020.kr) 에서 확인 가능합니다. 보안검색장에서 적발되어 포기하신 물품은 규정된 절차에 따라 복지기관 등에 기증되고 있습니다.";
+
+/* air brs baggage */
+"air_brs_bag_title" = "手荷物の確認";
+"air_brs_bag_desc_1" = "手荷物のバーコードをスキャンするか、6～10桁の手荷物番号を入力してください。";
+"air_brs_bag_desc_2" = "手荷物バーコードをスキャン";
+"air_brs_bag_date_title" = "搭乗日";
+"air_brs_bag_flight_title" = "航空便名";
+"air_brs_bag_barcode_title" = "手荷物番号";
+"air_brs_bag_seat_title" = "座席番号";
+"air_brs_bag_btn" = "照会する";
+"air_brs_bag_desc_3" = "手荷物番号、搭乗日、航空便名を入力すると、現在の手荷物の状態をご確認いただけます。\n※ 乗り継ぎのお客様の場合、必ず座席番号を入力してください。\n※ 現在、仁川国際空港から出発するフライトのうち大韓航空(KE)、アシアナ航空(OZ)、イースター航空(ZE)、エアソウル(RS)をご利用の場合のみ照会可能です。";
+"air_brs_bag_fail_msg_1" = "入力した情報をもう一度ご確認ください。";
+"air_brs_bag_fail_msg_2" = "搭乗日をもう一度ご確認ください。";
+"air_brs_bag_fail_msg_3" = "航空便情報をもう一度ご確認ください。";
+"air_brs_bag_fail_msg_4" = "手荷物番号をもう一度ご確認ください。";
+"air_brs_bag_fail_msg_5" = "座席番号をもう一度ご確認ください。";
+"air_brs_bag_popup_fail_msg_1" = "航空便情報を入力してください。";
+"air_brs_bag_popup_fail_msg_2" = "手荷物番号を入力してください。";
+"air_brs_bag_popup_fail_msg_3" = "座席番号を入力してください。";
+"air_brs_bag_airline_0" = "大韓航空";
+"air_brs_bag_airline_1" = "アシアナ航空";
+"air_brs_bag_airline_2" = "イースター航空";
+"air_brs_bag_airline_3" = "エアソウル";
+
+"air_brs_bag_result_title" = "手荷物の照会結果";
+"air_brs_bag_result_flight" = "航空便名";
+"air_brs_bag_result_barcode" = "手荷物番号";
+"air_brs_bag_result_status_1" = "手荷物のチェックイン完了";
+"air_brs_bag_result_status_2" = "手荷物の積み込み完了";
+"air_brs_bag_result_status_3" = "セキュリティチェック実施中";
+"air_brs_bag_result_status_desc_1" = "ご利用の航空会社へお問い合わせください。";
+"air_brs_bag_result_status_desc_2" = "手荷物の情報が見つかりませんでした。\n入力した情報をもう一度ご確認の上、再度お試しください。";
+"air_brs_bag_result_status_desc_3" = "手荷物の情報が見つかりませんでした。\nご利用の航空会社へお問い合わせください。";
+"air_brs_bag_result_status_call" = "お問い合わせ電話番号";
+"air_brs_bag_result_re_search" = "手荷物の状態を確認する";

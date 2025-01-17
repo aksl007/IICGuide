@@ -1,0 +1,1986 @@
+
+
+"com.crashlytics.useFirebaseAppId" = "true";
+
+"app_name" = "인천공항";
+
+/* home */
+"home_real_time_info" = "실시간 공항 정보 안내";
+"home_bottom_menu_1" = "메뉴";
+"home_bottom_menu_2" = "홈";
+"home_bottom_menu_3" = "내일정";
+"home_bottom_menu_4" = "즐겨찾기";
+
+"home_drag_menu_1" = "출/도착 항공편";
+"home_drag_menu_2" = "실시간 공항정보";
+"home_drag_menu_3" = "주차안내";
+"home_drag_menu_4" = "주차예약";
+"home_drag_menu_5" = "대중교통";
+"home_drag_menu_6" = "수하물 확인";
+"home_drag_menu_7" = "제한물품";
+"home_drag_menu_8" = "입국환영";
+"home_drag_menu_9" = "면세점쇼핑";
+"home_drag_menu_10" = "식당안내";
+"home_drag_menu_11" = "휴식";
+"home_drag_menu_12" = "쿠폰";
+"home_drag_title_1" = "공항즐기기";
+
+"home_floating_1" = "에어봇";
+
+/* real-time info */
+"real_time_info_title" = "실시간 정보";
+"real_time_info_category_1" = "주차가능 현황";
+"real_time_info_category_2" = "출국장 혼잡도";
+"real_time_info_category_3" = "입국심사 혼잡도";
+"real_time_info_category_4" = "승객예고";
+
+/* real-time parking */
+"real_time_info_parking_title" = "주차가능대수";
+"real_time_info_parking_table_header_1" = "구분";
+"real_time_info_parking_table_header_2" = "상세구분";
+"real_time_info_parking_table_header_3" = "주차가능 수";
+"real_time_info_parking_short_term" = "단기주차장";
+"real_time_info_parking_long_term" = "장기주차장";
+"real_time_info_parking_table_div_detail_1_1" = "1층";
+"real_time_info_parking_table_div_detail_1_2" = "지하1층";
+"real_time_info_parking_table_div_detail_1_3" = "지하2층";
+"real_time_info_parking_table_div_detail_2_1" = "주차타워(P1)";
+"real_time_info_parking_table_div_detail_2_2" = "주차타워(P2)";
+"real_time_info_parking_table_div_detail_2_3" = "P1";
+"real_time_info_parking_table_div_detail_2_4" = "P2";
+"real_time_info_parking_table_div_detail_2_5" = "P3";
+"real_time_info_parking_table_div_detail_2_6" = "P4";
+"real_time_info_parking_table_t2_div_detail_1_1" = "1층";
+"real_time_info_parking_table_t2_div_detail_1_2" = "2층";
+"real_time_info_parking_table_t2_div_detail_1_3" = "M층";
+"real_time_info_parking_table_t2_div_detail_1_4" = "지하1층";
+"real_time_info_parking_table_t2_div_detail_2_1" = "-";
+"real_time_info_parking_table_count_unit" = "대 가능";
+"real_time_info_parking_table_count_full" = "만차";
+"real_time_info_parking_sub_title_1" = "1일 이상 장기주차의 경우 장기주차장을 이용하시기 바랍니다.";
+"real_time_info_parking_sub_title_2" = "장기주차장에 주차하신 경우 공항 셔틀버스를 이용하시면 여객터미널까지 쉽게 오실 수 있습니다.";
+"real_time_info_parking_sub_title_3" = "단기주차장은 승용차 전용구역입니다";
+"real_time_info_parking_t2_sub_title_3" = "장기주차장에 주차하신 경우 공항 셔틀버스를 이용하시면 여객터미널까지 약 8분 소요됩니다.";
+"real_time_info_parking_link_1" = "주차요금 안내";
+"real_time_info_parking_link_2" = "인천공항 예약주차 바로가기";
+
+/* real-time depature congestion */
+"dep_congestion_smooth" = "원활";
+"dep_congestion_ordinary" = "보통";
+"dep_congestion_crowded" = "혼잡";
+"dep_congestion_very_crowded" = "매우 혼잡";
+"dep_congestion_close" = "운영종료";
+"dep_congestion_unit" = "명";
+"dep_congestion_total" = "현재 출국장 총 대기인원 ";
+
+/* arr congestion */
+"arr_congestion_time" = "시간";
+"arr_congestion_div" = "구분";
+"arr_congestion_area_b" = "B구역";
+"arr_congestion_area_c" = "C구역";
+"arr_congestion_area_d" = "D구역";
+"arr_congestion_area_e" = "E구역";
+"arr_congestion_time_5" = "5분 후";
+"arr_congestion_time_10" = "10분 후";
+"arr_congestion_div_kor" = "내국인";
+"arr_congestion_div_for" = "외국인";
+"arr_congestion_section" = "구역";
+"arr_congestion_from" = "출발지";
+"arr_congestion_flight" = "(항공편)";
+"arr_congestion_sch_time" = "도착예정";
+"arr_congestion_est_time" = "(도착시간)";
+"arr_congestion_gate" = "게이트";
+"arr_congestion_area_t2_a" = "A구역";
+"arr_congestion_area_t2_b" = "B구역";
+
+/* expected passenger */
+"passenger_category_1" = "출발 승객예고";
+"passenger_category_2" = "도착 승객예고";
+"passenger_title" = "예상 승객 인원 조회";
+"passenger_t1_1_table_header_1" = "시간";
+"passenger_t1_1_table_header_2" = "출국장 1, 2";
+"passenger_t1_1_table_header_3" = "출국장 3";
+"passenger_t1_1_table_header_4" = "출국장 4";
+"passenger_t1_1_table_header_5" = "출국장 5, 6";
+"passenger_t1_1_table_header_6" = "계";
+"passenger_t1_2_table_header_2" = "A, B";
+"passenger_t1_2_table_header_3" = "E, F";
+"passenger_t1_2_table_header_4" = "C";
+"passenger_t1_2_table_header_5" = "D";
+"passenger_t2_1_table_header_2" = "출국장 1";
+"passenger_t2_1_table_header_3" = "출국장 2";
+"passenger_t2_2_table_header_2" = "서편 (A)";
+"passenger_t2_2_table_header_3" = "동편 (B)";
+"passenger_sub_title_1" = "D+2 예고는 매일 17시에 업데이트됩니다.";
+"passenger_sub_title_2" = "출국장 1, 6은 패스트 트랙으로 승객예고 대상에서 제외";
+"passenger_title_2" = "혼잡경보 발령기준";
+"passenger_t1_desc_1" = "시간당 7,000 ~ 7,600명 집중 시";
+"passenger_t1_desc_2" = "시간당 7,600 ~ 8,200명 집중 시";
+"passenger_t1_desc_3" = "시간당 7,600명 초과 연속 2시간 지속 시\n시간당 8,200 ~ 8,600명 집중 시";
+"passenger_t1_desc_4" = "시간당 8,200명 초과 연속 2시간 지속 시\n시간당 8,600명 초과 시";
+"passenger_t2_desc_1" = "시간당 3,200 ~ 3,500명 집중 시";
+"passenger_t2_desc_2" = "시간당 3,500 ~ 3,800명 집중 시";
+"passenger_t2_desc_3" = "시간당 3,500명 초과 연속 2시간 지속 시\n시간당 3,800 ~ 4,000명 집중 시";
+"passenger_t2_desc_4" = "시간당 3,800명 초과 연속 2시간 지속 시\n시간당 4,000명 초과 시";
+
+/* parking fee info */
+"parking_fee_info_title_1" = "주차요금";
+"parking_fee_info_small" = "소형";
+"parking_fee_info_large" = "대형";
+"parking_fee_info_short_term_small_basic" = "기본 30분 1,200원";
+"parking_fee_info_short_term_small_add" = "추가 15분마다 600원";
+"parking_fee_info_long_term_small_basic" = "1시간 1,000원, 1일 최대 9,000원";
+"parking_fee_info_long_term_large_basic" = "30분 마다 1,200원, 1일 최대 12,000원";
+"parking_fee_info_sub_title_1_1" = "1일 이상 장기주차의 경우 장기주차장을 이용하시기 바랍니다.";
+"parking_fee_info_sub_title_1_2" = "장기주차장에 주차하신 경우 공항 셔틀버스를 이용하시면 여객터미널까지 쉽게 오실 수 있습니다.";
+"parking_fee_info_sub_title_1_3" = "주차장이 넓으니 주차한 구역을 찍어두시면 차량 찾기가 용이하며, 차량 위치 확인기나 인천공항가이드앱 등으로도 차량 위치를 확인할 수 있습니다.";
+"parking_fee_info_reserve" = "예약주차장";
+"parking_fee_info_reserve_small_basic" = "1시간 1,000원\n1일 최대 9,000원";
+
+"parking_fee_info_title_2" = "주차요금 정산 방법";
+"parking_fee_info_sub_title_2_1" = "사전무인요금정산기를 이용한 정산";
+"parking_fee_info_sub_title_2_2" = "모바일앱을 이용한 정산";
+"parking_fee_info_sub_title_2_3" = "유인부스를 이용한 정산";
+"parking_fee_info_sub_title_2_4" = "무인부스를 이용한 정산";
+
+"parking_fee_info_title_3" = "요금 감면(20%)";
+"parking_fee_info_sub_title_3" = "저공해 자동차 3종";
+
+"parking_fee_info_title_4" = "요금 감면(50%)";
+"parking_fee_info_sub_title_4_1" = "경차";
+"parking_fee_info_sub_title_4_2" = "장애인, 상이등급 판정을 받은 국가유공자, 장애등급 판정을 받은 5·18민주유공자, 장애등급 판정을 받은 고엽제 후유증 환자";
+"parking_fee_info_sub_title_4_3" = "장애인 협회 차량 또는 장애인 단체 차량";
+"parking_fee_info_sub_title_4_4" = "저공해 자동차 1, 2종";
+"parking_fee_info_sub_title_4_5" = "다자녀우대카드를 소지한 다자녀가구주(부/모) 명의 차량 (* 필요서류 등 기타 자세한 사항은 인천국제공항 홈페이지 참조)";
+"parking_fee_info_link_1" = "인천국제공항 홈페이지 바로가기";
+
+/*슬라이드 메뉴*/
+"slide_main_menu_my_plan" = "내 일정";
+"slide_main_menu_notice" = "공지사항";
+"slide_main_menu_setting" = "설정";
+"slide_main_menu_home" = "홈";
+"slide_main_menu_flight_info" = "항공편";
+"slide_flight_sub_menu_0" = "출도착정보";
+"slide_flight_sub_menu_1" = "시즌스케줄";
+"slide_main_menu_shop" = "쇼핑&식당";
+"slide_shop_sub_menu_0" = "쇼핑";
+"slide_shop_sub_menu_1" = "식음료";
+"slide_shop_sub_menu_2" = "면세/식음료 매장 MAP";
+"slide_shop_sub_menu_3" = "쿠폰";
+"slide_main_menu_convenience" = "편의 서비스";
+"slide_convenience_sub_menu_0" = "휴식";
+"slide_convenience_sub_menu_1" = "의료/건강";
+"slide_convenience_sub_menu_2" = "금융/보험";
+"slide_convenience_sub_menu_3" = "기타 편의시설";
+"slide_main_menu_transport" = "교통&주차";
+"slide_transport_sub_menu_0" = "대중교통";
+"slide_transport_sub_menu_1" = "주차";
+"slide_transport_sub_menu_2" = "터미널간 이동";
+"slide_transport_sub_menu_3" = "전국 길안내";
+"slide_main_menu_navigation" = "실내지도";
+"slide_main_menu_airport_guide" = "공항이용안내";
+"slide_airport_guide_sub_menu_0" = "출국";
+"slide_airport_guide_sub_menu_1" = "입국";
+"slide_airport_guide_sub_menu_2" = "환승";
+"slide_airport_guide_sub_menu_3" = "출입국기관";
+"slide_airport_guide_sub_menu_4" = "교통약자";
+"slide_main_menu_favorite" = "즐겨찾기";
+"slide_main_menu_staff" = "STAFF";
+"slide_staff_sub_menu_0" = "입국환영";
+"slide_staff_sub_menu_1" = "셔틀스케줄";
+"slide_staff_sub_menu_2" = "직원버스예약";
+"slide_staff_sub_menu_3" = "입주자서비스센터";
+
+/*출도착정보*/
+"flights_flight_info" = "출도착정보";
+"flights_departure_info_title" = "출발편";
+"flights_arrival_info_title" = "도착편";
+"flights_update" = "업데이트";
+"flights_list_header_time" = "예정";
+"flights_list_header_new" = "변경";
+"flights_list_header_flight" = "항공편";
+"flights_list_header_status" = "상태";
+"flights_list_header_dest" = "도착지";
+"flights_list_header_origin" = "출발지";
+"flights_list_header_via" = "경유지";
+"flights_list_header_checkin" = "카운터";
+"flights_list_header_gate" = "탑승구";
+"flights_list_header_carousel" = "수하물/출구";
+"flights_list_header_exit" = "게이트";
+
+"flights_no_result" = "There is no information on the selected flight.";
+
+"flights_list_all" = "전체";
+"flights_list_t1" = "제1여객터미널";
+"flights_list_t2" = "제2여객터미널";
+
+/* flight detail */
+"flight_detail_reserved" = "예약편명";
+"flight_detail_actual" = "탑승편명";
+"flight_detail_codeshare_info" = "해당항공편은 공동운항편이므로\n탑승할 터미널을 확인하세요.";
+"flight_detail_incheon" = "인천";
+"flight_detail_flight_time" = "비행예상시간";
+"flight_detail_elapse_time" = "%@ 시간 %@ 분";
+"flight_detail_counter" = "체크인카운터";
+"flight_detail_walk_time" = "예상도보시간";
+"flight_detail_walk_time_1" = "분";
+"flight_detail_walk_time_2" = "(출국심사후)";
+"flight_detail_gate" = "탑승구";
+"flight_detail_arrival_gate" = "도착게이트";
+"flight_detail_arrival_carousel" = "수하물 수취대";
+"flight_detail_arrival_exit" = "출구";
+"flight_detail_arrival_baggage" = "투입 중";
+"flight_detail_arrival_baggage_finish" = "투입 완료";
+"flight_detail_register_schedule" = "내일정 등록";
+"flight_detail_schedule_msg_1" = "선택하신 일정을 등록하였습니다.";
+"flight_detail_schedule_msg_2" = "선택하신 일정을 삭제하였습니다.";
+"flight_detail_share" = "공유";
+"flight_detail_share_msg_1" = "변경 =>";
+"flight_detail_share_msg_2" = ", 수하물 번호 :";
+"flight_detail_share_msg_3" = ", 출구 번호 :";
+"flight_detail_share_msg_4" = ", 탑승구 번호 :";
+
+/* common */
+"common_yes" = "예";
+"common_no" = "아니오";
+"common_agree" = "동의";
+"common_disagree" = "동의안함";
+"common_confirm" = "확인";
+"common_cancel" = "취소";
+"common_close" = "닫기";
+"common_notification" = "알림";
+"common_confirm_finish" = "뒤로 버튼을 한번 더 누르시면 종료됩니다.";
+"common_loading" = "로딩중입니다.";
+"common_search" = "검색";
+"common_ready" = "11/26부터 서비스 예정입니다.";
+"common_favorite" = "나의일정";
+"common_facility_no_result" = "검색결과가 없습니다.";
+"common_facility_no_result_common" = "일반지역에는 시설이 없습니다";
+"common_facility_no_result_dutyfree" = "면세지역에는 시설이 없습니다";
+"common_bus_no_result" = "버스 정보가 없습니다";
+"common_station_no_result" = "정류장 정보가 없습니다";
+"common_favorate_section_title" = "즐겨찾기 이용안내";
+"common_past_flight" = "운항이 완료된 항공편입니다.\n나의일정에 추가할 수 없습니다.";
+"common_won_format" = "%1$s원";
+"common_won" = "원";
+"common_no_more_show" = "다시보지 않기";
+"common_number_bracket" = "(%1$d)";
+"common_counter" = "카운터";
+"common_baggage_claim_area" = "수취대";
+"common_destination" = "도착지";
+"common_arrivals_hall" = "출구";
+"common_retry" = "다시 시도";
+"common_am" = "오전";
+"common_pm" = "오후";
+"common_setting" = "설정";
+"common_searchlist" = "최근검색";
+"common_phone_call" = "전화연결 하시겠습니까?";
+"common_back" = "뒤로";
+
+
+
+/* flight search */
+"flight_search_title" = "현행 운항편 검색";
+"flight_search_date" = "날짜";
+"flight_search_time" = "시간";
+"flight_search_today_departure" = "오늘의 출발현황";
+"flight_search_today_arrival" = "오늘의 도착현황";
+"flight_search_origin" = "출발지";
+"flight_search_origin_content" = "출발지 선택";
+"flight_search_destination" = "도착지";
+"flight_search_destination_content" = "도착지 선택";
+"flight_search_airlilne" = "항공사";
+"flight_search_airlilne_content" = "항공사 선택";
+"flight_search_flight_name" = "운항편명";
+"flight_search_flight_name_hint" = "편명을 입력하세요.";
+"flight_search_exitdoor" = "입국장";
+"flight_search_choice_exitdoor" = "입국장 선택";
+"flight_search_search" = "검색";
+"flight_search_select_time_error" = "선택한 시간이 올바르지 않습니다.";
+"flight_search_sun" = "(일)";
+"flight_search_mon" = "(월)";
+"flight_search_tue" = "(화)";
+"flight_search_Wed" = "(수)";
+"flight_search_thr" = "(목)";
+"flight_search_fri" = "(금)";
+"flight_search_sat" = "(토)";
+"flight_search_not_select" = "선택안함";
+"flight_search_not_flight" = "찾으시는 항공편 정보가 없습니다.";
+"flight_search_terminal" = "터미널";
+"flight_search_terminal_content" = "터미널 선택";
+
+/* flight enum */
+"flight_enum_1" = "출발";
+"flight_enum_2" = "도착";
+
+/* flight season */
+"flight_season_airline" = "항공사";
+"flight_season_flight" = "항공편";
+"flight_season_time" = "시간";
+"flight_season_mon" = "월";
+"flight_season_tue" = "화";
+"flight_season_wed" = "수";
+"flight_season_thu" = "목";
+"flight_season_fri" = "금";
+"flight_season_sat" = "토";
+"flight_season_sun" = "일";
+"flight_season_period" = "운행기간";
+
+/* popup */
+"popup_date_picker" = "날짜 설정";
+"popup_title_update" = "업데이트 알림";
+"popup_major_update" = "서비스가 업데이트 되었습니다.\n업데이트를 받으셔야 서비스 이용이\n가능합니다. 지금 설치하시겠습니까?";
+"popup_extra_update" = "안정적인 서비스 이용을 위해\n최신버전으로 업데이트 해주시기\n바랍니다. 지금 설치하시겠습니까?";
+"popup_btn_update" = "업데이트하기";
+"popup_notice_detail" = "자세히 보기";
+"popup_not_connect_network" = "서비스 정보를 가져오는데 실패하였습니다.\n잠시 후 다시 접속해 주세요.";
+
+/* setting */
+"setting_version" = "버전 정보";
+"setting_lang" = "언어 설정";
+"setting_lang_ko" = "한국어";
+"setting_lang_en" = "영어";
+"setting_lang_zh" = "중국어";
+"setting_lang_ja" = "일본어";
+"setting_weather_display" = "기온 표시 방법";
+"setting_weather_celsius_temp" = "℃";
+"setting_weather_fahrenheit_temp" = "℉";
+"setting_alter_type" = "유형";
+"setting_passenger" = "고객용";
+"setting_employee" = "직원용";
+"setting_flight_schedule" = "내일정 알림 받기";
+"setting_beacon" = "위치정보서비스 이용알림";
+
+"setting_general_title" = "일반설정";
+"setting_myplan_title" = "내일정 설정";
+"setting_alter_desc_1" = "※ 하루 1편의 항공편 등록만 가능합니다.";
+"setting_alter_desc_2" = "※ 하루 다수의 항공편 등록이 가능합니다.";
+
+/* disabled and elderly */
+"disabled_elderly_category_1" = "교통";
+"disabled_elderly_category_2" = "전동카트";
+"disabled_elderly_category_3" = "전용주차장";
+"disabled_elderly_category_4" = "출입국";
+"disabled_elderly_category_5" = "편의시설";
+"disabled_elderly_category_6" = "긴급전화";
+
+/* disabled - transport */
+"disabled_transport_section_title_1" = "공항으로 가기";
+"disabled_transport_section_desc_1_1" = "출발층(3층) 장애인 정차장에는 안내카운터와 직통으로 연결되는 Help Phone이 설치되어 있습니다";
+"disabled_transport_section_desc_1_2" = "Help Phone을 이용하시면 휠체어 서비스를 이용하실 수 있습니다.";
+"disabled_transport_section_title_2" = "공항에서 나가기";
+"disabled_transport_section_link_1" = "버스노선 안내";
+"disabled_transport_section_link_2" = "인천교통공사 장애인 콜택시";
+"disabled_transport_section_link_3" = "서울시설공단 장애인택시";
+"disabled_transport_section_link_call_1" = "032-741-6400";
+"disabled_transport_section_link_call_2" = "1577-0320";
+"disabled_transport_section_link_call_3" = "1588-4388";
+
+/* disabled - Electric cart */
+"disabled_electric_section_title_1" = "전동카트 서비스";
+"disabled_electric_section_title_2" = "공항철도(지하1층) → 제1여객터미널 3층(출발층)";
+"disabled_electric_section_desc_2" = "공항철도역(AREX)에서 터미널중앙까지 전동카트서비스를 받으실수 있으며 지하1층에서 3층까지 엘리베이터를 통해 항공사 수속카운터로 편리하게 이동하실수 있습니다.";
+"disabled_electric_section_title_3" = "1층 → 공항철도(지하1층)";
+"disabled_electric_section_desc_3" = "여객터미널 1층 종합안내데스크로 오시면 공항철도역(AREX)방향을 안내해 드립니다. 지하1층 중앙에서 공항철도역(AREX)까지 전동카트 서비스를 받으실 수 있습니다.";
+
+/* disabled - parking */
+"disabled_parking_section_title_1" = "교통약자 전용주차장";
+"disabled_parking_section_desc_1_col_1_1" = "주차장";
+"disabled_parking_section_desc_1_col_1_2" = "장애인 전용";
+"disabled_parking_section_desc_1_col_1_3" = "임산부 전용";
+"disabled_parking_section_desc_1_col_2_1" = "단기";
+"disabled_parking_section_desc_1_col_2_2" = "1층 A5, B3\n지하1층 A5, A7, H7, H10";
+"disabled_parking_section_desc_1_col_2_3" = "1층 A5, B3\n1층 동편 A7, 서편 H2";
+"disabled_parking_section_desc_1_col_3_1" = "장기";
+"disabled_parking_section_desc_1_col_3_2" = "동편 1, 3, 4, 9\n서편 51, 53, 54, 59";
+"disabled_parking_section_desc_1_col_3_3" = "1층 동편 1, 서편 51";
+"disabled_parking_section_desc_1_2" = "장애인 차량에 한해 복지카드 소지자 탑승 확인후 주차요금의 50%할인";
+"disabled_parking_section_desc_1_3" = "장애인무료리프트서비스(032-741-3217)로 연락을 주시면 장기주차장~여객터미널을 편리하게 이동하실수 있습니다.";
+"disabled_parking_section_t2_desc_col_1_1" = "주차장";
+"disabled_parking_section_t2_desc_col_1_2" = "장애인 전용";
+"disabled_parking_section_t2_desc_col_2_1" = "단기";
+"disabled_parking_section_t2_desc_col_2_2" = "1층 서편 138, 139 1층 동편 230, 231\n2층 서편 149 2층 동편 240";
+"disabled_parking_section_t2_desc_col_3_1" = "장기";
+"disabled_parking_section_t2_desc_col_3_2" = "B112,B113,B122,C110,C111,C120\nD113,D122,D123,E111,E120,E121";
+
+/* disabled - Amenities */
+"disabled_amenities_section_title_1" = "휠체어 탑승 리프트";
+"disabled_amenities_section_desc_1" = "제1여객터미널-장기주차장";
+"disabled_amenities_section_title_2" = "전용 정차장";
+"disabled_amenities_section_desc_2" = "제1여객터미널 3번, 12번 출구전면 승용차 정차구역";
+"disabled_amenities_section_title_3" = "점자유도블록과 음향 신호기";
+"disabled_amenities_section_desc_3" = "제1여객터미널 전면 횡단보도 앞에 설치하여 안내카운터로의 접근보조(3층)";
+"disabled_amenities_section_title_4" = "시각장애인용 음성유도기";
+"disabled_amenities_section_desc_4" = "안내데스크에서 현 위치를 파악할수 있는 음성유도기 설치(3층 8번게이트 1층 5,10번 게이트앞)";
+"disabled_amenities_section_title_5" = "수화통역용 화상전화기";
+"disabled_amenities_section_desc_5" = "여객터미널1층 5,10번 안내데스크";
+"disabled_amenities_section_title_6" = "전용전화 / Help Phone";
+"disabled_amenities_section_desc_6" = "안내카운터와 직접연결이 가능하며 요청시 서비스요원의 안내 제공 여객터미널 전면(3층 3,7,8,12번) 교통센터 지상주차장(A5,H3구역) 지하1층주차장(A5-4, A8-7, H7-7, H10-4)";
+"disabled_amenities_section_title_7" = "엘리베이터";
+"disabled_amenities_section_desc_7" = "장애인, 노약자, 임산부의 층간 이동편의를 위한 엘리베이터";
+"disabled_amenities_section_title_8" = "에스컬레이터 / 자동보도";
+"disabled_amenities_section_desc_8" = "에스컬레이터 및 자동보도 출입국에 저속운전 스위치를 부착하여 운행속도조절이 가능";
+"disabled_amenities_section_title_9" = "유모차 대여 서비스";
+"disabled_amenities_section_desc_9_1" = "무료 대여 위치";
+"disabled_amenities_section_desc_9_1_1" = "- 일반지역 : 종합안내데스크 여객터미널 출발층 3층(3,8,11번 출입구 부근), 여객터미널 도착층 1층(6,9번 출입구)";
+"disabled_amenities_section_desc_9_1_2" = "- 면세구역 : 종합안내데스크 3층(12,29번 게이트), 탑승동 3층 중앙";
+"disabled_amenities_section_title_10" = "휠체어";
+"disabled_amenities_section_desc_10" = "무료대여위치: 종합안내데스크 여객터미널 출발층 3층(3,7,12,번 출입구) 여객터미널 도착층 1층(3,5,10,12번 출입구) 면세구역 (3층25,29번 게이트앞)";
+"disabled_amenities_section_title_11" = "전용화장실 및 음수대";
+"disabled_amenities_section_desc_11" = "화장실마다 최소 1실의 장애인 전용화장실과 전용 음수대 설치 넓은 출입구와 내부공간, 버튼식 자동문, 비상벨, 센서를 설치";
+"disabled_amenities_section_title_12" = "장애인 무료 리프트 서비스";
+"disabled_amenities_section_desc_12" = "장기주차장-여객터미널 이동시(032-741-3217)";
+"disabled_amenities_t2_section_desc_9_1_1" = "- 일반지역 : 종합안내데스크 여객터미널 출발층 3층(2,7번 출입구 ), 여객터미널 도착층 1층(2,5번 출입구 부근)";
+"disabled_amenities_t2_section_desc_9_1_2" = "- 면세구역 : 종합안내데스크 3층(248,253번 게이트)";
+
+/* disabled - Emergency */
+"disabled_emergency_section_link_1" = "공항 경찰대";
+"disabled_emergency_section_link_2" = "공항 의료센터";
+"disabled_emergency_section_link_3" = "위험물 신고";
+"disabled_emergency_section_link_4" = "화재신고";
+"disabled_emergency_section_link_call_1" = "032-740-5561";
+"disabled_emergency_section_link_call_2" = "032-743-3119";
+"disabled_emergency_section_link_call_3" = "032-741-4736";
+"disabled_emergency_section_link_call_4" = "032-741-2119";
+
+"tax_free_area" = "면세";
+"public_area" = "일반";
+
+/* shopping - shopping */
+"shop_category_1" = "전체";
+"shop_category_2" = "부티크";
+"shop_category_3" = "화장품/향수";
+"shop_category_4" = "패션/악세서리";
+"shop_category_5" = "주류/담배";
+"shop_category_6" = "기프트";
+"shop_category_7" = "전자제품";
+"shop_category_8" = "식품";
+"shop_category_9" = "기타/서적/편의점";
+"shop_category_10" = "한류상품";
+"shop_category_11" = "24시 오픈";
+
+/* facility detail */
+"facility_detail_loc" = "위치";
+"facility_detail_item" = "품목";
+"facility_detail_service" = "서비스";
+"facility_detail_open" = "운영시간";
+"facility_detail_link_1" = "매장위치";
+"facility_detail_link_1_1" = "기관위치";
+"facility_detail_link_2" = "문의전화";
+"facility_detail_link_3" = "즐겨찾기";
+
+/* shopping - food */
+"food_category_1" = "전체";
+"food_category_2" = "패스트푸드";
+"food_category_3" = "한식";
+"food_category_4" = "월드푸드";
+"food_category_5" = "푸드코트";
+"food_category_6" = "카페/바";
+"food_category_7" = "베이커리";
+"food_category_8" = "24시 오픈";
+
+/* shopping - map */
+"map_category_1" = "B1";
+"map_category_2" = "F1";
+"map_category_3" = "F3(식음료)";
+"map_category_4" = "F3(면세)";
+"map_category_5" = "F4";
+"map_category_t2_5" = "F4/F5";
+
+/* shopping - coupon */
+"coupon_category_1" = "일반쿠폰";
+"coupon_category_2" = "면세쿠폰";
+"coupon_category_3" = "환승쿠폰";
+"coupon_category_4" = "쿠폰함";
+
+"coupon_list_publisher" = "인천공항매장";
+"coupon_list_end_date" = "%@ 까지";
+
+"coupon_detail_section_title_1" = "혜택 및 사용방법";
+"coupon_detail_section_desc_1" = "주문 전에 쿠폰사용을 직원에게 말씀하여 주시기 바랍니다.";
+"coupon_detail_section_desc_amount_1" = "%@%@ 이상 상품 구매 시 %@%@ 이(가) 할인 됩니다.";
+"coupon_detail_section_desc_amount_2" = "%@%@ 이상 상품 구매 시";
+"coupon_detail_section_desc_amount_3" = "%@%@ 이(가) 할인 됩니다.";
+"coupon_detail_section_desc_percent_1" = "%@%% 할인되며 최대 할인 금액은 %@%@ 입니다.";
+"coupon_detail_section_desc_percent_2" = "%@%% 할인";
+"coupon_detail_section_desc_percent_3" = "최대 할인 금액은 %@%@ 입니다.";
+"coupon_detail_section_title_2" = "유효기간";
+"coupon_detail_section_title_3" = "유의사항";
+"coupon_detail_section_desc_3_1" = "매장에서 본인 확인을 위해 여권과 항공권을 요청받을 수도 있습니다.";
+"coupon_detail_section_desc_3_2" = "타 행사 및 다른 할인 쿠폰, 동일행사 쿠폰과 중복 사용 불가";
+"coupon_detail_section_desc_3_3" = "사용한 쿠폰은 재사용이 불가능합니다.";
+"coupon_detail_section_desc_3_4" = "본 쿠폰은 실물과 다를 수 있습니다.";
+"coupon_detail_section_desc_3_5" = "행사매장에 한함";
+"coupon_detail_section_title_4" = "행사대상";
+
+/* Convenience - Rest */
+"rest_category_1" = "전체";
+"rest_category_2" = "라운지";
+"rest_category_3" = "호텔";
+"rest_category_4" = "미용/스파";
+
+/* Convenience - Medical */
+"medical_category_1" = "약국";
+"medical_category_2" = "병원";
+
+/* Convenience - Finance */
+"finance_category_1" = "부가세 환급";
+"finance_category_2" = "환전소/ATM";
+"finance_category_3" = "은행지점";
+"finance_category_4" = "여행자보험";
+
+/* Convenience - Other */
+"other_category_1" = "휴대폰 대여/로밍";
+"other_category_2" = "포장/택배";
+"other_category_3" = "렌터카";
+"other_category_4" = "항공사";
+"other_category_5" = "여행사";
+"other_category_6" = "외투보관";
+"other_category_7" = "24시 오픈";
+"other_category_8" = "기도실";
+
+/* transport - public */
+"transport_category_1" = "버스";
+"transport_category_2" = "공항철도";
+"transport_category_3" = "택시";
+"transport_category_4" = "셔틀버스";
+"transport_category_5" = "자기부상열차";
+
+/* bus */
+"bus_title_1" = "버스승차장위치";
+"bus_link_1" = "서울방면";
+"bus_link_2" = "경기방면";
+"bus_link_3" = "인천방면";
+"bus_link_4" = "심야버스";
+"bus_link_5" = "지방행";
+"bus_link_6" = "버스예약";
+
+/* bus list */
+"bus_list_stop" = "승차위치";
+"bus_list_interval" = "배차간격";
+"bus_list_time" = "회";
+
+/* bus detail */
+"bus_detail_title" = "버스노선상세";
+"bus_detail_region_1" = "서울";
+"bus_detail_region_2" = "경기";
+"bus_detail_region_3" = "인천";
+"bus_detail_region_4" = "심야";
+"bus_detail_region_5" = "지방";
+"bus_detail_depot" = "타는곳";
+"bus_detail_dest" = "행선지";
+"bus_detail_fare" = "요금";
+"bus_detail_fare_adult" = "성인";
+"bus_detail_fare_child" = "아동";
+"bus_detail_fare_unit" = "원";
+"bus_detail_allocation" = "배차간격";
+"bus_detail_company" = "업체명";
+"bus_detail_link_1" = "버스 정류장";
+"bus_detail_link_2" = "버스 운행 시간표";
+"bus_detail_link_3" = "버스 승차장 위치";
+"bus_detail_link_4" = "버스 이용 문의 전화";
+
+/* arex */
+"arex_title_1" = "일반열차 : 공항철도 12개역에 모두 정차하는 통근형 열차";
+"arex_title_2" = "직통열차 : 서울역과 인천국제공항역간을 무정차(논스톱)운행하는 고급형 열차";
+"arex_table_1_col_1" = "구분";
+"arex_table_1_col_2" = "일반열차";
+"arex_table_1_col_3" = "직통열차";
+"arex_table_2_col_1" = "소요시간";
+"arex_table_2_col_2" = "58~60분";
+"arex_table_2_col_3" = "43~45분";
+"arex_title_3" = "노선도";
+"arex_link_1" = "공항철도 이용 요금";
+"arex_link_2" = "공항철도 운행 시간표";
+"arex_link_3" = "공항철도 승차장 위치";
+"arex_link_4" = "공항철도 이용 문의";
+"arex_link_4_call_1" = "1599-7788";
+
+/* arex - fare */
+"arex_fare_title_1" = "직통열차 : 성인 9,000원 / 어린이 7,000원";
+"arex_fare_title_2_t1" = "제1여객터미널 기준 일반열차 운임표";
+"arex_fare_title_2_t2" = "제2여객터미널 기준 일반열차 운임표";
+"arex_fare_table_title_1" = "정차역";
+"arex_fare_table_title_2" = "요금";
+
+"arex_fare_table_t1_station_1" = "인천공항 2터미널";
+"arex_fare_table_t1_station_2" = "공항화물청사";
+"arex_fare_table_t1_station_3" = "운서";
+"arex_fare_table_t1_station_4" = "영종";
+"arex_fare_table_t1_station_5" = "청라국제도시";
+"arex_fare_table_t1_station_6" = "검암";
+"arex_fare_table_t1_station_7" = "계양";
+"arex_fare_table_t1_station_8" = "김포공항";
+"arex_fare_table_t1_station_9" = "마곡나루";
+"arex_fare_table_t1_station_10" = "디지털미디어시티";
+"arex_fare_table_t1_station_11" = "홍대입구";
+"arex_fare_table_t1_station_12" = "공덕";
+"arex_fare_table_t1_station_13" = "서울역";
+
+"arex_fare_table_t1_fare_1" = "900 원";
+"arex_fare_table_t1_fare_2" = "900 원";
+"arex_fare_table_t1_fare_3" = "900 원";
+"arex_fare_table_t1_fare_4" = "1,000 원";
+"arex_fare_table_t1_fare_5" = "2,300 원";
+"arex_fare_table_t1_fare_6" = "2,600 원";
+"arex_fare_table_t1_fare_7" = "3,250 원";
+"arex_fare_table_t1_fare_8" = "3,750 원";
+"arex_fare_table_t1_fare_9" = "3,750 원";
+"arex_fare_table_t1_fare_10" = "3,950 원";
+"arex_fare_table_t1_fare_11" = "4,050 원";
+"arex_fare_table_t1_fare_12" = "4,050 원";
+"arex_fare_table_t1_fare_13" = "4,150 원";
+
+"arex_fare_table_t2_station_1" = "인천공항 1터미널";
+"arex_fare_table_t2_station_2" = "공항화물청사";
+"arex_fare_table_t2_station_3" = "운서";
+"arex_fare_table_t2_station_4" = "영종";
+"arex_fare_table_t2_station_5" = "청라국제도시";
+"arex_fare_table_t2_station_6" = "검암";
+"arex_fare_table_t2_station_7" = "계양";
+"arex_fare_table_t2_station_8" = "김포공항";
+"arex_fare_table_t2_station_9" = "마곡나루";
+"arex_fare_table_t2_station_10" = "디지털미디어시티";
+"arex_fare_table_t2_station_11" = "홍대입구";
+"arex_fare_table_t2_station_12" = "공덕";
+"arex_fare_table_t2_station_13" = "서울역";
+
+"arex_fare_table_t2_fare_1" = "900 원";
+"arex_fare_table_t2_fare_2" = "900 원";
+"arex_fare_table_t2_fare_3" = "1,500 원";
+"arex_fare_table_t2_fare_4" = "1,600 원";
+"arex_fare_table_t2_fare_5" = "2,900 원";
+"arex_fare_table_t2_fare_6" = "3,200 원";
+"arex_fare_table_t2_fare_7" = "3,850 원";
+"arex_fare_table_t2_fare_8" = "4,350 원";
+"arex_fare_table_t2_fare_9" = "4,350 원";
+"arex_fare_table_t2_fare_10" = "4,550 원";
+"arex_fare_table_t2_fare_11" = "4,650 원";
+"arex_fare_table_t2_fare_12" = "4,650 원";
+"arex_fare_table_t2_fare_13" = "4,750 원";
+
+"arex_fare_sub_title_1" = "어린이: 50% 할인";
+"arex_fare_sub_title_2" = "장애인・노인 ・국가유공상이자・독립유공자・5.18 민주화운동 부상자 : 무임";
+"arex_fare_sub_title_3" = "청소년(청소년 교통카드 사용시) : 20% 할인";
+
+/* arex - time */
+"arex_time_title_t1" = "인천공항 1터미널 출발기준";
+"arex_time_title_t2" = "인천공항 2터미널 출발기준";
+"arex_time_note_1" = "직통";
+"arex_time_note_2" = "일반";
+
+/* taxi */
+"taxi_title_1" = "택시 대기 수";
+"taxi_wait_table_header_1" = "구분";
+"taxi_wait_table_header_2" = "대기대수";
+"taxi_wait_table_t1_div_1" = "서울";
+"taxi_wait_table_t1_div_2" = "인천";
+"taxi_wait_table_t1_div_3" = "경기";
+"taxi_wait_table_t1_div_4" = "모범";
+"taxi_wait_table_t1_div_5" = "대형";
+"taxi_wait_table_count" = "대";
+
+"taxi_wait_table_t2_div_1" = "서울";
+"taxi_wait_table_t2_div_2" = "인천";
+"taxi_wait_table_t2_div_3" = "경기(부천, 광명, 김포, 고양)";
+"taxi_wait_table_t2_div_4" = "시계 외";
+"taxi_wait_table_t2_div_5" = "모범";
+"taxi_wait_table_t2_div_6" = "대형";
+
+"taxi_link_1" = "택시 이용안내";
+
+/* taxi - info */
+"taxi_info_title_1" = "일반택시";
+"taxi_info_title_sub_1_1" = "기본요금 : 서울·인천·경기택시 3,800원";
+"taxi_info_title_sub_1_2" = "시계할증 : 6개 시(서울, 인천, 고양, 광명, 김포, 부천) 이외 지역 - 서울·경기택시 20%, 인천택시 30%";
+"taxi_info_title_sub_1_3" = "심야 할증 : 24 : 00 ~ 04 : 00, 20% 적용";
+"taxi_info_title_sub_1_4" = "고속도로 통행요금 고객 부담";
+
+"taxi_info_title_2" = "모범 / 대형 택시";
+"taxi_info_title_sub_2_1" = "기본요금 : 6,500원";
+"taxi_info_title_sub_2_2" = "영수증 발급 및 동시 통역서비스 (의무사항)";
+"taxi_info_title_sub_2_3" = "시계 할증/심야 할증 없음";
+"taxi_info_title_sub_2_4" = "고속도로 통행요금 고객 부담";
+
+"taxi_info_title_3" = "인터내셔널 택시";
+"taxi_info_title_sub_3_1" = "영어, 중국어, 일본어 가능";
+"taxi_info_title_sub_3_2" = "인천공항에서 서울시내까지 거리비례에 따라 5개의 구간으로 나눠진 요금 체계";
+
+"taxi_info_title_4" = "장애인 택시";
+"taxi_info_title_sub_4" = "이용 대상";
+"taxi_info_title_content_4_1" = "- 지체 및 뇌병변 1, 2급 장애인";
+"taxi_info_title_content_4_2" = "- 기타 휠체어 이용하는 1, 2급 중증장애인";
+"taxi_info_title_content_4_3" = "- 서울시에 유입된 타시도민 및 외국인은 휠체어 사용 장애인만 이용 가능합니다.";
+
+"taxi_info_link_1" = "인터내셔널 택시";
+"taxi_info_link_2" = "KOREA TAXI";
+"taxi_info_link_3" = "인천교통공사 장애인 콜택시";
+"taxi_info_link_call_3" = "1577-0320";
+"taxi_info_link_4" = "서울시설공단 장애인 콜택시";
+"taxi_info_link_call_4" = "1588-4388";
+
+/* moving terminal */
+"moving_terminal_title_1" = "터미널간 이동 안내";
+"moving_terminal_content_1_1" = "아래 항공사를 이용하시는 여행객은 %@로 이동하여 주시기 바랍니다.";
+"moving_terminal_content_1_2" = "대한항공, 에어프랑스, KLM, 델타항공, 중화항공, 가루다인도네시아, 아에로플로트, 체코항공, 아에로멕시코, 알리탈리아, 샤먼항공";
+"moving_terminal_table_header_1" = "이동수단";
+"moving_terminal_table_header_2" = "승차장 위치";
+"moving_terminal_table_header_3" = "소요시간";
+"moving_terminal_table_header_4" = "배차간격";
+"moving_terminal_table_transportation_1" = "셔틀버스";
+"moving_terminal_table_transportation_2" = "택시";
+"moving_terminal_table_transportation_3" = "공항철도";
+"moving_terminal_table_location_1" = "제1여객터미널 3층 8번 출구";
+"moving_terminal_table_location_2" = "제1여객터미널 1층 4C~8C";
+"moving_terminal_table_location_3" = "제1교통센터 지하1층";
+"moving_terminal_table_required_1" = "15분";
+"moving_terminal_table_required_2" = "15분";
+"moving_terminal_table_required_3" = "6분";
+"moving_terminal_table_interval_1" = "5분";
+"moving_terminal_table_interval_2" = "상시";
+"moving_terminal_table_interval_3" = "6~20분";
+"moving_terminal_title_2" = "셔틀버스 / 택시 이동경로";
+"moving_terminal_link_1" = "셔틀버스 이용안내";
+"moving_terminal_link_2" = "공항철도 이용안내";
+"moving_terminal_link_3" = "택시 이용안내";
+"moving_terminal_link_4" = "고객서비스 센터";
+"moving_terminal_link_4_call" = "1577-2600";
+
+"moving_terminal_t2_content_1_1" = "아래 항공사를 이용하시는 여행객은 %@로 이동하여 주시기 바랍니다.";
+"moving_terminal_t2_content_1_2" = "대한항공, 에어프랑스, KLM, 델타항공, 중화항공, 가루다인도네시아, 아에로플로트, 체코항공, 아에로멕시코, 알리탈리아, 샤먼항공을 제외한 모든 항공사";
+"moving_terminal_table_t2_location_1" = "제2여객터미널 3층 4, 5번 출구";
+"moving_terminal_table_t2_location_2" = "제2여객터미널 1층 3D~5C";
+"moving_terminal_table_t2_location_3" = "제2교통센터 지하1층";
+
+/* shuttle bus */
+"shuttle_bus_title_1" = "장기주차장행 셔틀버스";
+"shuttle_bus_table_1_header_1" = "정차장";
+"shuttle_bus_table_1_header_2" = "배차간격";
+"shuttle_bus_table_1_header_3" = "소요시간";
+"shuttle_bus_table_1_desc_1" = "1층 3C, 13C";
+"shuttle_bus_table_1_desc_2" = "5~8분(주간) / 16분 (야간)";
+"shuttle_bus_table_1_desc_3" = "8분";
+"shuttle_bus_call_service_desc" = "※ 당분간 T1 <-> 장기주차장의 정규운행을 중단하고, 1번 탑승장과 제1여객터미널 1층 3C 탑승장에서 호출서비스로 (032-741-6045) 운영합니다. ";
+"shuttle_bus_1_link_1_1" = "호출서비스 (032-741-6045)";
+"shuttle_bus_1_link_call_1_2" = "032-741-6045";
+"shuttle_bus_1_link_1" = "셔틀버스 운행 시간표";
+"shuttle_bus_1_link_2" = "장기주차장행 셔틀버스 승차장 위치(3C)";
+"shuttle_bus_1_link_3" = "장기주차장행 셔틀버스 승차장 위치(13C)";
+"shuttle_bus_title_2" = "셔틀버스";
+"shuttle_bus_title_sub_2_1" = "제2여객터미널행 셔틀버스";
+"shuttle_bus_table_2_1_desc_1" = "3층 8 Gate";
+"shuttle_bus_table_2_1_desc_2" = "7분";
+"shuttle_bus_table_2_1_desc_3" = "15분";
+"shuttle_bus_2_1_link_2" = "제2여객터미널행 셔틀버스 승차장 위치";
+"shuttle_bus_title_sub_2_2" = "AICC / 물류단지행 셔틀버스";
+"shuttle_bus_table_2_2_desc_1" = "3층 3, 12 Gate";
+"shuttle_bus_table_2_2_desc_2" = "6~15분";
+"shuttle_bus_table_2_2_desc_3" = "35분";
+"shuttle_bus_2_2_link_2" = "AICC / 물류단지행 셔틀버스 승차장 위치(3)";
+"shuttle_bus_2_2_link_3" = "AICC / 물류단지행 셔틀버스 승차장 위치(12)";
+
+"shuttle_bus_table_1_desc_t2_1" = "1층 3B";
+"shuttle_bus_table_1_desc_t2_2" = "5~15분";
+"shuttle_bus_table_1_desc_t2_3" = "15분";
+"shuttle_bus_1_link_t2_2" = "장기주차장행 셔틀버스 승차장 위치";
+"shuttle_bus_title_2_t2_1" = "제1여객터미널행 셔틀버스";
+"shuttle_bus_table_2_desc_t2_1" = "3층 4,5 Gate";
+"shuttle_bus_table_2_desc_t2_2" = "7분";
+"shuttle_bus_table_2_desc_t2_3" = "15분";
+"shuttle_bus_2_link_t2_2" = "제1여객터미널행 셔틀버스 승차장 위치";
+
+/* Maglev */
+"maglev_content" = "전자석의 힘으로 열차가 선로 위를 8mm 높이로 떠서 이동하는 신교통수단.\n자기부상열차는 제1여객터미널에서만 운영합니다.";
+"maglev_title" = "자기부상열차 운행시간";
+"maglev_table_header_1" = "목적지";
+"maglev_table_header_2" = "첫차 /\n막차";
+"maglev_table_header_3" = "소요시간";
+"maglev_table_header_4" = "배차간격";
+"maglev_table_dest_1" = "인천국제공항역\n(용유역행)";
+"maglev_table_dest_2" = "용유역\n(인천국제공항역행)";
+"maglev_table_time_1" = "09:00 /\n18:45";
+"maglev_table_time_2" = "09:00 /\n18:31";
+"maglev_table_required_1" = "편도 12분";
+"maglev_table_interval_1" = "15분";
+"maglev_table_desc_1" = "※ 이용요금은 무료입니다.";
+"maglev_table_link_1" = "자기부상열차 승차장 위치";
+"maglev_table_link_2" = "자기부상열차 이용 문의 전화";
+"maglev_table_link_call_2" = "032-741-8400";
+
+/* transport - parking */
+"parking_category_1" = "주차가능현황";
+"parking_category_2" = "요금결제";
+"parking_category_3" = "주차대행";
+"parking_category_4" = "내차위치";
+"parking_category_5" = "내차위치등록";
+
+/* parking fee payment */
+"parking_car_info_title_1" = "차량 번호 입력";
+"parking_car_info_title_2" = "차량 번호 4자리를 입력해 주세요";
+"parking_car_info_btn" = "차량 조회";
+
+"parking_fee_number_popup_title" = "차량번호 확인";
+"parking_fee_number_no_result" = "차량번호를 찾을 수 없습니다.\n다른 터미널을 확인하시기 바랍니다.\n임시주차장에 주차하신 차량의\n위치는 확인 할 수 없습니다.";
+
+"parking_fee_payment_title" = "주차료 확인";
+"parking_fee_payment_location" = "주차위치";
+"parking_fee_payment_entry_time" = "입차시간";
+"parking_fee_payment_current_time" = "조회시간";
+"parking_fee_payment_parking_time" = "총주차시간";
+"parking_fee_payment_unit" = "원";
+"parking_fee_payment_day" = "일";
+"parking_fee_payment_hour" = "시간";
+"parking_fee_payment_min" = "분";
+"parking_fee_payment_btn" = "주차요금결제";
+"parking_fee_payment_sub_title_1" = "요금정산";
+"parking_fee_payment_desc_1" = "주차요금 정산 후 20분 경과 시 추가요금이 발생됩니다.";
+"parking_fee_payment_desc_2" = "감면대상차량(장애인, 유공자 등)은 할인이 불가하오니 출구 유인 부스를 이용하시기 바랍니다.";
+"parking_fee_payment_html_desc_1" = "주차요금 정산 후 &lt;font color=#e20613&gt;20분이 경과&lt;/font&gt; 시 추가요금이 발생됩니다.";
+"parking_fee_payment_html_desc_2" = "&lt;font color=#e20613&gt;감면대상차량&lt;/font&gt;(장애인, 유공자 등)은 &lt;font color=#e20613&gt;할인이 불가&lt;/font&gt;하오니 출구 유인 부스를 이용하시기 바랍니다.";
+
+"parking_fee_payment_fail_title" = "결제 실패";
+"parking_fee_payment_fail_desc_1" = "시스템에러로 결제가 불가하오니 출구유인정산소를 이용해 주시기 바랍니다.";
+"parking_fee_payment_fail_desc_2" = "입차일수(99일) 초과로 모바일 앱에서는 결제가 불가하오니 출구유인정산소를 이용해 주시기 바랍니다.";
+"parking_fee_payment_fail_desc_3" = "결제완료된 차량이니 20분 내에 출차하시기 바랍니다.";
+"parking_fee_payment_fail_desc_4" = "입차 후 10분 이내는 요금이 발생하지 않으니 출차하시기 바랍니다.";
+"parking_fee_payment_fail_desc_5" = "주차요금 결제 후 20분이 경과되어 추가요금이 발생하였습니다. 가까운 출구유인정산소를 이용하시기 바랍니다.";
+"parking_fee_payment_time_out" = "정산시간이 초과되었습니다. 처음부터 다시 이용해주세요.";
+"parking_fee_payment_fail_popup_desc" = "결제가 정상적으로 완료되지 못했습니다.";
+
+"parking_fee_payment_finish_01" = "차량의 주차요금 %@원이 \n정산 완료 되었습니다.";
+"parking_fee_payment_finish_02" = "정산시간";
+"parking_fee_payment_finish_03" = "안녕히 가십시오.";
+
+/* Valet Parking */
+"valet_parking_title" = "공식 주차대행 접수장";
+"valet_parking_desc_1" = "차량번호를 확인하시기 바랍니다.\n결제한 차량이 본인 차량이 아닐 경우 추가 결제를 하셔야 합니다.\n차량조회가 안될 시 다른 터미널을 선택바랍니다";
+"valet_parking_link_1" = "주차대행 이용 안내";
+"valet_parking_link_2" = "주차대행 문의";
+"valet_parking_link_3" = "주차대행 예약";
+"valet_parking_t1_call_title" = "주차대행(T1)";
+"valet_parking_t1_call_num" = "032-743-0123";
+"valet_parking_t2_call_title" = "주차대행(T2)";
+"valet_parking_t2_call_num" = "032-743-0751";
+
+/* Valet Parking info t1 */
+"valet_parking_info_title_1" = "차량을 맡기실 때";
+"valet_parking_info_content_1_1" = "01. 단기주차장 입차(지하1층)";
+"valet_parking_info_content_1_2" = "제1여객터미널 단기주차장(지하1층)으로 입차합니다.";
+"valet_parking_info_content_2_1" = "02. 접수장 이동(지하1층 A구역)";
+"valet_parking_info_content_2_2" = "단기주차장 입구 3차로를 이용하셔서 지하1층 A구역으로 이동하시기 바랍니다.";
+"valet_parking_info_content_3_1" = "차량 인계 및 접수증 교부";
+"valet_parking_info_content_3_2" = "차량 인계 및 모바일 확인문자를 받습니다.\n* 사전예약 시 , 접수시간이 절약됩니다.";
+"valet_parking_info_sub_title_1_1" = "공식 주차대행 업체 확인법";
+"valet_parking_info_desc_1_1" = "주차대행 공식업체는 <b>하이파킹 주식회사</b>이며 접수요원은 초록색 유니폼을 착용하고 있습니다.";
+"valet_parking_info_sub_title_1_2" = "주차 대행 정보";
+"valet_parking_info_desc_1_2_1" = "- 영업시간 : 24시간";
+"valet_parking_info_desc_1_2_2" = "- 차량인도장 : 단기주차장 지하 3층";
+"valet_parking_info_title_2" = "차량을 찾으실 때";
+"valet_parking_info_desc_2" = "주차대행 접수증에 안내된 출차장소로 이동 후 서비스요금을 지불하고 차량을 인도받으시면 됩니다.";
+"valet_parking_info_sub_title_2_1" = "주차대행서비스 이용요금";
+"valet_parking_info_table_header_1" = "구분";
+"valet_parking_info_table_header_2" = "요금";
+"valet_parking_info_table_col_1_1" = "일반차량(경차포함)";
+"valet_parking_info_table_col_1_2" = "20,000원";
+"valet_parking_info_table_col_2_1" = "국가유공자 및 장애인차량";
+"valet_parking_info_table_col_2_2" = "10,000원";
+"valet_parking_info_desc_2_1" = "- 장애인, 상이등급 판정을 받은 국가유공자, 장애등급을 받은 광주 민주화 유공자, 고엽제 휴유증 환자의 차량";
+"valet_parking_info_sub_title_2_2" = "주차대행서비스 요금은 후불이며, 주차료는 후불 정산합니다.";
+"valet_parking_info_sub_title_2_3" = "영업시간 : 24시간";
+"valet_parking_info_sub_title_2_4" = "영업시간 이외의 이용고객께서는 담당업체로 연락주시기 바랍니다";
+
+/* Valet Parking info t2 */
+"valet_parking_info_t2_content_1_1" = "01. 여객터미널 도착";
+"valet_parking_info_t2_content_1_2" = "여객터미널 출국장 승용차 전용 도로로 진입 후 일행 및 짐을 내립니다.";
+"valet_parking_info_t2_content_2_1" = "02. 공식주차대행 접수장으로 이동";
+"valet_parking_info_t2_content_2_2" = "단기주차장 지하1층 서편 진입부에 위치한 공식주차대행 접수장으로 이동합니다.";
+"valet_parking_info_t2_content_3_1" = "차량 인계 및 접수증 수령";
+"valet_parking_info_t2_content_3_2" = "차량 인계 및 모바일접수증을 받습니다.";
+"valet_parking_info_t2_sub_title_1_1" = "공식 주차대행 업체 확인법";
+"valet_parking_info_t2_desc_1_1" = "주차대행 공식업체는 <b>(주)AJ파크</b>이며 접수요원은 오렌지색 유니폼을 착용하고 있습니다.";
+"valet_parking_info_t2_sub_title_1_2" = "주차 대행 정보";
+"valet_parking_info_t2_desc_1_2_1" = "- 영업시간 : 24시간";
+"valet_parking_info_t2_desc_1_2_2" = "- 차량인도장 : 단기주차장 지하 1층(동편주차장)";
+
+/* parking - car location */
+"car_location_lot" = "주차장";
+"car_location_lane" = "주차 구역";
+"car_location_parking_time" = "입차 시간";
+
+/* parking - register car location */
+"register_car_loc_no_result" = "주차 위치를 등록해 주시기 바랍니다.";
+"register_car_loc_sub_title_1" = "실내에서는 GPS가 제대로 동작하지 않을 수 있습니다.";
+"register_car_loc_sub_title_2" = "실외에서 사용해주세요.";
+"register_car_loc_sub_title_3" = "최대 5개까지 등록할 수 있습니다.";
+"register_car_loc_delete" = "주차 기록을 삭제하시겠습니까?";
+"register_map_save" = "위치 등록";
+
+/* airport departure */
+"airport_departure_title_1" = "탑승 수속";
+"airport_departure_title_2" = "수하물 보내기";
+"airport_departure_title_3" = "병무 신고";
+"airport_departure_title_4" = "검역신고";
+"airport_departure_title_5" = "출국세관신고";
+"airport_departure_title_6" = "보안검색";
+"airport_departure_title_7" = "출국심사";
+"airport_departure_title_8" = "셔틀트레인";
+
+/* check in */
+"departure_checkin_section_title_1" = "체크인 카운터";
+"departure_checkin_section_desc_1" = "인천국제공항을 이용하는 고객은 제1,2 여객터미널별로 배정된 항공사를 확인한 뒤 해당 터미널을 방문하시기 바랍니다.";
+"departure_checkin_section_title_2" = "셀프체크인";
+"departure_checkin_section_desc_2_1" = "일반 체크인카운터에 비해 보다 빠르고 편리하게 탑승권을 발급받을 수 있습니다.";
+"departure_checkin_section_desc_2_2" = "수하물은 항공사카운터(셀프체크인 전용) 또는 자동수하물위탁(셀프백드랍) 기기를 이용하여 빠르게 위탁할 수 있습니다.";
+"departure_checkin_section_desc_2_3" = "자세한 안내는 해당 항공사에 문의해주시기 바랍니다.";
+"departure_checkin_section_desc_2_4" = "대상 항공사";
+"departure_checkin_section_desc_2_4_1" = "- 대한항공(KE), 아시아나항공(OZ), 캐세이퍼시픽항공(CX), 델타항공(DL), 네덜란드항공(KL), 유나이티드 항공(UA), 중국국제항공(CA), 아메리칸항공(AA), 중국남방항공(CZ), 터키항공(TK), 이스타항공(ZE), 제주항공(7C), 티웨이항공(TW), 에어프랑스(AF), 에어서울(RS), 에어캐나다(AC), 진에어(LJ), 에바항공(BR), 베트남항공(VN), 에어부산(BX), 아에로멕시코(AM), 중화항공(CI)";
+"departure_checkin_section_title_3" = "모바일 체크인";
+"departure_checkin_section_desc_3" = "항공사의 앱을 설치하여 모바일로 체크인과 탑승권을 발급받을 수 있습니다.";
+"departure_checkin_section_3_link" = "모바일 체크인 이용 안내";
+"departure_checkin_section_title_4" = "도심공항터미널";
+"departure_checkin_section_desc_4_1" = "도심공항터미널에서 탑승수속을 마치고 인천공항에 도착한 여객은 출국장의 전용통로를 통해 보안검색 후 바로 출국심사대를 통과합니다.";
+"departure_checkin_section_desc_4_2" = "도심 공항 터미널마다 탑승 수속이 가능한 항공사가 서로 다르니 해당 터미널로 문의하시기 바랍니다.";
+"departure_checkin_section_4_link_1" = "서울역 도심공항터미널";
+"departure_checkin_section_4_link_2" = "삼성동 도심공항터미널";
+"departure_checkin_section_4_link_3" = "광명역 도심공항터미널";
+
+"departure_checkin_mobile_checkin_sub_title_1" = "모바일 체크인";
+"departure_checkin_mobile_checkin_sub_desc_1" = "항공사의 앱을 설치하여 모바일로 체크인과 탑승권을 발급받을 수 있습니다.";
+"departure_checkin_mobile_checkin_info_1" = "1. 로그인";
+"departure_checkin_mobile_checkin_info_2" = "2. 체크인";
+"departure_checkin_mobile_checkin_info_3" = "3. 좌석배정";
+"departure_checkin_mobile_checkin_info_4" = "4. 모바일 탑승권 발급";
+"departure_checkin_mobile_checkin_link_1" = "대한항공 모바일 체크인";
+"departure_checkin_mobile_checkin_link_2" = "아시아나항공 모바일 체크인";
+"departure_checkin_mobile_checkin_link_3" = "이스타항공 모바일 체크인";
+"departure_checkin_mobile_checkin_link_4" = "제주항공 모바일 체크인";
+"departure_checkin_mobile_checkin_link_5" = "티웨이항공 모바일 체크인";
+"departure_checkin_mobile_checkin_link_6" = "진에어 모바일 체크인";
+
+/* baggage */
+"departure_baggage_section_title_1" = "주의사항";
+"departure_baggage_section_desc_1_1" = "타인이 수하물 운송을 부탁할 경우 사고 위험이 있으므로 반드시 거절하시기 바랍니다.";
+"departure_baggage_section_desc_1_2" = "카메라, 귀금속류 등 고가의 물품과 도자기, 유리병 등 파손되기 쉬운 물품은 직접 휴대하시기 바랍니다.";
+"departure_baggage_section_desc_1_3" = "짐 분실에 대비하여 가방에 소유자의 이름, 주소지, 목적지를 영문으로 작성하여 붙여두십시오.";
+"departure_baggage_section_desc_1_4" = "위탁수하물 중에 세관신고가 필요한 경우에는 세관 신고대에서 신고하여야 합니다.";
+"departure_baggage_section_title_2" = "위탁 수하물 금지 물품";
+"departure_baggage_section_desc_2_1" = "보조배터리는 기내 수하물에 반입 가능하며 반입 기준은 항공사마다 다를 수 있습니다.";
+"departure_baggage_section_title_3" = "수하물 분류";
+"departure_baggage_section_desc_3_1" = "기내 수하물(가지고 타는 짐)";
+"departure_baggage_section_desc_3_1_1" = "- 부피: (A)가로+(B)세로+(C)폭 = 115cm 이하";
+"departure_baggage_section_desc_3_1_2" = "- 무게: 10kg~12kg";
+"departure_baggage_section_desc_3_2" = "위탁 수하물 (부치는 짐)";
+"departure_baggage_section_desc_3_2_1" = "- 부피: (A)가로+(B)세로+(C)폭 = 158cm 이하";
+"departure_baggage_section_desc_3_2_2" = "- 무게: 20~23kg";
+"departure_baggage_section_desc_3_3" = "대형 수하물 (부치는 짐)";
+"departure_baggage_section_desc_3_3_1" = "- 부피: (A)가로 45cm+(B)세로 90cm+(C)폭 70cm 이상";
+"departure_baggage_section_desc_3_3_2" = "- 무게: 50kg이상";
+"departure_baggage_section_desc_3_3_3" = "- 대형수하물은 항공사 체크인카운터에서 요금을 지불한 후, 대형 수하물 카운터에서 탁송";
+"departure_baggage_section_desc_3_4" = "수하물 규격은 항공사별, 노선별, 좌석 등급별 차이가 있을 수 있습니다.";
+"departure_baggage_section_title_4" = "수하물 재검사";
+"departure_baggage_section_desc_4" = "항공기 내 반입금지 물품이 발견될 경우 수하물검사실에서 개봉검색을 시행합니다.";
+
+/* military */
+"departure_military_section_title_1" = "병무신고대상";
+"departure_military_section_desc_1" = "25세 이상 병역미필 병역의무자(영주권사유 병역연기및 면제자 포함)연령제한 없이 현재 공익근무요원 복무중인 자, 공중보건의사, 징병전담의사, 국제협력의사, 공익법무관, 공익수의사, 국제협력요원, 전문연구요원/산업기능요원으로 편입되어 의무종사기간을 마치지 아니한 자";
+"departure_military_section_title_2" = "병역 의무자 출국 신고 절차";
+"departure_military_section_desc_2" = "병역 의무자가 국외를 여행하고자 할 때는 병무청에 국외여행허가를 받고 출국 당일 법무부 출입국에서 출국심사 시 국외여행허가 증명서를 제출하여야 합니다.";
+"departure_military_section_title_3" = "유의사항";
+"departure_military_section_desc_3_1" = "출국당일「국외여행허가증명서」를 반드시 소지하시길 바랍니다.";
+"departure_military_section_desc_3_2" = "「국외여행허가증명서」미소지 시 출입국재심실인계, 허가사항확인을 위한 유선통화 등으로 출국이 지연될 수 있습니다.";
+"departure_military_section_desc_3_3" = "허가기간과 출국일이 맞지 않거나 미허가상태인 경우 병무신고사무소의 부재로 인해 당일 신규허가 및 기간조정이 불가 또는 지연될 수 있습니다.";
+"departure_military_section_link_1" = "병무민원센터";
+
+/* Quarantine */
+"departure_quarantine_section_title_1" = "동물검역";
+"departure_quarantine_section_title_2" = "공항 도착 전";
+"departure_quarantine_section_desc_2_1" = "입국하고자 하는 국가의 동물검역조건을 확인하고, 상대국에서 요구하는 모든 조건을 준비\n(문의: 동물검역기관 또는 한국주재 대사관)";
+"departure_quarantine_section_desc_2_2" = "수출동물검역증명서 발급 준비";
+"departure_quarantine_section_desc_2_3" = "필수 구비 서류";
+"departure_quarantine_section_desc_2_3_1" = "- 광견병 예방접종 증명서\n(반려동물이 90일 미만의 경우 해당 없음)";
+"departure_quarantine_section_desc_2_3_2" = "- 건강증명서\n(출국일 기준 10일 이내 발급 권장)";
+"departure_quarantine_section_desc_2_4" = "추가 요구 서류\n여행자의 상대국 검역요건 확인 필요";
+"departure_quarantine_section_desc_2_4_1" = "- 광견병 항체가 결과 증명서";
+"departure_quarantine_section_desc_2_4_2" = "- 마이크로칩 이식 (부착)";
+"departure_quarantine_section_desc_2_4_3" = "- 여행국의 동물검역기관이 발행한 사전수입허가 증명서";
+"departure_quarantine_section_desc_2_4_4" = "- 부속서류 (상대국 검역 서식) 등";
+"departure_quarantine_section_title_3" = "공항 도착 후";
+"departure_quarantine_section_desc_3_1" = "비행기 티켓 발급 전 수출 동물검역증명서 발급 신청";
+"departure_quarantine_section_desc_3_2" = "비행기 출발 3시간 전 방문 권장";
+"departure_quarantine_section_desc_3_3" = "여권 및 항공스케줄 제시/반려동물 동반";
+"departure_quarantine_section_desc_3_4" = "수수료(1~3만 원) 납입";
+"departure_quarantine_section_title_4" = "식물검역";
+"departure_quarantine_section_title_5" = "공항 도착 전";
+"departure_quarantine_section_desc_5_1" = "여행 국가로 가져갈 수 있는 식물인지 확인";
+"departure_quarantine_section_desc_5_2" = "병해충이 없고, 흙을 모두 제거한 식물만 해외 반출이 가능";
+"departure_quarantine_section_title_6" = "공항 도착 후";
+"departure_quarantine_section_desc_6_1" = "수출 검역 대상 식물에 해당하며, 여행국에서 식물검역증명서를 요구하는 식물에 한 함";
+"departure_quarantine_section_desc_6_2" = "식물검역증명서 발급 신청";
+"departure_quarantine_section_link_1" = "동물수출검역실";
+"departure_quarantine_section_link_2" = "식물수출검역실";
+
+/* Customs */
+"departure_custom_section_title_1" = "외화반출";
+"departure_custom_section_desc_1_1" = "국민 거주자";
+"departure_custom_section_desc_1_1_1" = "- 미화 1만불 초과하는 일반해외 여행경비 휴대 시 → 세관 외환신고대에 신고";
+"departure_custom_section_desc_1_1_2" = "- 해외이주자, 체재자, 유학생, 여행업자 외국인거주자가 국내근로소득을 휴대";
+"departure_custom_section_desc_1_1_3" = "- 여행경비 1만불 이상 → 지정거래 외국환 은행장의 확인";
+"departure_custom_section_desc_1_1_4" = "- 물품거래 대금, 자본거래 대가 → 각 거래에서 정하는 신고나 허가 필요";
+"departure_custom_section_desc_1_2" = "비거주자";
+"departure_custom_section_desc_1_2_1" = "- 외국환은행장 또는 한국은행 총재 또는 세관장의 허가 필요";
+"departure_custom_section_desc_1_2_2" = "- 최근 입국시 신고한 외국환 등은 휴대수입한 범위내에서 최초 출국시 휴대반출 가능";
+"departure_custom_section_desc_1_2_3" = "- 허가에 수일이 소요되므로 출국 수일전에 미리 허가를 받아야 함";
+"departure_custom_section_title_2" = "귀중품 고가품 반출 (출국 후 재반입)";
+"departure_custom_section_desc_2_1" = "여행 시 사용하고 다시 가져올 귀중품 또는 고가품은 출국하기 전 세관에 신고한 후 \"휴대물품반출신고(확인)서\"를 받아야 입국 시에 면세를 받을 수 있습니다.";
+"departure_custom_section_desc_2_2" = "신고한 물품을 가지고 출국하지 않는 경우, 출국수속이 지연될 수 있으니 반드시 휴대하여야 하며 물품을 분실하였거나 휴대하여 출국하지 않으면 해당 세금을 납부하거나 세액의 120/100에 해당하는 담보금을 예치해야 출국할 수 있습니다";
+"departure_custom_section_title_3" = "귀중품 고가품 재반출 (입국 후 재반출)";
+"departure_custom_section_desc_3_1" = "일시 입국하는 여객 중 고가귀중품 등 휴대 반입물품을 재반출하는 경우 입국 시 세관에서 발급한 \"재반출조건 일시반입물품확인서\"와 반입물품을 세관에 제시하여야 합니다.";
+"departure_custom_section_desc_3_2" = "신고한 물품을 가지고 출국하지 않는 경우, 출국수속이 지연될 수 있으니 반드시 휴대하여야 하며 물품을 분실하였거나 휴대하여 출국하지 않으면 해당 세금을 납부하거나 세액의 120/100에 해당하는 담보금을 예치해야 출국할 수 있습니다";
+"departure_custom_section_title_4" = "부가세 특소세 환급확인 절차 (외국인 대상)";
+"departure_custom_section_desc_4_1" = "면세판매장(관할세무서장 지정)에서 물품구입";
+"departure_custom_section_desc_4_2" = "출국장 세관신고대에서 반출확인(반드시 구입물품 제시)";
+"departure_custom_section_desc_4_3" = "법무부 출국심사 완료후 부가세환급카운터에서 환급\n※ 주의사항 : 물품을 구입한 날로부터 3월 이내에 국외로 반출하여야 해당세액을 환급받을 수 있습니다.";
+"departure_custom_section_link_1" = "관세민원실";
+
+/* Security Check */
+"departure_security_section_title_1" = "보안검색안내";
+"departure_security_section_desc_1" = "탑승수속 및 세관신고를 완료한 후 가까운 출국장으로 이동하여 보안검색을 받아야 합니다.\n 환송객은 항공기의 안전 운항을 위해 보안검색대 지역으로 입장할 수 없으니 출국장 지역에서 환송을 마치시기 바랍니다.";
+"departure_security_section_title_2" = "기내 반입 물품 안내";
+"departure_security_section_desc_2_1" = "반입금지";
+"departure_security_section_desc_2_1_col_1_1" = "식품류";
+"departure_security_section_desc_2_1_col_1_2" = "김치류";
+"departure_security_section_desc_2_1_col_1_3" = "고추장/된장류";
+"departure_security_section_desc_2_1_col_1_4" = "즉석식품";
+"departure_security_section_desc_2_1_col_2_1" = "무기류";
+"departure_security_section_desc_2_1_col_2_2" = "칼류";
+"departure_security_section_desc_2_1_col_2_3" = "총기류";
+"departure_security_section_desc_2_1_col_2_4" = "공구류";
+"departure_security_section_desc_2_1_col_3_1" = "폭발물류";
+"departure_security_section_desc_2_1_col_3_2" = "폭죽류";
+"departure_security_section_desc_2_1_col_3_3" = "인화성 물질";
+"departure_security_section_desc_2_1_col_3_4" = "라이터";
+"departure_security_section_desc_2_2" = "조건부 반입 가능";
+"departure_security_section_desc_2_2_col_1_1" = "세제 및 젤류";
+"departure_security_section_desc_2_2_col_1_2" = "음료/주류";
+"departure_security_section_desc_2_2_col_1_3" = "화장품류";
+"departure_security_section_desc_2_2_col_1_4" = "치약";
+"departure_security_section_desc_2_3" = "액체, 젤류 휴대 반입 조건";
+"departure_security_section_desc_2_3_col_1_1" = "모든 액체, 젤류는 100ml 이하의 용기에 보관\n※ 김치, 장류 및 건강농축액 (홍삽즙) 포함";
+"departure_security_section_desc_2_3_col_2_1" = "1리터 규격, 투명한 지퍼락에 담아 밀봉";
+"departure_security_section_desc_2_3_col_3_1" = "검색요원이 볼 수 있도록 다른 짐과 분리하여 담음";
+"departure_security_section_title_3" = "면세점 구입물품 반입 조건";
+"departure_security_section_desc_3_1" = "면세점에서 제공하는 투명 봉인 봉투 또는 국제표준 방식으로 제조된 훼손 탐지 가능 봉투로 포장된 경우";
+"departure_security_section_desc_3_2" = "최종 목적지 행 항공기 탑승 전까지 개봉하지 않은 상태로 유지된 경우";
+"departure_security_section_desc_3_3" = "면세품 구입 당시 교부받은 영수증이 훼손 탐지 가능 봉투 안에 동봉 또는 부착된 경우에 한하여 용량에 관계없이 반입 가능\n※ 훼손 탐지 가능 봉투는 면세점에서 제공됩니다.";
+"departure_security_section_title_4" = "예외 대상 품목";
+"departure_security_section_desc_4_1" = "비행 중 이용할 영 · 유아 음식류";
+"departure_security_section_desc_4_2" = "의사의 처방전이 있는 모든 의약품";
+
+/* Immigration */
+"departure_immigration_section_title_1" = "출국심사 준비물";
+"departure_immigration_section_desc_1" = "출국심사는 대한민국 국경에서 내·외국인의 출국 허가 여부를 결정하는 국가의 고유한 주권의 행사입니다.";
+"departure_immigration_section_desc_1_col_1_1" = "여권";
+"departure_immigration_section_desc_1_col_1_2" = "탑승권";
+"departure_immigration_section_title_2" = "자동출국심사대";
+"departure_immigration_section_desc_2_1" = "대상: 만19세 이상의 대한민국 여권 소지자";
+"departure_immigration_section_desc_2_2" = "만7세 ~ 18세 이하 국민,인적 사항이 변경된 국민, 주민등록 발급 후 30년이 경과된 국민은 지문 사전등록이 필요합니다.";
+"departure_immigration_section_desc_2_3" = "이용 방법";
+"departure_immigration_section_desc_2_3_1" = "① 여권 인식";
+"departure_immigration_section_desc_2_3_2" = "② 지문 확인";
+"departure_immigration_section_desc_2_3_3" = "③ 사진 촬영";
+"departure_immigration_section_title_3" = "유인출국심사대";
+"departure_immigration_section_desc_3" = "대상: 일반 여객";
+"departure_immigration_section_title_4" = "전용출국심사대";
+"departure_immigration_section_desc_4" = "대상: 도심 공항터미널 이용객,외교관,장애인,휠체어 이용자,경제인 카드 소지자 등";
+"departure_immigration_section_link_1" = "자동출입국 등록센터";
+"departure_immigration_section_link_2" = "전용출구 심사대(교통약자 우대출구)";
+
+/* fast track */
+"departure_fast_track_title" = "교통약자 우대출구";
+"departure_fast_track_section_title_0" = "교통약자 전용 출입국(교통약자 우대출국장)";
+"departure_fast_track_section_title_1" = "교통약자 우대출구 운영개요";
+"departure_fast_track_section_desc_1_1" = "이용 대상: 교통약자 및 출입국우대자";
+"departure_fast_track_section_desc_1_2" = "동반인은 3인까지 함께 이용할 수 있습니다";
+"departure_fast_track_section_title_2" = "교통약자 우대출구 이용방법";
+"departure_fast_track_section_desc_2" = "인천공항에서 교통약자 우대출구를 이용하려면 교통약자는 본인이 이용하는 항공사의 체크인카운터에서 이용대상자임을 확인받고 ‘교통약자 우대카드’를 받아 전용출국장 입구에서 여권과 함께 제시하면 됩니다.\n출입국우대자의 경우 별도의 패스 없이 출입국우대카드를 전용출국장 입구에서 제시하면 됩니다.";
+"departure_fast_track_section_title_3" = "교통약자 우대출구 이용 대상";
+"departure_fast_track_section_desc_3_1" = "교통 약자";
+"departure_fast_track_section_desc_3_1_col_1_1" = "구분";
+"departure_fast_track_section_desc_3_1_col_1_2" = "내용";
+"departure_fast_track_section_desc_3_1_col_2_1" = "보행상 장애인";
+"departure_fast_track_section_desc_3_1_col_2_2" = "1급 ~ 5급";
+"departure_fast_track_section_desc_3_1_col_3_1" = "유소아";
+"departure_fast_track_section_desc_3_1_col_3_2" = "만 7세 미만";
+"departure_fast_track_section_desc_3_1_col_4_1" = "고령자";
+"departure_fast_track_section_desc_3_1_col_4_2" = "만 70세 이상";
+"departure_fast_track_section_desc_3_1_col_5_1" = "임산부";
+"departure_fast_track_section_desc_3_1_col_5_2" = "임신중인 산모";
+"departure_fast_track_section_desc_3_1_col_6_1" = "항공사 병약승객";
+"departure_fast_track_section_desc_3_1_col_6_2" = "휠체어, 항공침대, 의료용 산소 등 필요고객";
+"departure_fast_track_section_desc_3_2" = "출입국 우대자";
+"departure_fast_track_section_desc_3_2_col_1_1" = "구분";
+"departure_fast_track_section_desc_3_2_col_1_2" = "내용";
+"departure_fast_track_section_desc_3_2_col_2_1" = "출입국 우대자";
+"departure_fast_track_section_desc_3_2_col_2_2" = "외국인 금융투자자, 동반성장 우수기업, 가족친화인증기업, 범죄피해자 지원 우수기업, 출소자 고용 우수기업, 고용창출우수기업";
+"departure_fast_track_section_desc_3_2_col_3_1" = "출입국 우대카드 소지자";
+"departure_fast_track_section_desc_3_2_col_3_2" = "ABTC카드(APEC경제인 여행카드), 외국인투자가 카드, 모범납세자 카드, 종합인증우수업체(AEO) 카드, 기업인(CIP)카드, 독립유공자, 국가유공상이자, 5.18민주화 운동 부상자, 한국방문 우대카드 소지자";
+
+/* Shuttle Train */
+"departure_shuttle_section_title_1" = "탑승 위치";
+"departure_shuttle_section_desc_1_1" = "탑승구 101~132번은 셔틀트레인을 타고 탑승동으로 이동하시기 바랍니다.";
+"departure_shuttle_section_desc_1_2" = "배차간격 : 5분, 이동시간 : 1분30초~ 50초";
+
+/* airport arrival */
+"airport_arrival_title_1" = "기내작성서류";
+"airport_arrival_title_2" = "여행자검역";
+"airport_arrival_title_3" = "입국심사";
+"airport_arrival_title_4" = "수하물찾기";
+"airport_arrival_title_5" = "세관검사";
+"airport_arrival_title_6" = "동식물검역";
+
+/* Travelling Document */
+"arrival_document_section_title_1" = "기내작성서류";
+"arrival_document_section_desc_1" = "기내에서 승무원이 나눠주는 신고서를 비행기 안에서 미리 작성하면 입국수속을 편리하고 신속하게 받을 수 있습니다.";
+"arrival_document_section_title_2" = "검역질문서";
+"arrival_document_section_desc_2" = "콜레라, 황열, 페스트 오염지역(동남아시아, 중동, 아프리카,남아메리카 등)에서 입국하는 승객, 승무원";
+"arrival_document_section_title_3" = "여행자 휴대품 신고서";
+"arrival_document_section_desc_3_1" = "해외에서 우리나라로 입국하는 모든 여행자는 세관에 여행자휴대품 신고서를 제출해야 합니다.";
+"arrival_document_section_desc_3_2" = "가족과 함께 입국하시는 경우에는 가족을 포함하여 1장만 작성하시면 됩니다.";
+
+/* Quarantine */
+"arrival_quarantine_section_title_1" = "검역심사 프로세스";
+"arrival_quarantine_section_desc_1_1" = "1. 발열 감시";
+"arrival_quarantine_section_desc_1_1_1" = "입국하는 모든 사람들은 검역대의 적외선 열 감지 카메라를 통과합니다.";
+"arrival_quarantine_section_desc_1_2" = "2. 건강상태 질문서 제출";
+"arrival_quarantine_section_desc_1_2_1" = "- 건강 상태질문서를 작성하여 검역관에게 제출해야 합니다. 검역감염병 오염 지역을 체류 및 경유한 경우에는 반드시 제출합니다.";
+"arrival_quarantine_section_desc_1_2_2" = "- 입국 시 설사, 발열, 기침, 모기 물림 후 피부발진 등의 증상이 있을 경우에도 신고해야 합니다.";
+"arrival_quarantine_section_desc_1_3" = "3. 세균 및 바이러스 검사";
+"arrival_quarantine_section_desc_1_3_1" = "- 입국 후 감염병 의심증상이 있는 경우에는 질병관리본부 콜센터로 신고해야 합니다.";
+"arrival_quarantine_section_desc_1_3_2" = "- 발열감시 및 건강 상태질문서 제출 과정에서 감염병이 의심되는 사람은 세균 및 바이러스 검사를 시행 (바이러스 검사 결과는 2일 후, 채변검사결과는 4~5일 후 개별 통보) 합니다.";
+"arrival_quarantine_section_link_1" = "질병관리본부 콜센터 1339";
+"arrival_quarantine_section_link_call_1" = "1339";
+
+/* immigration */
+"arrival_immigration_section_title_1" = "입국심사 안내";
+"arrival_immigration_section_desc_1" = "입국심사장은 국경에서 허가를 받는 과정입니다. 외국인에게는 허가행위를 국민에게는 국민임을 확인하는 과정이므로 다소 시간이 걸리더라도 양해하여 주시기 바랍니다.";
+"arrival_immigration_section_title_2" = "입국심사시 당부사항";
+"arrival_immigration_section_desc_2_1" = "국경에서의 내외국인 분리 심사는 국제사회의 원칙입니다.";
+"arrival_immigration_section_desc_2_2" = "외국인(등록외국인 제외)은 입국신고서를 작성하셔야 합니다.";
+"arrival_immigration_section_desc_2_3" = "단체사증을 소지한 중국 단체여행객은 입국신고서를 작성하지 않으셔도 됩니다.(단, 청소년 수학여행객은 입국신고서 작성 필요함";
+"arrival_immigration_section_desc_2_4" = "등록대상인 외국인은 입국일로부터 90일 이내에 관할 출입국관리사무소에 외국인 등록을 하셔야 합니다.";
+"arrival_immigration_section_title_3" = "자동입국심사";
+"arrival_immigration_section_desc_3_1" = "대상 : 만 19세 이상의 대한민국 여권 소지자";
+"arrival_immigration_section_desc_3_2" = "만 7세 ~ 18세 이하 국민, 인적 사항이 변경된 국민, 주민등록 발급 후 30년이 경과된 국민은 지문 사전등록이 필요합니다.";
+"arrival_immigration_section_desc_3_3" = "이용 방법";
+"arrival_immigration_section_desc_3_3_1" = "① 여권인식";
+"arrival_immigration_section_desc_3_3_2" = "② 지문확인";
+"arrival_immigration_section_desc_3_3_3" = "③ 사진촬영";
+"arrival_immigration_section_title_4" = "유인입국심사대";
+"arrival_immigration_section_desc_4" = "대상 : 일반 여객";
+
+/* baggage */
+"arrival_baggage_section_title_1" = "수하물 수취대";
+"arrival_baggage_section_desc_1" = "입국심사 후, 전광판(FIDS)을 통해 수하물수취대 번호를 확인하실 수 있습니다.\n수하물이 바뀌지 않도록 주의하여 수하물을 찾으시기 바랍니다.";
+"arrival_baggage_section_title_2" = "대형 수하물";
+"arrival_baggage_section_desc_2" = "대형 수하물은 대형수하물 수취대에서 찾습니다.";
+"arrival_baggage_section_title_3" = "수하물 분실";
+"arrival_baggage_section_desc_3_1" = "수하물 분실 시 수하물 수취대 뒤편에 위치해 있는 분실수하물 안내카운터로 문의하여 주시기 바랍니다.";
+"arrival_baggage_section_desc_3_2" = "※ 분실한 수하물의 보상규정은 항공사마다 다르므로 이용하신 항공사를 통해 직접 문의를 하셔야 합니다.";
+
+/* custom */
+"arrival_custom_section_title_1" = "세관 통관 절차";
+"arrival_custom_section_desc_1_1" = "해외에서 우리나라로 입국하는 모든 여행자는 세관에 여행자휴대품 신고서를 제출해야 합니다.";
+"arrival_custom_section_desc_1_2" = "가족과 함께 입국하시는 경우에는 가족을 포함하여 1장만 작성하시면 됩니다.";
+"arrival_custom_section_desc_1_3" = "면세 초과 물품이 있는 경우 입국 시 신고 사항을 입국신고서에 성실하게 기재하여 신고하시면 관세의 30%가 감면(15만원 한도)되지만, 세관신고를 하지 않거나 불성실하게 신고하시면 납부세액의 40%가 가산세로 부과됩니다.";
+"arrival_custom_section_title_2" = "입국시 신고해야 할 물품";
+"arrival_custom_section_desc_2_1" = "총포, 도검, 석궁 등 무기류, 실탄 및 화약류, 유독성 또는 방사성 물질";
+"arrival_custom_section_desc_2_2" = "면세범위(US $600이하) 주류 1병, 담배 1보루, 향수 60ml 초과물품";
+"arrival_custom_section_desc_2_3" = "물, 식물, 과일, 채소류 등 농림 축산물";
+"arrival_custom_section_desc_2_4" = "메스암페타민(필로폰), 헤로인, 코카인 등 마약류 및 오남용 의약품";
+"arrival_custom_section_desc_2_5" = "위조상표 부착물품(가짜상품)";
+"arrival_custom_section_desc_2_6" = "US 1만불을 초과하는 외화 또는 원화";
+"arrival_custom_section_desc_2_7" = "CITES(야생동식물의 국제 거래에 관한 협약)협약 관련 제품, 가공품";
+"arrival_custom_section_desc_2_8" = "국헌, 공안, 풍속을 해치는 도서, 서적, 영화음반 등";
+"arrival_custom_section_desc_2_9" = "판매목적으로 반입하는 물품 또는 회사용품";
+"arrival_custom_section_title_3" = "여행자 휴대품 면세 범위";
+"arrival_custom_section_desc_3_1" = "여행자 휴대품 면세범위는 US $600입니다.";
+"arrival_custom_section_desc_3_2" = "별도 면세 상품";
+"arrival_custom_section_desc_3_2_col_1_1" = "주류 1병(1L이하, US $400이하)";
+"arrival_custom_section_desc_3_2_col_1_2" = "담배 1보루(200개비)";
+"arrival_custom_section_desc_3_2_col_1_3" = "향수 60mL";
+"arrival_custom_section_desc_3_2_col_1_4" = "※ 단, 미성년자(만 19세 미만)에게는 주류, 담배 면세가 제외됩니다.";
+"arrival_custom_section_desc_3_3" = "농림축산물(한약재) 면세 범위";
+"arrival_custom_section_desc_3_3_1" = "- 1인당 총량 50gk이내, 해외취득가격이 10만원이내이고, 검역에 합격하여야 함(단, 한약은 1인당 10품목 이내)";
+"arrival_custom_section_desc_3_3_2" = "- 참기름, 참깨, 꿀, 고사리, 더덕 각 5kg";
+"arrival_custom_section_desc_3_3_3" = "- 인삼(수삼,백삼,홍삼), 상황버섯 각 300g";
+"arrival_custom_section_desc_3_3_4" = "- 쇠고기 10kg";
+"arrival_custom_section_desc_3_3_5" = "- 잣 1kg, 녹용 150g";
+"arrival_custom_section_desc_3_3_6" = "- 기타 품목당 5kg";
+"arrival_custom_section_desc_3_3_7" = "※ 단위 당 용량 또는 중량이 면세 기준을 초과하는 경우 전체에 대해 과세합니다";
+"arrival_custom_section_link_1" = "관세민원실";
+
+/* animal quarantine */
+"arrival_animal_quarantine_section_title_1" = "동물검역";
+"arrival_animal_quarantine_section_title_2" = "반려동물과 입국 시";
+"arrival_animal_quarantine_section_desc_2_1" = "입국장 내 농림축산검역본부에 신고";
+"arrival_animal_quarantine_section_desc_2_2" = "신고시 구비 필요 서류";
+"arrival_animal_quarantine_section_desc_2_2_1" = "① 수출국 동물검역기관이 발행한 동물검역증명서";
+"arrival_animal_quarantine_section_desc_2_2_1_1" = "- 항체가 유효기간 이내인 경우 출국 시 우리 본부가 발행한 증명서도 인정됨";
+"arrival_animal_quarantine_section_desc_2_2_2" = "② 마이크로칩 이식 • 부착 (개, 고양이에 한함)";
+"arrival_animal_quarantine_section_desc_2_2_3" = "③ 광견병 항체가 결과 증명서";
+"arrival_animal_quarantine_section_desc_2_2_3_1" = "- 개, 고양이는 90일 이상";
+"arrival_animal_quarantine_section_desc_2_2_3_2" = "- 광견병 발생국에서 입국하는 경우에 한함";
+"arrival_animal_quarantine_section_title_3" = "축산물 휴대 및 반입 시";
+"arrival_animal_quarantine_section_desc_3_1" = "입국장 내 농림축산검역본부에 신고, 수입 및 반입 가능 여부 확인";
+"arrival_animal_quarantine_section_desc_3_2" = "금지 품목";
+"arrival_animal_quarantine_section_desc_3_2_1" = "- 육류(쇠고기, 돼지고기, 양고기, 닭고기 등)";
+"arrival_animal_quarantine_section_desc_3_2_2" = "- 육가공품(햄, 소시지, 육포, 장조림 등)";
+"arrival_animal_quarantine_section_title_4" = "축산관계자 또는 가축농장을 방문했을 시";
+"arrival_animal_quarantine_section_desc_4" = "입국장 내 농림축산검역본부 검역관에게 신고, 소독 등의 방역 조치 받기";
+"arrival_animal_quarantine_section_title_5" = "동물검역 문의처";
+"arrival_animal_quarantine_section_title_6" = "식물검역";
+"arrival_animal_quarantine_section_desc_6_1" = "입국장 내 농림축산검역본부에 신고";
+"arrival_animal_quarantine_section_desc_6_2" = "신고시 구비 필요 서류";
+"arrival_animal_quarantine_section_desc_6_2_1" = "① 수출국의 식물검역기관이 발행한 식물검역증명서";
+"arrival_animal_quarantine_section_desc_6_2_1_1" = "- (종자, 묘목 등의 번식용 식물에 한 함)";
+"arrival_animal_quarantine_section_title_7" = "휴대반입이 금지된 식물(수입금지)";
+"arrival_animal_quarantine_section_desc_7_1" = "대부분의 생과실 및 열매채소";
+"arrival_animal_quarantine_section_desc_7_2" = "흙, 흙 부착 식물, 껍질이 있는 호두, 애완곤충";
+"arrival_animal_quarantine_section_desc_7_3" = "볏짚, 왕겨 등으로 만든 가공품 등";
+"arrival_animal_quarantine_section_title_8" = "식물검역 문의처";
+"arrival_animal_quarantine_section_link_1" = "동물 축산물 신고";
+"arrival_animal_quarantine_section_link_call_1" = "032-740-2660";
+"arrival_animal_quarantine_section_link_2" = "국립인천공항검역소 전화";
+"arrival_animal_quarantine_section_link_call_2" = "032-740-2077";
+
+/* transfer */
+"transfer_category_1" = "환승절차";
+"transfer_category_2" = "환승경로";
+"transfer_category_3" = "환승편의시설";
+"transfer_category_4" = "환승투어";
+
+/* transfer - process */
+"transfer_process_title_1" = "환승 소요 시간";
+"transfer_process_title_2" = "항공사 배정";
+"transfer_process_tool_arrow_1" = "제1여객터미널 탑승구 1 - 59";
+"transfer_process_tool_arrow_2" = "탑승동 탑승구 101-132";
+"transfer_process_tool_arrow_3" = "제2여객터미널 탑승구 230-270";
+
+"transfer_assignment" = "항공사 배정";
+"transfer_assignment_table_1_1" = "아시아나항공";
+"transfer_assignment_table_1_2" = "OZ";
+"transfer_assignment_table_1_3" = "아메리칸항공";
+"transfer_assignment_table_1_4" = "AA";
+"transfer_assignment_table_2_1" = "에어캐나다";
+"transfer_assignment_table_2_2" = "AC";
+"transfer_assignment_table_2_3" = "유나이티드항공";
+"transfer_assignment_table_2_4" = "UA";
+"transfer_assignment_table_3_1" = "만다린항공";
+"transfer_assignment_table_3_2" = "AE";
+"transfer_assignment_table_3_3" = "에어인디아";
+"transfer_assignment_table_3_4" = "AI";
+"transfer_assignment_table_4_1" = "핀에어";
+"transfer_assignment_table_4_2" = "AY";
+"transfer_assignment_table_4_3" = "유니항공";
+"transfer_assignment_table_4_4" = "B7";
+"transfer_assignment_table_5_1" = "영국항공";
+"transfer_assignment_table_5_2" = "BA";
+"transfer_assignment_table_5_3" = "로얄브루나이항공";
+"transfer_assignment_table_5_4" = "BI";
+"transfer_assignment_table_6_1" = "에바항공";
+"transfer_assignment_table_6_2" = "BR";
+"transfer_assignment_table_6_3" = "중국국제항공";
+"transfer_assignment_table_6_4" = "CA";
+"transfer_assignment_table_7_1" = "케세이퍼시픽항공";
+"transfer_assignment_table_7_2" = "CX";
+"transfer_assignment_table_7_3" = "에미레이트";
+"transfer_assignment_table_7_4" = "EK";
+"transfer_assignment_table_8_1" = "에티오피아항공";
+"transfer_assignment_table_8_2" = "ET";
+"transfer_assignment_table_8_3" = "에티하드항공";
+"transfer_assignment_table_8_4" = "EY";
+"transfer_assignment_table_9_1" = "천진항공";
+"transfer_assignment_table_9_2" = "GS";
+"transfer_assignment_table_9_3" = "하와이안항공";
+"transfer_assignment_table_9_4" = "HA";
+"transfer_assignment_table_10_1" = "홍콩항공";
+"transfer_assignment_table_10_2" = "HX";
+"transfer_assignment_table_10_3" = "우즈벡항공";
+"transfer_assignment_table_10_4" = "HY";
+"transfer_assignment_table_11_1" = "오로라항공";
+"transfer_assignment_table_11_2" = "HZ";
+"transfer_assignment_table_11_3" = "일본항공";
+"transfer_assignment_table_11_4" = "JL";
+"transfer_assignment_table_12_1" = "캄보디아앙코르";
+"transfer_assignment_table_12_2" = "K6";
+"transfer_assignment_table_12_3" = "에어아스타나";
+"transfer_assignment_table_12_4" = "KC";
+"transfer_assignment_table_13_1" = "루프트한자";
+"transfer_assignment_table_13_2" = "LH";
+"transfer_assignment_table_13_3" = "폴란드항공";
+"transfer_assignment_table_13_4" = "LO";
+"transfer_assignment_table_14_1" = "말레이시아항공";
+"transfer_assignment_table_14_2" = "MH";
+"transfer_assignment_table_14_3" = "에어마카오";
+"transfer_assignment_table_14_4" = "NX";
+"transfer_assignment_table_15_1" = "몽골항공";
+"transfer_assignment_table_15_2" = "OM";
+"transfer_assignment_table_15_3" = "필리핀항공";
+"transfer_assignment_table_15_4" = "PR";
+"transfer_assignment_table_16_1" = "카타르항공";
+"transfer_assignment_table_16_2" = "QR";
+"transfer_assignment_table_16_3" = "라오항공";
+"transfer_assignment_table_16_4" = "QV";
+"transfer_assignment_table_17_1" = "야쿠티아";
+"transfer_assignment_table_17_2" = "R3";
+"transfer_assignment_table_17_3" = "S7항공";
+"transfer_assignment_table_17_4" = "S7";
+"transfer_assignment_table_18_1" = "산동항공";
+"transfer_assignment_table_18_2" = "SC";
+"transfer_assignment_table_18_3" = "싱가폴항공";
+"transfer_assignment_table_18_4" = "SQ";
+"transfer_assignment_table_19_1" = "타이항공";
+"transfer_assignment_table_19_2" = "TG";
+"transfer_assignment_table_19_3" = "터키항공";
+"transfer_assignment_table_19_4" = "TK";
+"transfer_assignment_table_20_1" = "스카이앙코르";
+"transfer_assignment_table_20_2" = "ZA";
+"transfer_assignment_table_20_3" = "심천항공";
+"transfer_assignment_table_20_4" = "ZH";
+"transfer_assignment_table_21_1" = "팔익스프레스";
+"transfer_assignment_table_21_2" = "2P";
+"transfer_assignment_table_21_3" = "사천항공";
+"transfer_assignment_table_21_4" = "3U";
+"transfer_assignment_table_22_1" = "팬퍼시픽";
+"transfer_assignment_table_22_2" = "8Y";
+
+"transfer_assignment_con_table_1_1" = "중국남방항공";
+"transfer_assignment_con_table_1_2" = "CZ";
+"transfer_assignment_con_table_1_3" = "중국동방항공";
+"transfer_assignment_con_table_1_4" = "MU";
+"transfer_assignment_con_table_2_1" = "베트남항공";
+"transfer_assignment_con_table_2_2" = "VN";
+"transfer_assignment_con_table_2_3" = "에어아시아엑스";
+"transfer_assignment_con_table_2_4" = "D7";
+"transfer_assignment_con_table_3_1" = "상해항공";
+"transfer_assignment_con_table_3_2" = "FM";
+"transfer_assignment_con_table_3_3" = "진에어";
+"transfer_assignment_con_table_3_4" = "LJ";
+"transfer_assignment_con_table_4_1" = "피치항공";
+"transfer_assignment_con_table_4_2" = "MM";
+"transfer_assignment_con_table_4_3" = "에어서울";
+"transfer_assignment_con_table_4_4" = "RS";
+"transfer_assignment_con_table_5_1" = "스쿠트타이거항공";
+"transfer_assignment_con_table_5_2" = "TR";
+"transfer_assignment_con_table_5_3" = "티웨이항공";
+"transfer_assignment_con_table_5_4" = "TW";
+"transfer_assignment_con_table_6_1" = "홍콩익스프레스항공";
+"transfer_assignment_con_table_6_2" = "UO";
+"transfer_assignment_con_table_6_3" = "비엣젯항공";
+"transfer_assignment_con_table_6_4" = "VJ";
+"transfer_assignment_con_table_7_1" = "타이에어아시아엑스";
+"transfer_assignment_con_table_7_2" = "XJ";
+"transfer_assignment_con_table_7_3" = "이스타항공";
+"transfer_assignment_con_table_7_4" = "ZE";
+"transfer_assignment_con_table_8_1" = "세부퍼시픽항공";
+"transfer_assignment_con_table_8_2" = "5J";
+"transfer_assignment_con_table_8_3" = "제주항공";
+"transfer_assignment_con_table_8_4" = "7C";
+"transfer_assignment_con_table_9_1" = "춘추항공";
+"transfer_assignment_con_table_9_2" = "9C";
+
+"transfer_assignment_t2_table_1_1" = "대한항공";
+"transfer_assignment_t2_table_1_2" = "KE";
+"transfer_assignment_t2_table_1_3" = "에어프랑스";
+"transfer_assignment_t2_table_1_4" = "AF";
+"transfer_assignment_t2_table_2_1" = "델타항공";
+"transfer_assignment_t2_table_2_2" = "DL";
+"transfer_assignment_t2_table_2_3" = "KLM네덜란드항공";
+"transfer_assignment_t2_table_2_4" = "KL";
+"transfer_assignment_t2_table_3_1" = "가루다인도네시아항공";
+"transfer_assignment_t2_table_3_2" = "GA";
+"transfer_assignment_t2_table_3_3" = "샤먼항공";
+"transfer_assignment_t2_table_3_4" = "MF";
+"transfer_assignment_t2_table_4_1" = "아에로멕시코";
+"transfer_assignment_t2_table_4_2" = "AM";
+"transfer_assignment_t2_table_4_3" = "아에로플로트";
+"transfer_assignment_t2_table_4_4" = "SU";
+"transfer_assignment_t2_table_5_1" = "알리탈리아";
+"transfer_assignment_t2_table_5_2" = "AZ";
+"transfer_assignment_t2_table_5_3" = "중화항공";
+"transfer_assignment_t2_table_5_4" = "CI";
+"transfer_assignment_t2_table_6_1" = "체코항공";
+"transfer_assignment_t2_table_6_2" = "OK";
+
+/* transfer - path */
+"transfer_sub_category_1" = "제1여객터미널";
+"transfer_sub_category_2" = "탑승동";
+"transfer_sub_category_3" = "제2여객터미널";
+
+"transfer_path_t1_title_1" = "제1여객터미널 → 제1여객터미널";
+"transfer_path_t1_1_desc_1" = "① 도착탑승구(2층)";
+"transfer_path_t1_1_desc_2" = "② 환승보안검색(2층 → 3층)";
+"transfer_path_t1_1_desc_3" = "③ 환승안내데스크(4층)";
+"transfer_path_t1_1_desc_4" = "④ 출발탑승구(3층)";
+"transfer_path_t1_title_2" = "제1여객터미널 → 탑승동";
+"transfer_path_t1_2_desc_1" = "① 도착탑승구(2층)";
+"transfer_path_t1_2_desc_2" = "② 환승보안검색(2층 → 3층)";
+"transfer_path_t1_2_desc_3" = "③ 환승녹색안내판 따라가기(101~270)";
+"transfer_path_t1_2_desc_4" = "④ 셔틀트레인(블루라인) 탑승 (지하1층)";
+"transfer_path_t1_2_desc_5" = "⑤ 환승안내데스크(3층)";
+"transfer_path_t1_2_desc_6" = "⑥ 출발탑승구(3층)";
+"transfer_path_t1_title_3" = "제1여객터미널 → 제2여객터미널";
+"transfer_path_t1_3_desc_1" = "① 도착탑승구(2층)";
+"transfer_path_t1_3_desc_2" = "② 환승보안검색(2층 → 3층)";
+"transfer_path_t1_3_desc_3" = "③ 환승녹색안내판 따라가기(101~270)";
+"transfer_path_t1_3_desc_4" = "④ 셔틀트레인(블루라인) 탑승 (지하1층)";
+"transfer_path_t1_3_desc_5" = "⑤ 환승녹색안내판 따라가기(230~270)";
+"transfer_path_t1_3_desc_6" = "⑥ 자동환승게이트(지하1층)";
+"transfer_path_t1_3_desc_7" = "⑦ 셔틀트레인(오렌지라인) 탑승 (지하1층)";
+"transfer_path_t1_3_desc_8" = "⑧ 환승안내데스크(4층)";
+"transfer_path_t1_3_desc_9" = "⑨ 출발탑승구(3층)";
+
+"transfer_path_con_title_1" = "탑승동 → 탑승동";
+"transfer_path_con_1_desc_1" = "① 도착탑승구(2층)";
+"transfer_path_con_1_desc_2" = "② 환승녹색안내판 따라가기(101~270)";
+"transfer_path_con_1_desc_3" = "③ 환승보안검색(2층 → 3층)";
+"transfer_path_con_1_desc_4" = "④ 환승안내데스크(4층)";
+"transfer_path_con_1_desc_5" = "⑤ 출발탑승구(3층)";
+"transfer_path_con_title_2" = "탑승동 → 제1여객터미널";
+"transfer_path_con_2_desc_1" = "① 도착탑승구(2층)";
+"transfer_path_con_2_desc_2" = "② 환승녹색안내판 따라가기(1~50)";
+"transfer_path_con_2_desc_3" = "③ 셔틀트레인(블루라인) 탑승 (지하1층)";
+"transfer_path_con_2_desc_4" = "④ 환승보안검색(2층)";
+"transfer_path_con_2_desc_5" = "⑤ 환승안내데스크(4층)";
+"transfer_path_con_2_desc_6" = "⑥ 출발탑승구(3층)";
+"transfer_path_con_title_3" = "탑승동 → 제2여객터미널";
+"transfer_path_con_3_desc_1" = "① 도착탑승구(2층)";
+"transfer_path_con_3_desc_2" = "② 환승녹색안내판 따라가기(101~270)";
+"transfer_path_con_3_desc_3" = "③ 환승보안검색(2층 → 3층)";
+"transfer_path_con_3_desc_4" = "④ 환승녹색안내판 따라가기(230~270)";
+"transfer_path_con_3_desc_5" = "⑤ 자동환승게이트(3층)";
+"transfer_path_con_3_desc_6" = "⑥ 셔틀트레인(오렌지라인) 탑승 (지하1층)";
+"transfer_path_con_3_desc_7" = "⑦ 환승안내데스크(4층)";
+"transfer_path_con_3_desc_8" = "⑧ 출발탑승구(3층)";
+
+"transfer_path_t2_title_1" = "제2여객터미널 → 제2여객터미널";
+"transfer_path_t2_1_desc_1" = "① 도착탑승구(2층)";
+"transfer_path_t2_1_desc_2" = "② 환승녹색안내판 따라가기(230~270)";
+"transfer_path_t2_1_desc_3" = "③ 환승안내데스크(2층)";
+"transfer_path_t2_1_desc_4" = "④ 자동환승게이트(2층)";
+"transfer_path_t2_1_desc_5" = "⑤ 환승보안검색(2층 → 3층)";
+"transfer_path_t2_1_desc_6" = "⑥ 출발탑승구(3층)";
+"transfer_path_t2_title_2" = "제2여객터미널 → 탑승동";
+"transfer_path_t2_2_desc_1" = "① 도착탑승구(2층)";
+"transfer_path_t2_2_desc_2" = "② 환승녹색안내판 따라가기(1~132)";
+"transfer_path_t2_2_desc_3" = "③ 자동환승게이트(2층)";
+"transfer_path_t2_2_desc_4" = "④ 셔틀트레인(오렌지라인) 탑승 (지하1층)";
+"transfer_path_t2_2_desc_5" = "⑤ 환승녹색안내판 따라가기(101~132)";
+"transfer_path_t2_2_desc_6" = "⑥ 자동환승게이트(지하1층)";
+"transfer_path_t2_2_desc_7" = "⑦ 환승보안검색(2층 → 3층)";
+"transfer_path_t2_2_desc_8" = "⑧ 환승안내데스크(3층)";
+"transfer_path_t2_2_desc_9" = "⑨ 출발탑승구(3층)";
+"transfer_path_t2_title_3" = "제2여객터미널 → 제1여객터미널";
+"transfer_path_t2_3_desc_1" = "① 도착탑승구(2층)";
+"transfer_path_t2_3_desc_2" = "② 환승녹색안내판 따라가기(1~132)";
+"transfer_path_t2_3_desc_3" = "③ 자동환승게이트(2층)";
+"transfer_path_t2_3_desc_4" = "④ 셔틀트레인(오렌지라인) 탑승 (지하1층)";
+"transfer_path_t2_3_desc_5" = "⑤ 환승녹색안내판 따라가기(1~50)";
+"transfer_path_t2_3_desc_6" = "⑥ 자동환승게이트(지하1층)";
+"transfer_path_t2_3_desc_7" = "⑦ 셔틀트레인(블루라인) 탑승 (지하1층)";
+"transfer_path_t2_3_desc_8" = "⑧ 환승보안검색(2층 → 3층)";
+"transfer_path_t2_3_desc_9" = "⑨ 환승안내데스크(4층)";
+"transfer_path_t2_3_desc_10" = "⑩ 출발탑승구(3층)";
+
+/* transfer tour */
+"transfer_tour_title_1" = "Entertainment";
+"transfer_tour_title_2" = "Modern Life";
+"transfer_tour_title_3" = "Temple";
+"transfer_tour_title_4" = "Industry";
+"transfer_tour_title_5" = "Tradition";
+"transfer_tour_title_6" = "Shopping";
+
+"transfer_tour_1_desc_1" = "Near the Airport, enjoy the casino with a free $70 coupon in Paradise City  lled with more than 2,700 artworks Or Get on your dream car in the Asia’s  rst driving center of BMW which exhibits BMWs, MINIs, Motorrads and BMW’s classical cars.";
+"transfer_tour_1_sub_title_1" = "Paradise City";
+"transfer_tour_1_sub_1_desc_1" = "- (T1) 07:00~09:00 / 13:00~15:00";
+"transfer_tour_1_sub_1_desc_2" = "- (T2) 09:00~11:00 / 15:00~17:00";
+"transfer_tour_1_sub_title_2" = "BMW Driving Center";
+"transfer_tour_1_sub_2_desc_1" = "- (T1) 09:00~11:00 / 12:00~14:00";
+"transfer_tour_1_sub_2_desc_2" = "- (T2) 15:00~17:00";
+
+"transfer_tour_2_desc_1" = "G-Tower is one of the most popular landmarks of Incheon. The obser- vatory on the 33rd  oor boasts magni cent 360-degree panoramic views of Songdo International City. NC Cube Canal Walk has colorful and unique cafés, brand stores and the venues where cultural events and performances are held.";
+"transfer_tour_2_sub_title_1" = "(T1)14:00~16:00";
+"transfer_tour_2_sub_title_2" = "(T2)16:00~18:00";
+
+"transfer_tour_3_desc_1" = "Jeondeungsa Temple is a presti- gious temple that holds a beautiful Main Buddha Hall designated as Treasure No. 178 of Korea. Jogye- sa is the chief temple of the Jogye Order of Korean Buddhism, and the center of Korea’s modern Buddhist movement. The Main Temple boasts splendid ornaments and golden Bud- dha statues.";
+"transfer_tour_3_sub_title_1" = "(T1/T2) 08:00~12:00";
+"transfer_tour_3_sub_title_2" = "(T1/T2) 14:00~18:00";
+
+"transfer_tour_4_desc_1" = "Gwangmyeong Cave is a historic place that preserves the modern- ization of Korea. It transformed the industrial heritage of abandoned gold mine into the culture, arts and healing spaces. The mine was closed down in 1972 but it is estimated that the cave still has a sizable amount of gold deposits.";
+"transfer_tour_4_sub_title_1" = "(T1/T2) 09:00~13:00";
+
+"transfer_tour_5_desc_1" = "Gyeongbokgung Palace, completed in 1395, was the  rst royal palace built by the Joseon Dynasty. It was constructed about 25 years earlier than the Forbidden City in Beijing, China. Insa-dong, a popular neigh- borhood located in Jongno, is home to antique shops, folk art galleries and small shops selling traditional goods.";
+"transfer_tour_5_sub_title_1" = "(T1/T2) 08:00~13:00";
+"transfer_tour_5_sub_title_2" = "(T1/T2) 10:00~15:00";
+
+"transfer_tour_6_desc_1" = "Myeong-dong is one of the most popular shopping districts in Seoul where international tourists can experience Korea’s latest fashion trends and various street foods. Namdaemun Market is the largest traditional market in Korea and the streets are  lled with small shops that sell from clothes to ginseng, and much more at cheap prices.";
+"transfer_tour_6_sub_title_1" = "(T1/T2) 13:00~18:00";
+
+/* favorite */
+"favorite_category_1" = "전체";
+"favorite_category_2" = "쇼핑&식당";
+"favorite_category_3" = "편의시설";
+"favorite_category_4" = "대중교통";
+"favorite_no_result_1" = "등록된 즐겨찾기가 없습니다.";
+"favorite_no_result_2" = "자주 이용하시는 시설정보를\n즐겨찾기 등록하시면 편리합니다.";
+
+/* staff - shuttle bus */
+"staff_shuttle_category_1" = "T1 <-> 장기주차장";
+"staff_shuttle_category_2" = "AICC <-> T1 <-> T2";
+"staff_shuttle_category_3" = "화물청사역 <-> 물류단지";
+"staff_shuttle_category_4" = "T2 <-> 장기주차장";
+
+"shuttle_bus_predic_time" = "분 후 출발";
+"shuttle_bus_time_hour" = "시";
+"shuttle_bus_time_etc" = "비고";
+"shuttle_bus_time_min" = "분";
+"shuttle_bus_time_weekday" = "평일";
+"shuttle_bus_time_weekend" = "휴일";
+
+/* 직원버스 예약 */
+"staff_bus_category_1" = "노선버스 예매";
+"staff_bus_category_2" = "운행정보";
+"staff_bus_category_3" = "이용안내";
+"staff_bus_category_4" = "고객지원";
+
+"staff_bus_reserve_link_1" = "승차권예매";
+"staff_bus_reserve_link_2" = "예매조회 / 취소 / 변경";
+"staff_bus_reserve_link_3" = "영수증 발행";
+"staff_bus_route_info_link_1" = "노선 / 운행정보";
+"staff_bus_info_link_1" = "승차권예매 안내";
+"staff_bus_info_link_2" = "예매변경 및 취소 안내";
+"staff_bus_info_link_3" = "현금영수증 안내";
+"staff_bus_help_1" = "공지사항";
+"staff_bus_help_2" = "FAQ";
+"staff_bus_help_3" = "고객의 소리";
+
+/* 입주자지원센터 */
+"tsp_section_title_1" = "운영목적";
+"tsp_section_desc_1" = "인천공항 내 입주부터 퇴거까지 원스톱서비스 지원";
+"tsp_section_title_2" = "위치";
+"tsp_section_desc_2" = "제1교통센터 내 지하1층 서편\n제2교통센터 내 지하2층 서편";
+"tsp_section_title_3" = "운영시간";
+"tsp_section_desc_3" = "08:00 ~ 19:00 (토/일/공휴일 휴무)";
+"tsp_section_title_4" = "관련문의(운영시간만 통화가능)";
+"tsp_section_title_5" = "시설물 유지보수 상담(24시간 운영)";
+"tsp_section_title_6" = "건축 유지보수";
+"tsp_section_title_7" = "기계 유지보수";
+"tsp_section_title_8" = "전기 유지보수";
+"tsp_section_title_9" = "통신 유지보수(전지역)";
+"tsp_section_title_10" = "자유무역지원(건축, 기계, 전기)";
+"tsp_section_title_11" = "입주자 전용서비스 신청";
+"tsp_section_link_4_1" = "T1 입주자서비스센터";
+"tsp_section_link_4_2" = "T2 입주자서비스센터";
+"tsp_section_link_4_3" = "공간배정";
+"tsp_section_link_4_4" = "계약진행";
+"tsp_section_link_4_5" = "정기주차권";
+"tsp_section_link_4_6" = "전화 / LAN / TV";
+"tsp_section_link_4_7" = "시설물 설치변경 상담(총괄)";
+"tsp_section_link_call_4_1" = "032-741-3301";
+"tsp_section_link_call_4_2" = "032-741-3535";
+"tsp_section_link_call_4_3" = "032-741-2402";
+"tsp_section_link_call_4_4" = "032-741-2323";
+"tsp_section_link_call_4_5" = "032-741-6021";
+"tsp_section_link_call_4_6" = "032-741-7000";
+"tsp_section_link_call_4_7" = "032-741-3303";
+"tsp_section_link_5_1" = "공항 헬프데스크";
+"tsp_section_link_call_5_1" = "1577-2600";
+"tsp_section_link_6_1" = "제1여객터미널 / 제1교통센터";
+"tsp_section_link_6_2" = "제2여객터미널 / 제2교통센터";
+"tsp_section_link_6_3" = "탑승동";
+"tsp_section_link_6_4" = "정부합동청사";
+"tsp_section_link_call_6_1" = "032-741-7520";
+"tsp_section_link_call_6_2" = "032-744-6705";
+"tsp_section_link_call_6_3" = "032-741-9173";
+"tsp_section_link_call_6_4" = "032-744-7407";
+"tsp_section_link_7_1" = "제1여객터미널";
+"tsp_section_link_7_2" = "제2여객터미널";
+"tsp_section_link_7_3" = "탑승동";
+"tsp_section_link_7_4" = "제1교통센터";
+"tsp_section_link_7_5" = "제2교통센터";
+"tsp_section_link_7_6" = "제1정부합동청사";
+"tsp_section_link_7_7" = "제2정부합동청사";
+"tsp_section_link_call_7_1" = "032-741-7540";
+"tsp_section_link_call_7_2" = "032-744-6850";
+"tsp_section_link_call_7_3" = "032-741-9170";
+"tsp_section_link_call_7_4" = "032-741-7411";
+"tsp_section_link_call_7_5" = "032-744-6728";
+"tsp_section_link_call_7_6" = "032-741-6768";
+"tsp_section_link_call_7_7" = "032-744-5475";
+"tsp_section_link_8_1" = "제1여객터미널";
+"tsp_section_link_8_2" = "제2여객터미널 / 제2교통센터";
+"tsp_section_link_8_3" = "탑승동";
+"tsp_section_link_8_4" = "제1교통센터";
+"tsp_section_link_8_5" = "제1정부합동청사";
+"tsp_section_link_call_8_1" = "032-741-7524";
+"tsp_section_link_call_8_2" = "032-744-7448";
+"tsp_section_link_call_8_3" = "032-741-9168";
+"tsp_section_link_call_8_4" = "032-741-7524";
+"tsp_section_link_call_8_5" = "032-741-7031";
+"tsp_section_link_9_1" = "인터넷";
+"tsp_section_link_9_2" = "전화, CATV";
+"tsp_section_link_call_9_1" = "032-741-0000";
+"tsp_section_link_call_9_2" = "032-741-4707";
+"tsp_section_link_10_1" = "통합";
+"tsp_section_link_call_10_1" = "032-741-1300";
+"tsp_section_link_11_1" = "입주자 전용서비스 신청 포털(회원가입필수)";
+
+/* bluetooth */
+"bluetooth_fail_title" = "블루투스";
+"bluetooth_fail_message" = "블루투스기능이 중지되었습니다.\n블루투스를 켜주세요.";
+"beacon_fail_message" = "해당기기로는 비콘기능을 사용할수 없습니다.";
+
+/* beacon */
+"beacon_noti_service" = "위치기반 알림 서비스를 사용중입니다.";
+"beacon_noti_sub_service" = "(알림을 눌러 사용을 중지할 수 있습니다)";
+"beacon_welcome_t1" = "제1터미널에\n오신 것을 환영합니다.";
+"beacon_welcome_t2" = "제2터미널에\n오신 것을 환영합니다.";
+"beacon_welcome_zdc_desc" = "'%@'을 등록하시면\n편리한 인천공항 서비스를\n이용하실 수 있습니다.";
+"beacon_checkin_zdc_desc" = "여행의 설렘을 인천공항과 함께 하세요.";
+"beacon_zzz_t1" = "여기는 제1터미널입니다.";
+"beacon_zzz_t2" = "여기는 제2터미널입니다.";
+"beacon_zzz_flight" = "항공편";
+"beacon_zzz_t1_desc" = "고객님의 항공편은 %@에서 이용가능하며, 터미널 간 이동 방법을 확인하여 이동하여 주시기 바랍니다.";
+"beacon_zzz_t2_desc" = "고객님의 항공편은 제1터미널에서 이용가능하며, 터미널 간 이동 방법을 확인하여 이동하여 주시기 바랍니다.";
+"beacon_zzz_bus_stop" = "승차장";
+"beacon_zzz_bus_stop_t1" = "제1여객터미널 3층 중앙\n8번출구";
+"beacon_zzz_bus_stop_t2" = "제2여객터미널 3층 중앙\n4,5번 출구 사이";
+"beacon_change_color_t1" = "제1터미널";
+"beacon_change_color_t2" = "제2터미널";
+
+"beacon_button_myplan" = "내일정 보기";
+"beacon_button_move_terminal" = "터미널간 이동";
+"beacon_button_traffic" = "교통안내";
+
+"beacon_zdd_change_color_text" = "면세구역";
+"beacon_zdd_title" = "이곳은 %@입니다.";
+"beacon_zdd_desc_1" = "고객님의 탑승정보를 확인하시고,\n탑승시간에 맞추어 탑승구에 도착해주세요.";
+"beacon_zdd_desc_2" = "면세점 쿠폰이 준비되어 있으니,\n면세 쇼핑을 즐겨보세요.\n내 일정에서 바로 확인하세요.";
+
+"beacon_zab_change_color_text" = "여권, 입국서류";
+"beacon_zab_carousel" = "수하물수취대";
+"beacon_zab_desc_1" = "입국심사를 받으시는 분들은\n여권, 입국서류를 준비하시기 바랍니다.";
+"beacon_zab_desc_2" = "환승하시는 분들께서는 환승 안내시설에 따라 환승구역으로 이동하시기 바랍니다.";
+
+"beacon_zat_title" = "편안하고 안전하게 귀가하세요.";
+"beacon_zat_desc" = "또 다른 행복으로 다시 만나길\n기다리고 있겠습니다.";
+
+/* my plan */
+"myplan_employee_list_header_time" = "일시";
+"myplan_delete_msg" = "일정을 삭제하였습니다.";
+"myplan_no_result_msg_1" = "등록된 내 일정이 없습니다.";
+"myplan_no_result_msg_2" = "출/도착 항공편을 등록하시면 보다 편리하게 인천공항 서비스를 이용하실 수 있습니다.";
+"myplan_select_delete" = "선택삭제";
+"myplan_all_delete" = "전체삭제";
+"myplan_close" = "종료된 일정입니다";
+"myplan_select_delete_popup_msg" = "선택하신 항공편을 내 일정에서 삭제하시겠습니까?";
+"myplan_all_delete_popup_msg" = "전체 항공편을 내 일정에서 삭제하시겠습니까?";
+
+"myplan_card_header_dep_date" = "출발편 날짜&시간";
+"myplan_card_header_arr_date" = "도착편 날짜&시간";
+"myplan_card_header_carousel" = "수하물";
+"myplan_card_header_exit" = "출구";
+
+"myplan_card_close" = "종료된 일정입니다";
+
+"myplan_passenger_incheon" = "인천";
+
+"myplan_passenger_via" = "경유";
+"myplan_passenger_dep_weather" = "도착지 날씨";
+"myplan_passenger_arr_weather" = "출발지 날씨";
+
+"myplan_passenger_dep_con_title_1" = "공항 예상 혼잡도";
+"myplan_passenger_dep_con_desc_1" = "고객님께서는 %@을 이용해서 출국하실 예정입니다.";
+"myplan_passenger_dep_con_desc_2" = "패스트트랙은 승객예고에서 제외됩니다.";
+"myplan_passenger_dep_con_desc_3" = "출발일 기준으로 표시됨.";
+"myplan_passenger_dep_con_desc_4" = "혼잡경보 발령기준";
+"myplan_passenger_dep_con_btn_1" = "공항 예상 혼잡도 보기";
+
+"myplan_passenger_dep_con_smooth" = "원활";
+"myplan_passenger_dep_con_ordinary" = "보통";
+"myplan_passenger_dep_con_crowded" = "혼잡";
+"myplan_passenger_dep_con_very_crowded" = "매우 혼잡";
+
+"myplan_passenger_parking_notice" = "※ 주차 현황은 접속일시 기준입니다.";
+
+"myplan_passenger_dep_pre_departure_title" = "출국전 준비";
+"myplan_passenger_dep_pre_departure_desc" = "빠르고 편안한 출국을 위해서 사전에 제한 물품 및 신고 등을 미리 확인하실 수 있습니다.";
+"myplan_passenger_dep_pre_departure_btn_1" = "제한 물품";
+"myplan_passenger_dep_pre_departure_btn_2" = "수하물 확인";
+"myplan_passenger_dep_pre_departure_btn_3" = "검역 신고";
+"myplan_passenger_dep_pre_departure_btn_4" = "병무 신고";
+
+"myplan_passenger_dep_hall_title" = "출국장";
+"myplan_passenger_dep_hall_desc_1" = "%@에 도착하셨습니다.\n탑승수속을 준비하세요.";
+"myplan_passenger_dep_hall_desc_2" = "고객님의 체크인 카운터는";
+"myplan_passenger_dep_hall_desc_3" = " 입니다.";
+"myplan_passenger_dep_hall_desc_4" = "여행에 필요한 환전, 로밍, 보험 처리는 하셨나요?";
+"myplan_passenger_dep_hall_btn_1" = "환전";
+"myplan_passenger_dep_hall_btn_2" = "로밍";
+"myplan_passenger_dep_hall_btn_3" = "보험";
+
+"myplan_passenger_dep_5_title" = "실시간 출국장 혼잡도를 확인해주세요.";
+
+"myplan_passenger_dep_6_title" = "보안/출국심사";
+"myplan_passenger_dep_6_desc_1" = "출국을 위한 보안 검색과 출국 심사를 받으셔야 합니다.";
+"myplan_passenger_dep_6_btn_1" = "제한 물품";
+"myplan_passenger_dep_6_desc_2" = "제한 물품이 있는지 다시 확인해주시고, 여권과 탑승권을 준비해주세요.";
+
+"myplan_passenger_dep_7_title_1" = "면세구역에 들어오셨습니다.";
+"myplan_passenger_dep_7_title_2" = "면세구역";
+"myplan_passenger_dep_7_desc" = "여행을 위한 면세쇼핑과 다양한 편의시설을 이용하실 수 있습니다.";
+"myplan_passenger_dep_7_btn_1" = "# 면세쇼핑";
+"myplan_passenger_dep_7_btn_2" = "# 면세품 인도장";
+"myplan_passenger_dep_7_btn_3" = "# 식당";
+"myplan_passenger_dep_7_btn_4" = "# 편의시설";
+"myplan_passenger_coupon" = "쿠폰함 가기";
+
+"myplan_passenger_dep_8_title" = "탑승구 안내";
+"myplan_passenger_dep_8_desc_1" = "고객님의 이용하실 항공편의 탑승구는";
+"myplan_passenger_dep_8_desc_2" = "번 게이트입니다.";
+"myplan_passenger_dep_8_desc_3" = "이륙 예정 시간은 %@입니다.";
+"myplan_passenger_dep_8_desc_3_con" = "30분전까지 셔틀트레인을 타고 탑승동으로 이동하셔야 합니다.";
+"myplan_passenger_dep_8_desc_4" = "이륙 예정 시간 30분전부터 탑승이 시작되니 시간에 맞추어 탑승구에 도착해주세요.";
+"myplan_passenger_dep_8_desc_4_con" = "이륙 예정 시간 30~40분전부터 탑승이 시작되니 시간에 맞추어 탑승구에 도착해주세요.";
+
+"myplan_passenger_dep_9_title" = "탑승구 통과";
+"myplan_passenger_dep_9_desc" = "즐겁고 편안한 여행되세요.";
+
+"myplan_passenger_register_warning" = "동일 날짜에 등록된 일정이 있습니다.\n해당 일정을 삭제 후 재등록하시기 바랍니다.";
+
+"myplan_passenger_arr_1_title" = "탑승구";
+"myplan_passenger_arr_1_desc" = "어서오세요.\n인천국제공항입니다.";
+
+"myplan_passenger_arr_2_title" = "입국 사전준비";
+"myplan_passenger_arr_2_desc_1" = "오염지역 또는 동물/축산물을 가지고 입국하신 경우 검역증명서를 제출해주세요.";
+"myplan_passenger_arr_2_btn_1" = "# 동식물검역";
+"myplan_passenger_arr_2_desc_2" = "입국 심사를 받으셔야 합니다.\n여권과 입국신고서(내국인, 등록외국인 제외)를 준비해주세요.";
+"myplan_passenger_arr_2_btn_2" = "# 입국심사";
+"myplan_passenger_arr_2_desc_3" = "입국하시는 모든 여행자는 세관신고서를 작성, 제출하셔야 합니다.\n휴대품 면세범위는 USD $600이므로 초과시에는 자진신고 해주시기 바랍니다.";
+"myplan_passenger_arr_2_btn_3" = "# 세관검사";
+
+"myplan_passenger_arr_4_desc_1" = "인천국제공항 %@에 도착합니다.";
+"myplan_passenger_arr_4_desc_1_con" = "셔틀트레인을 타고 제1여객터미널로 이동하신 후 입국심사를 받으시기 바랍니다.";
+"myplan_passenger_arr_4_desc_2" = "입국 심사 후 수하물 수취대로 이동하시기 바랍니다.";
+
+"myplan_passenger_arr_5_title" = "수하물 수취대";
+"myplan_passenger_arr_5_desc_1" = "고객님의 수하물은";
+"myplan_passenger_arr_5_desc_2" = "번 수취대 이용하시면 됩니다.";
+
+"myplan_passenger_arr_6_title" = "세관 신고";
+"myplan_passenger_arr_6_desc" = "세관신고서를 작성하여 세관에 제출합니다.";
+
+"myplan_passenger_arr_7_title" = "입국장 이동";
+"myplan_passenger_arr_7_desc_1" = "고객님 위치에서 가장 가까운 ";
+"myplan_passenger_arr_7_desc_2" = "출구를 이용하여 입국장(환영홀)로 이동하여 주시기 바랍니다.";
+
+"myplan_passenger_arr_8_title" = "귀가";
+"myplan_passenger_arr_8_desc" = "교통수단을 확인하시어 편안하고 안전하게 귀가하시길 바랍니다.";
+"myplan_passenger_arr_8_btn_1" = "공항버스";
+"myplan_passenger_arr_8_btn_2" = "공항철도";
+"myplan_passenger_arr_8_btn_3" = "주차장";
+
+"push_popup_flight_detail" = "자세히 보기";
+
+"search_title" = "통합검색";
+"search_input_hint" = "검색어를 입력하세요.";
+"search_button" = "검색";
+"search_keyword_warning" = "통합검색 키워드는 2자리 이상 입력해 주시기 바랍니다.";
+"search_recent_keyword_title" = "최근 검색어";
+"search_result_title" = "통합검색결과";
+"search_no_result" = "검색결과가 없습니다.";
+
+"search_category_10" = "현행 운항편ㅣ 출발";
+"search_category_20" = "현행 운항편ㅣ 도착";
+"search_category_50" = "쇼핑ㅣ 제 1여객터미널";
+"search_category_60" = "쇼핑ㅣ 제 2여객터미널";
+"search_category_70" = "식음료ㅣ 제 1여객터미널";
+"search_category_80" = "식음료ㅣ 제 2여객터미널";
+"search_category_90" = "쿠폰ㅣ 일반쿠폰";
+"search_category_91" = "쿠폰ㅣ 면세쿠폰";
+"search_category_100" = "쿠폰ㅣ 환승쿠폰";
+"search_category_110" = "휴식ㅣ 제 1여객터미널";
+"search_category_120" = "휴식ㅣ 제 2여객터미널";
+"search_category_130" = "의료/건강ㅣ 제 1여객터미널";
+"search_category_140" = "의료/건강ㅣ 제 2여객터미널";
+"search_category_150" = "금융/보험ㅣ 제 2여객터미널";
+"search_category_160" = "기타 편의시설ㅣ제 1여객터미널";
+"search_category_170" = "기타 편의시설ㅣ제 2여객터미널";
+"search_category_180" = "금융/보험ㅣ 제 1여객터미널";
+"search_category_190" = "대중교통ㅣ버스";
+"search_category_250" = "교통약자안내";
+"search_category_300" = "출국";
+"search_category_310" = "입국";
+"search_category_320" = "출입국기관ㅣ제 1여객터미널";
+"search_category_330" = "출입국기관ㅣ제 2여객터미널";
+"search_category_340" = "터미널간 이동";
+"search_category_380" = "환승";
+"search_category_410" = "대중교통";
+"search_category_420" = "주차";
+
+/* pre information push */
+"pre_information_push_title" = "공항 예상 혼잡도";
+"pre_information_push_title_1" = "출국 D-1일";
+"pre_information_push_prohibit" = "수하물 금지물품";
+"pre_information_push_prohibit_1" = "보조배터리, 라이터, 전자담배";
+"pre_information_push_desc" = "공항이 혼잡할 것을 대비해 탑승시간보다 공항에 여유있게 도착하시어 출국준비를 해주세요.";
+"pre_information_push_desc_1" = "";
+
+"pre_congestion_good" = "원활";
+"pre_congestion_generally" = "보통";
+"pre_congestion_little_congested" = "약간혼잡";
+"pre_congestion_congested" = "혼잡";
+"pre_congestion_very_congested" = "매우혼잡";
+
+/* share popup */
+"popup_share_show_web" = "인천공항 웹 사이트로 보기";
+"popup_share_show_web_url" = "https://play.google.com/store/apps/details?id=com.ubivelox.icairport";
+"popup_share_show_app" = "인천공항 앱으로 보기";
+"popup_share_content_image_url" = "http://incheonairportguide.airport.kr:11000/images/logo/IncheonAirportLogo.jpg";
+"popup_share_content_web_url" = "https://play.google.com/store/apps/details?id=com.ubivelox.icairport";
+
+"popup_share_bus_title" = "%@ 버스 세부정보를 확인하시겠습니까?";
+"popup_share_arex_title" = "공항철도 정보를 확인하시겠습니까?";
+"popup_share_taxi_title" = "택시 정보를 확인하시겠습니까?";
+"popup_share_maglev_title" = "자기부상열차 정보를 확인하시겠습니까?";
+"popup_share_shuttle_bus_title" = "셔틀버스 정보를 확인하시겠습니까?";
+
+"popup_share_shopping_title" = "쇼핑 매장 정보를 확인하시겠습니까?";
+"popup_share_food_title" = "식음료 매장 정보를 확인하시겠습니까?";
+"popup_share_coupon_title" = "쿠폰 정보를 확인하시겠습니까?";
+"popup_share_rest_title" = "휴식 기관 정보를 확인하시겠습니까?";
+"popup_share_medical_title" = "의료기관 정보를 확인하시겠습니까?";
+"popup_share_finance_title" = "금융/보험 매장 정보를 확인하시겠습니까?";
+"popup_share_convenience_title" = "편의시설 정보를 확인하시겠습니까?";
+
+/* covid-19 */
+"not_operated" = "미운영";
+
+"prohibited_item" = "제한물품";
+"prohibited_item_desc_1" = "하단의 정보는 참고사항으로 정확한 정보는 해당 항공사/기관/시설에 확인하여 주시기 바랍니다.";
+"prohibited_item_btn_title" = "기내반입 금지물품 상세 검색";
+"prohibited_item_btn_desc" = "교통안전공단 홈페이지 바로가기";
+
+"prohibited_item_title_1" = "액체류";
+"prohibited_item_title_1_desc_1" = "액체·분무·겔 형태의 위생용품, 욕실용품 또는 의약품류 등";
+"prohibited_item_title_1_desc_1_1" = "객실";
+"prohibited_item_title_1_desc_1_2" = "(단, 국제선에 한하여 개별 용기당 100ml 이하로 1인당 1L 비닐 지퍼백 (20.5cm * 20.5cm / 15cm * 25cm) 1개에 한해 반입 가능)";
+"prohibited_item_title_1_desc_1_3" = "위탁수하물";
+"prohibited_item_title_1_desc_1_4" = "(단, 국제선에 한하여 개별 용기당 500ml(0.5kg)이하로 1인당 2L(2kg) 이하 까지만 가능)";
+"prohibited_item_title_1_desc_2" = "고추장/김치 등 액체류 음식을 포함한 음식물류";
+"prohibited_item_title_1_desc_2_1" = "객실";
+"prohibited_item_title_1_desc_2_2" = "(단, 국제선에 한하여 개별 용기당 100ml 이하로 1인당 1L 비닐 지퍼백 (20.5cm * 20.5cm / 15cm * 25cm) 1개에 한해 반입 가능, 마른 반찬은 제한 없이 기내반입 가능)";
+"prohibited_item_title_1_desc_2_3" = "위탁수하물";
+"prohibited_item_title_1_desc_2_4" = "(용량 제한 없이 가능)";
+
+"prohibited_item_title_2" = "위해물품";
+"prohibited_item_title_2_desc_1" = "창·도검류 등";
+"prohibited_item_title_2_desc_1_1" = "객실";
+"prohibited_item_title_2_desc_1_2" = "위탁수하물";
+"prohibited_item_title_2_desc_1_3" = "(단, 플라스틱 칼, 둥근 날을 가진 버터칼, 안전날이 포함된 면도기, 안전면도날, 전기면도기 및 기내식 전용 나이프(항공사 소유)는 객실 반입가능)";
+"prohibited_item_title_2_desc_2" = "전자충격기, 총기, 무술호신용품 등";
+"prohibited_item_title_2_desc_2_1" = "객실";
+"prohibited_item_title_2_desc_2_2" = "위탁수하물";
+"prohibited_item_title_2_desc_2_3" = "(단, 위탁수하물로 반입할 경우, 해당 항공운송사업자에게 총기소지허가서 또는 수출입허가서 등 관련서류를 확인시키고, 총알과 분리한 후, 단단히 보관함에 넣은 경우에만 가능) (총기류 부품 중 조준경은 객실 및 위탁수하물 반입가능)";
+"prohibited_item_title_2_desc_3" = "공구류(망치, 렌치 등)";
+"prohibited_item_title_2_desc_3_1" = "객실";
+"prohibited_item_title_2_desc_3_2" = "위탁수하물";
+
+"prohibited_item_title_3" = "위험물";
+"prohibited_item_title_3_desc_1" = "리튬이온배터리 등";
+"prohibited_item_title_3_desc_1_1" = "객실";
+"prohibited_item_title_3_desc_1_2" = "- 여분배터리 100Wh 이하 : 제한 없이 가능 \n- 여분배터리 100Wh 초과 ~ 160Wh 이하 : 항공사 승인 하에 객실로 1인당 2개 반입 가능 \n- 여분배터리 160Wh 초과 : 반입 불가 \n※ 위 기준은 항공사 마다 상이하므로 각 항공사에 문의 필요";
+"prohibited_item_title_3_desc_1_3" = "위탁수하물";
+"prohibited_item_title_3_desc_2" = "인화성 가스액체, 방사능물질 등";
+"prohibited_item_title_3_desc_2_1" = "객실";
+"prohibited_item_title_3_desc_2_2" = "위탁수하물";
+
+"prohibited_item_faq" = "FAQ";
+"prohibited_item_faq_1" = "프라이팬, 냄비, 전기밥솥 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_1_desc" = "프라이팬, 냄비, 전기밥솥은 기내 반입이 가능합니다. 단, 항공사와 도착지에 따라 반입 규정이 상이할 수 있사오니 기내 수하물 허용규격에 대해 이용하시는 항공사에 사전 문의하시기 바랍니다.";
+"prohibited_item_faq_2" = "등산용 스틱을 기내 반입할 수 있나요?";
+"prohibited_item_faq_2_desc" = "등산용 스틱은 기내 반입이 가능하나, 끝이 날카로울 경우 객실 반입에 제한을 받을 수 있으니 위탁수하물(부치는 짐)로 처리하는 것을 권장합니다. 단, 산악용 망치의 경우 객실 반입이 금지되며 위탁수하물로 반입 가능합니다.";
+"prohibited_item_faq_3" = "카메라 삼각대, 셀카봉을 기내 반입할 수 있나요?";
+"prohibited_item_faq_3_desc" = "셀카봉 및 삼각대를 기내 반입 가능하나, 끝이 날카로울 경우 객실 반입에 제한을 받을 수 있으니 위탁수하물(부치는 짐)로 처리하는 것을 권장합니다.";
+"prohibited_item_faq_4" = "살아있는 동 식물, 과일 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_4_desc" = "살아있는 동 식물은 운송 내용을 증명할 수 있는 서류와 운송자의 신원을 확인하며, 항공사 동의 서류가 없을 경우 검색대 통과를 불허합니다. 또한 동물의 경우 X-ray 검색대에 투입하지 않고 우리(cage)에서 꺼낸 후, 동물과 우리(cage)를 정밀 검색(수검색 등)합니다.'멸종위기에 처한 야생 동 식물종의 국제거래에 관한 협약(CITES)'에서 보호하는 동 식물 및 이를 사용하여 만든 제품 및 가공품 역시 반입이 제한됩니다.";
+"prohibited_item_faq_4_call" = "※ 문의처: 인천공항 검역소(032-740-2660)";
+"prohibited_item_faq_4_call_number" = "032-740-2660";
+"prohibited_item_faq_5" = "술을 기내 반입할 수 있나요?";
+"prohibited_item_faq_5_desc" = "알코올성 음료는 도수에 따라 반입이 제한됩니다.\n- 24도(%) 미만: 객실 및 위탁수하물로 반입 가능\n- 24도(%) 이상 70도(%) 미만: 위탁수하물로 1인당 5L까지 반입 가능\n- 70도(%) 이상: 객실 및 위탁수하물 반입이 불가능\n단, 객실 반입하실 경우 액체 분무 겔류 규정에 의하여 용량에 따라 반입이 제한되오니 확인바랍니다.\n※ 액체 겔 분무류 규정: 객실 반입할 경우 개별 100ml 이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 1인당 1L 투명 비닐 지퍼백 1개에 한해 반입 가능";
+"prohibited_item_faq_6" = "공구류를 기내 반입할 수 있나요?";
+"prohibited_item_faq_6_desc" = "공구류는 위해물품으로 분류되어 객실 반입이 불가능하며 위탁수하물 반입만 가능합니다.";
+"prohibited_item_faq_7" = "아이스팩, 아이스박스를 기내 반입할 수 있나요?";
+"prohibited_item_faq_7_desc" = "아이스팩의 경우 액체 분무 겔류 규정에 의하여 용량에 따라 반입이 제한되며, 액체를 포함하지 않는 아이스박스는 객실 및 위탁수하물로 반입 가능합니다.\n※ 액체 겔 분무류 규정: 객실 반입할 경우 개별 용기당 100ml 이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 1인당 1L 투명비닐지퍼백 1개에 한해 반입 가능, 위탁 수하물(부치는 짐) 용량 제한 없이 반입 가능 합니다. 단, 드라이아이스는 기내 반입을 위하여 항공사의 승인이 필요하오니 이용하시는 항공사에 문의하시기 바랍니다.";
+"prohibited_item_faq_8" = "외화나 값비싼 물건, 다량의 핸드폰을 기내 반입할 수 있나요?";
+"prohibited_item_faq_8_desc" = "출국 시, 1만 불을 초과하는 금액에 대해서 세관에 신고 후 외국환 신고 확인필증을 구비하셔야하며 값비싼 물건(USD 600이상)의 경우 세관신고대에 휴대물품 반출 신고(확인)서를 작성해야 합니다. 다량의 핸드폰 역시 세관의 반출 확인을 받아야 합니다.\n※ 문의처: 인천공항 세관(032-722-4422)";
+"prohibited_item_faq_9" = "칼을 기내 반입할 수 있나요?";
+"prohibited_item_faq_9_desc" = "칼은 위해물품으로 분류되어 날 길이에 상관없이 객실 반입이 불가하며 위탁수하물로 반입이 가능합니다.";
+"prohibited_item_faq_10" = "유독성 물질 등 위험물 반입 시 어디로 문의하면 되나요?";
+"prohibited_item_faq_10_desc" = "인화성, 화학성, 유독성 물질 등은 원칙상 기내 및 위탁수하물 반입이 금지됩니다. 단, '항공위험물 운송기술기준'에서 정한 안전 요건을 충족한 후 산업안전보건법 에 따른 물질안전보건자료를 해당 항공사에게 제시하여 안전한 물질로 판단되는 경우에 한해 위탁수하물로 반입이 가능합니다. 관련 절차는 이용하시는 항공사에 문의하시기 바랍니다.";
+"prohibited_item_faq_11" = "유골을 기내 반입할 수 있나요?";
+"prohibited_item_faq_11_desc" = "X-ray 검색에서 손상 위험이 있는 유골, 유해 등은 증명 서류(화장증명서, 사망확인서 등)를 구비하시고 보안검색요원에게 확인 바랍니다. 반입 가능 여부에 대해서는 이용하시는 항공사에 사전 문의하셔야 합니다.";
+"prohibited_item_faq_12" = "배터리(리튬이온배터리, 니켈카드뮴 등)를 기내 반입할 수 있나요?";
+"prohibited_item_faq_12_desc" = "알칼라인 종류의 배터리에 대해서는 기내 수하물 및 위탁 수하물 처리 가능하나, 리튬배터리인 경우는 용량에 따라 반입이 제한됩니다.\n- 0Wh∼100Wh: 반입 가능하나 항공사별 허용개수 상이함\n- 100Wh∼160Wh: 항공사 승인 하에 객실로 1인당 2개 반입 가능\n- 160Wh 초과: 반입 불가\n※ 항공사와 도착지별로 반입 기준이 조금씩 상이하오니 자세한 사항은 항공사로 문의하시기 바랍니다. 전자기기에 장착된 리튬배터리는 160wh 이하일 경우만 운반 가능합니다. 단, 습식배터리(전해액이 들어있는 축전지)는 항공기 탑재함에 있어 항공사의 승인이 필요합니다.";
+"prohibited_item_faq_13" = "컴퓨터나 태블릿 등 전자제품을 기내 반입할 수 있나요?";
+"prohibited_item_faq_13_desc" = "컴퓨터(데스크탑 노트북), 태블릿 등 항공기 안전에 무해한 전자제품은 기내수하물 및 위탁수하물 처리가 가능합니다. 전자제품 소지 후 보안 검색 시에는 사전에 분리하여 바구니에 담아주시면 신속한 보안검색을 받으실 수 있습니다.";
+"prohibited_item_faq_14" = "의약품(알약, 물약, 투석환자, 철심, 주사기 등)을 기내 반입할 수 있나요?";
+"prohibited_item_faq_14_desc" = "주사기, 침류 등 의료용 물품(도구)은 기내 및 위탁수하물 반입이 가능합니다. 100ml를 초과하는 액체 의약품(인슐린 등)을 기내에 반입하시려면 의사 소견서 또는 처방전(국문 또는 영문)을 지참하여야 합니다.\n※ 해외 공항 의약품 반입은 이용하시는 항공사에 문의해주시기 바랍니다.\n또한 기내에서 사용하실 만큼의 양만 객실 반입 하실 수 있으며, 여분의 액체 의약품(인슐린 등)은 위탁수하물(부치는 짐)로 보내셔야 하므로 이점 꼭 유의하여 주시기 바랍니다. 처방전 등이 없는 경우에는 액체 및 젤류 반입제한 규정에 따라 100ml 이하(내용물의 잔여량에 관계없이 용기 용량 기준)만 기내반입이 가능합니다. 일부 물품은 보호케이스에 담겨져 있는 경우만 반입이 가능할 수도 있으며, 위험 물품은 반입이 제한될 수 있습니다. 인체에 이식된 전자의료장치, 철심 등은 보안검색 상에 문제가 없으며, 검색요원의 판단에 따라 별도의 장소에서 정밀검색을 실시 할 수 있습니다. 인공 심박기 이식 승객은 심장박동기 착용 소지증을 확인 후 별도의 장소에서 검색을 실시합니다.";
+"prohibited_item_faq_15" = "임산부인데 보안검색대를 꼭 통과해야 하나요?";
+"prohibited_item_faq_15_desc" = "문형금속탐지기는 인체에 해를 미치지 않으나 문형금속탐지기 통과를 원치 않을 경우, 검색요원의 지시에 따라 별도의 장소에서 촉수 검색을 실시할 수 있습니다.";
+"prohibited_item_faq_16" = "전자담배를 기내 반입할 수 있나요?";
+"prohibited_item_faq_16_desc" = "전자담배는 객실 반입만 가능하며 위탁 수하물(부치는 짐)로 반입 불가능합니다. 반입 수량과 관련하여 배터리 반입 규정을 참고하시기 바랍니다.";
+"prohibited_item_faq_17" = "한약, 홍삼 등 건강보조식품 및 음식물 반입 문의";
+"prohibited_item_faq_17_desc" = "한약, 홍삼 등 건강보조식품류를 포함한 음식류는 고체(알약, 가루포함)일 경우 위탁수하물 및 객실수하물로 처리 가능하나 항공사 별로 반입 가능 용량이 상이 하오니 이용하시는 항공사에 문의 부탁드립니다. 다만, 액체 겔류일 경우 100ml 초과 시(내용물 용량에 관계없이 용기 용량 기준) 객실반입 불가하며, 위탁수하물(부치는 짐)로 처리해야 합니다. 특별 식이처방 음식(승객의 건강에 꼭 필요하다는 의사처방전이 있는 음식)은 항공 여행에 적합한 용량만 허용하며, 의사 소견서 및 처방전을 검색요원에게 제시하여 검색요원이 적합하다고 판단이 된 경우만 객실 반입이 허가됩니다.";
+"prohibited_item_faq_18" = "스프레이(가연성 있는 위생용품, 살충제 등)를 기내 반입할 수 있나요?";
+"prohibited_item_faq_18_desc" = "스프레이로 된 개인위생용품은(헤어스프레이, 산소 스프레이, 몸에 뿌리는 해충 기피제 등) 100ml 이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준) 1인당 1L 투명비닐지퍼백 1개에 한해 객실 반입이 가능하며, 위탁수하물(부치는 짐)로는 2kg(2L)범위 내에서 종류당 500ml이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 각 한 개씩 반입 가능합니다. 호신용 스프레이류는 객실 반입이 금지되며 위탁수하물(부치는 짐)에 한하여 인당 100ml이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준) 1개 반입 가능합니다. 인화성 살충제(에프킬라 등)는 객실‧위탁수하물 모두 반입 불가합니다.";
+"prohibited_item_faq_19" = "액체 분무 겔류 형태의 위생용품, 욕실 용품 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_19_desc" = "인천국제공항에서 출발하는 국제선 모든 항공편을 대상으로 액체 분무 겔류에 해당하는 제품에 대하여 용량에 따라 객실 반입을 제한하고 있습니다. 액체 분무 겔류에 해당하는 제품을 기내로 가지고 가시려면 100ml 이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준)로 투명한 지퍼백(20cmX20cm)에 넣어 닫은 상태로 1인당 지퍼백 1개만 기내소지가 가능합니다.\n<기내소지에 유의해야하는 제품의 예>\n- 액체류 : 김치, 술, 생수, 음료수, 쥬스, 향수, 스킨, 로션 등\n- 분무류 : 헤어스프레이, 산소 스프레이, 몸에 뿌리는 해충 기피제 등\n- 겔류: 샴푸, 린스, 치약, 헤어젤, 선크림, 립글로즈, 고추장, 된장 등\n* 고체 형태의 밑반찬의 경우 기내로 가지고 갈 수 있습니다. (예: 오징어채, 마른멸치 등)\n<지퍼백을 준비하지 못했을 경우>\n미리 준비를 하지 못하셨다면, 공항 여객터미널 3층 중앙 편의점이나 공항 내 서점에서 구입이 가능합니다.\n<어린아이가 사용할 우유, 이유식>\n어린아이(만 6세 이하)를 동반한 승객이 휴대한 어린아이의 용품(우유, 물, 주스, 액체 겔 죽 형태의 음식 및 물티슈 등)은 항공여행 중 사용할 분량에 한하여 기내 소지 허용하고 있습니다.";
+"prohibited_item_faq_20" = "보안검색장에서 적발되어 포기한 물품을 되찾을 수 있나요?";
+"prohibited_item_faq_20_desc" = "기내반입 금지물품 관련 규정에 의하여 적발된 물품을 포기하신 경우 해당 물품을 찾는 것이 불가합니다. 이점 꼭 유의하시기 바라며, 출국 시 기내반입 금지물품이 무엇인지 꼭 확인해 보신 후 보안검색을 받으시기 바랍니다. 기내반입 금지물품은 인천공항 홈페이지 및 항공보안 자율신고제도 홈페이지(http://avsec.ts2020.kr) 에서 확인 가능합니다. 보안검색장에서 적발되어 포기하신 물품은 규정된 절차에 따라 복지기관 등에 기증되고 있습니다.";
+
+/* air brs baggage */
+"air_brs_bag_title" = "수하물 확인";
+"air_brs_bag_desc_1" = "수하물의 바코드를 스캔하시거나, 수하물 번호 6~10자리를 입력해 주세요.";
+"air_brs_bag_desc_2" = "수하물 바코드 스캔";
+"air_brs_bag_date_title" = "탑승일";
+"air_brs_bag_flight_title" = "항공편명";
+"air_brs_bag_barcode_title" = "수하물 번호";
+"air_brs_bag_seat_title" = "좌석번호";
+"air_brs_bag_btn" = "조회하기";
+"air_brs_bag_desc_3" = "수하물 번호, 탑승일, 항공편명을 입력하시면, 내 수하물 상태를 조회할 수 있습니다.\n※ 환승객의 경우에는 좌석번호를 필수로 입력하여 주시기 바랍니다.\n※ 현재 대한항공(KE), 아시아나(OZ), 이스타(ZE), 에어서울(RS) 만 조회가 가능합니다.";
+"air_brs_bag_fail_msg_1" = "입력된 정보를 다시 확인해 주시길 바랍니다.";
+"air_brs_bag_fail_msg_2" = "탑승일 정보를 다시 확인해 주시길 바랍니다.";
+"air_brs_bag_fail_msg_3" = "항공편 정보를 다시 확인해 주시길 바랍니다.";
+"air_brs_bag_fail_msg_4" = "수하물 번호를 다시 확인해 주시길 바랍니다.";
+"air_brs_bag_fail_msg_5" = "좌석번호를 다시 확인해 주시길 바랍니다.";
+"air_brs_bag_popup_fail_msg_1" = "항공편 정보를 입력해 주세요.";
+"air_brs_bag_popup_fail_msg_2" = "수하물 번호를 입력해 주세요.";
+"air_brs_bag_popup_fail_msg_3" = "좌석번호를 입력해 주세요.";
+
+"air_brs_bag_airline_0" = "대한항공";
+"air_brs_bag_airline_1" = "아시아나 항공";
+"air_brs_bag_airline_2" = "이스타 항공";
+"air_brs_bag_airline_3" = "에어 서울";
+
+"air_brs_bag_result_title" = "수하물 조회 결과";
+"air_brs_bag_result_flight" = "항공편";
+"air_brs_bag_result_barcode" = "수하물번호";
+"air_brs_bag_result_status_1" = "수하물 접수 완료";
+"air_brs_bag_result_status_2" = "수하물 탑재 완료";
+"air_brs_bag_result_status_3" = "개장 검색 진행 중";
+"air_brs_bag_result_status_desc_1" = "해당 항공사로 연락하여 주시기 바랍니다.";
+"air_brs_bag_result_status_desc_2" = "수하물 정보를 찾을 수 없습니다.\n입력 정보를 다시 한번 확인 하신 후 잠시 후 다시 시도해 주세요.";
+"air_brs_bag_result_status_desc_3" = "수하물 정보를 찾을 수 없습니다.\n해당 항공사로 연락하여 주시기 바랍니다.";
+"air_brs_bag_result_status_call" = "문의 전화";
+"air_brs_bag_result_re_search" = "수하물 찾기";

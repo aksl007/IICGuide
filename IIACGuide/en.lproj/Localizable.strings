@@ -1,0 +1,1986 @@
+
+"com.crashlytics.useFirebaseAppId" = "true";
+
+"app_name" = "Incheon Airport";
+
+/* home */
+"home_real_time_info" = "Real-time airport information";
+"home_bottom_menu_1" = "Menu";
+"home_bottom_menu_2" = "Home";
+"home_bottom_menu_3" = "Schedule";
+"home_bottom_menu_4" = "Bookmark";
+
+"home_drag_menu_1" = "Flights";
+"home_drag_menu_2" = "Realtime Info";
+"home_drag_menu_3" = "Parking";
+"home_drag_menu_4" = "Transfer";
+"home_drag_menu_5" = "Transport";
+"home_drag_menu_6" = "Check baggage";
+"home_drag_menu_7" = "Prohibited";
+"home_drag_menu_8" = "Greeting";
+"home_drag_menu_9" = "Duty-Free";
+"home_drag_menu_10" = "Food";
+"home_drag_menu_11" = "Rest";
+"home_drag_menu_12" = "Coupons";
+"home_drag_title_1" = "Enjoy";
+
+"home_floating_1" = "에어봇";
+
+/* real-time info */
+"real_time_info_title" = "Real-time information";
+"real_time_info_category_1" = "Parking status";
+"real_time_info_category_2" = "Gates Congestion";
+"real_time_info_category_3" = "Immigration Hall Congestion";
+"real_time_info_category_4" = "Traffic";
+
+/* real-time parking */
+"real_time_info_parking_title" = "Number of Available Parking Lot";
+"real_time_info_parking_table_header_1" = "Division";
+"real_time_info_parking_table_header_2" = "Location";
+"real_time_info_parking_table_header_3" = "Parking available";
+"real_time_info_parking_short_term" = "Short-term Parking lot";
+"real_time_info_parking_long_term" = "Long-term Parking lot";
+"real_time_info_parking_table_div_detail_1_1" = "1st floor";
+"real_time_info_parking_table_div_detail_1_2" = "B1";
+"real_time_info_parking_table_div_detail_1_3" = "B2";
+"real_time_info_parking_table_div_detail_2_1" = "Tower(P1)";
+"real_time_info_parking_table_div_detail_2_2" = "Tower(P2)";
+"real_time_info_parking_table_div_detail_2_3" = "P1";
+"real_time_info_parking_table_div_detail_2_4" = "P2";
+"real_time_info_parking_table_div_detail_2_5" = "P3";
+"real_time_info_parking_table_div_detail_2_6" = "P4";
+"real_time_info_parking_table_t2_div_detail_1_1" = "1st floor";
+"real_time_info_parking_table_t2_div_detail_1_2" = "2nd floor";
+"real_time_info_parking_table_t2_div_detail_1_3" = "M floor";
+"real_time_info_parking_table_t2_div_detail_1_4" = "B1";
+"real_time_info_parking_table_t2_div_detail_2_1" = "-";
+"real_time_info_parking_table_count_unit" = "Available";
+"real_time_info_parking_table_count_full" = "Full";
+"real_time_info_parking_sub_title_1" = "If you are going to park for 1 day or longer, please use the long-term parking lot";
+"real_time_info_parking_sub_title_2" = "If you park in the long-term parking lot, you can easily get to the passenger terminal using the airport shuttle bus";
+"real_time_info_parking_sub_title_3" = "The short-term parking lot is reserved for cars.";
+"real_time_info_parking_t2_sub_title_3" = "If you park in the long-term parking lot, it takes about 8 minutes to get to the passenger terminal by shuttle bus";
+"real_time_info_parking_link_1" = "Parking fee information";
+"real_time_info_parking_link_2" = "인천공항 예약주차 바로가기";
+
+/* real-time depature congestion */
+"dep_congestion_smooth" = "Smooth";
+"dep_congestion_ordinary" = "Ordinary";
+"dep_congestion_crowded" = "Crowded";
+"dep_congestion_very_crowded" = "Very Crowded";
+"dep_congestion_close" = "Close";
+"dep_congestion_unit" = "";
+"dep_congestion_total" = "";
+
+/* arr congestion */
+"arr_congestion_time" = "Time";
+"arr_congestion_div" = "Division";
+"arr_congestion_area_b" = "Section B";
+"arr_congestion_area_c" = "Section C";
+"arr_congestion_area_d" = "Section D";
+"arr_congestion_area_e" = "Section E";
+"arr_congestion_time_5" = "After 5 minutes";
+"arr_congestion_time_10" = "After 10 minutes";
+"arr_congestion_div_kor" = "Korean";
+"arr_congestion_div_for" = "Foreigners";
+"arr_congestion_section" = "Section";
+"arr_congestion_from" = "From";
+"arr_congestion_flight" = "(Flight Number)";
+"arr_congestion_sch_time" = "Arrival Schedule";
+"arr_congestion_est_time" = "(Arrival time)";
+"arr_congestion_gate" = "Gate";
+"arr_congestion_area_t2_a" = "Section A";
+"arr_congestion_area_t2_b" = "Section B";
+
+/* expected passenger */
+"passenger_category_1" = "Departure";
+"passenger_category_2" = "Arrival";
+"passenger_title" = "Estimated passenger number";
+"passenger_t1_1_table_header_1" = "Time";
+"passenger_t1_1_table_header_2" = "Hall 1, 2";
+"passenger_t1_1_table_header_3" = "Hall 3";
+"passenger_t1_1_table_header_4" = "Hall 4";
+"passenger_t1_1_table_header_5" = "Hall 5, 6";
+"passenger_t1_1_table_header_6" = "Total";
+"passenger_t1_2_table_header_2" = "A, B";
+"passenger_t1_2_table_header_3" = "E, F";
+"passenger_t1_2_table_header_4" = "C";
+"passenger_t1_2_table_header_5" = "D";
+"passenger_t2_1_table_header_2" = "Hall 1";
+"passenger_t2_1_table_header_3" = "Hall 2";
+"passenger_t2_2_table_header_2" = "West (A)";
+"passenger_t2_2_table_header_3" = "East (B)";
+"passenger_sub_title_1" = "The D+2 notice is updated daily at 17.";
+"passenger_sub_title_2" = "Departure areas 1 and 6 are fast tracks excluded from passengers notices";
+"passenger_title_2" = "Congestion warning criteria";
+"passenger_t1_desc_1" = "7,000 ~ 7,600 people per hour";
+"passenger_t1_desc_2" = "7,600 ~ 8,200 people per hour";
+"passenger_t1_desc_3" = "Over 7,600 people hours per hour for 2 consecutive hours\n8,200 ~ 8,600 people per hour";
+"passenger_t1_desc_4" = "Over 8,200 people hours per hour for 2 consecutive hours\nMore than 8,600 people per hour";
+"passenger_t2_desc_1" = "3,200 ~ 3,500 people per hour";
+"passenger_t2_desc_2" = "3,500 ~ 3,800 people per hour";
+"passenger_t2_desc_3" = "Over 3,500 people hours per hour for 2 consecutive hours\n3,800 ~ 4,000 people per hour";
+"passenger_t2_desc_4" = "Over 3,800 people hours per hour for 2 consecutive hours\nMore than 4,000 people per hour";
+
+/* parking fee info */
+"parking_fee_info_title_1" = "Parking fee";
+"parking_fee_info_small" = "Small";
+"parking_fee_info_large" = "large size";
+"parking_fee_info_short_term_small_basic" = "Basic 30 minutes 1,200 KRW";
+"parking_fee_info_short_term_small_add" = "600 KRW per additional 15 minutes";
+"parking_fee_info_long_term_small_basic" = "1000 KRW per hour, maximum 9000 KRW per day";
+"parking_fee_info_long_term_large_basic" = "1,200 KRW per 30 minutes, maximum 12,000 KRW per day";
+"parking_fee_info_sub_title_1_1" = "If you are going to park for 1 day or longer, please use the long-term parking lot";
+"parking_fee_info_sub_title_1_2" = "If you park in the long-term parking lot, you can easily get to the passenger terminal using the airport shuttle bus";
+"parking_fee_info_sub_title_1_3" = "The parking lot is wide, so take a picture of your parking area to help you find your vehicle, and Vehicle location can also be verified by the Vehicle Location Checking Unit or Incheon Airport APP";
+"parking_fee_info_reserve" = "예약주차장";
+"parking_fee_info_reserve_small_basic" = "1시간 1,000원\n1일 최대 9,000원";
+
+"parking_fee_info_title_2" = "How to pay for parking";
+"parking_fee_info_sub_title_2_1" = "Use the parking lot payment machines";
+"parking_fee_info_sub_title_2_2" = "Payment using mobile apps";
+"parking_fee_info_sub_title_2_3" = "Payment through a payment booth";
+"parking_fee_info_sub_title_2_4" = "Payment through a Unmanned booth";
+
+"parking_fee_info_title_3" = "요금 감면(20%)";
+"parking_fee_info_sub_title_3" = "저공해 자동차 3종";
+
+"parking_fee_info_title_4" = "Fee discount (50%)";
+"parking_fee_info_sub_title_4_1" = "Small car";
+"parking_fee_info_sub_title_4_2" = "Disabled person, national disabled person judged as Class A";
+"parking_fee_info_sub_title_4_3" = "Disabled persons association vehicles or disability group vehicles";
+"parking_fee_info_sub_title_4_4" = "Low-pollution car";
+"parking_fee_info_sub_title_4_5" = "A vehicle under the name of the head of a household (father or mother) who possesses a Multi-child Priority Card";
+"parking_fee_info_link_1" = "인천국제공항 홈페이지 바로가기";
+
+/*슬라이드 메뉴*/
+"slide_main_menu_my_plan" = "Schedule";
+"slide_main_menu_notice" = "Notice";
+"slide_main_menu_setting" = "Setting";
+"slide_main_menu_home" = "Home";
+"slide_main_menu_flight_info" = "Flight Information";
+"slide_flight_sub_menu_0" = "Flight Status";
+"slide_flight_sub_menu_1" = "Season Flight Schedule";
+"slide_main_menu_shop" = "Shop & Dining";
+"slide_shop_sub_menu_0" = "Shopping";
+"slide_shop_sub_menu_1" = "Dining";
+"slide_shop_sub_menu_2" = "Duty-free/Dining Stores Map";
+"slide_shop_sub_menu_3" = "Coupon";
+"slide_main_menu_convenience" = "Convenience Service";
+"slide_convenience_sub_menu_0" = "Rest";
+"slide_convenience_sub_menu_1" = "Medical/Health";
+"slide_convenience_sub_menu_2" = "Finance/Insurance";
+"slide_convenience_sub_menu_3" = "Other Amenities";
+"slide_main_menu_transport" = "Transport / Parking";
+"slide_transport_sub_menu_0" = "Public Transport";
+"slide_transport_sub_menu_1" = "Parking";
+"slide_transport_sub_menu_2" = "Moving Between Terminals";
+"slide_transport_sub_menu_3" = "National Route Guidance";
+"slide_main_menu_navigation" = "Indoor Map";
+"slide_main_menu_airport_guide" = "Airport Access Guide";
+"slide_airport_guide_sub_menu_0" = "Departure";
+"slide_airport_guide_sub_menu_1" = "Arrival";
+"slide_airport_guide_sub_menu_2" = "Transfer/Transit";
+"slide_airport_guide_sub_menu_3" = "Government Agency";
+"slide_airport_guide_sub_menu_4" = "Mobility Handicapped";
+"slide_main_menu_favorite" = "Bookmark";
+"slide_main_menu_staff" = "STAFF";
+"slide_staff_sub_menu_0" = "Real-Time Arrivals";
+"slide_staff_sub_menu_1" = "Shuttle Schedule";
+"slide_staff_sub_menu_2" = "Staff D/C Bus";
+"slide_staff_sub_menu_3" = "Resident Service Agency";
+
+/*출도착정보*/
+"flights_flight_info" = "Flight Status";
+"flights_departure_info_title" = "Departures";
+"flights_arrival_info_title" = "Arrivals";
+"flights_update" = "Updated at";
+"flights_list_header_time" = "Time";
+"flights_list_header_new" = "New";
+"flights_list_header_flight" = "Flight";
+"flights_list_header_status" = "Status";
+"flights_list_header_dest" = "To";
+"flights_list_header_origin" = "From";
+"flights_list_header_via" = "Via";
+"flights_list_header_checkin" = "Counter";
+"flights_list_header_gate" = "Gate";
+"flights_list_header_carousel" = "Bag/Exit";
+"flights_list_header_exit" = "Gate";
+
+
+"flights_no_result" = "There is no information on the selected flight.";
+
+"flights_list_all" = "ALL";
+"flights_list_t1" = "Terminal 1";
+"flights_list_t2" = "Terminal 2";
+
+/* flight detail */
+"flight_detail_reserved" = "Reserved flight number";
+"flight_detail_actual" = "Actual flight number";
+"flight_detail_codeshare_info" = "This is a codeshare flight.\nPlease ensure you head to the correct Terminal.";
+"flight_detail_incheon" = "INCHEON";
+"flight_detail_flight_time" = "Scheduled flight time";
+"flight_detail_elapse_time" = "%@ hour %@ min";
+"flight_detail_counter" = "Counter";
+"flight_detail_walk_time" = "Walk";
+"flight_detail_walk_time_1" = "min";
+"flight_detail_walk_time_2" = "(After immigration)";
+"flight_detail_gate" = "Gate";
+"flight_detail_arrival_gate" = "Gate";
+"flight_detail_arrival_carousel" = "Carousel";
+"flight_detail_arrival_exit" = "Exit";
+"flight_detail_arrival_baggage" = "Loading";
+"flight_detail_arrival_baggage_finish" = "Loaded";
+"flight_detail_register_schedule" = "Registration of My schedule";
+"flight_detail_schedule_msg_1" = "You have successfully registered the selected schedule.";
+"flight_detail_schedule_msg_2" = "You have successfully deleted the selected schedule.";
+"flight_detail_share" = "Share";
+"flight_detail_share_msg_1" = "change =>";
+"flight_detail_share_msg_2" = ", Carousel no :";
+"flight_detail_share_msg_3" = ", Exit no :";
+"flight_detail_share_msg_4" = ", Gate no :";
+
+
+/* common */
+"common_yes" = "OK";
+"common_no" = "Cancel";
+"common_agree" = "Accept";
+"common_disagree" = "Reject";
+"common_confirm" = "OK";
+"common_cancel" = "Cancel";
+"common_close" = "Close";
+"common_notification" = "Notice";
+"common_confirm_finish" = "App would be closed by pressing \'back\' button once again.";
+"common_loading" = "Loading";
+"common_search" = "Search";
+"common_ready" = "Service available from 11/26";
+"common_favorite" = "myPlan";
+"common_facility_no_result" = "No search results found.";
+"common_facility_no_result_common" = "";
+"common_facility_no_result_dutyfree" = "";
+"common_bus_no_result" = "";
+"common_station_no_result" = "";
+"common_favorate_section_title" = "Favorites Guide";
+"common_past_flight" = "Flight expired. \nCan not be added to myPlan.";
+"common_won_format" = "%1$sKRW";
+"common_won" = "KRW";
+"common_no_more_show" = "Never look again";
+"common_number_bracket" = "(%1$d)";
+"common_counter" = "Check-in";
+"common_baggage_claim_area" = "Baggage";
+"common_destination" = "Destination";
+"common_arrivals_hall" = "Exit";
+"common_retry" = "Retry";
+"common_am" = "AM";
+"common_pm" = "PM";
+"common_setting" = "Setting";
+"common_searchlist" = "Recent searches";
+"common_phone_call" = "Would you like to make a phone call?";
+"common_back" = "Back";
+
+
+/* flight search */
+"flight_search_title" = "Flights Search";
+"flight_search_date" = "Date";
+"flight_search_time" = "Time";
+"flight_search_today_departure" = "Daily Departures";
+"flight_search_today_arrival" = "Daily Arrivals";
+"flight_search_origin" = "Origin";
+"flight_search_origin_content" = "Select Origin";
+"flight_search_destination" = "Destination";
+"flight_search_destination_content" = "Select Destination";
+"flight_search_airlilne" = "Airlines";
+"flight_search_airlilne_content" = "Select Airline";
+"flight_search_flight_name" = "Flight No.";
+"flight_search_flight_name_hint" = "Please enter flight number.";
+"flight_search_exitdoor" = "Exit";
+"flight_search_choice_exitdoor" = "Select Arrivals Exit";
+"flight_search_search" = "Search";
+"flight_search_select_time_error" = "The selected time is not correct.";
+"flight_search_sun" = "(Sun)";
+"flight_search_mon" = "(Mon)";
+"flight_search_tue" = "(Tue)";
+"flight_search_Wed" = "(Wed)";
+"flight_search_thr" = "(Thu)";
+"flight_search_fri" = "(Fri)";
+"flight_search_sat" = "(Sat)";
+"flight_search_not_select" = "None";
+"flight_search_not_flight" = "No result on the selected flight.";
+"flight_search_terminal" = "Terminal";
+"flight_search_terminal_content" = "Select Terminal";
+
+/* flight enum */
+"flight_enum_1" = "To";
+"flight_enum_2" = "Arrival";
+
+/* flight season */
+"flight_season_airline" = "Airline";
+"flight_season_flight" = "Flight";
+"flight_season_time" = "Time";
+"flight_season_mon" = "Mo";
+"flight_season_tue" = "Tu";
+"flight_season_wed" = "We";
+"flight_season_thu" = "Th";
+"flight_season_fri" = "Fr";
+"flight_season_sat" = "Sa";
+"flight_season_sun" = "Su";
+"flight_season_period" = "Period";
+
+
+/* popup */
+"popup_date_picker" = "Date Setting";
+"popup_title_update" = "Update Information";
+"popup_major_update" = "A service has been updated.\nPlease update for the smooth use.\nDo you want to update it now?";
+"popup_extra_update" = "Please update to the latest version \nfor reliable service.\nDo you want to update it now?";
+"popup_btn_update" = "Update";
+"popup_notice_detail" = "View Details";
+"popup_not_connect_network" = "Service information has not been retrieved. \nPlease connect again.";
+
+/* setting */
+"setting_version" = "Version Information";
+"setting_lang" = "Language Settings";
+"setting_lang_ko" = "Korean";
+"setting_lang_en" = "English";
+"setting_lang_zh" = "Chinese";
+"setting_lang_ja" = "Japanese";
+"setting_weather_display" = "Temperature units";
+"setting_weather_celsius_temp" = "℃";
+"setting_weather_fahrenheit_temp" = "℉";
+"setting_alter_type" = "Type";
+"setting_passenger" = "Passenger";
+"setting_employee" = "Airport Staff";
+"setting_flight_schedule" = "Get Notification Alerts";
+"setting_beacon" = "GPS Terms & Conditions";
+
+"setting_general_title" = "General settings";
+"setting_myplan_title" = "My schedule Settings";
+"setting_alter_desc_1" = "※ Only one flight can be registered per day.";
+"setting_alter_desc_2" = "※ You can register multiple flights per day.";
+
+/* disabled and elderly */
+"disabled_elderly_category_1" = "Transportation";
+"disabled_elderly_category_2" = "Electric cart";
+"disabled_elderly_category_3" = "A parking lot for disabled";
+"disabled_elderly_category_4" = "Fast Track";
+"disabled_elderly_category_5" = "Amenities";
+"disabled_elderly_category_6" = "Emergency call";
+
+/* disabled - transport */
+"disabled_transport_section_title_1" = "To Airport";
+"disabled_transport_section_desc_1_1" = "A disabled station on the departure floor (3rd floor)  installed the Help Phone that connects directly to the information counter.";
+"disabled_transport_section_desc_1_2" = "You can use wheelchair services using Help Phone";
+"disabled_transport_section_title_2" = "From Airport";
+"disabled_transport_section_link_1" = "Bus route guide";
+"disabled_transport_section_link_2" = "A call taxi of Incheon Transit Corporation";
+"disabled_transport_section_link_3" = "A call taxi of Seoul Facilities Corporation";
+"disabled_transport_section_link_call_1" = "032-741-6400";
+"disabled_transport_section_link_call_2" = "1577-0320";
+"disabled_transport_section_link_call_3" = "1588-4388";
+
+/* disabled - Electric cart */
+"disabled_electric_section_title_1" = "Electric cart service";
+"disabled_electric_section_title_2" = "Airport Railroad(B1 Level) → 3rd Floor";
+"disabled_electric_section_desc_2" = "You can use electric carts from Airport Station (AREX) to the center of the terminal. Please take an elevator from B1 to the 3rd floor to go to your airline's check-in counter";
+"disabled_electric_section_title_3" = "1st Floor → Airport Railroad(B1 Level)";
+"disabled_electric_section_desc_3" = "For directions to Airport Station(AREX), please go to our information Desk on the 1st floor of the Passenger Terminal. You can also use electric carts from the center of B1 to Airport Station";
+
+/* disabled - parking */
+"disabled_parking_section_title_1" = "A parking lot for disabled";
+"disabled_parking_section_desc_1_col_1_1" = "Parking lot";
+"disabled_parking_section_desc_1_col_1_2" = "Disabled Persons Only";
+"disabled_parking_section_desc_1_col_1_3" = "Pregnant women Only";
+"disabled_parking_section_desc_1_col_2_1" = "Short Term";
+"disabled_parking_section_desc_1_col_2_2" = "1st floor A5, B3\nB1 A5, A7, H7, H10";
+"disabled_parking_section_desc_1_col_2_3" = "1st floor A5, B3\n1st floor East A7, West H2";
+"disabled_parking_section_desc_1_col_3_1" = "Long Term";
+"disabled_parking_section_desc_1_col_3_2" = "East 1, 3, 4, 9\nWest 51, 53, 54, 59";
+"disabled_parking_section_desc_1_col_3_3" = "1st floor East 1, West 51";
+"disabled_parking_section_desc_1_2" = "50%% discount on parking fees after health card checked only on disabled vehicles";
+"disabled_parking_section_desc_1_3" = "Call the Free Lift Service for the Disabled (032-741-3217) and You can move conveniently between the terminals and Long-term parking lot.";
+"disabled_parking_section_t2_desc_col_1_1" = "Parking lot";
+"disabled_parking_section_t2_desc_col_1_2" = "Disabled Persons Only";
+"disabled_parking_section_t2_desc_col_2_1" = "Short Term";
+"disabled_parking_section_t2_desc_col_2_2" = "1st floor West 138, 139 1st floor East 230, 231\n2nd floor West 149 2nd floor East 240";
+"disabled_parking_section_t2_desc_col_3_1" = "Long Term";
+"disabled_parking_section_t2_desc_col_3_2" = "B112,B113,B122,C110,C111,C120\nD113,D122,D123,E111,E120,E121";
+
+/* disabled - Amenities */
+"disabled_amenities_section_title_1" = "Wheelchair lift";
+"disabled_amenities_section_desc_1" = "Terminal 1 - Long-term Parking lot";
+"disabled_amenities_section_title_2" = "Station zones of vehicle for disabled";
+"disabled_amenities_section_desc_2" = "3 and 12 station zones for passenger vehicle on the 3rd floor of the passenger terminal";
+"disabled_amenities_section_title_3" = "Raised tiles and audio signals for the visually impaired";
+"disabled_amenities_section_desc_3" = "Installed at the crosswalk to the passenger terminal to assist with accrss to the information desk(3rd floor)";
+"disabled_amenities_section_title_4" = "Audio guiding device for the visually impaired";
+"disabled_amenities_section_desc_4" = "Installed audio guidance device which allows people to view their current position at the information desk (in front of Gate 8 on the 3rd floor and Gate 5, 10 on the 1st floor)";
+"disabled_amenities_section_title_5" = "Video phone for sign language translation";
+"disabled_amenities_section_desc_5" = "No. 5 and 10 information desks on the 1st floor of the passenger terminal";
+"disabled_amenities_section_title_6" = "Dedicated telephone / Help Phone";
+"disabled_amenities_section_desc_6" = "Direct connection to the information is possible and service staff will provide a guide if requsted. Front of the passenger terminal ( 3, 7, 8, 12 gate on the 3rd floor) Ground Parking Lot at the Traffic transportation center(A5, H3 zones) Parking lot on B1F (A5-4, A8-7, H7-7, H10-4)";
+"disabled_amenities_section_title_7" = "Elevator";
+"disabled_amenities_section_desc_7" = "Elevators available for the convenience of the physically challenged, the elderly and pregnant women to move between floors";
+"disabled_amenities_section_title_8" = "Escalator / Moving walkway";
+"disabled_amenities_section_desc_8" = "Low-speed operation switches installed on the escalator and at the entrance of the moving walkway to permit adjustment";
+"disabled_amenities_section_title_9" = "Stroller rental service";
+"disabled_amenities_section_desc_9_1" = "Location for free rental";
+"disabled_amenities_section_desc_9_1_1" = "- Public Zone : information desk 3rd floor (departure level) of the passenger terminal (Gate 3, 8, 11), 1st floor (arrival level) of the passenger terminal (Gate 6, 9)";
+"disabled_amenities_section_desc_9_1_2" = "- Duty-free zone : In front of Gate 12 and 29 on information desk 3rd floor, Concourse Floor 3 Center";
+"disabled_amenities_section_title_10" = "Wheelchair";
+"disabled_amenities_section_desc_10" = "Location for free rental: information desk 3rd floor (departure level) of the passenger terminal (Gate 3, 7 and 12) 1st floor (arrival level) of the passenger terminal (Gate 3, 4, 10 and 12) Duty-free zone (In front of Gate 25 and 29 on the 3rd floor)";
+"disabled_amenities_section_title_11" = "Dedicated restroom and drinking fountain";
+"disabled_amenities_section_desc_11" = "At least 1 dedicated restroom and drinking fountain for the physically challenged available in every restroom Wide entrances, indoor spaces, button type automatic doors, emergency bells and sensors are installed";
+"disabled_amenities_section_title_12" = "Free life service for passengers with mobility handicapped";
+"disabled_amenities_section_desc_12" = "When traveling from the Long-term Parking lot to the passenger terminal(032-741-3217)";
+"disabled_amenities_t2_section_desc_9_1_1" = "- Public Zone : information desk 3rd floor (departure level) of the passenger terminal (Gate 2, 7), 1st floor (arrival level) of the passenger terminal (Gate 2, 5)";
+"disabled_amenities_t2_section_desc_9_1_2" = "- Duty-free zone : In front of Gate 248 and 253 on information desk 3rd floor";
+
+/* disabled - Emergency */
+"disabled_emergency_section_link_1" = "Airport police";
+"disabled_emergency_section_link_2" = "Airport medical center";
+"disabled_emergency_section_link_3" = "Reporting of Dangerous Goods";
+"disabled_emergency_section_link_4" = "Reporting of fire";
+"disabled_emergency_section_link_call_1" = "032-740-5561";
+"disabled_emergency_section_link_call_2" = "032-743-3119";
+"disabled_emergency_section_link_call_3" = "032-741-4736";
+"disabled_emergency_section_link_call_4" = "032-741-2119";
+
+"tax_free_area" = "Duty free";
+"public_area" = "Public";
+
+/* shopping - shopping */
+"shop_category_1" = "All";
+"shop_category_2" = "Boutique";
+"shop_category_3" = "Cosmetics/Perfume";
+"shop_category_4" = "Fashion/Accessories";
+"shop_category_5" = "Liquor/Tobacco";
+"shop_category_6" = "Gift";
+"shop_category_7" = "Electronic Products";
+"shop_category_8" = "Food";
+"shop_category_9" = "Etc/Book/Convenience Store";
+"shop_category_10" = "K-goods";
+"shop_category_11" = "24 Open";
+
+/* facility detail */
+"facility_detail_loc" = "Location";
+"facility_detail_item" = "Item";
+"facility_detail_service" = "Service";
+"facility_detail_open" = "Open";
+"facility_detail_link_1" = "Shop Location";
+"facility_detail_link_1_1" = "Institution Location";
+"facility_detail_link_2" = "Contact";
+"facility_detail_link_3" = "Bookmark";
+
+/* shopping - food */
+"food_category_1" = "All";
+"food_category_2" = "Fastfood";
+"food_category_3" = "Korean food";
+"food_category_4" = "World food";
+"food_category_5" = "Food court";
+"food_category_6" = "Cafe/Bar";
+"food_category_7" = "Bakery";
+"food_category_8" = "24 Open";
+
+/* shopping - map */
+"map_category_1" = "B1";
+"map_category_2" = "F1";
+"map_category_3" = "F3(Dining)";
+"map_category_4" = "F3(Duty-free)";
+"map_category_5" = "F4";
+"map_category_t2_5" = "F4/F5";
+
+/* shopping - coupon */
+"coupon_category_1" = "General Coupon";
+"coupon_category_2" = "Dutyfree Coupon";
+"coupon_category_3" = "Transfer Coupon";
+"coupon_category_4" = "Coupon Box";
+
+"coupon_list_publisher" = "Incheon airport shop";
+"coupon_list_end_date" = "until %@";
+
+"coupon_detail_section_title_1" = "Benefits and How to Use";
+"coupon_detail_section_desc_1" = "Please tell the staff before ordering if you want to use the coupon.";
+"coupon_detail_section_desc_amount_1" = "For a purchase of more than %@%@, you can get a discount of %@%@";
+"coupon_detail_section_desc_amount_2" = "For a purchase of more than %@%@";
+"coupon_detail_section_desc_amount_3" = "You can get a discount of %@%@.";
+"coupon_detail_section_desc_percent_1" = "For a %@%% discount, the maximum discount amount is %@%@.";
+"coupon_detail_section_desc_percent_2" = "For a %@%% discount";
+"coupon_detail_section_desc_percent_3" = "The maximum discount amount is %@%@.";
+"coupon_detail_section_title_2" = "Validity";
+"coupon_detail_section_title_3" = "Note";
+"coupon_detail_section_desc_3_1" = "You may be requested to show your passport and airline ticket at shops for confirmation of your identity.";
+"coupon_detail_section_desc_3_2" = "Can not be used in addition to other events and discount coupons, or the same event coupon";
+"coupon_detail_section_desc_3_3" = "Used coupons are not reusable.";
+"coupon_detail_section_desc_3_4" = "The of this coupon can be different from the real thing";
+"coupon_detail_section_desc_3_5" = "Event Store Only";
+"coupon_detail_section_title_4" = "Event targets";
+
+/* Convenience - Rest */
+"rest_category_1" = "All";
+"rest_category_2" = "Lounge";
+"rest_category_3" = "Hotel";
+"rest_category_4" = "Beauty/Spa";
+
+/* Convenience - Medical */
+"medical_category_1" = "Pharmacy";
+"medical_category_2" = "Hospital";
+
+/* Convenience - Finance */
+"finance_category_1" = "TAX Refund";
+"finance_category_2" = "Exchange/ATM";
+"finance_category_3" = "Bank";
+"finance_category_4" = "Traveler's insurance";
+
+/* Convenience - Other */
+"other_category_1" = "Phone rental/roaming";
+"other_category_2" = "Packing/Delivery";
+"other_category_3" = "Car rental";
+"other_category_4" = "Airline";
+"other_category_5" = "Travel Agency";
+"other_category_6" = "Coat Storage";
+"other_category_7" = "24 Open";
+"other_category_8" = "Prayer room";
+
+/* transport - public */
+"transport_category_1" = "Bus";
+"transport_category_2" = "AREX";
+"transport_category_3" = "Taxi";
+"transport_category_4" = "Shuttle bus";
+"transport_category_5" = "Maglev line";
+
+/* bus */
+"bus_title_1" = "Bus stop Location";
+"bus_link_1" = "To Seoul";
+"bus_link_2" = "To Gyeonggi";
+"bus_link_3" = "To Incheon";
+"bus_link_4" = "Late-night bus";
+"bus_link_5" = "Local";
+"bus_link_6" = "Bus Reservation";
+
+/* bus list */
+"bus_list_stop" = "Bus Stop";
+"bus_list_interval" = "Intervals";
+"bus_list_time" = "times";
+
+/* bus detail */
+"bus_detail_title" = "Detailed bus route";
+"bus_detail_region_1" = "Seoul";
+"bus_detail_region_2" = "Gyeonggi";
+"bus_detail_region_3" = "Incheon";
+"bus_detail_region_4" = "Late-night";
+"bus_detail_region_5" = "Local";
+"bus_detail_depot" = "Bus Stop";
+"bus_detail_dest" = "Dest.";
+"bus_detail_fare" = "Fare";
+"bus_detail_fare_adult" = "Adult";
+"bus_detail_fare_child" = "Child";
+"bus_detail_fare_unit" = "KRW";
+"bus_detail_allocation" = "Intervals";
+"bus_detail_company" = "Company";
+"bus_detail_link_1" = "Bus stops";
+"bus_detail_link_2" = "Time table";
+"bus_detail_link_3" = "Bus stop location";
+"bus_detail_link_4" = "Contact information";
+
+/* arex */
+"arex_title_1" = "All-stop train : Regular trains is stopping at all twelve stations of an airport railway";
+"arex_title_2" = "Express train : A luxury train with non-stop service between Seoul and Incheon International Airport stations";
+"arex_table_1_col_1" = "Division";
+"arex_table_1_col_2" = "All-stop";
+"arex_table_1_col_3" = "Express";
+"arex_table_2_col_1" = "Required";
+"arex_table_2_col_2" = "58~60 min";
+"arex_table_2_col_3" = "43~45 min";
+"arex_title_3" = "Line Map";
+"arex_link_1" = "Fare";
+"arex_link_2" = "Time table";
+"arex_link_3" = "Station Location";
+"arex_link_4" = "Contact";
+"arex_link_4_call_1" = "1599-7788";
+
+/* arex - fare */
+"arex_fare_title_1" = "Express train : Adult 9,000KRW / Children 7,000KRW";
+"arex_fare_title_2_t1" = "Terminal 1 Fare table of All-stop train";
+"arex_fare_title_2_t2" = "Terminal 2 Fare table of All-stop train";
+"arex_fare_table_title_1" = "Stop";
+"arex_fare_table_title_2" = "Fare";
+
+"arex_fare_table_t1_station_1" = "Incheon Int'l Airport Terminal 2";
+"arex_fare_table_t1_station_2" = "Airport Cargo Terminal";
+"arex_fare_table_t1_station_3" = "Unseo";
+"arex_fare_table_t1_station_4" = "Yeongjong";
+"arex_fare_table_t1_station_5" = "Cheongna Int'l City";
+"arex_fare_table_t1_station_6" = "Geomam";
+"arex_fare_table_t1_station_7" = "Gyeyang";
+"arex_fare_table_t1_station_8" = "Gimpo Int'l Airport";
+"arex_fare_table_t1_station_9" = "Magongnaru";
+"arex_fare_table_t1_station_10" = "Digital Media City";
+"arex_fare_table_t1_station_11" = "Hongik Univ.";
+"arex_fare_table_t1_station_12" = "Gongdeok";
+"arex_fare_table_t1_station_13" = "Seoul Station";
+
+"arex_fare_table_t1_fare_1" = "900 KRW";
+"arex_fare_table_t1_fare_2" = "900 KRW";
+"arex_fare_table_t1_fare_3" = "900 KRW";
+"arex_fare_table_t1_fare_4" = "1,000 KRW";
+"arex_fare_table_t1_fare_5" = "2,300 KRW";
+"arex_fare_table_t1_fare_6" = "2,600 KRW";
+"arex_fare_table_t1_fare_7" = "3,250 KRW";
+"arex_fare_table_t1_fare_8" = "3,750 KRW";
+"arex_fare_table_t1_fare_9" = "3,750 KRW";
+"arex_fare_table_t1_fare_10" = "3,950 KRW";
+"arex_fare_table_t1_fare_11" = "4,050 KRW";
+"arex_fare_table_t1_fare_12" = "4,050 KRW";
+"arex_fare_table_t1_fare_13" = "4,150 KRW";
+
+"arex_fare_table_t2_station_1" = "Incheon Int'l Airport Terminal 1";
+"arex_fare_table_t2_station_2" = "Airport Cargo Terminal";
+"arex_fare_table_t2_station_3" = "Unseo";
+"arex_fare_table_t2_station_4" = "Yeongjong";
+"arex_fare_table_t2_station_5" = "Cheongna Int'l City";
+"arex_fare_table_t2_station_6" = "Geomam";
+"arex_fare_table_t2_station_7" = "Gyeyang";
+"arex_fare_table_t2_station_8" = "Gimpo Int'l Airport";
+"arex_fare_table_t2_station_9" = "Magongnaru";
+"arex_fare_table_t2_station_10" = "Digital Media City";
+"arex_fare_table_t2_station_11" = "Hongik Univ.";
+"arex_fare_table_t2_station_12" = "Gongdeok";
+"arex_fare_table_t2_station_13" = "Seoul Station";
+
+"arex_fare_table_t2_fare_1" = "900 KRW";
+"arex_fare_table_t2_fare_2" = "900 KRW";
+"arex_fare_table_t2_fare_3" = "1,500 KRW";
+"arex_fare_table_t2_fare_4" = "1,600 KRW";
+"arex_fare_table_t2_fare_5" = "2,900 KRW";
+"arex_fare_table_t2_fare_6" = "3,200 KRW";
+"arex_fare_table_t2_fare_7" = "3,850 KRW";
+"arex_fare_table_t2_fare_8" = "4,350 KRW";
+"arex_fare_table_t2_fare_9" = "4,350 KRW";
+"arex_fare_table_t2_fare_10" = "4,550 KRW";
+"arex_fare_table_t2_fare_11" = "4,650 KRW";
+"arex_fare_table_t2_fare_12" = "4,650 KRW";
+"arex_fare_table_t2_fare_13" = "4,750 KRW";
+
+"arex_fare_sub_title_1" = "Children: 50% off";
+"arex_fare_sub_title_2" = "Person with disability, Elderly : free";
+"arex_fare_sub_title_3" = "Juvenile with Juvenile’s card : 20% off";
+
+/* arex - time */
+"arex_time_title_t1" = "Incheon Int'l Airport Terminal 1";
+"arex_time_title_t2" = "Incheon Int'l Airport Terminal 2";
+"arex_time_note_1" = "Express";
+"arex_time_note_2" = "All-stop";
+
+/* taxi */
+"taxi_title_1" = "Taxi waiting count";
+"taxi_wait_table_header_1" = "Division";
+"taxi_wait_table_header_2" = "Waiting";
+"taxi_wait_table_t1_div_1" = "Seoul";
+"taxi_wait_table_t1_div_2" = "Incheon";
+"taxi_wait_table_t1_div_3" = "Gyeonggi";
+"taxi_wait_table_t1_div_4" = "First-Class";
+"taxi_wait_table_t1_div_5" = "Oversized";
+"taxi_wait_table_count" = "";
+
+"taxi_wait_table_t2_div_1" = "Seoul";
+"taxi_wait_table_t2_div_2" = "Incheon";
+"taxi_wait_table_t2_div_3" = "Gyeonggi(Bucheon, Gwangmyeong, Gimpo, Goyang)";
+"taxi_wait_table_t2_div_4" = "Other Destinations";
+"taxi_wait_table_t2_div_5" = "First-Class";
+"taxi_wait_table_t2_div_6" = "Oversized";
+
+"taxi_link_1" = "Detailed Taxi Informaion";
+
+/* taxi - info */
+"taxi_info_title_1" = "Regular taxi";
+"taxi_info_title_sub_1_1" = "Basic rate : Seoul·Incheon·GyeongGi 3800 KRW";
+"taxi_info_title_sub_1_2" = "Extra charge : outside Seoul, Incheon, Goyang, Gwangmyeong, Gimpo and Bucheon - Seoul·GyeongGi 20%, Incheon 30% applies";
+"taxi_info_title_sub_1_3" = "Late Night Charge :24:00~04:00, 20%% applies";
+"taxi_info_title_sub_1_4" = "Customer charges on highway services";
+
+"taxi_info_title_2" = "Deluxe  / Van taxi";
+"taxi_info_title_sub_2_1" = "Basic rate : 6500 KRW";
+"taxi_info_title_sub_2_2" = "Receipt and simultaneous interpretation service (mandatory)";
+"taxi_info_title_sub_2_3" = "No extra & Late Night Charge";
+"taxi_info_title_sub_2_4" = "Customer charges on highway services";
+
+"taxi_info_title_3" = "International Taxi";
+"taxi_info_title_sub_3_1" = "English, Chinese, Japanese Possible";
+"taxi_info_title_sub_3_2" = "A fee system divided into 5 sections depending on the ratio of the distance to the city from Incheon airport";
+
+"taxi_info_title_4" = "A call taxi for the disabled";
+"taxi_info_title_sub_4" = "Target users";
+"taxi_info_title_content_4_1" = "- Persons with 1st and 2nd degree physical or brain-disabled";
+"taxi_info_title_content_4_2" = "- People with serious disabilities in wheelchairs (1st and 2nd degree)";
+"taxi_info_title_content_4_3" = "- This service is limited to non-Seoul residents and foreigners travelling from Seoul, who require wheelchairs";
+
+"taxi_info_link_1" = "International Taxi";
+"taxi_info_link_2" = "KOREA TAXI";
+"taxi_info_link_3" = "A call taxi of Incheon Transit Corporation";
+"taxi_info_link_call_3" = "1577-0320";
+"taxi_info_link_4" = "A call taxi of Seoul Facilities Corporation";
+"taxi_info_link_call_4" = "1588-4388";
+
+/* moving terminal */
+"moving_terminal_title_1" = "Moving between terminals Method";
+"moving_terminal_content_1_1" = "Please move to the %@ for travelers using the airline below";
+"moving_terminal_content_1_2" = "Korean Air, Air France, KLM, Delta Air Lines, China Airlines, Garuda Indonesia, Aeroflot Russian Airlines, Czech Airlines, AERPMEXICO, Alitalia, Xiamen Air";
+"moving_terminal_table_header_1" = "Transportation";
+"moving_terminal_table_header_2" = "Station Location";
+"moving_terminal_table_header_3" = "Required";
+"moving_terminal_table_header_4" = "Intervals";
+"moving_terminal_table_transportation_1" = "Shuttle";
+"moving_terminal_table_transportation_2" = "Taxi";
+"moving_terminal_table_transportation_3" = "AREX";
+"moving_terminal_table_location_1" = "Terminal 1 3rd floor 8 Gate";
+"moving_terminal_table_location_2" = "Terminal 1 1st floor 4C~8C";
+"moving_terminal_table_location_3" = "1 Transportation Center B1";
+"moving_terminal_table_required_1" = "15 min";
+"moving_terminal_table_required_2" = "15 min";
+"moving_terminal_table_required_3" = "6 min";
+"moving_terminal_table_interval_1" = "5 min";
+"moving_terminal_table_interval_2" = "Frequently";
+"moving_terminal_table_interval_3" = "6~20 min";
+"moving_terminal_title_2" = "Shuttle bus / Taxi path";
+"moving_terminal_link_1" = "Shuttle bus guide";
+"moving_terminal_link_2" = "AREX guide";
+"moving_terminal_link_3" = "Taxi guide";
+"moving_terminal_link_4" = "Customer Service Center";
+"moving_terminal_link_4_call" = "1577-2600";
+
+"moving_terminal_t2_content_1_1" = "Please move to the %@ for travelers using the airline below";
+"moving_terminal_t2_content_1_2" = "All airlines excluding Korean Air, Air France, KLM, Delta Air Lines, China Airlines, Garuda Indonesia, Aeroflot Russian Airlines, Czech Airlines, AERPMEXICO, Alitalia, Xiamen Air";
+"moving_terminal_table_t2_location_1" = "Terminal 2 3rd floor 4,5 Gate";
+"moving_terminal_table_t2_location_2" = "Terminal 2 1st floor 3D~5C";
+"moving_terminal_table_t2_location_3" = "2 Transportation Center B1";
+
+/* shuttle bus */
+"shuttle_bus_title_1" = "Bound for Long-term Parking";
+"shuttle_bus_table_1_header_1" = "Station";
+"shuttle_bus_table_1_header_2" = "Intervals";
+"shuttle_bus_table_1_header_3" = "Required";
+"shuttle_bus_table_1_desc_1" = "1st floor 3C, 13C";
+"shuttle_bus_table_1_desc_2" = "5~8 minutes(Day) /\n16 minutes (Night)";
+"shuttle_bus_table_1_desc_3" = "8 minutes";
+"shuttle_bus_call_service_desc" = "※ For the time being, normal operation will be suspended and it will be operated as a call service (032-741-6045). ";
+"shuttle_bus_1_link_1_1" = "call service (032-741-6045)";
+"shuttle_bus_1_link_call_1_2" = "032-741-6045";
+"shuttle_bus_1_link_1" = "Time table";
+"shuttle_bus_1_link_2" = "Shuttle bus stop to long-term parking lot(3C)";
+"shuttle_bus_1_link_3" = "Shuttle bus stop to long-term parking lot(13C)";
+"shuttle_bus_title_2" = "Shuttle bus";
+"shuttle_bus_title_sub_2_1" = "Bound for Terminal 2";
+"shuttle_bus_table_2_1_desc_1" = "3rd floor Gate 8";
+"shuttle_bus_table_2_1_desc_2" = "7 minutes";
+"shuttle_bus_table_2_1_desc_3" = "15 minutes";
+"shuttle_bus_2_1_link_2" = "Shuttle Bus to 2nd Passenger Terminal";
+"shuttle_bus_title_sub_2_2" = "Bound for AICC & Logistics Complex";
+"shuttle_bus_table_2_2_desc_1" = "3rd floor Gate  3, 12";
+"shuttle_bus_table_2_2_desc_2" = "6~15 minutes";
+"shuttle_bus_table_2_2_desc_3" = "35 minutes";
+"shuttle_bus_2_2_link_2" = "Shuttle bus stop to AICC & Logistics Complex(3)";
+"shuttle_bus_2_2_link_3" = "Shuttle bus stop to AICC & Logistics Complex(12)";
+
+"shuttle_bus_table_1_desc_t2_1" = "1st floor 3B";
+"shuttle_bus_table_1_desc_t2_2" = "5~15 minutes";
+"shuttle_bus_table_1_desc_t2_3" = "15 minutes";
+"shuttle_bus_1_link_t2_2" = "Shuttle bus stop to long-term parking lot";
+"shuttle_bus_title_2_t2_1" = "Bound for Terminal 1";
+"shuttle_bus_table_2_desc_t2_1" = "3rd floor Gate 4~5";
+"shuttle_bus_table_2_desc_t2_2" = "7 minutes";
+"shuttle_bus_table_2_desc_t2_3" = "15 minutes";
+"shuttle_bus_2_link_t2_2" = "Shuttle bus stop to Terminal 1";
+
+/* Maglev */
+"maglev_content" = "MagLev – Magnetic Levitation – Train is brand new transportation which uses Electromagnet makes train float 8mm above rail\nMagnetic levitation trains operate only at Terminal 1.";
+"maglev_title" = "Time table";
+"maglev_table_header_1" = "Destination";
+"maglev_table_header_2" = "The first /\nThe last";
+"maglev_table_header_3" = "Required";
+"maglev_table_header_4" = "Intervals";
+"maglev_table_dest_1" = "Incheon Int'l Airport Terminal 1\n(To Youngyu)";
+"maglev_table_dest_2" = "Youngyu\n(To Incheon Int'l Airport Terminal 1)";
+"maglev_table_time_1" = "09:00 /\n18:45";
+"maglev_table_time_2" = "09:00 /\n18:31";
+"maglev_table_required_1" = "One way 12 min";
+"maglev_table_interval_1" = "15 min";
+"maglev_table_desc_1" = "※ Service provided free of charge";
+"maglev_table_link_1" = "Station Location";
+"maglev_table_link_2" = "Contact";
+"maglev_table_link_call_2" = "032-741-8400";
+
+/* transport - parking */
+"parking_category_1" = "Parking status";
+"parking_category_2" = "Parking fee Payment";
+"parking_category_3" = "Valet Parking";
+"parking_category_4" = "Find my car";
+"parking_category_5" = "Regist my car location";
+
+/* parking fee payment */
+"parking_car_info_title_1" = "Input your vehicle number";
+"parking_car_info_title_2" = "Enter your vehicle number";
+"parking_car_info_btn" = "Vehicle Search";
+
+"parking_fee_number_popup_title" = "Check vehicle number";
+"parking_fee_number_no_result" = "Vehicle number is not found.\nPlease check at another terminal.\nIt is not possible to confirm\nthe location of the vehicle you parked in the temporary parking lot.";
+
+"parking_fee_payment_title" = "Parking fee Information";
+"parking_fee_payment_location" = "Parking position";
+"parking_fee_payment_entry_time" = "Start time";
+"parking_fee_payment_current_time" = "End time";
+"parking_fee_payment_parking_time" = "Total parking time";
+"parking_fee_payment_unit" = "KRW";
+"parking_fee_payment_day" = "Days";
+"parking_fee_payment_hour" = "Hours";
+"parking_fee_payment_min" = "Minutes";
+"parking_fee_payment_btn" = "Parking fee payment";
+"parking_fee_payment_sub_title_1" = "Settlement of charges";
+"parking_fee_payment_desc_1" = "Additional charge will be incurred 20 minutes after the parking charge is settled.";
+"parking_fee_payment_desc_2" = "Discounted vehicles can not be discounted for vehicles subject to exemption (handicapped person, beneficiary, etc.) Please use the exit manned booth.";
+"parking_fee_payment_html_desc_1" = "주차요금 정산 후 &lt;font color=#e20613&gt;20분이 경과&lt;/font&gt; 시 추가요금이 발생됩니다.";
+"parking_fee_payment_html_desc_2" = "&lt;font color=#e20613&gt;감면대상차량&lt;/font&gt;(장애인, 유공자 등)은 &lt;font color=#e20613&gt;할인이 불가&lt;/font&gt;하오니 출구 유인 부스를 이용하시기 바랍니다.";
+
+"parking_fee_payment_fail_title" = "Transaction failed";
+"parking_fee_payment_fail_desc_1" = "Payment is unavailable due to system error, please go to the payment booth at the exit.";
+"parking_fee_payment_fail_desc_2" = "Payment is not possible on mobile application due violation of the limit on parking days (99), please go to the payment booth at the exit.";
+"parking_fee_payment_fail_desc_3" = "Payment complete, please exit within 20 minutes.";
+"parking_fee_payment_fail_desc_4" = "After entrance, if the fare is not charged within 10 minutes, please exit.";
+"parking_fee_payment_fail_desc_5" = "An additional fee is required since 20 minutes have elapsed since payment. Please go to the nearest payment booth at the exit.";
+"parking_fee_payment_time_out" = "정산시간이 초과되었습니다. 처음부터 다시 이용해주세요.";
+"parking_fee_payment_fail_popup_desc" = "Payment not processed.";
+
+"parking_fee_payment_finish_01" = "Payment of %@ won for parking fee\nsuccessfully processed.";
+"parking_fee_payment_finish_02" = "Time of payment";
+"parking_fee_payment_finish_03" = "Please come again.";
+
+/* Valet Parking */
+"valet_parking_title" = "The official Reception of valet Parking";
+"valet_parking_desc_1" = "Please check your vehicle number\nIf the vehicle you have paid for is not your own, you need to make an additional payment.\nIf the vehicle can not be inquired, please select another terminal";
+"valet_parking_link_1" = "Use guide of valet parking";
+"valet_parking_link_2" = "Contact of valet Parking";
+"valet_parking_link_3" = "Reservation of valet Parking";
+"valet_parking_t1_call_title" = "Valet service(T1)";
+"valet_parking_t1_call_num" = "032-743-0123";
+"valet_parking_t2_call_title" = "Valet service(T2)";
+"valet_parking_t2_call_num" = "032-743-0751";
+
+/* Valet Parking info t1 */
+"valet_parking_info_title_1" = "When you handling over your vehicle";
+"valet_parking_info_content_1_1" = "Enter Short-term Parking (B1 Floor)";
+"valet_parking_info_content_1_2" = "Enter the Terminal 1 Short-term Parking (B1 Floor).";
+"valet_parking_info_content_2_1" = "Move to the reception location. (B1 Floor Section A)";
+"valet_parking_info_content_2_2" = "Use the 3rd lane for entrance to short-term parking and move to B1 Floor Section A.";
+"valet_parking_info_content_3_1" = "Hand over the vehicle and receive proof of reception";
+"valet_parking_info_content_3_2" = "Hand over your vehicle and receive a mobile confirmation message.\n* Time needed for the reception is reduced if an advance reservation is made";
+"valet_parking_info_sub_title_1_1" = "How to check official valet parking service";
+"valet_parking_info_desc_1_1" = "The official company of the valet parking service is <b>Hi Parking Co., Ltd.</b>, and the receptionist wears an green uniform";
+"valet_parking_info_sub_title_1_2" = "Valet parking information";
+"valet_parking_info_desc_1_2_1" = "- Business hours : 24Hours";
+"valet_parking_info_desc_1_2_2" = "- Pick-up location : short-term parking lot B3";
+"valet_parking_info_title_2" = "When coming back for your vehicle";
+"valet_parking_info_desc_2" = "You can simply go to the exit area as instructed on the parking agent's receipt, pay the service charge, and have the vehicle delivered";
+"valet_parking_info_sub_title_2_1" = "Parking & Service Fees";
+"valet_parking_info_table_header_1" = "Division";
+"valet_parking_info_table_header_2" = "Fee";
+"valet_parking_info_table_col_1_1" = "Standard, Light-weight vehicle";
+"valet_parking_info_table_col_1_2" = "20,000 KRW";
+"valet_parking_info_table_col_2_1" = "Disabled persons, National merit recipients";
+"valet_parking_info_table_col_2_2" = "10,000 KRW";
+"valet_parking_info_desc_2_1" = "- Disabled";
+"valet_parking_info_sub_title_2_2" = "Valet Parking is deferred payment and parking fee also is deferred payment.";
+"valet_parking_info_sub_title_2_3" = "Business hours : 24Hours";
+"valet_parking_info_sub_title_2_4" = "If the customer uses valet parking after business hours, please contact the office";
+
+/* Valet Parking info t2 */
+"valet_parking_info_t2_content_1_1" = "On arrival at Passenger terminal";
+"valet_parking_info_t2_content_1_2" = "Enter the car-only road on the  passenger terminal. Let passengers get off the car and unload luggage";
+"valet_parking_info_t2_content_2_1" = "Go to the official Reception of valet Parking";
+"valet_parking_info_t2_content_2_2" = "Go to the official Reception of valet Parking at West Short-Term parking lot";
+"valet_parking_info_t2_content_3_1" = "Hand over the key and receive a receipt";
+"valet_parking_info_t2_content_3_2" = "Hand over the key and receive a mobile receipt";
+"valet_parking_info_t2_sub_title_1_1" = "How to check official valet parking service";
+"valet_parking_info_t2_desc_1_1" = "The official company of the valet parking service is <b>AJ PARK</b> and the receptionist wears an orange uniform";
+"valet_parking_info_t2_sub_title_1_2" = "Valet parking information";
+"valet_parking_info_t2_desc_1_2_1" = "- Business hours : 24Hours";
+"valet_parking_info_t2_desc_1_2_2" = "- Pick-up location : short-term parking lot B1, East";
+
+/* parking - car location */
+"car_location_lot" = "Parking lot";
+"car_location_lane" = "Position.";
+"car_location_parking_time" = "Start time";
+
+/* parking - register car location */
+"register_car_loc_no_result" = "Please register your parking location.";
+"register_car_loc_sub_title_1" = "GPS may not work properly indoors.";
+"register_car_loc_sub_title_2" = "Please use it outdoors.";
+"register_car_loc_sub_title_3" = "Up to 5 can be registered.";
+"register_car_loc_delete" = "Are you sure you want to delete your parking history?";
+"register_map_save" = "regist";
+
+/* airport departure */
+"airport_departure_title_1" = "Check-in";
+"airport_departure_title_2" = "Baggage Check-in";
+"airport_departure_title_3" = "병무 신고";
+"airport_departure_title_4" = "Quarantine";
+"airport_departure_title_5" = "Customs";
+"airport_departure_title_6" = "Security Check";
+"airport_departure_title_7" = "Immigration";
+"airport_departure_title_8" = "Shuttle Train";
+
+"departure_checkin_section_title_1" = "Check-in";
+"departure_checkin_section_desc_1" = "The travelers who use Incheon Airport are advised to visit the corresponding destination after checking airliners that are assigned by terminals.";
+"departure_checkin_section_title_2" = "Self Check-in Kiosk";
+"departure_checkin_section_desc_2_1" = "Passengers are recommended to use self check-in kiosks to save queuing time at the check-in counters.";
+"departure_checkin_section_desc_2_2" = "Luggage can be quickly consigned using airline counters (self check-in only) or an automatic baggage consignment (self back drop) device.";
+"departure_checkin_section_desc_2_3" = "For further information, please contact the airlines directly.";
+"departure_checkin_section_desc_2_4" = "Airlines providing self check-in kiosks";
+"departure_checkin_section_desc_2_4_1" = "- Korean Air (KE), Asiana Airlines (OZ), Cathay Pacific (CX), Delta Air (DL), KLM (KL), United Airlines (UA), Air China (CA), American Airlines (AA), China Southern Airlines (CZ), Turkish Airlines (TK), Eastar Jet (ZE), Jeju Air (7C), T'way Air (TW), Air France (AF), Air Seoul (RS), AIR CANADA (AC), Jin Air (LJ), EVA AIRWAYS (BR), Vietnam Airlines (VN), Air Busan (BX), AEROMEXICO (AM), China Airlines (CI)";
+"departure_checkin_section_title_3" = "Mobile Check-in";
+"departure_checkin_section_desc_3" = "Airline's mobile apps allow you to check-in from your mobile environment.";
+"departure_checkin_section_3_link" = "Airline's Mobile Check-in App";
+"departure_checkin_section_title_4" = "City Airport Terminal";
+"departure_checkin_section_desc_4_1" = "Passengers who have completed check-in at the City Air Terminals may proceed directly to the fast lane located at the designated entrance of security check-point and immigration.";
+"departure_checkin_section_desc_4_2" = "Since different airlines can check in at each of the City Airport terminals, please contact the terminal concerned.";
+"departure_checkin_section_4_link_1" = "Seoul Station City Airport Terminal";
+"departure_checkin_section_4_link_2" = "Samsung-dong City Airport Terminal";
+"departure_checkin_section_4_link_3" = "Gwangmyeong Station City-Airport Terminal";
+
+"departure_checkin_mobile_checkin_sub_title_1" = "Mobile Check-in";
+"departure_checkin_mobile_checkin_sub_desc_1" = "Airline's mobile apps allow you to check-in from your mobile environment.";
+"departure_checkin_mobile_checkin_info_1" = "1. Log in";
+"departure_checkin_mobile_checkin_info_2" = "2. Check-in";
+"departure_checkin_mobile_checkin_info_3" = "3. Seat assignment";
+"departure_checkin_mobile_checkin_info_4" = "4. Mobile boarding pass";
+"departure_checkin_mobile_checkin_link_1" = "Korean Air Check-in";
+"departure_checkin_mobile_checkin_link_2" = "Asiana Airlines Check-in";
+"departure_checkin_mobile_checkin_link_3" = "EasterJet Check-in";
+"departure_checkin_mobile_checkin_link_4" = "Jejuair Check-in";
+"departure_checkin_mobile_checkin_link_5" = "Tway Air Check-in";
+"departure_checkin_mobile_checkin_link_6" = "Jin Air Check-in";
+
+/* baggage */
+"departure_baggage_section_title_1" = "Cautions";
+"departure_baggage_section_desc_1_1" = "Please refuse to carry any items as the request of strangers, as these could contain narcotics, gold, firearms, etc.";
+"departure_baggage_section_desc_1_2" = "Please hand-carry expensive items such as cameras and jewelry, or fragile items such as pottery or glass";
+"departure_baggage_section_desc_1_3" = "Please write your name, address and destination on your luggage in English in case your baggage gets lost";
+"departure_baggage_section_desc_1_4" = "If you have items that need to be declared at customs, you must visit the Customs Declaration counter";
+"departure_baggage_section_title_2" = "Prohibited Items for Check-in Baggage";
+"departure_baggage_section_desc_2_1" = "The auxiliary battery can be included in carry-on baggage and the criteria for carrying may be different depending on airlines.";
+"departure_baggage_section_title_3" = "Classify Luggage upon Check-In";
+"departure_baggage_section_desc_3_1" = "Carry-on Baggage(Bags that you carry on an airplane)";
+"departure_baggage_section_desc_3_1_1" = "- Dimension : (A)Width + (B)Height + (C)Depth = 115cm or less";
+"departure_baggage_section_desc_3_1_2" = "- Weight : 10kg~12kg";
+"departure_baggage_section_desc_3_2" = "Check-in Luggage";
+"departure_baggage_section_desc_3_2_1" = "- Dimension : (A)Width + (B)Height + (C) Depth = 158cm or less";
+"departure_baggage_section_desc_3_2_2" = "- Weight : 20~23kg";
+"departure_baggage_section_desc_3_3" = "Large Luggage(Check-in)";
+"departure_baggage_section_desc_3_3_1" = "- Dimension : (A)Width 45cm + (B)Height 90cm + (C)Depth 70cm or greater";
+"departure_baggage_section_desc_3_3_2" = "- Weight : 50kg or more";
+"departure_baggage_section_desc_3_3_3" = "- After large luggage needs to be paid at the check-in counter of airlines, it should be checked in at the large luggage counter";
+"departure_baggage_section_desc_3_4" = "The dimension of luggage may be different by airlines, routes, grade of seats.";
+"departure_baggage_section_title_4" = "Reexamination on Luggage";
+"departure_baggage_section_desc_4" = "Upon security check on check-in luggage, in case that any prohibited item in an aircraft is found, it is opened for inspection at the luggage inspection office.";
+
+/* military */
+"departure_military_section_title_1" = "병무신고대상";
+"departure_military_section_desc_1" = "25세 이상 병역미필 병역의무자(영주권사유 병역연기및 면제자 포함)연령제한 없이 현재 공익근무요원 복무중인 자, 공중보건의사, 징병전담의사, 국제협력의사, 공익법무관, 공익수의사, 국제협력요원, 전문연구요원/산업기능요원으로 편입되어 의무종사기간을 마치지 아니한 자";
+"departure_military_section_title_2" = "병역 의무자 출국 신고 절차";
+"departure_military_section_desc_2" = "병역 의무자가 국외를 여행하고자 할 때는 병무청에 국외여행허가를 받고 출국 당일 법무부 출입국에서 출국심사 시 국외여행허가 증명서를 제출하여야 합니다.";
+"departure_military_section_title_3" = "유의사항";
+"departure_military_section_desc_3_1" = "출국당일「국외여행허가증명서」를 반드시 소지하시길 바랍니다.";
+"departure_military_section_desc_3_2" = "「국외여행허가증명서」미소지 시 출입국재심실인계, 허가사항확인을 위한 유선통화 등으로 출국이 지연될 수 있습니다.";
+"departure_military_section_desc_3_3" = "허가기간과 출국일이 맞지 않거나 미허가상태인 경우 병무신고사무소의 부재로 인해 당일 신규허가 및 기간조정이 불가 또는 지연될 수 있습니다.";
+"departure_military_section_link_1" = "병무민원센터";
+
+/* Quarantine */
+"departure_quarantine_section_title_1" = "Animal Quarantine";
+"departure_quarantine_section_title_2" = "Prior to Arriving at the Airport";
+"departure_quarantine_section_desc_2_1" = "You need to check the conditions for animal quarantine of the country that you’re going to and all the required conditions by the country must be prepared.\n(Inquiry : Animal Quarantine Authority or Embassies in Korea)";
+"departure_quarantine_section_desc_2_2" = "Preparation to issue Export Animal Quarantine Certificate";
+"departure_quarantine_section_desc_2_3" = "Compulsory Required Documents";
+"departure_quarantine_section_desc_2_3_1" = "- Rabies Vaccination Certificate\n(N/A in case a pet is under 90 days)";
+"departure_quarantine_section_desc_2_3_2" = "- Health Certificate\n(Recommended to issue less than 10 days earlier from departure date)";
+"departure_quarantine_section_desc_2_4" = "Additional Required Documents\nIt is necessary to check the conditions of quarantine of the country that you’re going to.";
+"departure_quarantine_section_desc_2_4_1" = "- A Rabies Antibody Titer Result Certificate";
+"departure_quarantine_section_desc_2_4_2" = "- Microchip transplant(attached)";
+"departure_quarantine_section_desc_2_4_3" = "- A certificate of prior permission for import issued by the animal quarantine authority in the country that you’re going to";
+"departure_quarantine_section_desc_2_4_4" = "- Annexed documents(a form of quarantine of the country that you’re going to) etc.";
+"departure_quarantine_section_title_3" = "After Arriving at the Airport";
+"departure_quarantine_section_desc_3_1" = "Applying for issuance of an export animal quarantine certificate prior to ticketing";
+"departure_quarantine_section_desc_3_2" = "Recommended to visit at least 3 hours earlier prior to flight time";
+"departure_quarantine_section_desc_3_3" = "Presenting a passport and flight schedule/accompanying a pet";
+"departure_quarantine_section_desc_3_4" = "Paying a fee(KRW 10000 to 30000)";
+"departure_quarantine_section_title_4" = "Plant Quarantine";
+"departure_quarantine_section_title_5" = "Prior to Arriving at the Airport";
+"departure_quarantine_section_desc_5_1" = "You need to check if it is allowed to take to the country that you’re going to.";
+"departure_quarantine_section_desc_5_2" = "It is possible to take only plants that are not damaged by blight and harmful insects and soil is completed removed out of the country.";
+"departure_quarantine_section_title_6" = "After Arriving at the Airport";
+"departure_quarantine_section_desc_6_1" = "It is limited to a plant that corresponds to the plant that is subject to export quarantine and that a plant quarantine certificate is required by the country that you’re going to.";
+"departure_quarantine_section_desc_6_2" = "Applying for issuance of a plant quarantine certificate";
+"departure_quarantine_section_link_1" = "Animal Export Quarantine Office";
+"departure_quarantine_section_link_2" = "Plant Export Quarantine Office";
+
+/* Customs */
+"departure_custom_section_title_1" = "Taking out foreign currency";
+"departure_custom_section_desc_1_1" = "Korean Passengers";
+"departure_custom_section_desc_1_1_1" = "- Passengers carrying cash over USD10,000 to overseas must declare it to Customs Foreign Currency Report Desk";
+"departure_custom_section_desc_1_1_2" = "- Immigrants, Visitors,International Students, Travel Agencies Foreign residents carrying cash earned in Korea";
+"departure_custom_section_desc_1_1_3" = "- Passengers carrying more than USD10,000 in cash  → Approved certificate (stamp of the bank’s CEO) from the bank is required";
+"departure_custom_section_desc_1_1_4" = "- Earnings from trade or stock exchange  → authorization is required if deemed necessary";
+"departure_custom_section_desc_1_2" = "Other Passengers";
+"departure_custom_section_desc_1_2_1" = "- Requires approval of Foreign Exchange bank director, president of the Bank of Korea or the Customs director";
+"departure_custom_section_desc_1_2_2" = "- Approval process may take a couple of days. Passengers are advised to get the necessary approval in advance";
+"departure_custom_section_desc_1_2_3" = "- Reported amount upon entry can be taken out only once";
+"departure_custom_section_title_2" = "Traveling with items of high value (returning with items after departure)";
+"departure_custom_section_desc_2_1" = "Passengers traveling with high value items are required to report to customs office and get the necessary documents to get the tax waiver when returning";
+"departure_custom_section_desc_2_2" = "Passengers traveling with cultural assets or properties are required to get the necessary documents from the cultural property appraisal officer";
+"departure_custom_section_title_3" = "Retrieval of high value items (Retrieval after the entry)";
+"departure_custom_section_desc_3_1" = "Passengers re-visiting the Republic of Korea while traveling with high value items are required to present necessary documents and items to the customs officer";
+"departure_custom_section_desc_3_2" = "Passengers departing without the high value items reported upon entry are required to pay tax or deposit (120/100). In addition, the departure process will be delayed";
+"departure_custom_section_title_4" = "Tax Refund Procedures";
+"departure_custom_section_desc_4_1" = "Items purchased at duty free zones (designated by customs director)";
+"departure_custom_section_desc_4_2" = "Confirm item being taken abroad at the customs declaration desk at the departure area (Must present purchased product)";
+"departure_custom_section_desc_4_3" = "Get the refund at the tax refund desk after passing immigrations\n※ Tax amount will be refunded with a receipt indicating that the item was purchased within three months.";
+"departure_custom_section_link_1" = "Customs Service Office";
+
+/* Security Check */
+"departure_security_section_title_1" = "Security Check";
+"departure_security_section_desc_1" = "After completing boarding procedure and reports to customs, you need to move to a departure lounge nearby to receive security check.\nSince guests who see off can’t enter the security check zone for safe operation of aircraft, please finish the farewell at the departure lounge area.";
+"departure_security_section_title_2" = "Information on Items to Carry on";
+"departure_security_section_desc_2_1" = "Not Allowed";
+"departure_security_section_desc_2_1_col_1_1" = "Foods";
+"departure_security_section_desc_2_1_col_1_2" = "Kimchi";
+"departure_security_section_desc_2_1_col_1_3" = "Red pepper paste/Soybean Paste";
+"departure_security_section_desc_2_1_col_1_4" = "Instant Food";
+"departure_security_section_desc_2_1_col_2_1" = "Weapons";
+"departure_security_section_desc_2_1_col_2_2" = "Knives";
+"departure_security_section_desc_2_1_col_2_3" = "Guns";
+"departure_security_section_desc_2_1_col_2_4" = "Tools";
+"departure_security_section_desc_2_1_col_3_1" = "Explosives";
+"departure_security_section_desc_2_1_col_3_2" = "Firecrackers";
+"departure_security_section_desc_2_1_col_3_3" = "Inflammables";
+"departure_security_section_desc_2_1_col_3_4" = "Lighter";
+"departure_security_section_desc_2_2" = "Conditional Carry-on Available";
+"departure_security_section_desc_2_2_col_1_1" = "Liquids and Gels";
+"departure_security_section_desc_2_2_col_1_2" = "Beverage/Liquors";
+"departure_security_section_desc_2_2_col_1_3" = "Cosmetics";
+"departure_security_section_desc_2_2_col_1_4" = "Toothpaste";
+"departure_security_section_desc_2_3" = "Conditions of Liquids, Gels to Carry on";
+"departure_security_section_desc_2_3_col_1_1" = "All liquids and gels shall be contained in a container of 100ml or less.\n※ Including Kimchi, pastes and healthy extracts(red ginseng juice)";
+"departure_security_section_desc_2_3_col_2_1" = "1 liter, sealed after putting it in a Ziploc bag";
+"departure_security_section_desc_2_3_col_3_1" = "It should be contained separately from other items so that a security agent can see it.";
+"departure_security_section_title_3" = "Conditions to carry on tax-free item";
+"departure_security_section_desc_3_1" = "In case of packaged in a transparent sealed bag provided by a duty free shop or a bag that is made by a method of the international standard and damage can be detected";
+"departure_security_section_desc_3_2" = "In case that it is maintained to be closed until you board the plane going to your final destination";
+"departure_security_section_desc_3_3" = "It is possible to carry on regardless of its capacity only in the case that the receipt upon purchasing tax-free items is enclosed in the damage-detectable bag or attached to the bag.\n※ A damage-detectable bag is provided by a duty free shop";
+"departure_security_section_title_4" = "Exceptions";
+"departure_security_section_desc_4_1" = "Foods to use for infants during fligh";
+"departure_security_section_desc_4_2" = "all medications with a doctor’s prescription";
+
+/* Immigration */
+"departure_immigration_section_title_1" = "Preparation for Immigration";
+"departure_immigration_section_desc_1" = "The immigration procedure is to exert indigenous sovereignty of the country that determines whether leaving the country of Koreans and foreigners is permitted or not at the border of Korea.";
+"departure_immigration_section_desc_1_col_1_1" = "Passport";
+"departure_immigration_section_desc_1_col_1_2" = "Boarding Ticket";
+"departure_immigration_section_title_2" = "Automatic Immigration Counter";
+"departure_immigration_section_desc_2_1" = "Subject: Korean passport holders who are 19-year old or older";
+"departure_immigration_section_desc_2_2" = "Nationals between 7 years and 18 years, nationals whose personal data are changed and nationals who 30 years have passed after their residential registration cards were issued are required to register their fingerprints in advance.";
+"departure_immigration_section_desc_2_3" = "How to Use";
+"departure_immigration_section_desc_2_3_1" = "① Passport Recognition";
+"departure_immigration_section_desc_2_3_2" = "② Fingerprint Checking";
+"departure_immigration_section_desc_2_3_3" = "③ Taking a photo";
+"departure_immigration_section_title_3" = "Manned Immigration Counter";
+"departure_immigration_section_desc_3" = "Subject : General Travelers";
+"departure_immigration_section_title_4" = "Dedicated Immigration Counter";
+"departure_immigration_section_desc_4" = "Subject : Those who use the City Airport, diplomats, the disabled, wheelchair users, business card holders etc.";
+"departure_immigration_section_link_1" = "Automatic Immigration Registration Center";
+"departure_immigration_section_link_2" = "Dedicated Immigration Counter(Fast Track)";
+
+/* fast track */
+"departure_fast_track_title" = "Fast Track";
+"departure_fast_track_section_title_0" = "Fast Track for mobility handicapped";
+"departure_fast_track_section_title_1" = "Overview of Fast Track operation";
+"departure_fast_track_section_desc_1_1" = "Target Users: Passengers with limited mobility and Fast Track beneficiaries";
+"departure_fast_track_section_desc_1_2" = "Up to 3 companions are permitted";
+"departure_fast_track_section_title_2" = "Using Fast Track";
+"departure_fast_track_section_desc_2" = "To use the Fast Track service in Incheon International Airport, passengers with limited mobility need to confirm  eligibility at their airline check-in counter, get a 'Fast Track Pass', and present the pass at the dedicated departure entrance.\nIf you are a Fast Track beneficiary, just show your Fast Track card at the departure area dedicated to Fast Track. You do not need any other pass.";
+"departure_fast_track_section_title_3" = "Fast Track User";
+"departure_fast_track_section_desc_3_1" = "Passengers with limited mobility";
+"departure_fast_track_section_desc_3_1_col_1_1" = "Type";
+"departure_fast_track_section_desc_3_1_col_1_2" = "Description";
+"departure_fast_track_section_desc_3_1_col_2_1" = "Disabled pedestrian";
+"departure_fast_track_section_desc_3_1_col_2_2" = "Level 1 ~ Level 5";
+"departure_fast_track_section_desc_3_1_col_3_1" = "Toddlers and infants";
+"departure_fast_track_section_desc_3_1_col_3_2" = "Children less than age 7";
+"departure_fast_track_section_desc_3_1_col_4_1" = "Seniors";
+"departure_fast_track_section_desc_3_1_col_4_2" = "Age 70 or older";
+"departure_fast_track_section_desc_3_1_col_5_1" = "Pregnant women";
+"departure_fast_track_section_desc_3_1_col_5_2" = "Expectant mothers";
+"departure_fast_track_section_desc_3_1_col_6_1" = "Infirm airline passengers";
+"departure_fast_track_section_desc_3_1_col_6_2" = "Passengers requiring a wheelchair, medical oxygen, or a stretcher";
+"departure_fast_track_section_desc_3_2" = "Fast Track beneficiaries";
+"departure_fast_track_section_desc_3_2_col_1_1" = "Type";
+"departure_fast_track_section_desc_3_2_col_1_2" = "Description";
+"departure_fast_track_section_desc_3_2_col_2_1" = "Fast Track beneficiaries";
+"departure_fast_track_section_desc_3_2_col_2_2" = "Foreign investor, excellent joint-growth firm, family-friendly firm, excellent victim-support firm, excellent suitor-hired firm, excellent job creation firm";
+"departure_fast_track_section_desc_3_2_col_3_1" = "Immigration VIP Card holder";
+"departure_fast_track_section_desc_3_2_col_3_2" = "ABTC card (APEC Business Travelers' card), foreign investor card, model tax payer card, AEO (Authorized Economic Operator) card, CIP card, patriots who contributed to Korea's independence, patriots and veterans, disabled participants of the 5.18 Independence Movement, Korea-visiting VIP card";
+
+/* Shuttle Train */
+"departure_shuttle_section_title_1" = "Stop Location";
+"departure_shuttle_section_desc_1_1" = "Please take shuttle train to get to Gate 101 to 132";
+"departure_shuttle_section_desc_1_2" = "Interval: 5 min, Time: 1 min 30~50 sec";
+
+/* airport arrival */
+"airport_arrival_title_1" = "Travelling Document";
+"airport_arrival_title_2" = "Passengers Quarantine";
+"airport_arrival_title_3" = "Immigration";
+"airport_arrival_title_4" = "Baggage Claim";
+"airport_arrival_title_5" = "Customs Report";
+"airport_arrival_title_6" = "Animal and Plant Quarantine";
+
+/* Travelling Document */
+"arrival_document_section_title_1" = "Travelling Document";
+"arrival_document_section_desc_1" = "It becomes more convenient to enter immigration procedures by filling in the Travelling Document bring by the crew beforehand";
+"arrival_document_section_title_2" = "Quarantine questionnaire";
+"arrival_document_section_desc_2" = "Passengers and crew arriving from contaminated countries of cholera, yellow fever, and the plague areas (Southeast Asia, the Middle East, Africa, South America, etc.)";
+"arrival_document_section_title_3" = "Arrival Card";
+"arrival_document_section_desc_3_1" = "All arriving passengers from foreign countries must prepare and submit a customs declaration form";
+"arrival_document_section_desc_3_2" = "When traveling with family, only one customs declaration form needs to be filled";
+
+/* Quarantine */
+"arrival_quarantine_section_title_1" = "Quarantine Process";
+"arrival_quarantine_section_desc_1_1" = "1. Pyrexia Monitoring";
+"arrival_quarantine_section_desc_1_1_1" = "All travelers who are entering pass through an infrared heat-detecting camera of the quarantine counter.";
+"arrival_quarantine_section_desc_1_2" = "2. Submission of Questionnaire on Your Health Status";
+"arrival_quarantine_section_desc_1_2_1" = "- The questionnaire on your health status shall be filled in and submitted to a quarantine officer.";
+"arrival_quarantine_section_desc_1_2_2" = "- In case of staying or stopover at the region contaminated by a quarantine epidemic, it must be submitted";
+"arrival_quarantine_section_desc_1_3" = "3. Examination on Germs and Viruses";
+"arrival_quarantine_section_desc_1_3_1" = "- After entry, in case of symptoms suspicious of an infectious disease, you have to report to Korean Centers for Disease Control and Prevention";
+"arrival_quarantine_section_desc_1_3_2" = "- Any person who is suspicious of an infectious disease in the process of pyrexia monitoring and submission of the questionnaire on health status will go through an examination on germs and viruses(the result of a virus examination will be notified 2 days later, and the result of a feces examination 4~5 days later individually)";
+"arrival_quarantine_section_link_1" = "Disease Control and Prevention 1339";
+"arrival_quarantine_section_link_call_1" = "1339";
+
+/* immigration */
+"arrival_immigration_section_title_1" = "Immigration";
+"arrival_immigration_section_desc_1" = "Immigration is the process to obtain permission at the border. Since it is the process to check if a person is a Korean, your understanding will be appreciated even if it takes some time";
+"arrival_immigration_section_title_2" = "Entreaty upon Immigration";
+"arrival_immigration_section_desc_2_1" = "Separate screening for nationals and foreigners is a principle of the international society";
+"arrival_immigration_section_desc_2_2" = "Foreigners (except for registered foreigners) must fill out the arrival card";
+"arrival_immigration_section_desc_2_3" = "Chinese group tourists with group visas do not need to fill out the arrival card (exception: youth travelling on school field trip)";
+"arrival_immigration_section_desc_2_4" = "Those who are eligible to register must visit the Immigrations Bureau within 90 days of entry to register";
+"arrival_immigration_section_title_3" = "Automatic Immigration Counter Subject";
+"arrival_immigration_section_desc_3_1" = "Korean passport holders who are 19-years old or older";
+"arrival_immigration_section_desc_3_2" = "Nationals between 7 years and 18 years, nationals whose personal data are changed and nationals who 30 years have passed after their residential registration cards were issued are required to register their fingerprints in advance";
+"arrival_immigration_section_desc_3_3" = "How to use";
+"arrival_immigration_section_desc_3_3_1" = "① Passport Recognition";
+"arrival_immigration_section_desc_3_3_2" = "② Fingerprint Checking";
+"arrival_immigration_section_desc_3_3_3" = "③ Taking a photo";
+"arrival_immigration_section_title_4" = "Manned Immigration Counter Subject";
+"arrival_immigration_section_desc_4" = "Target : General passengers";
+
+/* baggage */
+"arrival_baggage_section_title_1" = "Location of Baggage Claim Area";
+"arrival_baggage_section_desc_1" = "After immigration, you can check the number of baggage claim area through an electronic display board(FIDS)\nCautions are required to make sure that your baggage is not switched with others";
+"arrival_baggage_section_title_2" = "Oversized baggage";
+"arrival_baggage_section_desc_2" = "Proceed to the oversized Baggage area";
+"arrival_baggage_section_title_3" = "Lost or Damaged Baggage";
+"arrival_baggage_section_desc_3_1" = "When you lost your baggage, go to the lost baggage claim counter located at the back of the baggage claim area";
+"arrival_baggage_section_desc_3_2" = "※ Since the regulations to compensate for the lost baggage vary depending on the airline, you need to contact the airline directly that you used";
+
+/* custom */
+"arrival_custom_section_title_1" = "Procedure of Going through Customs";
+"arrival_custom_section_desc_1_1" = "All passengers entering Korea from abroad must fill out the declaration form even if they do not have any items to declare";
+"arrival_custom_section_desc_1_2" = "If entering as a family, you only need to fill out 1 form per family";
+"arrival_custom_section_desc_1_3" = "In case that you have an item that exceeds the tax-free range, if you indicate it on the entry report form to report, you’ll get a discount of 30%(Max. KRW 150,000) of customs duty, but if you didn’t report it to the customs or reported it dishonestly, you’ll be charged 40% of the tax you need to pay as an additional tax";
+"arrival_custom_section_title_2" = "Items Required to Report upon Entry";
+"arrival_custom_section_desc_2_1" = "Weapons such as firearms, knives, crossbows etc. live ammunition and gunpowder, toxic or radioactive substances";
+"arrival_custom_section_desc_2_2" = "Tax-free range(USD 600 or less) Items exceeding 1 bottle of liquor, 1 carton of cigarette, 60ml of perfume";
+"arrival_custom_section_desc_2_3" = "Agricultural and livestock products such as animals,plants, fruits, vegetables etc";
+"arrival_custom_section_desc_2_4" = "Drugs and medication abuse such as methamphetamine(Philopon), heroin, cocaine etc.";
+"arrival_custom_section_desc_2_5" = "Items attached with forged goods(counterfeit goods)";
+"arrival_custom_section_desc_2_6" = "Foreign currency or KRW exceeding USD 10,000";
+"arrival_custom_section_desc_2_7" = "Products related to CITES(Convention on International Trade in Endangered Species of Wild Fauna and Flora), Processed products(Ex.Ivory, the penis of a sea bear,gall bladder of a bear)";
+"arrival_custom_section_desc_2_8" = "Pictures, books, movies, records etc. that harm a constitution, public security and custom.";
+"arrival_custom_section_desc_2_9" = "Items and company’s items that are brought for the purpose of selling";
+"arrival_custom_section_title_3" = "Tax-Free Range of Travelers’Belongings";
+"arrival_custom_section_desc_3_1" = "Tax-free range of travelers’ belongings : USD 600 Separate tax-free items";
+"arrival_custom_section_desc_3_2" = "Separate tax-free items";
+"arrival_custom_section_desc_3_2_col_1_1" = "1 bottle of liquor(1L or less, USD 400 or less)";
+"arrival_custom_section_desc_3_2_col_1_2" = "1 carton of cigarette(200 cigarettes)";
+"arrival_custom_section_desc_3_2_col_1_3" = "60ml of perfume";
+"arrival_custom_section_desc_3_2_col_1_4" = "※ But, tax exemption on liquor and cigarettes is excluded to minors(Under 19 years old)";
+"arrival_custom_section_desc_3_3" = "Agricultural and livestock (oriental medicine) product duty-free restriction";
+"arrival_custom_section_desc_3_3_1" = "- Less than 50 Kg per 1 person, price abroad must be under 100,000 KRW, and must meet the quarantine inspection guidelines (exception: oriental medicine limited to 10 types per 1 person)";
+"arrival_custom_section_desc_3_3_2" = "- Sesame oil, sesame, honey, bracken, deodeok each 5Kg";
+"arrival_custom_section_desc_3_3_3" = "- Ginseng (fresh, White, Red), sanghwang mushroom each 300g";
+"arrival_custom_section_desc_3_3_4" = "- Beef 10kg";
+"arrival_custom_section_desc_3_3_5" = "- Pine nuts 1kg, deer antler 150g";
+"arrival_custom_section_desc_3_3_6" = "- Other items 5Kg per type";
+"arrival_custom_section_desc_3_3_7" = "※ In the case of one type of product exceeding the limit, the entire possession will be taxable";
+"arrival_custom_section_link_1" = "Customs Service";
+
+/* animal quarantine */
+"arrival_animal_quarantine_section_title_1" = "Animal Quarantine";
+"arrival_animal_quarantine_section_title_2" = "Upon entry with a pet";
+"arrival_animal_quarantine_section_desc_2_1" = "You need to report to Animal and Plant Quarantine Agency(APQA) in the arrival lounge";
+"arrival_animal_quarantine_section_desc_2_2" = "The required documents upon report";
+"arrival_animal_quarantine_section_desc_2_2_1" = "① An animal quarantine certificate issued by the animal quarantine agency of the export country";
+"arrival_animal_quarantine_section_desc_2_2_1_1" = "- In case antibody titer is within the expiry date, the certificate issued by APQA upon departure is also accepted";
+"arrival_animal_quarantine_section_desc_2_2_2" = "② Transplanting and attaching a microchip(limited to dogs and cats)";
+"arrival_animal_quarantine_section_desc_2_2_3" = "③ A rabies antibody titer result certificate";
+"arrival_animal_quarantine_section_desc_2_2_3_1" = "- In case of dogs and cats, 90-day old or more";
+"arrival_animal_quarantine_section_desc_2_2_3_2" = "- It is limited to the case that you’re coming back from the country where rabies has happened";
+"arrival_animal_quarantine_section_title_3" = "Upon bringing and carrying livestock products";
+"arrival_animal_quarantine_section_desc_3_1" = "You need to report to Animal and Plant Quarantine Agency in the arrival lounge, and check if it could be imported and brought";
+"arrival_animal_quarantine_section_desc_3_2" = "Prohibited items";
+"arrival_animal_quarantine_section_desc_3_2_1" = "- Meats(beef, pork, lamb, chicken etc.)";
+"arrival_animal_quarantine_section_desc_3_2_2" = "- Processed meats(ham, sausage, jerky, soy sauce braised beef or pork)";
+"arrival_animal_quarantine_section_title_4" = "Upon visiting persons related to stock farming or a stock farm";
+"arrival_animal_quarantine_section_desc_4" = "You need to report to an officer of Animal and Plant Quarantine Agency in the arrival lounge and receive a measure of preventing epidemics";
+"arrival_animal_quarantine_section_title_5" = "Related information";
+"arrival_animal_quarantine_section_title_6" = "Plant Quarantine";
+"arrival_animal_quarantine_section_desc_6_1" = "You need to report to Animal and Plant Quarantine Agency in the arrival lounge";
+"arrival_animal_quarantine_section_desc_6_2" = "The required documents upon report";
+"arrival_animal_quarantine_section_desc_6_2_1" = "① A plant quarantine certificate issued by the plant quarantine agency of the export country";
+"arrival_animal_quarantine_section_desc_6_2_1_1" = "- (Limited to plants for breeding such as seeds, sapling etc.)";
+"arrival_animal_quarantine_section_title_7" = "Prohibited plants to bring and carry(Import not allowed)";
+"arrival_animal_quarantine_section_desc_7_1" = "Most fresh fruits and vegetables";
+"arrival_animal_quarantine_section_desc_7_2" = "Soil, plants with soil, walnut with a shell, insects as pets";
+"arrival_animal_quarantine_section_desc_7_3" = "Processed goods made by rice straws, rice husks etc";
+"arrival_animal_quarantine_section_title_8" = "Contacts regarding plant inspection";
+"arrival_animal_quarantine_section_link_1" = "Animal-related issues";
+"arrival_animal_quarantine_section_link_call_1" = "032-740-2660";
+"arrival_animal_quarantine_section_link_2" = "Plant Quarantine Agency";
+"arrival_animal_quarantine_section_link_call_2" = "032-740-2077";
+
+/* transfer */
+"transfer_category_1" = "Transfer process";
+"transfer_category_2" = "Transfer path";
+"transfer_category_3" = "Transfer facilities";
+"transfer_category_4" = "Transfer tour";
+
+/* transfer - process */
+"transfer_process_title_1" = "Transfer time";
+"transfer_process_title_2" = "Airline assignment";
+"transfer_process_tool_arrow_1" = "Terminal 1 Gate  1 - 59";
+"transfer_process_tool_arrow_2" = "Concourse Gate 101-132";
+"transfer_process_tool_arrow_3" = "Terminal 2 Gate 230-270";
+
+"transfer_assignment" = "Airline assignment";
+"transfer_assignment_table_1_1" = "ASIANA";
+"transfer_assignment_table_1_2" = "OZ";
+"transfer_assignment_table_1_3" = "AMERICAN AIRLINES";
+"transfer_assignment_table_1_4" = "AA";
+"transfer_assignment_table_2_1" = "AIR CANADA";
+"transfer_assignment_table_2_2" = "AC";
+"transfer_assignment_table_2_3" = "UNITED AIRLINES";
+"transfer_assignment_table_2_4" = "UA";
+"transfer_assignment_table_3_1" = "MANDARIN AIRLINES";
+"transfer_assignment_table_3_2" = "AE";
+"transfer_assignment_table_3_3" = "AIR INDIA";
+"transfer_assignment_table_3_4" = "AI";
+"transfer_assignment_table_4_1" = "FINNAIR";
+"transfer_assignment_table_4_2" = "AY";
+"transfer_assignment_table_4_3" = "UNI AIRWAYS CORP";
+"transfer_assignment_table_4_4" = "B7";
+"transfer_assignment_table_5_1" = "BRITISH AIRWAYS";
+"transfer_assignment_table_5_2" = "BA";
+"transfer_assignment_table_5_3" = "ROYAL BRUNEI AIRL";
+"transfer_assignment_table_5_4" = "BI";
+"transfer_assignment_table_6_1" = "EVA AIRWAYS";
+"transfer_assignment_table_6_2" = "BR";
+"transfer_assignment_table_6_3" = "AIR CHINA";
+"transfer_assignment_table_6_4" = "CA";
+"transfer_assignment_table_7_1" = "CATHAY PACIFIC";
+"transfer_assignment_table_7_2" = "CX";
+"transfer_assignment_table_7_3" = "EMIRATES";
+"transfer_assignment_table_7_4" = "EK";
+"transfer_assignment_table_8_1" = "ETHIOPIAN AIRLINES";
+"transfer_assignment_table_8_2" = "ET";
+"transfer_assignment_table_8_3" = "ETIHAD AIRWAY";
+"transfer_assignment_table_8_4" = "EY";
+"transfer_assignment_table_9_1" = "TIANJIN AIRLINES";
+"transfer_assignment_table_9_2" = "GS";
+"transfer_assignment_table_9_3" = "HAWAIIAN AIRLINES";
+"transfer_assignment_table_9_4" = "HA";
+"transfer_assignment_table_10_1" = "HONGKONG AIRLINES";
+"transfer_assignment_table_10_2" = "HX";
+"transfer_assignment_table_10_3" = "UZBEKISTAN";
+"transfer_assignment_table_10_4" = "HY";
+"transfer_assignment_table_11_1" = "AURORA AIRLINES";
+"transfer_assignment_table_11_2" = "HZ";
+"transfer_assignment_table_11_3" = "JAPAN AIRLINES";
+"transfer_assignment_table_11_4" = "JL";
+"transfer_assignment_table_12_1" = "CAMBODIA ANGKOR AIR";
+"transfer_assignment_table_12_2" = "K6";
+"transfer_assignment_table_12_3" = "AIR ASTANA";
+"transfer_assignment_table_12_4" = "KC";
+"transfer_assignment_table_13_1" = "LUFTHANSA";
+"transfer_assignment_table_13_2" = "LH";
+"transfer_assignment_table_13_3" = "Lot";
+"transfer_assignment_table_13_4" = "LO";
+"transfer_assignment_table_14_1" = "MALAYSIA AIRLINES";
+"transfer_assignment_table_14_2" = "MH";
+"transfer_assignment_table_14_3" = "AIR MACAU";
+"transfer_assignment_table_14_4" = "NX";
+"transfer_assignment_table_15_1" = "MIAT MONGOLIAN";
+"transfer_assignment_table_15_2" = "OM";
+"transfer_assignment_table_15_3" = "PHILIPPINE AIRLINES";
+"transfer_assignment_table_15_4" = "PR";
+"transfer_assignment_table_16_1" = "QATAR AIRWAYS";
+"transfer_assignment_table_16_2" = "QR";
+"transfer_assignment_table_16_3" = "LAO AIRLINES";
+"transfer_assignment_table_16_4" = "QV";
+"transfer_assignment_table_17_1" = "YAKUTIA AIRLINES";
+"transfer_assignment_table_17_2" = "R3";
+"transfer_assignment_table_17_3" = "S7 AIRLINES";
+"transfer_assignment_table_17_4" = "S7";
+"transfer_assignment_table_18_1" = "SHANDONG AIRLINES";
+"transfer_assignment_table_18_2" = "SC";
+"transfer_assignment_table_18_3" = "SINGAPORE AIRLINES";
+"transfer_assignment_table_18_4" = "SQ";
+"transfer_assignment_table_19_1" = "THAI AIRWAYS INTL";
+"transfer_assignment_table_19_2" = "TG";
+"transfer_assignment_table_19_3" = "TURKISH AIRLINES";
+"transfer_assignment_table_19_4" = "TK";
+"transfer_assignment_table_20_1" = "SKYWINGS ASIA AIRLINES";
+"transfer_assignment_table_20_2" = "ZA";
+"transfer_assignment_table_20_3" = "SHENZHEN AIRLINES";
+"transfer_assignment_table_20_4" = "ZH";
+"transfer_assignment_table_21_1" = "PAL EXPRESS";
+"transfer_assignment_table_21_2" = "2P";
+"transfer_assignment_table_21_3" = "SICHUAN AIRLINES";
+"transfer_assignment_table_21_4" = "3U";
+"transfer_assignment_table_22_1" = "Pan Pacific Air";
+"transfer_assignment_table_22_2" = "8Y";
+
+"transfer_assignment_con_table_1_1" = "China Southern Airlines";
+"transfer_assignment_con_table_1_2" = "CZ";
+"transfer_assignment_con_table_1_3" = "China Eastern";
+"transfer_assignment_con_table_1_4" = "MU";
+"transfer_assignment_con_table_2_1" = "Vietnam Airlines";
+"transfer_assignment_con_table_2_2" = "VN";
+"transfer_assignment_con_table_2_3" = "AirAsia X";
+"transfer_assignment_con_table_2_4" = "D7";
+"transfer_assignment_con_table_3_1" = "Shanghai Airlines";
+"transfer_assignment_con_table_3_2" = "FM";
+"transfer_assignment_con_table_3_3" = "Jin Air";
+"transfer_assignment_con_table_3_4" = "LJ";
+"transfer_assignment_con_table_4_1" = "Peach Aviation";
+"transfer_assignment_con_table_4_2" = "MM";
+"transfer_assignment_con_table_4_3" = "AIR SEOUL";
+"transfer_assignment_con_table_4_4" = "RS";
+"transfer_assignment_con_table_5_1" = "SCOOT TIGERAIR PTE.";
+"transfer_assignment_con_table_5_2" = "TR";
+"transfer_assignment_con_table_5_3" = "TwayAir";
+"transfer_assignment_con_table_5_4" = "TW";
+"transfer_assignment_con_table_6_1" = "HONG KONG EXPRESS AIRWAYS";
+"transfer_assignment_con_table_6_2" = "UO";
+"transfer_assignment_con_table_6_3" = "VIETJET AIR";
+"transfer_assignment_con_table_6_4" = "VJ";
+"transfer_assignment_con_table_7_1" = "Thai AirAsia X";
+"transfer_assignment_con_table_7_2" = "XJ";
+"transfer_assignment_con_table_7_3" = "EasterJet";
+"transfer_assignment_con_table_7_4" = "ZE";
+"transfer_assignment_con_table_8_1" = "Cebu Pacific Air";
+"transfer_assignment_con_table_8_2" = "5J";
+"transfer_assignment_con_table_8_3" = "Jejuair";
+"transfer_assignment_con_table_8_4" = "7C";
+"transfer_assignment_con_table_9_1" = "Spring Airlines Ltd.";
+"transfer_assignment_con_table_9_2" = "9C";
+
+"transfer_assignment_t2_table_1_1" = "Korean Air";
+"transfer_assignment_t2_table_1_2" = "KE";
+"transfer_assignment_t2_table_1_3" = "Air France";
+"transfer_assignment_t2_table_1_4" = "AF";
+"transfer_assignment_t2_table_2_1" = "Delta Airlines";
+"transfer_assignment_t2_table_2_2" = "DL";
+"transfer_assignment_t2_table_2_3" = "KLM";
+"transfer_assignment_t2_table_2_4" = "KL";
+"transfer_assignment_t2_table_3_1" = "Garuda Indonesia";
+"transfer_assignment_t2_table_3_2" = "GA";
+"transfer_assignment_t2_table_3_3" = "Xiamen Air";
+"transfer_assignment_t2_table_3_4" = "MF";
+"transfer_assignment_t2_table_4_1" = "AEROMEXICO";
+"transfer_assignment_t2_table_4_2" = "AM";
+"transfer_assignment_t2_table_4_3" = "Aeroflot Russian Airlines";
+"transfer_assignment_t2_table_4_4" = "SU";
+"transfer_assignment_t2_table_5_1" = "Alitalia";
+"transfer_assignment_t2_table_5_2" = "AZ";
+"transfer_assignment_t2_table_5_3" = "China Airlines";
+"transfer_assignment_t2_table_5_4" = "CI";
+"transfer_assignment_t2_table_6_1" = "Czech Airlines";
+"transfer_assignment_t2_table_6_2" = "OK";
+
+/* transfer - path */
+"transfer_sub_category_1" = "Terminal 1";
+"transfer_sub_category_2" = "Concourse";
+"transfer_sub_category_3" = "Terminal 2";
+
+"transfer_path_t1_title_1" = "Terminal 1 → Terminal 1";
+"transfer_path_t1_1_desc_1" = "① Arrival Gate(2F)";
+"transfer_path_t1_1_desc_2" = "② Transfer Security Check(2F → 3F)";
+"transfer_path_t1_1_desc_3" = "③ Transfer Desk(4F)";
+"transfer_path_t1_1_desc_4" = "④ Departure Gate(3F)";
+"transfer_path_t1_title_2" = "Terminal 1 → Concourse";
+"transfer_path_t1_2_desc_1" = "① Arrival Gate(2F)";
+"transfer_path_t1_2_desc_2" = "② Transfer Security Check(2F → 3F)";
+"transfer_path_t1_2_desc_3" = "③ Follow the Green Signage(101~270)";
+"transfer_path_t1_2_desc_4" = "④ Shuttle Train Blue line(B1)";
+"transfer_path_t1_2_desc_5" = "⑤ Transfer Desk(3F)";
+"transfer_path_t1_2_desc_6" = "⑥ Departure Gate(3F)";
+"transfer_path_t1_title_3" = "Terminal 1 → Terminal 2";
+"transfer_path_t1_3_desc_1" = "① Arrival Gate(2F)";
+"transfer_path_t1_3_desc_2" = "② Transfer Security Check(2F → 3F)";
+"transfer_path_t1_3_desc_3" = "③ Follow the Green Signage(101~270)";
+"transfer_path_t1_3_desc_4" = "④ Shuttle Train Blue line(B1)";
+"transfer_path_t1_3_desc_5" = "⑤ Follow the Green Signage(230~270)";
+"transfer_path_t1_3_desc_6" = "⑥ Auto Transfer Gate(B1)";
+"transfer_path_t1_3_desc_7" = "⑦ Shuttle Train Orange line (B1)";
+"transfer_path_t1_3_desc_8" = "⑧ Transfer Desk(4F)";
+"transfer_path_t1_3_desc_9" = "⑨ Departure Gate(3F)";
+
+"transfer_path_con_title_1" = "Concourse → Concourse";
+"transfer_path_con_1_desc_1" = "① Arrival Gate(2F)";
+"transfer_path_con_1_desc_2" = "② Follow the Green Signage(101~270)";
+"transfer_path_con_1_desc_3" = "③ Transfer Security Check(2F → 3F)";
+"transfer_path_con_1_desc_4" = "④ Transfer Desk(4F)";
+"transfer_path_con_1_desc_5" = "⑤ Departure Gate(3F)";
+"transfer_path_con_title_2" = "Concourse → Terminal 1";
+"transfer_path_con_2_desc_1" = "① Arrival Gate(2F)";
+"transfer_path_con_2_desc_2" = "② Follow the Green Signage(1~50)";
+"transfer_path_con_2_desc_3" = "③ Shuttle Train Blue line(B1)";
+"transfer_path_con_2_desc_4" = "④ Transfer Security Check(2F)";
+"transfer_path_con_2_desc_5" = "⑤ Transfer Desk(4F)";
+"transfer_path_con_2_desc_6" = "⑥ Departure Gate(3F)";
+"transfer_path_con_title_3" = "Concourse → Terminal 2";
+"transfer_path_con_3_desc_1" = "① Arrival Gate(2F)";
+"transfer_path_con_3_desc_2" = "② Follow the Green Signage(101~270)";
+"transfer_path_con_3_desc_3" = "③ Transfer Security Check(2F → 3F)";
+"transfer_path_con_3_desc_4" = "④ Follow the Green Signage(230~270)";
+"transfer_path_con_3_desc_5" = "⑤ Auto Transfer Gate(3F)";
+"transfer_path_con_3_desc_6" = "⑥ Shuttle Train Orange line (B1)";
+"transfer_path_con_3_desc_7" = "⑦ Transfer Desk(4F)";
+"transfer_path_con_3_desc_8" = "⑧ Departure Gate(3F)";
+
+"transfer_path_t2_title_1" = "Terminal 2 → Terminal 2";
+"transfer_path_t2_1_desc_1" = "① Arrival Gate(2F)";
+"transfer_path_t2_1_desc_2" = "② Follow the Green Signage(230~270)";
+"transfer_path_t2_1_desc_3" = "③ Transfer Desk(2F)";
+"transfer_path_t2_1_desc_4" = "④ Auto Transfer Gate(2F)";
+"transfer_path_t2_1_desc_5" = "⑤ Transfer Security Check(2F → 3F)";
+"transfer_path_t2_1_desc_6" = "⑥ Departure Gate(3F)";
+"transfer_path_t2_title_2" = "Terminal 2 → Concourse";
+"transfer_path_t2_2_desc_1" = "① Arrival Gate(2F)";
+"transfer_path_t2_2_desc_2" = "② Follow the Green Signage(1~132)";
+"transfer_path_t2_2_desc_3" = "③ Auto Transfer Gate(2F)";
+"transfer_path_t2_2_desc_4" = "④ Shuttle Train Orange line (B1)";
+"transfer_path_t2_2_desc_5" = "⑤ Follow the Green Signage(101~132)";
+"transfer_path_t2_2_desc_6" = "⑥ Auto Transfer Gate(B1)";
+"transfer_path_t2_2_desc_7" = "⑦ Transfer Security Check(2F → 3F)";
+"transfer_path_t2_2_desc_8" = "⑧ Transfer Desk(3F)";
+"transfer_path_t2_2_desc_9" = "⑨ Departure Gate(3F)";
+"transfer_path_t2_title_3" = "Terminal 2 → Terminal 1";
+"transfer_path_t2_3_desc_1" = "① Arrival Gate(2F)";
+"transfer_path_t2_3_desc_2" = "② Follow the Green Signage(1~132)";
+"transfer_path_t2_3_desc_3" = "③ Auto Transfer Gate(2F)";
+"transfer_path_t2_3_desc_4" = "④ Shuttle Train Orange line (B1)";
+"transfer_path_t2_3_desc_5" = "⑤ Follow the Green Signage(1~50)";
+"transfer_path_t2_3_desc_6" = "⑥ Auto Transfer Gate(B1)";
+"transfer_path_t2_3_desc_7" = "⑦ Shuttle Train Blue line(B1)";
+"transfer_path_t2_3_desc_8" = "⑧ Transfer Security Check(2F → 3F)";
+"transfer_path_t2_3_desc_9" = "⑨ Transfer Desk(4F)";
+"transfer_path_t2_3_desc_10" = "⑩ Departure Gate(3F)";
+
+/* transfer tour */
+"transfer_tour_title_1" = "Entertainment";
+"transfer_tour_title_2" = "Modern Life";
+"transfer_tour_title_3" = "Temple";
+"transfer_tour_title_4" = "Industry";
+"transfer_tour_title_5" = "Tradition";
+"transfer_tour_title_6" = "Shopping";
+
+"transfer_tour_1_desc_1" = "Near the Airport, enjoy the casino with a free $70 coupon in Paradise City  lled with more than 2,700 artworks Or Get on your dream car in the Asia’s  rst driving center of BMW which exhibits BMWs, MINIs, Motorrads and BMW’s classical cars.";
+"transfer_tour_1_sub_title_1" = "Paradise City";
+"transfer_tour_1_sub_1_desc_1" = "- (T1) 07:00~09:00 / 13:00~15:00";
+"transfer_tour_1_sub_1_desc_2" = "- (T2) 09:00~11:00 / 15:00~17:00";
+"transfer_tour_1_sub_title_2" = "BMW Driving Center";
+"transfer_tour_1_sub_2_desc_1" = "- (T1) 09:00~11:00 / 12:00~14:00";
+"transfer_tour_1_sub_2_desc_2" = "- (T2) 15:00~17:00";
+
+"transfer_tour_2_desc_1" = "G-Tower is one of the most popular landmarks of Incheon. The obser- vatory on the 33rd  oor boasts magni cent 360-degree panoramic views of Songdo International City. NC Cube Canal Walk has colorful and unique cafés, brand stores and the venues where cultural events and performances are held.";
+"transfer_tour_2_sub_title_1" = "(T1)14:00~16:00";
+"transfer_tour_2_sub_title_2" = "(T2)16:00~18:00";
+
+"transfer_tour_3_desc_1" = "Jeondeungsa Temple is a presti- gious temple that holds a beautiful Main Buddha Hall designated as Treasure No. 178 of Korea. Jogye- sa is the chief temple of the Jogye Order of Korean Buddhism, and the center of Korea’s modern Buddhist movement. The Main Temple boasts splendid ornaments and golden Bud- dha statues.";
+"transfer_tour_3_sub_title_1" = "(T1/T2) 08:00~12:00";
+"transfer_tour_3_sub_title_2" = "(T1/T2) 14:00~18:00";
+
+"transfer_tour_4_desc_1" = "Gwangmyeong Cave is a historic place that preserves the modern- ization of Korea. It transformed the industrial heritage of abandoned gold mine into the culture, arts and healing spaces. The mine was closed down in 1972 but it is estimated that the cave still has a sizable amount of gold deposits.";
+"transfer_tour_4_sub_title_1" = "(T1/T2) 09:00~13:00";
+
+"transfer_tour_5_desc_1" = "Gyeongbokgung Palace, completed in 1395, was the  rst royal palace built by the Joseon Dynasty. It was constructed about 25 years earlier than the Forbidden City in Beijing, China. Insa-dong, a popular neigh- borhood located in Jongno, is home to antique shops, folk art galleries and small shops selling traditional goods.";
+"transfer_tour_5_sub_title_1" = "(T1/T2) 08:00~13:00";
+"transfer_tour_5_sub_title_2" = "(T1/T2) 10:00~15:00";
+
+"transfer_tour_6_desc_1" = "Myeong-dong is one of the most popular shopping districts in Seoul where international tourists can experience Korea’s latest fashion trends and various street foods. Namdaemun Market is the largest traditional market in Korea and the streets are  lled with small shops that sell from clothes to ginseng, and much more at cheap prices.";
+"transfer_tour_6_sub_title_1" = "(T1/T2) 13:00~18:00";
+
+/* favorite */
+"favorite_category_1" = "All";
+"favorite_category_2" = "Shopping & Dining";
+"favorite_category_3" = "Amenities";
+"favorite_category_4" = "Public Transportation";
+"favorite_no_result_1" = "No 'bookmark' registered.";
+"favorite_no_result_2" = "Please bookmark frequently visited places for your convenience.";
+
+/* staff - shuttle bus */
+"staff_shuttle_category_1" = "T1 <-> Long-term Parking lot";
+"staff_shuttle_category_2" = "AICC <-> T1 <-> T2";
+"staff_shuttle_category_3" = "Cargo Terminal <-> Logistics Complex";
+"staff_shuttle_category_4" = "T2 <-> Long-term Parking lot";
+
+"shuttle_bus_predic_time" = "Departure after";
+"shuttle_bus_time_hour" = "Hours";
+"shuttle_bus_time_etc" = "Note";
+"shuttle_bus_time_min" = "Min";
+"shuttle_bus_time_weekday" = "Weekday";
+"shuttle_bus_time_weekend" = "Weekend";
+
+/* 직원버스 예약 */
+"staff_bus_category_1" = "노선버스 예매";
+"staff_bus_category_2" = "운행정보";
+"staff_bus_category_3" = "이용안내";
+"staff_bus_category_4" = "고객지원";
+
+"staff_bus_reserve_link_1" = "승차권예매";
+"staff_bus_reserve_link_2" = "예매조회 / 취소 / 변경";
+"staff_bus_reserve_link_3" = "영수증 발행";
+"staff_bus_route_info_link_1" = "노선 / 운행정보";
+"staff_bus_info_link_1" = "승차권예매 안내";
+"staff_bus_info_link_2" = "예매변경 및 취소 안내";
+"staff_bus_info_link_3" = "현금영수증 안내";
+"staff_bus_help_1" = "공지사항";
+"staff_bus_help_2" = "FAQ";
+"staff_bus_help_3" = "고객의 소리";
+
+/* 입주자지원센터 */
+"tsp_section_title_1" = "운영목적";
+"tsp_section_desc_1" = "인천공항 내 입주부터 퇴거까지 원스톱서비스 지원";
+"tsp_section_title_2" = "위치";
+"tsp_section_desc_2" = "제1교통센터 내 지하1층 서편\n제2교통센터 내 지하2층 서편";
+"tsp_section_title_3" = "운영시간";
+"tsp_section_desc_3" = "08:00 ~ 19:00 (토/일/공휴일 휴무)";
+"tsp_section_title_4" = "관련문의(운영시간만 통화가능)";
+"tsp_section_title_5" = "시설물 유지보수 상담(24시간 운영)";
+"tsp_section_title_6" = "건축 유지보수";
+"tsp_section_title_7" = "기계 유지보수";
+"tsp_section_title_8" = "전기 유지보수";
+"tsp_section_title_9" = "통신 유지보수(전지역)";
+"tsp_section_title_10" = "자유무역지원(건축, 기계, 전기)";
+"tsp_section_title_11" = "입주자 전용서비스 신청";
+"tsp_section_link_4_1" = "T1 입주자서비스센터";
+"tsp_section_link_4_2" = "T2 입주자서비스센터";
+"tsp_section_link_4_3" = "공간배정";
+"tsp_section_link_4_4" = "계약진행";
+"tsp_section_link_4_5" = "정기주차권";
+"tsp_section_link_4_6" = "전화 / LAN / TV";
+"tsp_section_link_4_7" = "시설물 설치변경 상담(총괄)";
+"tsp_section_link_call_4_1" = "032-741-3301";
+"tsp_section_link_call_4_2" = "032-741-3535";
+"tsp_section_link_call_4_3" = "032-741-2402";
+"tsp_section_link_call_4_4" = "032-741-2323";
+"tsp_section_link_call_4_5" = "032-741-6021";
+"tsp_section_link_call_4_6" = "032-741-7000";
+"tsp_section_link_call_4_7" = "032-741-3303";
+"tsp_section_link_5_1" = "공항 헬프데스크";
+"tsp_section_link_call_5_1" = "1577-2600";
+"tsp_section_link_6_1" = "제1여객터미널 / 제1교통센터";
+"tsp_section_link_6_2" = "제2여객터미널 / 제2교통센터";
+"tsp_section_link_6_3" = "탑승동";
+"tsp_section_link_6_4" = "정부합동청사";
+"tsp_section_link_call_6_1" = "032-741-7520";
+"tsp_section_link_call_6_2" = "032-744-6705";
+"tsp_section_link_call_6_3" = "032-741-9173";
+"tsp_section_link_call_6_4" = "032-744-7407";
+"tsp_section_link_7_1" = "제1여객터미널";
+"tsp_section_link_7_2" = "제2여객터미널";
+"tsp_section_link_7_3" = "탑승동";
+"tsp_section_link_7_4" = "제1교통센터";
+"tsp_section_link_7_5" = "제2교통센터";
+"tsp_section_link_7_6" = "제1정부합동청사";
+"tsp_section_link_7_7" = "제2정부합동청사";
+"tsp_section_link_call_7_1" = "032-741-7540";
+"tsp_section_link_call_7_2" = "032-744-6850";
+"tsp_section_link_call_7_3" = "032-741-9170";
+"tsp_section_link_call_7_4" = "032-741-7411";
+"tsp_section_link_call_7_5" = "032-744-6728";
+"tsp_section_link_call_7_6" = "032-741-6768";
+"tsp_section_link_call_7_7" = "032-744-5475";
+"tsp_section_link_8_1" = "제1여객터미널";
+"tsp_section_link_8_2" = "제2여객터미널 / 제2교통센터";
+"tsp_section_link_8_3" = "탑승동";
+"tsp_section_link_8_4" = "제1교통센터";
+"tsp_section_link_8_5" = "제1정부합동청사";
+"tsp_section_link_call_8_1" = "032-741-7524";
+"tsp_section_link_call_8_2" = "032-744-7448";
+"tsp_section_link_call_8_3" = "032-741-9168";
+"tsp_section_link_call_8_4" = "032-741-7524";
+"tsp_section_link_call_8_5" = "032-741-7031";
+"tsp_section_link_9_1" = "인터넷";
+"tsp_section_link_9_2" = "전화, CATV";
+"tsp_section_link_call_9_1" = "032-741-0000";
+"tsp_section_link_call_9_2" = "032-741-4707";
+"tsp_section_link_10_1" = "통합";
+"tsp_section_link_call_10_1" = "032-741-1300";
+"tsp_section_link_11_1" = "입주자 전용서비스 신청 포털(회원가입필수)";
+
+/* bluetooth */
+"bluetooth_fail_title" = "Bluetooth";
+"bluetooth_fail_message" = "Turning on the Bluetooth\n for location-based services.";
+"beacon_fail_message" = "Unable to turn on Bluetooth due to an error.";
+
+/* beacon */
+"beacon_noti_service" = "Location-based notification service is in use.";
+"beacon_noti_sub_service" = "(You can stop using it by pressing notification button)";
+"beacon_welcome_t1" = "Welcome to Terminal 1.";
+"beacon_welcome_t2" = "Welcome to Terminal 2.";
+"beacon_welcome_zdc_desc" = "'%@' for a better,\nmore convenient experience";
+"beacon_checkin_zdc_desc" = "We hope your experience at Inchon Airport is enjoyable.";
+"beacon_zzz_t1" = "This is Passenger Terminal 1";
+"beacon_zzz_t2" = "This is Passenger Terminal 2";
+"beacon_zzz_flight" = "Flight No.";
+"beacon_zzz_t1_desc" = "Your flight departs from %@. Please make sure you know how to transfer between terminals.";
+"beacon_zzz_t2_desc" = "Your flight departs from Terminal 1. Please make sure you know how to transfer between terminals.";
+"beacon_zzz_bus_stop" = "Bus stop";
+"beacon_zzz_bus_stop_t1" = "1st Passenger Terminal 3F\nCentral exit 8";
+"beacon_zzz_bus_stop_t2" = "Between the 4th and 5th\nexit of the 3rd floor of the\n2nd passenger terminal";
+"beacon_change_color_t1" = "Terminal 1";
+"beacon_change_color_t2" = "Terminal 2";
+
+"beacon_button_myplan" = "View Myschedule";
+"beacon_button_move_terminal" = "Move between terminals";
+"beacon_button_traffic" = "Traffic Information";
+
+"beacon_zdd_change_color_text" = "the Duty-Free Area";
+"beacon_zdd_title" = "This is %@.";
+"beacon_zdd_desc_1" = "Please check your Boarding Information and arrive at your gate with time to spare.";
+"beacon_zdd_desc_2" = "Duty-free shop coupons are available.\nEnjoy your duty-free shopping\nPlease check My Schedule right away.";
+
+"beacon_zab_change_color_text" = "your passport and immigration documents";
+"beacon_zab_carousel" = "Baggage claim";
+"beacon_zab_desc_1" = "Please prepare your passport and immigration documents for immigration services.";
+"beacon_zab_desc_2" = "Transferring Passengers - Please follow directions and move on to the transferring area";
+
+"beacon_zat_title" = "Have a safe trip back home!";
+"beacon_zat_desc" = "We look forward to\nseeing you again.";
+
+/* my plan */
+"myplan_employee_list_header_time" = "Time";
+"myplan_delete_msg" = "My Flight Schedule was deleted.";
+"myplan_no_result_msg_1" = "Your plan is not yet registered.";
+"myplan_no_result_msg_2" = "Registering your flight information will make your use of the airport more convenient.";
+"myplan_select_delete" = "Delete selected";
+"myplan_all_delete" = "Delete All";
+"myplan_close" = "This is a closed Scheduled";
+"myplan_select_delete_popup_msg" = "Do you want to delete the selected my flight from the 'Schedule' menu?";
+"myplan_all_delete_popup_msg" = "Do you want to delete the all my flight from the 'Schedule' menu?";
+
+"myplan_card_header_dep_date" = "Departures Date&hour";
+"myplan_card_header_arr_date" = "Arrivals Date&hour";
+"myplan_card_header_carousel" = "Bag";
+"myplan_card_header_exit" = "Exit";
+
+"myplan_card_close" = "This is a closed Scheduled";
+
+"myplan_passenger_incheon" = "INCHEON";
+
+"myplan_passenger_via" = "via";
+"myplan_passenger_dep_weather" = "Destination weather";
+"myplan_passenger_arr_weather" = "Origin weather";
+
+"myplan_passenger_dep_con_title_1" = "Departure Hall Congestion";
+"myplan_passenger_dep_con_desc_1" = "You are scheduled to depart via %@";
+"myplan_passenger_dep_con_desc_2" = "There will be no passenger notification for the Fast-Track.";
+"myplan_passenger_dep_con_desc_3" = "Displayed on departure date";
+"myplan_passenger_dep_con_desc_4" = "Congestion Alert Criteria";
+"myplan_passenger_dep_con_btn_1" = "Passenger Traffic";
+
+"myplan_passenger_dep_con_smooth" = "Smooth";
+"myplan_passenger_dep_con_ordinary" = "Ordinary";
+"myplan_passenger_dep_con_crowded" = "Crowded";
+"myplan_passenger_dep_con_very_crowded" = "Very Crowded";
+
+"myplan_passenger_parking_notice" = "※ Parking information is provided in accordance with log-in date and time.";
+
+"myplan_passenger_dep_pre_departure_title" = "Pre-Departure Check";
+"myplan_passenger_dep_pre_departure_desc" = "For faster and conveient departure, you can see\nProhibition Item List and Declaration Information in advance.";
+"myplan_passenger_dep_pre_departure_btn_1" = "Prohibited Items";
+"myplan_passenger_dep_pre_departure_btn_2" = "Baggage Check";
+"myplan_passenger_dep_pre_departure_btn_3" = "Quarantine Inspection";
+"myplan_passenger_dep_pre_departure_btn_4" = "Conscription Status Declaration";
+
+"myplan_passenger_dep_hall_title" = "Hall";
+"myplan_passenger_dep_hall_desc_1" = "Please prepare for boarding at %@.";
+"myplan_passenger_dep_hall_desc_2" = "Your check-in counter is";
+"myplan_passenger_dep_hall_desc_3" = "";
+"myplan_passenger_dep_hall_desc_4" = "Have you checked Exchange/ATM, Roaming Data, Travel Insurance?";
+"myplan_passenger_dep_hall_btn_1" = "Currency Exchange";
+"myplan_passenger_dep_hall_btn_2" = "Roaming Data";
+"myplan_passenger_dep_hall_btn_3" = "Insurance";
+
+"myplan_passenger_dep_5_title" = "Please check real-time congestion level.";
+
+"myplan_passenger_dep_6_title" = "Security Check / Departure Immigration";
+"myplan_passenger_dep_6_desc_1" = "You must go through security and the immigration processs.";
+"myplan_passenger_dep_6_btn_1" = "Prohibited Items";
+"myplan_passenger_dep_6_desc_2" = "Please make sure you don't possess prohibited items, and prepare your passport and boarding pass";
+
+"myplan_passenger_dep_7_title_1" = "This is the Duty-Free Area";
+"myplan_passenger_dep_7_title_2" = "Duty-free Zone";
+"myplan_passenger_dep_7_desc" = "You can enjoy Duty-Free Shopping and Amenities.";
+"myplan_passenger_dep_7_btn_1" = "# Duty-Free Shopping";
+"myplan_passenger_dep_7_btn_2" = "# Duty-Free Pickup Counter";
+"myplan_passenger_dep_7_btn_3" = "# Cafeteria";
+"myplan_passenger_dep_7_btn_4" = "# Amenities";
+
+"myplan_passenger_coupon" = "Coupon Box";
+
+"myplan_passenger_dep_8_title" = "Boarding Gate Information";
+"myplan_passenger_dep_8_desc_1" = "Please go to Gate";
+"myplan_passenger_dep_8_desc_2" = "for your Flight.";
+"myplan_passenger_dep_8_desc_3" = "Estimated Time of Departure  %@.";
+"myplan_passenger_dep_8_desc_3_con" = "Please go to the concourse via shuttle train 30 mins before take-off.";
+"myplan_passenger_dep_8_desc_4" = "Boarding will begin 30 mins before take-off.\nPlease arrive at the Gate on time.";
+"myplan_passenger_dep_8_desc_4_con" = "Boarding will begin 30 ~ 40 mins before take-off.\nPlease arrive at the Gate on time.";
+
+"myplan_passenger_dep_9_title" = "Welcome to the Boarding Gate";
+"myplan_passenger_dep_9_desc" = "Have a safe flight!";
+
+"myplan_passenger_register_warning" = "There is a schedule registered on the same day.\nPlease delete and re-register.";
+
+"myplan_passenger_arr_1_title" = "Gate";
+"myplan_passenger_arr_1_desc" = "Welcome.\nIncheon International Airport.";
+
+"myplan_passenger_arr_2_title" = "Preparing For Immigration";
+"myplan_passenger_arr_2_desc_1" = "If you have visited a contaminated area or brought animal/livestock, please submit a certificate of quarantine.";
+"myplan_passenger_arr_2_btn_1" = "# Animal/Plant Quarantine";
+"myplan_passenger_arr_2_desc_2" = "You must go through the immigration processs. Please prepare your passport.\nUnregistered foreigners should prepare a landing card.";
+"myplan_passenger_arr_2_btn_2" = "# Immigration Service";
+"myplan_passenger_arr_2_desc_3" = "All passengers must submit a customs declaration form.\nDuty-Free limit is Please report if your duty-free shopping belongings exceed USD $600.";
+"myplan_passenger_arr_2_btn_3" = "# Customs";
+
+"myplan_passenger_arr_4_desc_1" = "We arrive at %@ Incheon International Airport.";
+"myplan_passenger_arr_4_desc_1_con" = "Passengers from Gates Terminal 1 should use the shuttle on the basement floor of the concourse to transfer to";
+"myplan_passenger_arr_4_desc_2" = "After the immigration service please move to your baggage claim.";
+
+"myplan_passenger_arr_5_title" = "Baggage Claim";
+"myplan_passenger_arr_5_desc_1" = "Please go to Carousel";
+"myplan_passenger_arr_5_desc_2" = "to claim your baggage.";
+
+"myplan_passenger_arr_6_title" = "Customs";
+"myplan_passenger_arr_6_desc" = "All passengers must submit a customs declaration form.";
+
+"myplan_passenger_arr_7_title" = "Arrival Hall";
+"myplan_passenger_arr_7_desc_1" = "The nearest Arrival Hall from your location is Gate ";
+"myplan_passenger_arr_7_desc_2" = "";
+
+"myplan_passenger_arr_8_title" = "Back Home";
+"myplan_passenger_arr_8_desc" = "Please check Public Transport Information and have a safe trip back home.";
+"myplan_passenger_arr_8_btn_1" = "BUS";
+"myplan_passenger_arr_8_btn_2" = "AREX";
+"myplan_passenger_arr_8_btn_3" = "Parking";
+
+"push_popup_flight_detail" = "View Details";
+
+"search_title" = "Search";
+"search_input_hint" = "Please enter keyword.";
+"search_button" = "Search";
+"search_keyword_warning" = "Please enter at least (4) digits for Unified Search.";
+"search_recent_keyword_title" = "Recent searches";
+"search_result_title" = "Search Result";
+"search_no_result" = "No search results found.";
+
+"search_category_10" = "Flight info| Departures";
+"search_category_20" = "Flight info| Arrivals";
+"search_category_50" = "Shopping| Terminal 1";
+"search_category_60" = "Shopping| Terminal 2";
+"search_category_70" = "Restaurants/Cafés| Terminal 1";
+"search_category_80" = "Restaurants/Cafés| Terminal 2";
+"search_category_90" = "Coupon| Coupon";
+"search_category_91" = "Coupon| Dutyfree Coupon";
+"search_category_100" = "Coupon| Transfer Coupon";
+"search_category_110" = "Rest| Terminal 1";
+"search_category_120" = "Rest| Terminal 2";
+"search_category_130" = "Medical/Health| Terminal 1";
+"search_category_140" = "Medical/Health| Terminal 2";
+"search_category_150" = "Finance/Insurance| Terminal 2";
+"search_category_160" = "Other amenities| Terminal 1";
+"search_category_170" = "Other amenities| Terminal 2";
+"search_category_180" = "Finance/Insurance| Terminal 1";
+"search_category_190" = "Transport| Bus";
+"search_category_250" = "Mobility handicapped";
+"search_category_300" = "Departure";
+"search_category_310" = "Arrival";
+"search_category_320" = "Government agency| Terminal 1";
+"search_category_330" = "Government agency| Terminal 2";
+"search_category_340" = "Moving between terminals";
+"search_category_380" = "Transfer/Transit";
+"search_category_410" = "Transport";
+"search_category_420" = "Parking";
+
+/* pre information push */
+"pre_information_push_title" = "Departure Hall Congestion";
+"pre_information_push_title_1" = "Departure Info";
+"pre_information_push_prohibit" = "Prohibited items\nin the checked Baggage";
+"pre_information_push_prohibit_1" = "Lithium Battery,\nE-Cigarette, Lighter";
+"pre_information_push_desc" = "As the airport may be crowded, please be sure to arrive well in advance of your flight.";
+"pre_information_push_desc_1" = "";
+
+"pre_congestion_good" = "good";
+"pre_congestion_generally" = "generally";
+"pre_congestion_little_congested" = "a little congested";
+"pre_congestion_congested" = "congested";
+"pre_congestion_very_congested" = "very congested";
+
+/* share popup */
+"popup_share_show_web" = "View Incheon Airport web site";
+"popup_share_show_web_url" = "https://play.google.com/store/apps/details?id=com.ubivelox.icairport";
+"popup_share_show_app" = "View Incheon Airport app";
+"popup_share_content_image_url" = "http://incheonairportguide.airport.kr:11000/images/logo/IncheonAirportLogo.jpg";
+"popup_share_content_web_url" = "https://play.google.com/store/apps/details?id=com.ubivelox.icairport";
+
+"popup_share_bus_title" = "Do you want to check bus %@ details?";
+"popup_share_arex_title" = "Are you sure you want to check Airport Railroad information?";
+"popup_share_taxi_title" = "Do you want to check the taxi information?";
+"popup_share_maglev_title" = "Do you want to check maglev train information?";
+"popup_share_shuttle_bus_title" = "Do you want to check the shuttle bus information?";
+
+"popup_share_shopping_title" = "Do you want to check shopping information?";
+"popup_share_food_title" = "Do you want to check food & beverage store information?";
+"popup_share_coupon_title" = "Would you like to check your coupon information?";
+"popup_share_rest_title" = "Do you want to check break time information?";
+"popup_share_medical_title" = "Do you want to check the information on the medical institution?";
+"popup_share_finance_title" = "Do you want to see financial / insurance store information?";
+"popup_share_convenience_title" = "Do you want to check the amenities information?";
+
+/* covid-19 */
+"not_operated" = "Closing";
+
+"prohibited_item" = "Prohibited Items";
+"prohibited_item_desc_1" = "The below information is for reference only. Please check with the corresponding airline/institution/facility for accuracy.";
+"prohibited_item_btn_title" = "Advanced Search on Prohibited Carry-on Items";
+"prohibited_item_btn_desc" = "Transportation Safety Authority website";
+
+"prohibited_item_title_1" = "Liquid";
+"prohibited_item_title_1_desc_1" = "Toiletries or medical items in liquid, spray, or gel form";
+"prohibited_item_title_1_desc_1_1" = "Carried on Board";
+"prohibited_item_title_1_desc_1_2" = "(Only passengers on international flights allowed to carry liquids in containers smaller than 100㎖ placed in sealable clear plastic bag under 1ℓ (20.5cm * 20.5cm / 15cm * 25cm) 1 bag per person)";
+"prohibited_item_title_1_desc_1_3" = "Checked bag";
+"prohibited_item_title_1_desc_1_4" = "(Only passengers on international flights allowed to check liquids in containers smaller than 500ml(0.5kg) with total liquid items up to 2L(2kg))";
+"prohibited_item_title_1_desc_2" = "All food items with liquid and pepper paste/ kimchi";
+"prohibited_item_title_1_desc_2_1" = "Carried on Board";
+"prohibited_item_title_1_desc_2_2" = "(Food items with liquid such as pepper paste and kimchi are prohibited on flight. Dry foods are allowed on board.)";
+"prohibited_item_title_1_desc_2_3" = "Checked bag";
+"prohibited_item_title_1_desc_2_4" = "(No restriction on amount)";
+
+"prohibited_item_title_2" = "Hazardous Items";
+"prohibited_item_title_2_desc_1" = "Sharp objects";
+"prohibited_item_title_2_desc_1_1" = "Carried on Board";
+"prohibited_item_title_2_desc_1_2" = "Checked bag";
+"prohibited_item_title_2_desc_1_3" = "(Exception: plastic knife, butter knife with a round edge, shaver with safety blade, electric shaver, and airline-use knives (provided by the airline) can be carried on board.";
+"prohibited_item_title_2_desc_2" = "Taser, firearms, and other self-defense weapons";
+"prohibited_item_title_2_desc_2_1" = "Carried on Board";
+"prohibited_item_title_2_desc_2_2" = "Checked bag";
+"prohibited_item_title_2_desc_2_3" = "(When checked with baggage, the airline must verify firearm license and other related documents, separate ammunition from firearm, and package them securely before shipping them off.) (Panoramic sight is allowed on board or in checked baggage)";
+"prohibited_item_title_2_desc_3" = "Tools(hammer, wrench, etc.)";
+"prohibited_item_title_2_desc_3_1" = "Carried on Board";
+"prohibited_item_title_2_desc_3_2" = "Checked bag";
+
+"prohibited_item_title_3" = "Hazardous items";
+"prohibited_item_title_3_desc_1" = "Lithium batteries, etc.";
+"prohibited_item_title_3_desc_1_1" = "Carried on Board";
+"prohibited_item_title_3_desc_1_2" = "- Portable battery under 100Wh : Portable battery under 100Wh\n- Portable battery over 100Wh, under 160Wh : 2 per person\n- Portable battery over 160Wh : Not allowed on board \n※ The above standard is based on Korean Air regulations. Check with your own airlines for accurate information.";
+"prohibited_item_title_3_desc_1_3" = "Checked bag";
+"prohibited_item_title_3_desc_2" = "Inflammable gas/liquid, radioactive matter, etc.";
+"prohibited_item_title_3_desc_2_1" = "Carried on Board";
+"prohibited_item_title_3_desc_2_2" = "Checked bag";
+
+"prohibited_item_faq" = "FAQ";
+"prohibited_item_faq_1" = "프라이팬, 냄비, 전기밥솥 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_1_desc" = "프라이팬, 냄비, 전기밥솥은 기내 반입이 가능합니다. 단, 항공사와 도착지에 따라 반입 규정이 상이할 수 있사오니 기내 수하물 허용규격에 대해 이용하시는 항공사에 사전 문의하시기 바랍니다.";
+"prohibited_item_faq_2" = "등산용 스틱을 기내 반입할 수 있나요?";
+"prohibited_item_faq_2_desc" = "등산용 스틱은 기내 반입이 가능하나, 끝이 날카로울 경우 객실 반입에 제한을 받을 수 있으니 위탁수하물(부치는 짐)로 처리하는 것을 권장합니다. 단, 산악용 망치의 경우 객실 반입이 금지되며 위탁수하물로 반입 가능합니다.";
+"prohibited_item_faq_3" = "카메라 삼각대, 셀카봉을 기내 반입할 수 있나요?";
+"prohibited_item_faq_3_desc" = "셀카봉 및 삼각대를 기내 반입 가능하나, 끝이 날카로울 경우 객실 반입에 제한을 받을 수 있으니 위탁수하물(부치는 짐)로 처리하는 것을 권장합니다.";
+"prohibited_item_faq_4" = "살아있는 동 식물, 과일 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_4_desc" = "살아있는 동 식물은 운송 내용을 증명할 수 있는 서류와 운송자의 신원을 확인하며, 항공사 동의 서류가 없을 경우 검색대 통과를 불허합니다. 또한 동물의 경우 X-ray 검색대에 투입하지 않고 우리(cage)에서 꺼낸 후, 동물과 우리(cage)를 정밀 검색(수검색 등)합니다.'멸종위기에 처한 야생 동 식물종의 국제거래에 관한 협약(CITES)'에서 보호하는 동 식물 및 이를 사용하여 만든 제품 및 가공품 역시 반입이 제한됩니다.";
+"prohibited_item_faq_4_call" = "※ 문의처: 인천공항 검역소(032-740-2660)";
+"prohibited_item_faq_4_call_number" = "032-740-2660";
+"prohibited_item_faq_5" = "술을 기내 반입할 수 있나요?";
+"prohibited_item_faq_5_desc" = "알코올성 음료는 도수에 따라 반입이 제한됩니다.\n- 24도(%) 미만: 객실 및 위탁수하물로 반입 가능\n- 24도(%) 이상 70도(%) 미만: 위탁수하물로 1인당 5L까지 반입 가능\n- 70도(%) 이상: 객실 및 위탁수하물 반입이 불가능\n단, 객실 반입하실 경우 액체 분무 겔류 규정에 의하여 용량에 따라 반입이 제한되오니 확인바랍니다.\n* 액체 겔 분무류 규정: 객실 반입할 경우 개별 100ml 이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 1인당 1L 투명 비닐 지퍼백 1개에 한해 반입 가능";
+"prohibited_item_faq_6" = "공구류를 기내 반입할 수 있나요?";
+"prohibited_item_faq_6_desc" = "공구류는 위해물품으로 분류되어 객실 반입이 불가능하며 위탁수하물 반입만 가능합니다.";
+"prohibited_item_faq_7" = "아이스팩, 아이스박스를 기내 반입할 수 있나요?";
+"prohibited_item_faq_7_desc" = "아이스팩의 경우 액체 분무 겔류 규정에 의하여 용량에 따라 반입이 제한되며, 액체를 포함하지 않는 아이스박스는 객실 및 위탁수하물로 반입 가능합니다.\n* 액체 겔 분무류 규정: 객실 반입할 경우 개별 용기당 100ml 이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 1인당 1L 투명비닐지퍼백 1개에 한해 반입 가능, 위탁 수하물(부치는 짐) 용량 제한 없이 반입 가능 합니다. 단, 드라이아이스는 기내 반입을 위하여 항공사의 승인이 필요하오니 이용하시는 항공사에 문의하시기 바랍니다.";
+"prohibited_item_faq_8" = "외화나 값비싼 물건, 다량의 핸드폰을 기내 반입할 수 있나요?";
+"prohibited_item_faq_8_desc" = "출국 시, 1만 불을 초과하는 금액에 대해서 세관에 신고 후 외국환 신고 확인필증을 구비하셔야하며 값비싼 물건(USD 600이상)의 경우 세관신고대에 휴대물품 반출 신고(확인)서를 작성해야 합니다. 다량의 핸드폰 역시 세관의 반출 확인을 받아야 합니다.\n※ 문의처: 인천공항 세관(032-722-4422)";
+"prohibited_item_faq_9" = "칼을 기내 반입할 수 있나요?";
+"prohibited_item_faq_9_desc" = "칼은 위해물품으로 분류되어 날 길이에 상관없이 객실 반입이 불가하며 위탁수하물로 반입이 가능합니다.";
+"prohibited_item_faq_10" = "유독성 물질 등 위험물 반입 시 어디로 문의하면 되나요?";
+"prohibited_item_faq_10_desc" = "인화성, 화학성, 유독성 물질 등은 원칙상 기내 및 위탁수하물 반입이 금지됩니다. 단, '항공위험물 운송기술기준'에서 정한 안전 요건을 충족한 후 산업안전보건법 에 따른 물질안전보건자료를 해당 항공사에게 제시하여 안전한 물질로 판단되는 경우에 한해 위탁수하물로 반입이 가능합니다. 관련 절차는 이용하시는 항공사에 문의하시기 바랍니다.";
+"prohibited_item_faq_11" = "유골을 기내 반입할 수 있나요?";
+"prohibited_item_faq_11_desc" = "X-ray 검색에서 손상 위험이 있는 유골, 유해 등은 증명 서류(화장증명서, 사망확인서 등)를 구비하시고 보안검색요원에게 확인 바랍니다. 반입 가능 여부에 대해서는 이용하시는 항공사에 사전 문의하셔야 합니다.";
+"prohibited_item_faq_12" = "배터리(리튬이온배터리, 니켈카드뮴 등)를 기내 반입할 수 있나요?";
+"prohibited_item_faq_12_desc" = "알칼라인 종류의 배터리에 대해서는 기내 수하물 및 위탁 수하물 처리 가능하나, 리튬배터리인 경우는 용량에 따라 반입이 제한됩니다.\n- 0Wh∼100Wh: 반입 가능하나 항공사별 허용개수 상이함\n- 100Wh∼160Wh: 항공사 승인 하에 객실로 1인당 2개 반입 가능\n- 160Wh 초과: 반입 불가\n※ 항공사와 도착지별로 반입 기준이 조금씩 상이하오니 자세한 사항은 항공사로 문의하시기 바랍니다. 전자기기에 장착된 리튬배터리는 160wh 이하일 경우만 운반 가능합니다. 단, 습식배터리(전해액이 들어있는 축전지)는 항공기 탑재함에 있어 항공사의 승인이 필요합니다.";
+"prohibited_item_faq_13" = "컴퓨터나 태블릿 등 전자제품을 기내 반입할 수 있나요?";
+"prohibited_item_faq_13_desc" = "컴퓨터(데스크탑 노트북), 태블릿 등 항공기 안전에 무해한 전자제품은 기내수하물 및 위탁수하물 처리가 가능합니다. 전자제품 소지 후 보안 검색 시에는 사전에 분리하여 바구니에 담아주시면 신속한 보안검색을 받으실 수 있습니다.";
+"prohibited_item_faq_14" = "의약품(알약, 물약, 투석환자, 철심, 주사기 등)을 기내 반입할 수 있나요?";
+"prohibited_item_faq_14_desc" = "주사기, 침류 등 의료용 물품(도구)은 기내 및 위탁수하물 반입이 가능합니다. 100ml를 초과하는 액체 의약품(인슐린 등)을 기내에 반입하시려면 의사 소견서 또는 처방전(국문 또는 영문)을 지참하여야 합니다.\n※ 해외 공항 의약품 반입은 이용하시는 항공사에 문의해주시기 바랍니다.\n또한 기내에서 사용하실 만큼의 양만 객실 반입 하실 수 있으며, 여분의 액체 의약품(인슐린 등)은 위탁수하물(부치는 짐)로 보내셔야 하므로 이점 꼭 유의하여 주시기 바랍니다. 처방전 등이 없는 경우에는 액체 및 젤류 반입제한 규정에 따라 100ml 이하(내용물의 잔여량에 관계없이 용기 용량 기준)만 기내반입이 가능합니다. 일부 물품은 보호케이스에 담겨져 있는 경우만 반입이 가능할 수도 있으며, 위험 물품은 반입이 제한될 수 있습니다. 인체에 이식된 전자의료장치, 철심 등은 보안검색 상에 문제가 없으며, 검색요원의 판단에 따라 별도의 장소에서 정밀검색을 실시 할 수 있습니다. 인공 심박기 이식 승객은 심장박동기 착용 소지증을 확인 후 별도의 장소에서 검색을 실시합니다.";
+"prohibited_item_faq_15" = "임산부인데 보안검색대를 꼭 통과해야 하나요?";
+"prohibited_item_faq_15_desc" = "문형금속탐지기는 인체에 해를 미치지 않으나 문형금속탐지기 통과를 원치 않을 경우, 검색요원의 지시에 따라 별도의 장소에서 촉수 검색을 실시할 수 있습니다.";
+"prohibited_item_faq_16" = "전자담배를 기내 반입할 수 있나요?";
+"prohibited_item_faq_16_desc" = "전자담배는 객실 반입만 가능하며 위탁 수하물(부치는 짐)로 반입 불가능합니다. 반입 수량과 관련하여 배터리 반입 규정을 참고하시기 바랍니다.";
+"prohibited_item_faq_17" = "한약, 홍삼 등 건강보조식품 및 음식물 반입 문의";
+"prohibited_item_faq_17_desc" = "한약, 홍삼 등 건강보조식품류를 포함한 음식류는 고체(알약, 가루포함)일 경우 위탁수하물 및 객실수하물로 처리 가능하나 항공사 별로 반입 가능 용량이 상이 하오니 이용하시는 항공사에 문의 부탁드립니다. 다만, 액체 겔류일 경우 100ml 초과 시(내용물 용량에 관계없이 용기 용량 기준) 객실반입 불가하며, 위탁수하물(부치는 짐)로 처리해야 합니다. 특별 식이처방 음식(승객의 건강에 꼭 필요하다는 의사처방전이 있는 음식)은 항공 여행에 적합한 용량만 허용하며, 의사 소견서 및 처방전을 검색요원에게 제시하여 검색요원이 적합하다고 판단이 된 경우만 객실 반입이 허가됩니다.";
+"prohibited_item_faq_18" = "스프레이(가연성 있는 위생용품, 살충제 등)를 기내 반입할 수 있나요?";
+"prohibited_item_faq_18_desc" = "스프레이로 된 개인위생용품은(헤어스프레이, 산소 스프레이, 몸에 뿌리는 해충 기피제 등) 100ml 이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준) 1인당 1L 투명비닐지퍼백 1개에 한해 객실 반입이 가능하며, 위탁수하물(부치는 짐)로는 2kg(2L)범위 내에서 종류당 500ml이하로(내용물의 잔여량에 관계없이 용기 용량 기준) 각 한 개씩 반입 가능합니다. 호신용 스프레이류는 객실 반입이 금지되며 위탁수하물(부치는 짐)에 한하여 인당 100ml이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준) 1개 반입 가능합니다. 인화성 살충제(에프킬라 등)는 객실‧위탁수하물 모두 반입 불가합니다.";
+"prohibited_item_faq_19" = "액체 분무 겔류 형태의 위생용품, 욕실 용품 등을 기내 반입할 수 있나요?";
+"prohibited_item_faq_19_desc" = "인천국제공항에서 출발하는 국제선 모든 항공편을 대상으로 액체 분무 겔류에 해당하는 제품에 대하여 용량에 따라 객실 반입을 제한하고 있습니다. 액체 분무 겔류에 해당하는 제품을 기내로 가지고 가시려면 100ml 이하(내용물의 잔여량에 관계없이 개별 용기 용량 기준)로 투명한 지퍼백(20cmX20cm)에 넣어 닫은 상태로 1인당 지퍼백 1개만 기내소지가 가능합니다.\n<기내소지에 유의해야하는 제품의 예>\n- 액체류 : 김치, 술, 생수, 음료수, 쥬스, 향수, 스킨, 로션 등\n- 분무류 : 헤어스프레이, 산소 스프레이, 몸에 뿌리는 해충 기피제 등\n- 겔류: 샴푸, 린스, 치약, 헤어젤, 선크림, 립글로즈, 고추장, 된장 등\n* 고체 형태의 밑반찬의 경우 기내로 가지고 갈 수 있습니다. (예: 오징어채, 마른멸치 등)\n<지퍼백을 준비하지 못했을 경우>\n미리 준비를 하지 못하셨다면, 공항 여객터미널 3층 중앙 편의점이나 공항 내 서점에서 구입이 가능합니다.\n<어린아이가 사용할 우유, 이유식>\n어린아이(만 6세 이하)를 동반한 승객이 휴대한 어린아이의 용품(우유, 물, 주스, 액체 겔 죽 형태의 음식 및 물티슈 등)은 항공여행 중 사용할 분량에 한하여 기내 소지 허용하고 있습니다.";
+"prohibited_item_faq_20" = "보안검색장에서 적발되어 포기한 물품을 되찾을 수 있나요?";
+"prohibited_item_faq_20_desc" = "기내반입 금지물품 관련 규정에 의하여 적발된 물품을 포기하신 경우 해당 물품을 찾는 것이 불가합니다. 이점 꼭 유의하시기 바라며, 출국 시 기내반입 금지물품이 무엇인지 꼭 확인해 보신 후 보안검색을 받으시기 바랍니다. 기내반입 금지물품은 인천공항 홈페이지 및 항공보안 자율신고제도 홈페이지(http://avsec.ts2020.kr) 에서 확인 가능합니다. 보안검색장에서 적발되어 포기하신 물품은 규정된 절차에 따라 복지기관 등에 기증되고 있습니다.";
+
+/* air brs baggage */
+"air_brs_bag_title" = "Check baggage";
+"air_brs_bag_desc_1" = "Scan your baggage barcode or enter 6-10 digits of your baggage no.";
+"air_brs_bag_desc_2" = "Scan Baggage Barcode";
+"air_brs_bag_date_title" = "Boarding Date";
+"air_brs_bag_flight_title" = "Flight";
+"air_brs_bag_barcode_title" = "Baggage No.";
+"air_brs_bag_seat_title" = "Seat";
+"air_brs_bag_btn" = "Search";
+"air_brs_bag_desc_3" = "You can track your baggage by entering your baggage number, boarding date, and flight information.\n※ Transfer passengers are required to enter their seat number.\n※ Currently available when departing from Incheon Airport: Korean Air (KE), Asiana Airlines (OZ), Eastar Jet (ZE), and Air Seoul (RS).";
+"air_brs_bag_fail_msg_1" = "Please check the entered fields.";
+"air_brs_bag_fail_msg_2" = "Please check your boarding date.";
+"air_brs_bag_fail_msg_3" = "Please check your flight information.";
+"air_brs_bag_fail_msg_4" = "Please check your baggage number.";
+"air_brs_bag_fail_msg_5" = "Please check your seat number.";
+"air_brs_bag_popup_fail_msg_1" = "Please enter your flight information.";
+"air_brs_bag_popup_fail_msg_2" = "Please enter your baggage number.";
+"air_brs_bag_popup_fail_msg_3" = "Please enter your seat number.";
+"air_brs_bag_airline_0" = "Korean Air";
+"air_brs_bag_airline_1" = "Asiana Airlines";
+"air_brs_bag_airline_2" = "Eastar Jet";
+"air_brs_bag_airline_3" = "Air Seoul";
+
+"air_brs_bag_result_title" = "Search results";
+"air_brs_bag_result_flight" = "Flight";
+"air_brs_bag_result_barcode" = "Baggage No.";
+"air_brs_bag_result_status_1" = "Baggage has been received.";
+"air_brs_bag_result_status_2" = "Baggage is on board.";
+"air_brs_bag_result_status_3" = "Baggage is being searched.";
+"air_brs_bag_result_status_desc_1" = "Please contact your airline.";
+"air_brs_bag_result_status_desc_2" = "We cannot find your baggage information.\nPlease check the entered fields and try again.";
+"air_brs_bag_result_status_desc_3" = "We cannot find your baggage information.\nPlease contact your airline.";
+"air_brs_bag_result_status_call" = "Inquiries";
+"air_brs_bag_result_re_search" = "Track Baggage";
